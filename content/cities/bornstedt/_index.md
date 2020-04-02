@@ -1,0 +1,4 @@
+---
+title: Bornstedt
+url: /bornstedt/
+---

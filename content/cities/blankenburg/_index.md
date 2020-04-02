@@ -1,0 +1,4 @@
+---
+title: Blankenburg
+url: /blankenburg/
+---

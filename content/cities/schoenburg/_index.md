@@ -1,0 +1,4 @@
+---
+title: Schönburg
+url: /schoenburg/
+---

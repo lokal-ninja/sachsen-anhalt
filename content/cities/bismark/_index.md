@@ -1,0 +1,4 @@
+---
+title: Bismark
+url: /bismark/
+---

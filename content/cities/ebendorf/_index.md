@@ -1,0 +1,4 @@
+---
+title: Ebendorf
+url: /ebendorf/
+---

@@ -1,0 +1,4 @@
+---
+title: Freyburg
+url: /freyburg/
+---

@@ -1,0 +1,4 @@
+---
+title: Weißenfels
+url: /weissenfels/
+---

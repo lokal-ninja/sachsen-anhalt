@@ -1,0 +1,4 @@
+---
+title: Allstedt
+url: /allstedt/
+---

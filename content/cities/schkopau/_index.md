@@ -1,0 +1,4 @@
+---
+title: Schkopau
+url: /schkopau/
+---

@@ -1,0 +1,4 @@
+---
+title: "Euromaster"
+url: /halle-saale/euromaster/
+---

@@ -1,0 +1,4 @@
+---
+title: Schnaudertal
+url: /schnaudertal/
+---

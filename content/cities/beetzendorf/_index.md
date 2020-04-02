@@ -1,0 +1,4 @@
+---
+title: Beetzendorf
+url: /beetzendorf/
+---

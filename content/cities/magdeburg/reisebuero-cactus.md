@@ -1,0 +1,4 @@
+---
+title: "Reisebüro Cactus"
+url: /magdeburg/reisebuero-cactus/
+---

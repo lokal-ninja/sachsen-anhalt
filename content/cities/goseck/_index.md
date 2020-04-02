@@ -1,0 +1,4 @@
+---
+title: Goseck
+url: /goseck/
+---
