@@ -1,4 +1,6 @@
 ---
 title: Halle (Saale)
 url: /halle-saale/
+latitude: 
+longitude: 
 ---
