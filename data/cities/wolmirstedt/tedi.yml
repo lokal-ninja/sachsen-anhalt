@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.26252160000001
 longitude: 11.6383674
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Rogätzer Straße"
 housenumber: 22

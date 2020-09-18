@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.27535760000001
 longitude: 11.630453800000002
-postcode: 39326
+postcode: "39326"
 city: Mose
 street: "Farsleber Straße"
 housenumber: 12

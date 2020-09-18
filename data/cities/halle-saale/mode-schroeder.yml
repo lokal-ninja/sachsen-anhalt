@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.457208200000004
 longitude: 11.984144200000001
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Merseburger Straße"
 housenumber: 205

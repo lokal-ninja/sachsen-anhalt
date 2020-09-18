@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1026515
 longitude: 12.1804126
-postcode: 06729
+postcode: "06729"
 city: Elsteraue
 street: "Zeitzer Straße"
 housenumber: 143

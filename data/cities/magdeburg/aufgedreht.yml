@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.114788000000004
 longitude: 11.6115832
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 45

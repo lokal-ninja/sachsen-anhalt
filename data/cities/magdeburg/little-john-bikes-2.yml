@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.16138350000001
 longitude: 11.6355207
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Kastanienstraße"
 housenumber: 92

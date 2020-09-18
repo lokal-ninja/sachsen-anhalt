@@ -1,4 +1,4 @@
 ---
-title: "Edeka-Getränkemarkt"
+title: "Edeka Getränkemarkt"
 url: /tangerhuette/edeka-getraenkemarkt/
 ---

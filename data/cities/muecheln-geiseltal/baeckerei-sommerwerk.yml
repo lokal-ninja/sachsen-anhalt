@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2976424
 longitude: 11.810455500000002
-postcode: 06249
+postcode: "06249"
 city: Mücheln (Geiseltal)
 street: "Dr.-Wilhelm-Külz-Straße"
 housenumber: 35

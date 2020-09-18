@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.795759800000006
 longitude: 12.964664
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Geschwister-Scholl-Straße"
 housenumber: 5a

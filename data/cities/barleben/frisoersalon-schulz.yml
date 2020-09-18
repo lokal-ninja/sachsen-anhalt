@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1814145
 longitude: 11.5712928
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Olvenstedter Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8225915
 longitude: 10.8072735
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Mühlental"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.5078637
 longitude: 11.9410193
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Dölauer Straße"
 housenumber: 62

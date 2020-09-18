@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.150904600000004
 longitude: 11.821409500000001
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Rosa-Luxemburg-Straße"
 housenumber: 24

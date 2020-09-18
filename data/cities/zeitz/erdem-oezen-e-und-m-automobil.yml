@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0642664
 longitude: 12.1253194
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Weißenfelser Straße"
 housenumber: 37

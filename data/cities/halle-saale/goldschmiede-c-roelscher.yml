@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4800094
 longitude: 11.9702826
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Rannische Straße"
 housenumber: 21

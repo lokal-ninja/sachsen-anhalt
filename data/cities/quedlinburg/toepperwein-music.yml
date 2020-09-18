@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.786526
 longitude: 11.154004700000002
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Rathenaustraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0657736
 longitude: 11.4447936
-postcode: 39164
+postcode: "39164"
 city: Wanzleben-Börde
 street: "Vor dem Schloßtor"
 housenumber: 6A

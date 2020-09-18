@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4421249
 longitude: 12.127887900000001
-postcode: 06184
+postcode: "06184"
 city: Kabelsketal
 street: "Gottenzer Weg"
 housenumber: 20

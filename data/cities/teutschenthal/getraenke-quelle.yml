@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.463877600000004
 longitude: 11.907816200000001
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "An der Lauchstädter Straße"
 housenumber: 4

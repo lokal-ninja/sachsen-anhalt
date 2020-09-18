@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.692829100000004
 longitude: 12.7391561
-postcode: 06905
+postcode: "06905"
 city: Bad Schmiedeberg
 street: "Kemberger Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.639388000000004
 longitude: 11.9000839
-postcode: 06193
+postcode: "06193"
 city: Wettin-Löbejün
 street: "Mühlenstraße"
 housenumber: 1

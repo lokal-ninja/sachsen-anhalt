@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.4744503
 longitude: 11.9874185
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Maybachstraße"
 housenumber: 1

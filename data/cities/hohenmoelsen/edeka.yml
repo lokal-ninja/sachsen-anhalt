@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1560925
 longitude: 12.0998859
-postcode: 06679
+postcode: "06679"
 city: Hohenmölsen
 street: "Ernst-Thälmann-Straße"
 housenumber: 4

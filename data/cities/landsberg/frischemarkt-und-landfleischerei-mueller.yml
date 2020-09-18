@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.551606400000004
 longitude: 12.091049400000001
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Plößnitzer Straße"
 housenumber: 9

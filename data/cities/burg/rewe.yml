@@ -1,12 +1,12 @@
-id: 270308044
+id: 161278899
 type: way
 shop: Supermarkt
-latitude: 52.265960400000004
-longitude: 11.8581117
-postcode: 39288
+latitude: 52.2769217
+longitude: 11.851693500000001
+postcode: "39288"
 city: Burg
-street: "Conrad-Tack-Ring"
-housenumber: 28
-phone: "+49 3921 7260560"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: "Fruchtstraße"
+housenumber: 1A
+phone: ""
+opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
 website: ""

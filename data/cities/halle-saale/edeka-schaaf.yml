@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4846778
 longitude: 11.9687067
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Große Ulrichstraße"
 housenumber: 6-8

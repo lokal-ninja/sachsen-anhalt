@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1830025
 longitude: 11.9265439
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Am Marktwege"
 housenumber: 2

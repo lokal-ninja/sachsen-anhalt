@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.4878725
 longitude: 12.0055984
-postcode: 06116
+postcode: "06116"
 city: Halle (Saale)
 street: "Verlängerte Apoldaer Straße"
 housenumber: 18

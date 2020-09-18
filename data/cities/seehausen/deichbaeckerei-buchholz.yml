@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.888943700000006
 longitude: 11.752732
-postcode: 39615
+postcode: "39615"
 city: Seehausen
 street: "Große Brüderstraße"
 housenumber: 24

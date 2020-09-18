@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.158802800000004
 longitude: 11.804550500000001
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Nordstraße"
 housenumber: 1

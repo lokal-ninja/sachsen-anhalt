@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.847986500000005
 longitude: 10.7855682
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Dornbergsweg"
 housenumber: 30

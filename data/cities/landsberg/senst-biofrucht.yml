@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.5388469
 longitude: 12.0581761
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Am Mühlenfeld"
 housenumber: 8

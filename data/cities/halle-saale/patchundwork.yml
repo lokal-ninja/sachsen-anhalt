@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.4909121
 longitude: 11.974869400000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Gütchenstraße"
 housenumber: 14

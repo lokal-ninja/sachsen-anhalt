@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2389293
 longitude: 11.3342758
-postcode: 39343
+postcode: "39343"
 city: Hohe Börde
 street: "Friedensstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.120921200000005
 longitude: 11.612191300000001
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Zur Viehbörse"
 housenumber: 1

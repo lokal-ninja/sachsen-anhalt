@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.861076000000004
 longitude: 10.8088856
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Brockenblick"
 housenumber: 27

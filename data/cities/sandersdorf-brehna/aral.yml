@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5538498
 longitude: 12.196664400000001
-postcode: 06796
+postcode: "06796"
 city: Sandersdorf-Brehna
 street: "An der B 100"
 housenumber: 32

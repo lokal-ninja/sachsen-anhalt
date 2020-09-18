@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.5376795
 longitude: 12.156311500000001
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Zörbiger Straße"
 housenumber: 8

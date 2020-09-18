@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4589353
 longitude: 11.9078645
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Lauchstädter Straße"
 housenumber: 10A

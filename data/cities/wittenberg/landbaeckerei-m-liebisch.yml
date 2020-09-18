@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9895581
 longitude: 12.678832600000002
-postcode: 06889
+postcode: "06889"
 city: Wittenberg
 street: "Boßdorfer Dorfstraße"
 housenumber: 81

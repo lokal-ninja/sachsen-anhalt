@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.221916
 longitude: 11.773011700000001
-postcode: 06632
+postcode: "06632"
 city: Freyburg (Unstrut)
 street: "Merseburger Straße"
 housenumber: 48

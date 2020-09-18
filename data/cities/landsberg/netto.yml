@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.52516910000001
 longitude: 12.1558501
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Hallesche Landstraße"
 housenumber: 13

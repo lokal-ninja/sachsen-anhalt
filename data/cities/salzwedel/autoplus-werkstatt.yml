@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.857353800000006
 longitude: 11.153636
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Karl-Marx-Straße"
 housenumber: 5

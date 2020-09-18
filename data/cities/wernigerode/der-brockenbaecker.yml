@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.765412000000005
 longitude: 10.6559749
-postcode: 38879
+postcode: "38879"
 city: Wernigerode
 street: "Brockenstraße"
 housenumber: 17A

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.149470900000004
 longitude: 11.640527500000001
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Lübecker Straße"
 housenumber: 131

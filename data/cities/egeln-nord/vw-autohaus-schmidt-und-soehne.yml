@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.959649600000006
 longitude: 11.440116300000001
-postcode: 39435
+postcode: "39435"
 city: Egeln-Nord
 street: "Magdeburger Chaussee"
 housenumber: 24

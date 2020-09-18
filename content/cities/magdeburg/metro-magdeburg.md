@@ -1,4 +1,4 @@
 ---
-title: "METRO Magdeburg"
+title: "Metro Magdeburg"
 url: /magdeburg/metro-magdeburg/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.47173
 longitude: 11.9724123
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Pfännerhöhe"
 housenumber: 1

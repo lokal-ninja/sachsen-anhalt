@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.639637300000004
 longitude: 12.1829721
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Rödgener Dorfstraße"
 housenumber: 34

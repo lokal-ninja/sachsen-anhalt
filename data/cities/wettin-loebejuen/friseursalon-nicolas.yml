@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.636518
 longitude: 11.901139
-postcode: 06193
+postcode: "06193"
 city: Wettin-Löbejün
 street: "Mühlentor"
 housenumber: 

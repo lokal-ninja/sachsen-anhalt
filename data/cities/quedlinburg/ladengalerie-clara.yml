@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7869559
 longitude: 11.1368068
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Gildschaft"
 housenumber: 10

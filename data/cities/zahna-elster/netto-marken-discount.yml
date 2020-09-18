@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.831924
 longitude: 12.808390300000001
-postcode: 06895
+postcode: "06895"
 city: Zahna-Elster
 street: "Am Gewerbepark"
 housenumber: 3

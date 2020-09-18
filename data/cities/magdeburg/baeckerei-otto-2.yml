@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.128422
 longitude: 11.591602900000002
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: ""
 housenumber: 

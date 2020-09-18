@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1075469
 longitude: 11.6400453
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Schönebecker Straße"
 housenumber: 31

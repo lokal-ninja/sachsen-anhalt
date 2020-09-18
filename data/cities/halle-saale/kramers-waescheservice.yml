@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.4938226
 longitude: 11.969110500000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Ludwig-Wucherer-Straße"
 housenumber: 34

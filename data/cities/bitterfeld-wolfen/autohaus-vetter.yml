@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6266054
 longitude: 12.3368187
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Wittenberger Straße"
 housenumber: 22

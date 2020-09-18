@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.694988800000004
 longitude: 12.173487000000002
-postcode: 06780
+postcode: "06780"
 city: Zörbig
 street: "Hinsdorfer Weg"
 housenumber: 1

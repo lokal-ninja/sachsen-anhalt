@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5213382
 longitude: 11.5427482
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Friedensstraße"
 housenumber: 14

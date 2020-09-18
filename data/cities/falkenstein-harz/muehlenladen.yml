@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.7130633
 longitude: 11.2983522
-postcode: 06463
+postcode: "06463"
 city: Falkenstein/Harz
 street: "Bahnhofstraße"
 housenumber: 136

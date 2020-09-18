@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4818609
 longitude: 11.9701223
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Schmeerstraße"
 housenumber: 24

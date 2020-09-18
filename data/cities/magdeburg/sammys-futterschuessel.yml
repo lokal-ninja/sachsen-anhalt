@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.135096700000005
 longitude: 11.599473000000001
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Harsdorfer Straße"
 housenumber: 31

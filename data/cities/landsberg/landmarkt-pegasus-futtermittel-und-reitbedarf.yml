@@ -3,7 +3,7 @@ type: way
 shop: Pferde
 latitude: 51.547901700000004
 longitude: 12.0209197
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Hallesches Dreieck"
 housenumber: 1

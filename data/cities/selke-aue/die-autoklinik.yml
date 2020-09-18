@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.838343
 longitude: 11.275613900000002
-postcode: 06458
+postcode: "06458"
 city: Selke-Aue
 street: "Hauptstraße"
 housenumber: 48

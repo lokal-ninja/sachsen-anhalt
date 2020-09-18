@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.841225
 longitude: 12.244726
-postcode: 06844
+postcode: "06844"
 city: Dessau-Roßlau
 street: "Kurt-Weill-Straße"
 housenumber: 41
-phone: ""
-opening_hours: ""
+phone: "+493406501396"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:00; Su 07:00-10:00"
 website: ""

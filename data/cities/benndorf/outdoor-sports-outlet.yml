@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.5714759
 longitude: 11.492139600000002
-postcode: 06308
+postcode: "06308"
 city: Benndorf
 street: "Chausseestraße"
 housenumber: 3

@@ -1,0 +1,4 @@
+---
+title: "Maxi Baubedarf"
+url: /koethen-anhalt/maxi-baubedarf/
+---

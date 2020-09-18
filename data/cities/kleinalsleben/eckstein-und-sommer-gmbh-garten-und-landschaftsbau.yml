@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.981672100000004
 longitude: 11.258616400000001
-postcode: 39387
+postcode: "39387"
 city: Kleinalsleben
 street: "Zum Anger"
 housenumber: 10

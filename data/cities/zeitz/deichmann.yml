@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 51.042944600000006
 longitude: 12.1257806
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Friedensstraße"
 housenumber: 17
-phone: "+49 3441 6199911"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.deichmann.com"
+phone: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su,PH off"
+website: ""

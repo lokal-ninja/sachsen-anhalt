@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.887972000000005
 longitude: 11.7442589
-postcode: 39615
+postcode: "39615"
 city: Seehausen
 street: "Arendseer Straße"
 housenumber: 13

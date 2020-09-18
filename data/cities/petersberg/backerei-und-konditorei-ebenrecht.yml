@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.616371
 longitude: 12.0066585
-postcode: 06193
+postcode: "06193"
 city: Petersberg
 street: "Karl-Marx-Straße"
 housenumber: 21

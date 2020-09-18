@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1064358
 longitude: 11.640814800000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Schönebecker Straße"
 housenumber: 103

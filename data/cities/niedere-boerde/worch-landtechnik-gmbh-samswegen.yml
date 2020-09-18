@@ -3,7 +3,7 @@ type: node
 shop: Maschinen
 latitude: 52.264239100000005
 longitude: 11.5597442
-postcode: 39326
+postcode: "39326"
 city: Niedere Börde
 street: "Sportplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.487759700000005
 longitude: 11.9664301
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Scharrenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0376928
 longitude: 12.126986200000001
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Schwarzer Weg"
 housenumber: 40

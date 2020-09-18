@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.395936000000006
 longitude: 11.2975767
-postcode: 39359
+postcode: "39359"
 city: Calvörde
 street: "Geschwister-Scholl-Straße"
 housenumber: 37

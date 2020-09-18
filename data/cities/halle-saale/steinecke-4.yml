@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.508262800000004
 longitude: 11.8810041
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Lieskauer Straße"
 housenumber: 2

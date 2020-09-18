@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.2473359
 longitude: 11.6287242
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Triftstraße"
 housenumber: 17B

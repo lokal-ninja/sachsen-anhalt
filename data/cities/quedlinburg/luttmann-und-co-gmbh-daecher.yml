@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.8214866
 longitude: 11.2173833
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Magdeburger Straße"
 housenumber: 

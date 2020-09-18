@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.010043100000004
 longitude: 12.0237022
-postcode: 06722
+postcode: "06722"
 city: Wetterzeube
 street: "Elsterweg"
 housenumber: 4

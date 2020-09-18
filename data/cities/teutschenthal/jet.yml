@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4329034
 longitude: 11.903440000000002
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Ernst-Thälmann-Straße"
 housenumber: 137 A

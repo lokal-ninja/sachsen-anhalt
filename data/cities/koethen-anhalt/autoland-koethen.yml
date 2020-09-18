@@ -1,12 +1,12 @@
-id: 146229939
-type: way
+id: 7737168281
+type: node
 shop: Autohaus
-latitude: 51.755476400000006
-longitude: 11.997081000000001
-postcode: 06366
+latitude: 51.7552589
+longitude: 11.9972241
+postcode: "06366"
 city: Köthen (Anhalt)
 street: "Merziener Straße"
 housenumber: 10
-phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: ""
+phone: "+493496303030"
+opening_hours: "Mo - Sa 09:00 - 20:00"
+website: "https://autoland.de/autoland-niederlassungen/koethen"

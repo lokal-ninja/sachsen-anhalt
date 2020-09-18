@@ -1,12 +1,12 @@
-id: 569109164
+id: 483548125
 type: way
 shop: Supermarkt
-latitude: 52.85224
-longitude: 11.1658063
-postcode: 29410
+latitude: 52.8448794
+longitude: 11.1519613
+postcode: "29410"
 city: Salzwedel
-street: "Schillerstraße"
-housenumber: 11
+street: "Neutorstraße"
+housenumber: 63
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

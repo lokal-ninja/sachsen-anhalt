@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.8527536
 longitude: 11.1537387
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Neuperverstraße"
 housenumber: 30

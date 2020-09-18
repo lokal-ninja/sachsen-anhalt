@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6049707
 longitude: 11.472449000000001
-postcode: 06343
+postcode: "06343"
 city: Mansfeld
 street: "Plan"
 housenumber: 2

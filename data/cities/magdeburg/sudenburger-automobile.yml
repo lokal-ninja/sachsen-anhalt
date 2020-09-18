@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1168685
 longitude: 11.613876600000001
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 28

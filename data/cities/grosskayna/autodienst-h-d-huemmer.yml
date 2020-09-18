@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.2922546
 longitude: 11.9414409
-postcode: 06242
+postcode: "06242"
 city: Großkayna
 street: "Michel-Vesta-Ring"
 housenumber: 4

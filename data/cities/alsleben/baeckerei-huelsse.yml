@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7019098
 longitude: 11.6770352
-postcode: 
+postcode: ""
 city: Alsleben
 street: "Gartenstraße"
 housenumber: 1

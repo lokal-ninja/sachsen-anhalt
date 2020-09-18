@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.081233600000004
 longitude: 11.6126353
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Pallasweg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.4800587
 longitude: 11.7408391
-postcode: 06317
+postcode: "06317"
 city: Seeburg
 street: "Am Kernersee"
 housenumber: 3

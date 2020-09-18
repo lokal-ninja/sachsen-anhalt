@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.471184400000006
 longitude: 11.9831198
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Merseburger Straße"
 housenumber: 40

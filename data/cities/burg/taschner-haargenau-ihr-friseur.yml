@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.2729189
 longitude: 11.8409674
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Bahnhofstraße"
 housenumber: 16
 phone: "+49 3921 45404"
-opening_hours: ""
+opening_hours: "Mo 08:00-16:00; Tu-Fr 07:00-19:00; Sa 08:00-12:00"
 website: ""

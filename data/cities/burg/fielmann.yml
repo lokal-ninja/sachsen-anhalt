@@ -1,12 +1,12 @@
 id: 3870413528
 type: node
 shop: Optiker
-latitude: 52.2707075
-longitude: 11.855661300000001
-postcode: 39288
+latitude: 52.2706845
+longitude: 11.855791400000001
+postcode: "39288"
 city: Burg
 street: "Schartauer Straße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:00"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su,PH off"
 website: ""

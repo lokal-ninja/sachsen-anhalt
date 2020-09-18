@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5971963
 longitude: 11.828858400000001
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Albrecht-Dürer-Straße"
 housenumber: 96

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.854121000000006
 longitude: 10.7909026
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Dornbergsweg"
 housenumber: 51

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.758544900000004
 longitude: 11.1345737
-postcode: 06485
+postcode: "06485"
 city: Quedlinburg
 street: "Straße des Friedens"
 housenumber: 21A

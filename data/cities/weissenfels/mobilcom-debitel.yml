@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.184612
 longitude: 11.9263641
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Am Marktwege"
 housenumber: 2

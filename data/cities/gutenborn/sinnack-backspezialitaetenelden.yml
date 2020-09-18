@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0001297
 longitude: 12.1241167
-postcode: 06712
+postcode: "06712"
 city: Gutenborn
 street: "Gewerbegebiet"
 housenumber: 1

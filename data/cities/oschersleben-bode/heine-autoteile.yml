@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.030834000000006
 longitude: 11.2482553
-postcode: 39387
+postcode: "39387"
 city: Oschersleben (Bode)
 street: "Anderslebener Straße"
 housenumber: 42d

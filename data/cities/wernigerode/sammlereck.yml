@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.8327187
 longitude: 10.7887231
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Burgstraße"
 housenumber: 32

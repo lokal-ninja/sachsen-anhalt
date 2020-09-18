@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2620274
 longitude: 11.640406500000001
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Rogätzer Straße"
 housenumber: 33

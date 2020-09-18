@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 51.145254300000005
 longitude: 11.8321261
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Wilhelm-Franke-Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "mo-fr 09:00-19:00; sa 09:00-18:00"
 website: ""

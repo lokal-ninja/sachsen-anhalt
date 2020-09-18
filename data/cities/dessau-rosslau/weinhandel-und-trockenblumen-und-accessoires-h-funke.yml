@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.8389819
 longitude: 12.2127253
-postcode: 06846
+postcode: "06846"
 city: Dessau-Roßlau
 street: "Lindenplatz"
 housenumber: 1

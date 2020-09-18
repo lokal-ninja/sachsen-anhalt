@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.667740800000004
 longitude: 10.713846
-postcode: 38877
+postcode: "38877"
 city: Oberharz am Brocken
 street: "Oberstadt"
 housenumber: 17

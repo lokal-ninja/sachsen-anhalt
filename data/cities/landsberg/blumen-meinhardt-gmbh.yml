@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5486233
 longitude: 12.0908186
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Wendenring"
 housenumber: 8

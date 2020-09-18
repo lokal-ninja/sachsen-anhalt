@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5590623
 longitude: 11.954004600000001
-postcode: 06193
+postcode: "06193"
 city: Petersberg
 street: "Marx-Engels-Straße"
 housenumber: 9

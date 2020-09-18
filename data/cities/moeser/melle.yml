@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2110204
 longitude: 11.7890709
-postcode: 39291
+postcode: "39291"
 city: Möser
 street: "Chaussee"
 housenumber: 21a

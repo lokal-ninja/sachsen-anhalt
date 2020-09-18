@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6831745
 longitude: 12.246301200000001
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Bitterfelder Straße"
 housenumber: 17a

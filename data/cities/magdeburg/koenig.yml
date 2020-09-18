@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.17522760000001
 longitude: 11.6272705
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Neuer Sülzeweg"
 housenumber: 105

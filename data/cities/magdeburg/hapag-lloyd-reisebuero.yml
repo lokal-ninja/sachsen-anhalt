@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.1273799
 longitude: 11.6342108
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Erhard-Hübener-Platz"
 housenumber: 10

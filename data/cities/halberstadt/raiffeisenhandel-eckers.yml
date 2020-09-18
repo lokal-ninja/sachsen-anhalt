@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.8995681
 longitude: 11.0557589
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Schützenstraße"
 housenumber: 6a

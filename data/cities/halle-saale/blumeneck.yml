@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.472581100000006
 longitude: 11.9671363
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Wörmlitzer Straße"
 housenumber: 109

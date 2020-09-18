@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.879046
 longitude: 11.475169000000001
-postcode: 39619
+postcode: "39619"
 city: Arendsee (Altmark)
 street: "Drei Eichen"
 housenumber: 24

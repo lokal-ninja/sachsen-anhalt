@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.041764
 longitude: 12.125030500000001
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Friedensstraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www2.nkd.com/"
+website: ""

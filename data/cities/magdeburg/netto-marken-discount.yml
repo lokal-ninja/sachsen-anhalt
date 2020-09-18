@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.173527400000005
 longitude: 11.6292442
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Ziolkowskistraße"
 housenumber: 9

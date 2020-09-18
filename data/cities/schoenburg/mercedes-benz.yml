@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1419371
 longitude: 11.8436277
-postcode: 06618
+postcode: "06618"
 city: Schönburg
 street: "Über dem Rosental"
 housenumber: 1

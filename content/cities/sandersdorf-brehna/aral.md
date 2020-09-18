@@ -1,4 +1,4 @@
 ---
-title: "ARAL"
+title: "Aral"
 url: /sandersdorf-brehna/aral/
 ---

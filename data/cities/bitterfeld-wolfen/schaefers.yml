@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6241658
 longitude: 12.330392900000001
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Burgstraße"
 housenumber: 35

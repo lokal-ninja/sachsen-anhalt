@@ -1,12 +1,12 @@
-id: 178574299
+id: 129486684
 type: way
 shop: Supermarkt
-latitude: 52.9946222
-longitude: 11.750800700000001
-postcode: 19322
+latitude: 53.005515200000005
+longitude: 11.7578492
+postcode: "19322"
 city: Wittenberge
-street: "Turmstraße"
-housenumber: 12
+street: "Perleberger Straße"
+housenumber: 117
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.netto.de/"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5159754
 longitude: 11.912853100000001
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Heideringpassage"
 housenumber: 6

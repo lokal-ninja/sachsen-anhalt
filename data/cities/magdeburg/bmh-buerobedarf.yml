@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.116836500000005
 longitude: 11.6114303
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Jordanstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.015951300000005
 longitude: 11.7334253
-postcode: 39218
+postcode: "39218"
 city: Schönebeck (Elbe)
 street: "Friedrichstraße"
 housenumber: 2

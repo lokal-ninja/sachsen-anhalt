@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.4849205
 longitude: 11.968628200000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Große Ulrichstraße"
 housenumber: 

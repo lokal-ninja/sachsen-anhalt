@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5155108
 longitude: 11.902575500000001
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Grasnelkenweg"
 housenumber: 19

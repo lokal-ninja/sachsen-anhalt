@@ -3,7 +3,7 @@ type: way
 shop: Tierfutter
 latitude: 51.8132534
 longitude: 12.229347
-postcode: 06847
+postcode: "06847"
 city: Dessau-Roßlau
 street: "Dünnhauptstraße"
 housenumber: 3

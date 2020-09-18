@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.48162000000001
 longitude: 11.972556800000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 99

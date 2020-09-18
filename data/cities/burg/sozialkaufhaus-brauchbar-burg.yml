@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.2724515
 longitude: 11.847399600000001
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Bahnhofstraße"
 housenumber: 7

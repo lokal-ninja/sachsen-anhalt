@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4635845
 longitude: 11.9084506
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "An der Lauchstädter Straße"
 housenumber: 3

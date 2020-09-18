@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.131488000000004
 longitude: 11.632512
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Otto-von-Guericke-Straße"
 housenumber: 104

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.204790700000004
 longitude: 11.9680265
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Merseburger Straße"
 housenumber: 5

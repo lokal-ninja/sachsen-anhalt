@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.4792543
 longitude: 11.920323100000001
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Neustädter Passage"
 housenumber: 17

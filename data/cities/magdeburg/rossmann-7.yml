@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.130870900000005
 longitude: 11.6310277
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Otto-von-Guericke-Straße"
 housenumber: 11

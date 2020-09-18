@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.0589646
 longitude: 11.6796004
-postcode: 39122
+postcode: "39122"
 city: Magdeburg
 street: "Schönebecker Chaussee"
 housenumber: 7

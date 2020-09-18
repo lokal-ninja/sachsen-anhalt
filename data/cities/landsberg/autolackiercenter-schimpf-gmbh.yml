@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.513822700000006
 longitude: 12.064695
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Alte Berliner Straße"
 housenumber: 2b

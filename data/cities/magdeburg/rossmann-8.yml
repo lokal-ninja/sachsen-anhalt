@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.089915700000006
 longitude: 11.6124711
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Otto-Baer-Straße"
 housenumber: 10

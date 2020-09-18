@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.270306000000005
 longitude: 11.8552862
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Jacobistraße"
 housenumber: 5

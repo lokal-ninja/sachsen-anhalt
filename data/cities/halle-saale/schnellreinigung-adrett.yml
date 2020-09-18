@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.4901093
 longitude: 11.965951200000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Geiststraße"
 housenumber: 44

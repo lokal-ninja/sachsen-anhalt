@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6808058
 longitude: 12.2810404
-postcode: 06800
+postcode: "06800"
 city: Raguhn-Jeßnitz
 street: "Wolfener Straße"
 housenumber: 26

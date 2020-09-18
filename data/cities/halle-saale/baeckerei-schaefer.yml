@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4819436
 longitude: 11.967063900000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Salzgrafenstraße"
 housenumber: 1a

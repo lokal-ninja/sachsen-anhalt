@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4747094
 longitude: 11.981472400000001
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Turmstraße"
 housenumber: 157

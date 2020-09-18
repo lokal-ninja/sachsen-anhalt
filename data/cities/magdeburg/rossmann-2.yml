@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.128186500000005
 longitude: 11.599286800000002
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Große Diesdorfer Straße"
 housenumber: 184

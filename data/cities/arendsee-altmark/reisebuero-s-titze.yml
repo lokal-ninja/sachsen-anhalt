@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 52.8818439
 longitude: 11.4860366
-postcode: 39619
+postcode: "39619"
 city: Arendsee (Altmark)
 street: "Friedensstraße"
 housenumber: 47

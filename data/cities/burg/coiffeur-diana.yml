@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.270276800000005
 longitude: 11.8546714
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Jacobistraße"
 housenumber: 7

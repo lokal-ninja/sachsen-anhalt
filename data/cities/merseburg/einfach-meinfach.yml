@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3563969
 longitude: 11.997376500000001
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Kleine Ritterstraße"
 housenumber: 12

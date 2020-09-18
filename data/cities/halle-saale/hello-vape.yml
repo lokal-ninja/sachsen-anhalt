@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.4779368
 longitude: 11.98653
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Hans-Dietrich-Genscher-Platz"
 housenumber: 1

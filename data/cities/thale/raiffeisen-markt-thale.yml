@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.753601700000004
 longitude: 11.059118400000001
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Neinstedter Straße"
 housenumber: 9a

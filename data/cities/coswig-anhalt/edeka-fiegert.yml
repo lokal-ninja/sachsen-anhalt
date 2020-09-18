@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.890829800000006
 longitude: 12.4556412
-postcode: 06869
+postcode: "06869"
 city: Coswig (Anhalt)
 street: "Schwarzer Weg"
 housenumber: 4

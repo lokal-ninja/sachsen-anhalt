@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1302165
 longitude: 11.637223200000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 11

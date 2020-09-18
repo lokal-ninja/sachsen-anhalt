@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.110922800000004
 longitude: 11.6053996
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 91

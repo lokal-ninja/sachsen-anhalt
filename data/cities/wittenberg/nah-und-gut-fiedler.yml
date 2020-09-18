@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.844297000000005
 longitude: 12.6436545
-postcode: 06888
+postcode: "06888"
 city: Wittenberg
 street: "Alte Wittenberger Straße"
 housenumber: 6

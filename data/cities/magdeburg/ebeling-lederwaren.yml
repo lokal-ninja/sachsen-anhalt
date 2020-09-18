@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.129242500000004
 longitude: 11.636822100000002
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Goldschmiedebrücke"
 housenumber: 13a

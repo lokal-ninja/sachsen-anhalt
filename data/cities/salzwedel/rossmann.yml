@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 52.842741600000004
 longitude: 11.169713000000002
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Buchenallee"
 housenumber: 2-4
-phone: "+49 3901 3059198"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.rossmann.de"
+phone: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+website: ""

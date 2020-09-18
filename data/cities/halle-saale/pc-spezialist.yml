@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.464595700000004
 longitude: 11.9791317
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Liebenauer Straße"
 housenumber: 5

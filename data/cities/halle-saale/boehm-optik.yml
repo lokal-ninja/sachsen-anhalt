@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4877521
 longitude: 11.965950000000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Geiststraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.7784392
 longitude: 11.9538433
-postcode: 06366
+postcode: "06366"
 city: Köthen (Anhalt)
 street: "Maxdorfer Straße"
 housenumber: 51 a

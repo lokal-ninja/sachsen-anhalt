@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.447890300000005
 longitude: 11.9584326
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Südstadtring"
 housenumber: 90

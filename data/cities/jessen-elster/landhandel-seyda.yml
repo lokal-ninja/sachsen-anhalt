@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 51.880862900000004
 longitude: 12.902136200000001
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Seydaer Markt"
 housenumber: 13

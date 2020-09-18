@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.64056840000001
 longitude: 12.3101094
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Anhaltstraße"
 housenumber: 74

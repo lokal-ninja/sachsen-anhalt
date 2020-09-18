@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.8157792
 longitude: 12.242004900000001
-postcode: 06842
+postcode: "06842"
 city: Dessau-Roßlau
 street: "Heidestraße"
 housenumber: 101

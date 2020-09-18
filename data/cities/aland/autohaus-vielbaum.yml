@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.9161762
 longitude: 11.721135700000001
-postcode: 39615
+postcode: "39615"
 city: Aland
 street: "Kirchweg"
 housenumber: 7

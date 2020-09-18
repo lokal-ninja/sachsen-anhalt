@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7931563
 longitude: 10.9698835
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Westerhäuser Straße"
 housenumber: 33

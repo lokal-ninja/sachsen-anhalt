@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 51.4463087
 longitude: 11.8956935
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Ahornring"
 housenumber: 15

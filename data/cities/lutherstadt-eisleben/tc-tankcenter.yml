@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.5247575
 longitude: 11.528110400000001
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Kasseler Straße"
 housenumber: 49

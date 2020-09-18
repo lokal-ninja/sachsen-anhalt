@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4920655
 longitude: 12.0091563
-postcode: 06116
+postcode: "06116"
 city: Halle (Saale)
 street: "Sonneberger Straße"
 housenumber: 20

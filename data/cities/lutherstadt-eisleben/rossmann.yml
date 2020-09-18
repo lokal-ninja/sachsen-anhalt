@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.528510000000004
 longitude: 11.546600000000002
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Markt"
 housenumber: 10-11

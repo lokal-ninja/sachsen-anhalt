@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 52.1099952
 longitude: 11.6195489
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Wiener Straße"
 housenumber: 2

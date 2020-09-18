@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0702178
 longitude: 11.361443000000001
-postcode: 39164
+postcode: "39164"
 city: Wanzleben-Börde
 street: "Rabbethgestraße"
 housenumber: 7

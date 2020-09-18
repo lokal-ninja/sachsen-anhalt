@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1516278
 longitude: 11.806263600000001
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Salzstraße"
 housenumber: 20

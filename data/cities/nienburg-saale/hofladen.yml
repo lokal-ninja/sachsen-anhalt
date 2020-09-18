@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.841286800000006
 longitude: 11.8265896
-postcode: 06429
+postcode: "06429"
 city: Nienburg/Saale
 street: "Hauptstraße"
 housenumber: 17

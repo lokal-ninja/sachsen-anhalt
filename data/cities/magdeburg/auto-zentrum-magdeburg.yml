@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1294343
 longitude: 11.6039092
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Große Diesdorfer Straße"
 housenumber: 200

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1567079
 longitude: 12.0985659
-postcode: 06679
+postcode: "06679"
 city: Hohenmölsen
 street: "Markt"
 housenumber: 14

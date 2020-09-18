@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.480694400000004
 longitude: 11.942092500000001
-postcode: 06124
+postcode: "06124"
 city: Halle (Saale)
 street: "Rennbahnring"
 housenumber: 9

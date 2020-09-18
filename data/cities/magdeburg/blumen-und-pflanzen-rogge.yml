@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.087412500000006
 longitude: 11.5611276
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Wanzleber Chaussee"
 housenumber: 20

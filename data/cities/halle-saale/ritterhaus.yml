@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 51.480605800000006
 longitude: 11.974964600000002
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 89

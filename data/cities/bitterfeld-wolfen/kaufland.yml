@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.6888548
 longitude: 12.245660800000001
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Wittener Straße"
 housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Th-Fr 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

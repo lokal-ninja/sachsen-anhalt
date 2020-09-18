@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.571638300000004
 longitude: 12.055816100000001
-postcode: 06193
+postcode: "06193"
 city: Petersberg
 street: "Dessauer Straße"
 housenumber: 19

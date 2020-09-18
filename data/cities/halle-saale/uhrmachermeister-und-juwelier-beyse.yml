@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.480683500000005
 longitude: 11.9419503
-postcode: 06124
+postcode: "06124"
 city: Halle (Saale)
 street: "Rennbahnring"
 housenumber: 9

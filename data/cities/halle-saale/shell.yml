@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.464952600000004
 longitude: 12.000656900000001
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Leipziger Chaussee"
 housenumber: 26

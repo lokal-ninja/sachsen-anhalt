@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1309757
 longitude: 11.7170555
-postcode: 06628
+postcode: "06628"
 city: Naumburg (Saale)
 street: "Borlachstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0841878
 longitude: 12.1102857
-postcode: 06711
+postcode: "06711"
 city: Zeitz
 street: "Zeitzer Straße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.176366900000005
 longitude: 11.6614865
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Altenhäuser Straße"
 housenumber: 7

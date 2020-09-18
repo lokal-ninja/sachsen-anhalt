@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.5031612
 longitude: 12.0367853
-postcode: 39319
+postcode: "39319"
 city: Jerichow
 street: "Clara-Zetkin-Straße"
 housenumber: 3

@@ -1,12 +1,12 @@
-id: 70926519
+id: 188335638
 type: way
 shop: Supermarkt
-latitude: 51.43686
-longitude: 11.9748959
-postcode: 06132
+latitude: 51.495604300000004
+longitude: 12.0072901
+postcode: "06116"
 city: Halle (Saale)
-street: "Industriestraße"
-housenumber: 116
+street: "Birkhahnweg"
+housenumber: 100
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: ""
+website: ""

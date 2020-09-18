@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.1262218
 longitude: 11.612554600000001
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Arndtstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1174399
 longitude: 11.6602042
-postcode: 39114
+postcode: "39114"
 city: Magdeburg
 street: "Simonstraße"
 housenumber: 2

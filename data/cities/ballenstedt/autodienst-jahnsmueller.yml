@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7327984
 longitude: 11.1543486
-postcode: 06493
+postcode: "06493"
 city: Ballenstedt
 street: "Gernröder Straße"
 housenumber: 21

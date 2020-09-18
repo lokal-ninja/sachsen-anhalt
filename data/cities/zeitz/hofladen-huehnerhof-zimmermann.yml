@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.0934533
 longitude: 12.1246287
-postcode: 06711
+postcode: "06711"
 city: Zeitz
 street: "Bergweg"
 housenumber: 3

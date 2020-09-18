@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.7891868
 longitude: 11.1491083
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Neustädter Kirchhof"
 housenumber: 16

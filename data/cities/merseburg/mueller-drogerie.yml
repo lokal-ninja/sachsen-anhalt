@@ -1,12 +1,12 @@
 id: 3824086486
 type: node
-shop: Supermarkt
+shop: Drogerie
 latitude: 51.3548734
 longitude: 11.996627700000001
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Gotthardstraße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
 website: "www.mueller.de"

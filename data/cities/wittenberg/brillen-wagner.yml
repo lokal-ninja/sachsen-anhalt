@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.8661277
 longitude: 12.643091100000001
-postcode: 06886
+postcode: "06886"
 city: Wittenberg
 street: "Markt"
 housenumber: 2

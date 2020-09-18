@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7897302
 longitude: 10.957024200000001
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Lange Straße"
 housenumber: 16

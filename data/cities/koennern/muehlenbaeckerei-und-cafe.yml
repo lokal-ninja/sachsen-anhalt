@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7270334
 longitude: 11.836655400000001
-postcode: 06420
+postcode: "06420"
 city: Könnern
 street: "An den Teichen"
 housenumber: 12

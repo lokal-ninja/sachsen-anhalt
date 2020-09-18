@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1481572
 longitude: 11.573679
-postcode: 39130
+postcode: "39130"
 city: Magdeburg
 street: "Roggengrund"
 housenumber: 37

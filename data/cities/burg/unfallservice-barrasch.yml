@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.270775
 longitude: 11.8373722
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Martin-Luther-Straße"
 housenumber: 32

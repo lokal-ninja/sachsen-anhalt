@@ -1,12 +1,12 @@
-id: 2255399500
+id: 1325545070
 type: node
 shop: Supermarkt
-latitude: 51.1518157
-longitude: 11.7928811
-postcode: 06618
+latitude: 51.1378853
+longitude: 11.7203923
+postcode: "06628"
 city: Naumburg (Saale)
-street: "Kösener Straße"
-housenumber: 38
+street: "Naumburger Straße"
+housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

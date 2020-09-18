@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.4021546
 longitude: 12.3360553
-postcode: 14789
+postcode: "14789"
 city: Bensdorf
 street: "Gutsstraße"
 housenumber: 1

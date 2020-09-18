@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.4848183
 longitude: 11.910372200000001
-postcode: 06126
+postcode: "06126"
 city: Halle (Saale)
 street: "Nietlebener Straße"
 housenumber: 18

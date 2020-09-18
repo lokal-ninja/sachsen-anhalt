@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.391511300000005
 longitude: 12.162664300000001
-postcode: 06258
+postcode: "06258"
 city: Schkopau
 street: "Auenstraße"
 housenumber: 9

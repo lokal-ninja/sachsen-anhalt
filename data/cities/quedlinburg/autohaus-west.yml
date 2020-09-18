@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.790283200000005
 longitude: 11.132716100000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Westerhäuser Straße"
 housenumber: 23

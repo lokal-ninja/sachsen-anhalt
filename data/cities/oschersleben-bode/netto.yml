@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.033482400000004
 longitude: 11.2312408
-postcode: 39387
+postcode: "39387"
 city: Oschersleben (Bode)
 street: "Friedrichstraße"
 housenumber: 26/28

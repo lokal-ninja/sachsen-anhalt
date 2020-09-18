@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1096171
 longitude: 11.622140700000001
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Raiffeisenstraße"
 housenumber: 28

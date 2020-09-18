@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.854464
 longitude: 11.5948253
-postcode: 39418
+postcode: "39418"
 city: Staßfurt
 street: "Schlachthofstraße"
 housenumber: 10

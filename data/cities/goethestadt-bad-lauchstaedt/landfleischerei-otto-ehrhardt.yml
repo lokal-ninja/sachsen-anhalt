@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3883747
 longitude: 11.858868300000001
-postcode: 06246
+postcode: "06246"
 city: Goethestadt Bad Lauchstädt
 street: "Querfurter Straße"
 housenumber: 29

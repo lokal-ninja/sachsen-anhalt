@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.966720300000006
 longitude: 11.8862945
-postcode: 39249
+postcode: "39249"
 city: Barby
 street: "Marktplatz"
 housenumber: 10

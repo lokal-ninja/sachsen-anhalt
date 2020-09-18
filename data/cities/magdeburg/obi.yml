@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.10517290000001
 longitude: 11.6011904
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Brenneckestraße"
 housenumber: 42

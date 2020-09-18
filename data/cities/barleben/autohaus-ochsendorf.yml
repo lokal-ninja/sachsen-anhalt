@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1922903
 longitude: 11.6227877
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Breiteweg"
 housenumber: 95

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.5243278
 longitude: 11.552175400000001
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Bahnhofstraße"
 housenumber: 27

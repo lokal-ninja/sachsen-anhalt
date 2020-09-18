@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.913698100000005
 longitude: 11.7865262
-postcode: 39240
+postcode: "39240"
 city: Calbe
 street: "Barbyer Straße"
 housenumber: 33-35

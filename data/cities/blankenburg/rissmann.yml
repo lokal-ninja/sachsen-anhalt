@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.768811500000005
 longitude: 10.9039169
-postcode: 38889
+postcode: "38889"
 city: Blankenburg
 street: "Alte Blankenburger Straße"
 housenumber: 16

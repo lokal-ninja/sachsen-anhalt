@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.8848895
 longitude: 11.0686441
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Quedlinburger Landstraße"
 housenumber: 1

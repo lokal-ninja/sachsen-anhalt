@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5836333
 longitude: 11.503029100000001
-postcode: 06308
+postcode: "06308"
 city: Klostermansfeld
 street: "Auf der Spitze"
 housenumber: 2

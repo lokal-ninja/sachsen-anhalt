@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.089904600000004
 longitude: 11.613501300000001
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Otto-Baer-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.587981000000006
 longitude: 11.847854
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Hanseallee"
 housenumber: 94

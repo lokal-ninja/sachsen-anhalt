@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.481668400000004
 longitude: 11.957275500000002
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Mansfelder Straße"
 housenumber: 48

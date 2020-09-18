@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.718298000000004
 longitude: 11.866711100000002
-postcode: 39596
+postcode: "39596"
 city: Goldbeck
 street: "Bertkower Straße"
 housenumber: 40

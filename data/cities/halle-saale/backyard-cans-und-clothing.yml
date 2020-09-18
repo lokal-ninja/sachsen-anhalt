@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.48828030000001
 longitude: 11.967349700000002
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Harz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.436363400000005
 longitude: 11.9581642
-postcode: 39517
+postcode: "39517"
 city: Tangerhütte
 street: "Luisenstraße"
 housenumber: 4

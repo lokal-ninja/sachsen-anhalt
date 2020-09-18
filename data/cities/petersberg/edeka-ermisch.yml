@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6165395
 longitude: 12.006647200000002
-postcode: 06193
+postcode: "06193"
 city: Petersberg
 street: "Karl-Marx-Straße"
 housenumber: 21

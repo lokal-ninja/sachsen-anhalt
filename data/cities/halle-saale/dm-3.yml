@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.483763700000004
 longitude: 11.969304800000002
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Kleinschmieden"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.1530606
 longitude: 11.809811900000001
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Markt"
 housenumber: 14

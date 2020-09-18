@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.480056600000005
 longitude: 11.926361900000002
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Neustädter Passage"
 housenumber: 1

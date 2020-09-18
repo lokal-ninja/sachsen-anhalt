@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.682201600000006
 longitude: 12.263830700000002
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Comeniusstraße"
 housenumber: 36

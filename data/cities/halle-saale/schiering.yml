@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4676981
 longitude: 11.960743200000001
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Max-Lademann-Straße"
 housenumber: 18

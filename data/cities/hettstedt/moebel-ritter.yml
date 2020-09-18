@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.6558689
 longitude: 11.485770700000002
-postcode: 06333
+postcode: "06333"
 city: Hettstedt
 street: "Kämmritzer Weg"
 housenumber: 18

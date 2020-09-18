@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1315572
 longitude: 11.682971400000001
-postcode: 39114
+postcode: "39114"
 city: Magdeburg
 street: "Berliner Chaussee"
 housenumber: 117

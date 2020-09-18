@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.537605600000006
 longitude: 12.158118100000001
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Zörbiger Straße"
 housenumber: 12

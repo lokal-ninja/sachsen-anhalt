@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2073156
 longitude: 11.5844383
-postcode: 06647
+postcode: "06647"
 city: Bad Bibra
 street: "Promenade"
 housenumber: 1

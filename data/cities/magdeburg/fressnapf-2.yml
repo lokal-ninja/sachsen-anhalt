@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.147899100000004
 longitude: 11.655559400000001
-postcode: 39106
+postcode: "39106"
 city: Magdeburg
 street: "Rogätzer Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2098206
 longitude: 11.563399500000001
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Lange Straße"
 housenumber: 9

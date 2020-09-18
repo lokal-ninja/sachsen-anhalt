@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 52.156752100000006
 longitude: 11.625838700000001
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Thietmarstraße"
 housenumber: 16

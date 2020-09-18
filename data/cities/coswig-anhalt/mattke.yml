@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.9818433
 longitude: 12.3500644
-postcode: 06868
+postcode: "06868"
 city: Coswig (Anhalt)
 street: "Hauptstraße"
 housenumber: 10

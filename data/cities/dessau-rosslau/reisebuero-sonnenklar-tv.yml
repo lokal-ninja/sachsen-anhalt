@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.8312989
 longitude: 12.2417096
-postcode: 06844
+postcode: "06844"
 city: Dessau-Roßlau
 street: "Kavalierstraße"
 housenumber: 82

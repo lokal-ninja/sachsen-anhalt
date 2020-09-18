@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.858181200000004
 longitude: 11.1364123
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Uelzener Straße"
 housenumber: 34 b

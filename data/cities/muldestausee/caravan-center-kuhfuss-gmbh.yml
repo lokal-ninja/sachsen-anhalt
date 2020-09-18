@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.6425466
 longitude: 12.363174800000001
-postcode: 06774
+postcode: "06774"
 city: Muldestausee
 street: "Vordere Aue"
 housenumber: 2

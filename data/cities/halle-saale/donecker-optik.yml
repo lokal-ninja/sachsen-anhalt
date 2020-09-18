@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5056475
 longitude: 11.9507287
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Kröllwitzer Straße"
 housenumber: 3a

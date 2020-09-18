@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.174269300000006
 longitude: 11.487775300000001
-postcode: 39326
+postcode: "39326"
 city: Hohenwarsleben
 street: "Schönebecker Straße"
 housenumber: 2

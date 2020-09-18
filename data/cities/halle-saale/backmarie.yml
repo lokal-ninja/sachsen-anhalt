@@ -1,12 +1,12 @@
-id: 481270202
-type: node
+id: 39493769
+type: way
 shop: Bäckerei
-latitude: 51.499794
-longitude: 11.958382700000001
-postcode: 06114
+latitude: 51.504605500000004
+longitude: 11.995212100000002
+postcode: "06118"
 city: Halle (Saale)
-street: "Triftstraße"
-housenumber: 19
+street: "Landrain"
+housenumber: 44a
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 06:30-18:00; Sa 07:00-11:30"
 website: ""

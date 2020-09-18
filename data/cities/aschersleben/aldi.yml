@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.759302000000005
 longitude: 11.4509386
-postcode: 06449
+postcode: "06449"
 city: Aschersleben
 street: "Magdeburger Straße"
 housenumber: 17

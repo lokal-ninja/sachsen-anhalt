@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.169226800000004
 longitude: 11.6256841
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Hanns-Eisler-Platz"
 housenumber: 11

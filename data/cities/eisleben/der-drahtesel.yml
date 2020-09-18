@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5088675
 longitude: 11.571924000000001
-postcode: 06295
+postcode: "06295"
 city: Eisleben
 street: "Luisenstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0723445
 longitude: 11.6689054
-postcode: 39122
+postcode: "39122"
 city: Magdeburg
 street: "Alt Salbke"
 housenumber: 49

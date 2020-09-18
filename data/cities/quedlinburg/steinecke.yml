@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.787542900000005
 longitude: 11.1434859
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Heiligegeiststraße"
 housenumber: 2

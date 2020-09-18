@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8050055
 longitude: 10.943051200000001
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Lerchenbreite"
 housenumber: 32

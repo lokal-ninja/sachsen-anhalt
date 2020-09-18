@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.49716230000001
 longitude: 11.966078000000001
-postcode: 06114
+postcode: "06114"
 city: Halle (Saale)
 street: "Reilstraße"
 housenumber: 11

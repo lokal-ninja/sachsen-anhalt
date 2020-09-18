@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.8485097
 longitude: 10.8106006
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Otto-von-Guericke-Straße"
 housenumber: 1a

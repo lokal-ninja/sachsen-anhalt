@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1019373
 longitude: 11.2910427
-postcode: 39164
+postcode: "39164"
 city: Wanzleben-Börde
 street: "Breiter Weg"
 housenumber: 34

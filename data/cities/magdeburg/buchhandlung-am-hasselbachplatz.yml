@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.1210746
 longitude: 11.6280205
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Breiter Weg"
 housenumber: 232

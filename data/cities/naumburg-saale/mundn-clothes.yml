@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1529815
 longitude: 11.8090519
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Herrenstraße"
 housenumber: 1

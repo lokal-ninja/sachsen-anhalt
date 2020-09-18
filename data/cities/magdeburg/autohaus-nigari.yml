@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0794027
 longitude: 11.6247368
-postcode: 39120
+postcode: "39120"
 city: Magdeburg
 street: "Carnotstraße"
 housenumber: 12

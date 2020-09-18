@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.083951400000004
 longitude: 11.5949048
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 65

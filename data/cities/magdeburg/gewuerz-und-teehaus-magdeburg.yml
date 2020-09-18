@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.1315667
 longitude: 11.6380066
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Alter Markt"
 housenumber: 2

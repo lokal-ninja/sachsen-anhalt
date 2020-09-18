@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0870728
 longitude: 11.5666209
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Halberstädter Chaussee"
 housenumber: 9

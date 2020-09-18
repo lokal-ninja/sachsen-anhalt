@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.0544942
 longitude: 12.1007245
-postcode: 06712
+postcode: "06712"
 city: Kretzschau
 street: "Leipziger Straße"
 housenumber: 20c

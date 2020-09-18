@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.289610100000004
 longitude: 12.1865626
-postcode: 39307
+postcode: "39307"
 city: Genthin
 street: "Ziesarstraße"
 housenumber: 109

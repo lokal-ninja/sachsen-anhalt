@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.811102500000004
 longitude: 10.9393363
-postcode: 38889
+postcode: "38889"
 city: Blankenburg
 street: "Am Hasenwinkel"
 housenumber: 1

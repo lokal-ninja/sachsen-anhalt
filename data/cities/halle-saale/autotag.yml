@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.437534600000006
 longitude: 11.984525000000001
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
 street: "Merseburger Straße"
 housenumber: 365

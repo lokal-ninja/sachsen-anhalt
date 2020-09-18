@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0839317
 longitude: 11.9322973
-postcode: 06721
+postcode: "06721"
 city: Osterfeld
 street: "Schwarzer Weg"
 housenumber: 

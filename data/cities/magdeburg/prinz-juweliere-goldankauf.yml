@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.1353304
 longitude: 11.638195000000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Breiter Weg"
 housenumber: 115a

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.2714767
 longitude: 11.851289600000001
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Schartauer Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.0822634
 longitude: 11.6097385
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 93

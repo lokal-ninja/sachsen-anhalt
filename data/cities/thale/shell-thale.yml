@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.7525714
 longitude: 11.0609847
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Neinstedter Straße"
 housenumber: 12

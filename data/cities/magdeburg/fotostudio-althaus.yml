@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.129347200000005
 longitude: 11.667842400000001
-postcode: 39114
+postcode: "39114"
 city: Magdeburg
 street: "Georg-Heidler-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1766853
 longitude: 11.495060200000001
-postcode: 39326
+postcode: "39326"
 city: Hohenwarsleben
 street: "Irxlebener Straße"
 housenumber: 7

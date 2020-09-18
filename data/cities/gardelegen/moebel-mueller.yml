@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.5367666
 longitude: 11.3987309
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "Isenschnibber Chaussee"
 housenumber: 12

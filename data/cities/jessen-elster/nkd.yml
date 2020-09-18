@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.7905602
 longitude: 12.957435700000001
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Baderhag"
 housenumber: 1

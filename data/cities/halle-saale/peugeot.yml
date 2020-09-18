@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5162472
 longitude: 12.010986500000001
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Willi-Dolgner-Straße"
 housenumber: 4A

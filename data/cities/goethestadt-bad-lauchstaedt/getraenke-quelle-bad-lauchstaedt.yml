@@ -1,9 +1,9 @@
 id: 962281800
 type: node
-shop: Supermarkt
+shop: Getränke
 latitude: 51.388300300000004
 longitude: 11.858875300000001
-postcode: 06246
+postcode: "06246"
 city: Goethestadt Bad Lauchstädt
 street: "Querfurter Straße"
 housenumber: 29

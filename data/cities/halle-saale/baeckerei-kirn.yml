@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4566292
 longitude: 11.959242000000001
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Schkopauer Weg"
 housenumber: 65

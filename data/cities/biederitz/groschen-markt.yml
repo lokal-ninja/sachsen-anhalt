@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1460907
 longitude: 11.7239766
-postcode: 39175
+postcode: "39175"
 city: Biederitz
 street: "Am Weidenring"
 housenumber: 1

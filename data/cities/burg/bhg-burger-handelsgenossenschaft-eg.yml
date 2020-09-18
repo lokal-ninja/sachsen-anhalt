@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 52.2721468
 longitude: 11.8423651
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Martin-Luther-Straße"
 housenumber: 20
 phone: "+49 3921 93150"
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-18:30; Sa 08:00-12:30"
 website: ""

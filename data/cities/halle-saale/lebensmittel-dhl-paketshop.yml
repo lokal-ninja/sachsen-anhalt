@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.472624100000004
 longitude: 11.9792424
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Thomasiusstraße"
 housenumber: 38

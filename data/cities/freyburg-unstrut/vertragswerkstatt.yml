@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.22266260000001
 longitude: 11.757818
-postcode: 06632
+postcode: "06632"
 city: Freyburg (Unstrut)
 street: "Am Gewerbepark"
 housenumber: 19

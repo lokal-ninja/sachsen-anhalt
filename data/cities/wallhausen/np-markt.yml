@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.461468100000005
 longitude: 11.2092766
-postcode: 06528
+postcode: "06528"
 city: Wallhausen
 street: "Hauptstraße"
 housenumber: 179

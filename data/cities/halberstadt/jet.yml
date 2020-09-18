@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.887643600000004
 longitude: 11.0353171
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Silstedter Straße"
 housenumber: 32

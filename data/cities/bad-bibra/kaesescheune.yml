@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 51.208663900000005
 longitude: 11.5891652
-postcode: 06647
+postcode: "06647"
 city: Bad Bibra
 street: "Lauchaer Straße"
 housenumber: 36

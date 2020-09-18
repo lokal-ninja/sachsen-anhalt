@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.897409
 longitude: 11.0690238
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Richard-Wagner-Straße"
 housenumber: 24

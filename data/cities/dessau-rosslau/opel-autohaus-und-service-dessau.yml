@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 51.8312937
 longitude: 12.22634
-postcode: 06847
+postcode: "06847"
 city: Dessau-Roßlau
 street: "Elisabethstraße"
 housenumber: 20
-phone: ""
+phone: "+49340551190"
 opening_hours: ""
 website: ""

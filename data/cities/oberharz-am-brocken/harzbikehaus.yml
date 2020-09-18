@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.7693895
 longitude: 10.8026747
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Wasserstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.112960900000004
 longitude: 11.5998228
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Braunschweiger Straße"
 housenumber: 22-24

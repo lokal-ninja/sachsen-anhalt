@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.202797000000004
 longitude: 11.6700101
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Wörmlitzer Straße"
 housenumber: 2

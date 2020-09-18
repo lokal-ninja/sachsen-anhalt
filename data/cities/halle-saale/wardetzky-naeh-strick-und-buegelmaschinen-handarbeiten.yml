@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.4795451
 longitude: 11.9706571
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Rannische Straße"
 housenumber: 6

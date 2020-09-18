@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.4201592
 longitude: 11.9027671
-postcode: 06246
+postcode: "06246"
 city: Bad Lauchstädt
 street: "Lauchstädter Straße"
 housenumber: 79

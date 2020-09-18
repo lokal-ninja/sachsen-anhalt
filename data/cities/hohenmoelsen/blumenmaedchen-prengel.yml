@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.157050000000005
 longitude: 12.0995536
-postcode: 06679
+postcode: "06679"
 city: Hohenmölsen
 street: "Bad Friedrichshaller Straße"
 housenumber: 7

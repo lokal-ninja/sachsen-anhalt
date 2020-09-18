@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.666600300000006
 longitude: 10.723210400000001
-postcode: 38877
+postcode: "38877"
 city: Oberharz am Brocken
 street: "Unterstadt"
 housenumber: 13

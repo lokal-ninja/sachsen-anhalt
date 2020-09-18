@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.8517348
 longitude: 12.041284300000001
-postcode: 06385
+postcode: "06385"
 city: Aken (Elbe)
 street: "Töpferbergstraße"
 housenumber: 32

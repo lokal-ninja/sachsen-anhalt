@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.290837100000005
 longitude: 11.9332565
-postcode: 06242
+postcode: "06242"
 city: Großkayna
 street: "Karl-Marx-Straße"
 housenumber: 20

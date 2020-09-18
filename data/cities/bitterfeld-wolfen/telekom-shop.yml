@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.6882413
 longitude: 12.247533
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Wittener Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1077321
 longitude: 11.595084900000002
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 175

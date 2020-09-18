@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.0836094
 longitude: 11.599078700000002
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 

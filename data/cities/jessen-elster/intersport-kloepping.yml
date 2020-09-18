@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.79430240000001
 longitude: 12.966737100000001
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Rosa-Luxemburg-Straße"
 housenumber: 65

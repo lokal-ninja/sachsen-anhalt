@@ -3,7 +3,7 @@ type: way
 shop: Bioladen
 latitude: 51.49371300000001
 longitude: 11.969074800000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Ludwig-Wucherer-Straße"
 housenumber: 33

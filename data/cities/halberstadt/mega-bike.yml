@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.8964027
 longitude: 11.060269700000001
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Am Breiten Tor"
 housenumber: 1-1a

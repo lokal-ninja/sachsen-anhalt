@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.993280000000006
 longitude: 12.238373300000001
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Markt"
 housenumber: 7

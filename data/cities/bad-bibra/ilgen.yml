@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.206271300000004
 longitude: 11.582218300000001
-postcode: 06647
+postcode: "06647"
 city: Bad Bibra
 street: "Lauchaer Straße"
 housenumber: 84

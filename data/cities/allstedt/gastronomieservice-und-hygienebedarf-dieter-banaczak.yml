@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.4759534
 longitude: 11.4504628
-postcode: 06542
+postcode: "06542"
 city: Allstedt
 street: "Neue Gartenstraße"
 housenumber: 14

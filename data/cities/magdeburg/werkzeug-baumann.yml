@@ -3,10 +3,10 @@ type: node
 shop: Eisenwaren
 latitude: 52.13157270000001
 longitude: 11.618314100000001
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Michael-Lotter-Straße"
 housenumber: 2
 phone: "+49 391 6229187"
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
 website: "http://www.werkzeug-baumann.de/"

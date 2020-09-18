@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.192807900000005
 longitude: 11.6210751
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Lindenallee"
 housenumber: 1

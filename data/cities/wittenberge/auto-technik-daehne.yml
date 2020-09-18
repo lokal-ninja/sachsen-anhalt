@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.00992960000001
 longitude: 11.7217207
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Hirtenweg"
 housenumber: 3

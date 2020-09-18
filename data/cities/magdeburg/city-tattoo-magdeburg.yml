@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.1153813
 longitude: 11.6127105
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 37

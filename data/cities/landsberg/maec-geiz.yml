@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.5247259
 longitude: 12.155203
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Hallesche Landstraße"
 housenumber: 15

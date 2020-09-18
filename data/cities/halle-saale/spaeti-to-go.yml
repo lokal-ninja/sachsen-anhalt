@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.490183800000004
 longitude: 11.9659393
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Geiststraße"
 housenumber: 43

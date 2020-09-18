@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.745079600000004
 longitude: 12.1259954
-postcode: 06386
+postcode: "06386"
 city: Südliches Anhalt
 street: "Köthener Straße"
 housenumber: 14

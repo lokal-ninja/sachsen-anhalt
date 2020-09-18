@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.532675600000005
 longitude: 12.1485599
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Florian-Geyer-Straße"
 housenumber: 3

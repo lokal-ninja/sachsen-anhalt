@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7925886
 longitude: 10.971029600000001
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Westerhäuser Straße"
 housenumber: 35

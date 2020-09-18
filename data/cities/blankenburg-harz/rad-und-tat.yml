@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.8042893
 longitude: 10.9477148
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Karl-Zerbst-Straße"
 housenumber: 22

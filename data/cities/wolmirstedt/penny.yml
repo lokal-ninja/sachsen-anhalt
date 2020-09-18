@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2537431
 longitude: 11.6279667
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Colbitzer Straße"
 housenumber: 7a

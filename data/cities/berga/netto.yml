@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4569259
 longitude: 11.0116742
-postcode: 06536
+postcode: "06536"
 city: Berga
 street: "Sangerhäuser Straße"
 housenumber: 14

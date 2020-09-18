@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.1210389
 longitude: 11.629724300000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Einsteinstraße"
 housenumber: 12

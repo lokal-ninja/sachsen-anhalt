@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5197633
 longitude: 11.9563061
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Köthener Straße"
 housenumber: 11

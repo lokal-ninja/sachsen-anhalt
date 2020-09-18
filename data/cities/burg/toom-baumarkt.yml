@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.259379700000004
 longitude: 11.846305000000001
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Zibbeklebener Straße"
 housenumber: 7

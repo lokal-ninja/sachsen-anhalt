@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8977067
 longitude: 11.0613028
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Magdeburger Straße"
 housenumber: 48

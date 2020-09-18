@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1190319
 longitude: 11.661025700000001
-postcode: 39114
+postcode: "39114"
 city: Magdeburg
 street: "Cracauer Straße"
 housenumber: 66

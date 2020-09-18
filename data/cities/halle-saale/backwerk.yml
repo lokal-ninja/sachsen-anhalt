@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.478138900000005
 longitude: 11.9863589
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Hans-Dietrich-Genscher-Platz"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5165504
 longitude: 11.9953195
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Dessauer Straße"
 housenumber: 103

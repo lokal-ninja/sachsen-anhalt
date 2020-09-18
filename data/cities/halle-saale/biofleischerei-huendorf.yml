@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.490995600000005
 longitude: 11.968709
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Georgstraße"
 housenumber: 9

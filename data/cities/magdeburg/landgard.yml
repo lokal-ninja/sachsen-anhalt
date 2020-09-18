@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.136943300000006
 longitude: 11.5698225
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Kümmelsberg"
 housenumber: 50

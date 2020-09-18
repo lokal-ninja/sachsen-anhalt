@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5189682
 longitude: 12.0624353
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Mägdeberge"
 housenumber: 8

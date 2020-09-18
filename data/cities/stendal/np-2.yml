@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5961009
 longitude: 11.8586603
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Bahnhofstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.491584700000004
 longitude: 11.9664666
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Kardinal-Albrecht-Straße"
 housenumber: 45

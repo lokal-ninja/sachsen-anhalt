@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.728570000000005
 longitude: 12.457391600000001
-postcode: 06773
+postcode: "06773"
 city: Gräfenhainichen
 street: "Bahnhofstraße"
 housenumber: 2

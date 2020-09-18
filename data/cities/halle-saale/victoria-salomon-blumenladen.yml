@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4609426
 longitude: 11.9708404
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Elsa-Brändström-Straße"
 housenumber: 205

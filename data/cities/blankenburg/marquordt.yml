@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.769572700000005
 longitude: 10.9062965
-postcode: 38889
+postcode: "38889"
 city: Blankenburg
 street: "Poststraße"
 housenumber: 5b

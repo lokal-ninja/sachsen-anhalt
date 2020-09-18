@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.1299417
 longitude: 11.6394544
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 11

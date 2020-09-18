@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.1272424
 longitude: 11.6099396
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Annastraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.710929
 longitude: 11.2316745
-postcode: 38486
+postcode: "38486"
 city: Apenburg-Winterfeld
 street: "Cheinitzer Straße"
 housenumber: 175

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.132285100000004
 longitude: 11.6347968
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Große Münzstraße"
 housenumber: 6

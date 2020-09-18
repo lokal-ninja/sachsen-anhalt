@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.8529537
 longitude: 11.1263308
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Gerstedter Weg"
 housenumber: 9a

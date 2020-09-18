@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.154469500000005
 longitude: 11.8260553
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Altgrochlitz"
 housenumber: 1

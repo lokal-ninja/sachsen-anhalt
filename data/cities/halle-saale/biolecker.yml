@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.514085300000005
 longitude: 11.957197200000001
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Saalestraße"
 housenumber: 1

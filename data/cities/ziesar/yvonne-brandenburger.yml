@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.268725100000005
 longitude: 12.2827797
-postcode: 14793
+postcode: "14793"
 city: Ziesar
 street: "Schopsdorfer Chaussee"
 housenumber: 6

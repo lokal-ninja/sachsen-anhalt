@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.477136200000004
 longitude: 11.987461300000001
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Hans-Dietrich-Genscher-Platz"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.0017724
 longitude: 11.7198037
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Lenzener Chaussee"
 housenumber: 21

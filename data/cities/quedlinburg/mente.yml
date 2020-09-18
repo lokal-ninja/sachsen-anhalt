@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.7883428
 longitude: 11.147734100000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Pölkenstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.4761626
 longitude: 11.980158000000001
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Niemeyerstraße"
 housenumber: 11

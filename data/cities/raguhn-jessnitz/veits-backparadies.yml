@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.68075090000001
 longitude: 12.2808472
-postcode: 06800
+postcode: "06800"
 city: Raguhn-Jeßnitz
 street: "Wolfener Straße"
 housenumber: 26

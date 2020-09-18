@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2121931
 longitude: 11.770226000000001
-postcode: 06632
+postcode: "06632"
 city: Freyburg
 street: "Kirchstraße"
 housenumber: 2

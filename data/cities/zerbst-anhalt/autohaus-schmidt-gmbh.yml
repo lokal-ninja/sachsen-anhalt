@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9580349
 longitude: 12.0993498
-postcode: 39261
+postcode: "39261"
 city: Zerbst/Anhalt
 street: "Coswiger Straße"
 housenumber: 19

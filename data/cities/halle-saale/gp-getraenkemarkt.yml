@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4892588
 longitude: 11.9961015
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Berliner Straße"
 housenumber: 238

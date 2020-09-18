@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.724882400000006
 longitude: 11.2483631
-postcode: 06493
+postcode: "06493"
 city: Ballenstedt
 street: ""
 housenumber: 

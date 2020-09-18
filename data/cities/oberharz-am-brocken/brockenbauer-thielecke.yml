@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6990786
 longitude: 10.7166318
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Schierker Weg"
 housenumber: 13

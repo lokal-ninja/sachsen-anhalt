@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.64405420000001
 longitude: 11.5131747
-postcode: 06333
+postcode: "06333"
 city: Hettstedt
 street: "Untere Bahnhofstraße"
 housenumber: 5

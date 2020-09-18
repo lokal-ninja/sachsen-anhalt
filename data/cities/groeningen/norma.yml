@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9411074
 longitude: 11.2215755
-postcode: 39397
+postcode: "39397"
 city: Gröningen
 street: "Friedensplatz"
 housenumber: 2

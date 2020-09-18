@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.1853132
 longitude: 11.9279171
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Am Marktwege"
 housenumber: 2

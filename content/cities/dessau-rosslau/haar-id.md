@@ -1,4 +1,4 @@
 ---
-title: "HAAR-ID"
+title: "Haar-ID"
 url: /dessau-rosslau/haar-id/
 ---

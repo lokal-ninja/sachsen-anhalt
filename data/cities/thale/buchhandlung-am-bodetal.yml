@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7492322
 longitude: 11.0352727
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Karl-Marx-Straße"
 housenumber: 20

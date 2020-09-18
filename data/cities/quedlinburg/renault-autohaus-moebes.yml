@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.770229500000006
 longitude: 11.1394514
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Suderöder Chaussee"
 housenumber: 1

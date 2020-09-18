@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3537656
 longitude: 11.9990188
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: ""
 housenumber: 

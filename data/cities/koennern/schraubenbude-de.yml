@@ -3,7 +3,7 @@ type: node
 shop: Werkzeuge
 latitude: 51.7134161
 longitude: 11.6967937
-postcode: 06420
+postcode: "06420"
 city: Könnern
 street: "Parkweg"
 housenumber: 1

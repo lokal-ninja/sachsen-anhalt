@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.122593
 longitude: 12.0243348
-postcode: 06682
+postcode: "06682"
 city: Teuchern
 street: "Goethestraße"
 housenumber: 2A

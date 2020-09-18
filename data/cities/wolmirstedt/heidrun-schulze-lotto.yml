@@ -3,7 +3,7 @@ type: way
 shop: Lotterie
 latitude: 52.2472195
 longitude: 11.6280829
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Damaschkestraße"
 housenumber: 24

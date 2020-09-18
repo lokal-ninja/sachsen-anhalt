@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0641608
 longitude: 12.1278313
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Weißenfelser Straße"
 housenumber: 26

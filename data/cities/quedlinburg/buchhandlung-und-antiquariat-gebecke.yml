@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7880629
 longitude: 11.1470918
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Pölkenstraße"
 housenumber: 3

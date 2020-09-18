@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.479627400000005
 longitude: 11.919630100000001
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Neustädter Passage"
 housenumber: 

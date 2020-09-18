@@ -1,12 +1,12 @@
-id: 100071771
-type: way
+id: 7638452251
+type: node
 shop: Supermarkt
-latitude: 51.8280563
-longitude: 12.2338056
-postcode: 06842
+latitude: 51.8282383
+longitude: 12.2334642
+postcode: "06842"
 city: Dessau-Roßlau
 street: "Askanische Straße"
 housenumber: 115
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.158256400000006
 longitude: 11.6362468
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: ""
 housenumber: 

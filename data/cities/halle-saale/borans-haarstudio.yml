@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4703797
 longitude: 11.959125100000001
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Böllberger Weg"
 housenumber: 22

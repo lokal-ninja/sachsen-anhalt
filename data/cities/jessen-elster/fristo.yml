@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.777648500000005
 longitude: 13.14053
-postcode: 06926
+postcode: "06926"
 city: Jessen (Elster)
 street: "Am Töpferweg"
 housenumber: 23

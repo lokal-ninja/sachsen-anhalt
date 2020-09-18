@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.1622368
 longitude: 11.8206208
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Hallesche Straße"
 housenumber: 73

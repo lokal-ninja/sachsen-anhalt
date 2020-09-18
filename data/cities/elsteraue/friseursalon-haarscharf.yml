@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0971203
 longitude: 12.178274
-postcode: 06729
+postcode: "06729"
 city: Elsteraue
 street: "Draschwitzer Hauptstraße"
 housenumber: 2

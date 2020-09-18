@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.469094600000005
 longitude: 11.9692182
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Beesener Straße"
 housenumber: 240

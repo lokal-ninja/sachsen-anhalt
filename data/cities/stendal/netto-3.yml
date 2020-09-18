@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.59353290000001
 longitude: 11.8545257
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Lüderitzer Straße"
 housenumber: 25

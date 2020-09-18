@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1525344
 longitude: 11.810463
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Markt"
 housenumber: 9/10

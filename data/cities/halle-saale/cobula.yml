@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.437179500000006
 longitude: 11.9700848
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
 street: "Anhalter Platz"
 housenumber: 1

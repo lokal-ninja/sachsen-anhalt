@@ -1,4 +1,4 @@
 ---
-title: "NP-Markt"
+title: "NP Markt"
 url: /dessau-rosslau/np-markt-2/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5133543
 longitude: 11.569380200000001
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "An der Zolltafel"
 housenumber: 3

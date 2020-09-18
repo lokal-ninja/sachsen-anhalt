@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4058445
 longitude: 12.158550900000002
-postcode: 39307
+postcode: "39307"
 city: Genthin
 street: "Brandenburger Straße"
 housenumber: 54

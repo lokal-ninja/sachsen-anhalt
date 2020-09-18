@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.480010500000006
 longitude: 11.9769831
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 30

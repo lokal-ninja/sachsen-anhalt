@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.483360600000005
 longitude: 11.971211
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Brüderstraße"
 housenumber: 13

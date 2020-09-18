@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.457397300000004
 longitude: 11.9722073
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Elsa-Brändström-Straße"
 housenumber: 62

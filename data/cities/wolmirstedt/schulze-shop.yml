@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2502025
 longitude: 11.6346126
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Rosa-Luxemburg-Straße"
 housenumber: 17

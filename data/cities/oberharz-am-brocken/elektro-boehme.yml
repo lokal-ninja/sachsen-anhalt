@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.770442800000005
 longitude: 10.8032517
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Markt"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 51.450669000000005
 longitude: 11.807463700000001
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Friedrich-Henze-Straße"
 housenumber: 2

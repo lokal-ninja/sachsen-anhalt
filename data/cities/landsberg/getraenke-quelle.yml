@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.537524600000005
 longitude: 12.157902900000002
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Zörbiger Straße"
 housenumber: 12

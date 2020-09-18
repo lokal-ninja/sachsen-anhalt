@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.481904300000004
 longitude: 11.9717514
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 101

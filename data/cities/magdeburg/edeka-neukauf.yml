@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1554348
 longitude: 11.6191817
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Crucigerstraße"
 housenumber: 24

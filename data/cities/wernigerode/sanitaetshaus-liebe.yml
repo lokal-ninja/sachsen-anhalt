@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.8320577
 longitude: 10.7812053
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Westernstraße"
 housenumber: 37

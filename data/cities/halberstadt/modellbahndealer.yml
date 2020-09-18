@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.896729
 longitude: 11.0444887
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Unter den Weiden"
 housenumber: 11/12

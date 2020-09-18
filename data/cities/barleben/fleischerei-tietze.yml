@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2093846
 longitude: 11.563910900000002
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Lange Straße"
 housenumber: 2

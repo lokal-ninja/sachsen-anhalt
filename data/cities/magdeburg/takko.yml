@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.129224400000005
 longitude: 11.6068868
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Große Diesdorfer Straße"
 housenumber: 209-211

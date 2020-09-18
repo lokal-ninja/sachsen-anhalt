@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1061217
 longitude: 11.638419800000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Thiemstraße"
 housenumber: 13

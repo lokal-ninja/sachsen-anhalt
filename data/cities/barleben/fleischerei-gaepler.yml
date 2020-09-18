@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.185893
 longitude: 11.5722366
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Am Thieplatz"
 housenumber: 2

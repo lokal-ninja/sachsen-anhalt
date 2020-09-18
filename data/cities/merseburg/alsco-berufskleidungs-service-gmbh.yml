@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.375354800000004
 longitude: 11.9768407
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Herrfurthstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.482461400000005
 longitude: 11.9657028
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Hallorenring"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.666828200000005
 longitude: 12.916863000000001
-postcode: 06925
+postcode: "06925"
 city: Annaburg
 street: "Am Güterbahnhof"
 housenumber: 1

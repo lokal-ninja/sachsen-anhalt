@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2366413
 longitude: 12.0600546
-postcode: 39291
+postcode: "39291"
 city: Möckern
 street: "Gewerbestraße"
 housenumber: 3

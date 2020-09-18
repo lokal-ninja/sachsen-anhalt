@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.502211700000004
 longitude: 11.8645124
-postcode: 06198
+postcode: "06198"
 city: Lieskau
 street: "Teichstraße"
 housenumber: 21

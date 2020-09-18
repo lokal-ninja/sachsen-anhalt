@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.49814730000001
 longitude: 11.9858372
-postcode: 06114
+postcode: "06114"
 city: Halle (Saale)
 street: "Hermesstraße"
 housenumber: 15

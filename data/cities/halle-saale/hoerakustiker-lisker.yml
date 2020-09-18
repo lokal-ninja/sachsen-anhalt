@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.4939459
 longitude: 11.969513300000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Ludwig-Wucherer-Straße"
 housenumber: 56

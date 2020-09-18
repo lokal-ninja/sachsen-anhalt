@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.1544875
 longitude: 11.6449449
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Nachtweide"
 housenumber: 96

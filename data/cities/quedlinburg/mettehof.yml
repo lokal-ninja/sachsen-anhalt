@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.7818052
 longitude: 11.145328300000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Harzweg"
 housenumber: 23

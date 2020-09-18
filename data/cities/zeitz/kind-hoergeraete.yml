@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.050200200000006
 longitude: 12.1373829
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Wendische Straße"
 housenumber: 5

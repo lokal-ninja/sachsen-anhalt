@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5397983
 longitude: 11.605157700000001
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Am Schäferwald"
 housenumber: 19

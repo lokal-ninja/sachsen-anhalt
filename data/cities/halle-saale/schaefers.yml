@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4570184
 longitude: 11.971801300000001
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Elsa-Brändström-Straße"
 housenumber: 181

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.0100387
 longitude: 11.7464326
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Kyritzer Straße"
 housenumber: 56a

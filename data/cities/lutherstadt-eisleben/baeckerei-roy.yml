@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5242507
 longitude: 11.538607800000001
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Fritz-Wenk-Straße"
 housenumber: 35

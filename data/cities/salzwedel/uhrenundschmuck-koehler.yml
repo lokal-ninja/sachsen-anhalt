@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 52.849542400000004
 longitude: 11.1514626
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Altperverstraße"
 housenumber: 2

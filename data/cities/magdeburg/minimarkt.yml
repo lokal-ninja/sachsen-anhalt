@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.12404840000001
 longitude: 11.589492600000002
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Walbecker Straße"
 housenumber: 

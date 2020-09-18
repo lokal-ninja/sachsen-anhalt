@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1576614
 longitude: 11.183070800000001
-postcode: 39365
+postcode: "39365"
 city: Ummendorf
 street: "Fabrikplatz"
 housenumber: 4

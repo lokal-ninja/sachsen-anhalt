@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.62590530000001
 longitude: 12.325578100000001
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Bismarckstraße"
 housenumber: 63

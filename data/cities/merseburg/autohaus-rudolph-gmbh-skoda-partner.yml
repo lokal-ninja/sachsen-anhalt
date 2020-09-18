@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.359816800000004
 longitude: 11.9819106
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Oeltzschner Straße"
 housenumber: 124

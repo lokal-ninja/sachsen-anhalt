@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.786058100000005
 longitude: 12.9556056
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Höfchen"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.473997700000005
 longitude: 11.4479106
-postcode: 06542
+postcode: "06542"
 city: Allstedt
 street: "Lindenstraße"
 housenumber: 20

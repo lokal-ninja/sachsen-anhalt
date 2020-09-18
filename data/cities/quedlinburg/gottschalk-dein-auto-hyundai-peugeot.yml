@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7952188
 longitude: 11.178450300000002
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Groß Orden"
 housenumber: 13

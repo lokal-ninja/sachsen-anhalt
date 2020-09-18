@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.13016270000001
 longitude: 11.6374733
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 11

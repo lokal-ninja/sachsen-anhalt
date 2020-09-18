@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.1115341
 longitude: 11.601614600000001
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Rottersdorfer Straße"
 housenumber: 1

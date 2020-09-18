@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.487399200000006
 longitude: 11.9806098
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Krausenstraße"
 housenumber: 23

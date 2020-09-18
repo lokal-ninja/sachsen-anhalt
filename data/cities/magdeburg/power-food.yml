@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.115845900000004
 longitude: 11.6135815
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 31

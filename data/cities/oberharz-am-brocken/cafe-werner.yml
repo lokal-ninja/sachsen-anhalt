@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 51.667770700000005
 longitude: 10.7165622
-postcode: 38877
+postcode: "38877"
 city: Oberharz am Brocken
 street: "Oberstadt"
 housenumber: 61

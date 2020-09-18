@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4817423
 longitude: 11.966428800000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Salzgrafenstraße"
 housenumber: 3

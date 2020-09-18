@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.060558400000005
 longitude: 12.1782541
-postcode: 06729
+postcode: "06729"
 city: Elsteraue
 street: "Neue Straße"
 housenumber: 2

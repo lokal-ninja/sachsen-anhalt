@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.479375000000005
 longitude: 11.9804326
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Martinstraße"
 housenumber: 19

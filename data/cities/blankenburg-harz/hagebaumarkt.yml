@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.808133000000005
 longitude: 10.9422654
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Lerchenbreite"
 housenumber: 1

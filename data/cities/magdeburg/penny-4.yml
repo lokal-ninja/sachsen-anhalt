@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0978459
 longitude: 11.576423700000001
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Halberstädter Chaussee"
 housenumber: 

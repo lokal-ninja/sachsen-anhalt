@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.21266180000001
 longitude: 11.7924796
-postcode: 39291
+postcode: "39291"
 city: Möser
 street: "Krokusweg"
 housenumber: 13

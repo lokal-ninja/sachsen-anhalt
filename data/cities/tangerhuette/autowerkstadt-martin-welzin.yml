@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.439226500000004
 longitude: 11.7985422
-postcode: 39517
+postcode: "39517"
 city: Tangerhütte
 street: "Schönwalder Chaussee"
 housenumber: 28

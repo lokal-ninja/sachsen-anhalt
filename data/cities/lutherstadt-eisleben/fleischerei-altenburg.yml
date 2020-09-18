@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5262089
 longitude: 11.5441558
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Rammtorstraße"
 housenumber: 43

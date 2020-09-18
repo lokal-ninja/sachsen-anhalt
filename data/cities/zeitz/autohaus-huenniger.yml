@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0350395
 longitude: 12.127616300000001
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Friedensstraße"
 housenumber: 100

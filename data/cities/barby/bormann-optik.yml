@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9667334
 longitude: 11.886212200000001
-postcode: 39249
+postcode: "39249"
 city: Barby
 street: "Marktplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1541289
 longitude: 11.638266900000001
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Lübecker Straße"
 housenumber: 122

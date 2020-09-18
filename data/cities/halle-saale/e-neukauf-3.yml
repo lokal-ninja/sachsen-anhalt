@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4430817
 longitude: 11.966100200000001
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
 street: "Wilhelm-von-Klewiz-Straße"
 housenumber: 9

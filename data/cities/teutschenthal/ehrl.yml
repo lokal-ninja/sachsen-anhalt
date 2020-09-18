@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4714663
 longitude: 11.883165
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Am Bruchfeld"
 housenumber: 1

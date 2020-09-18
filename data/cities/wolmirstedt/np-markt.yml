@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2491822
 longitude: 11.6316086
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Julius-Bremer-Straße"
 housenumber: 11

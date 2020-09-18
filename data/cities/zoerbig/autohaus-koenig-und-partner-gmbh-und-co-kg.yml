@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.630348700000006
 longitude: 12.135493700000001
-postcode: 06780
+postcode: "06780"
 city: Zörbig
 street: "Thura Mark"
 housenumber: 30

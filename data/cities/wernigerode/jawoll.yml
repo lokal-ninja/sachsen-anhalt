@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.8437896
 longitude: 10.778407000000001
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Am Schreiberteich"
 housenumber: 2

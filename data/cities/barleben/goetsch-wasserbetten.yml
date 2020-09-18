@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.1832586
 longitude: 11.571317
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Haldensleber Straße"
 housenumber: 16A

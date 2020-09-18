@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5097608
 longitude: 11.962032500000001
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Trothaer Straße"
 housenumber: 9a

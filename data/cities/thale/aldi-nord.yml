@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7507825
 longitude: 11.0405368
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Otto-Schönermark-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.833539900000005
 longitude: 10.7838443
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Westernstraße"
 housenumber: 5

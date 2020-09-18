@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.102001900000005
 longitude: 11.620829200000001
-postcode: 39120
+postcode: "39120"
 city: Magdeburg
 street: "Leipziger Straße"
 housenumber: 45d

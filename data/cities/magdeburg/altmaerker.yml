@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1292862
 longitude: 11.6712868
-postcode: 39114
+postcode: "39114"
 city: Magdeburg
 street: "Berliner Chaussee"
 housenumber: 48

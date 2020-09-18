@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7930233
 longitude: 11.1282171
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Westerhäuser Straße"
 housenumber: 38b

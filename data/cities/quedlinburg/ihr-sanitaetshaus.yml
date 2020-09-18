@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.7872337
 longitude: 11.144320700000002
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Heiligegeiststraße"
 housenumber: 23

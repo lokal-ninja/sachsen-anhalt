@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4796915
 longitude: 11.917050900000001
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Neustädter Passage"
 housenumber: 17d

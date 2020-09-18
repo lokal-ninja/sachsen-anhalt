@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.1342021
 longitude: 11.6375583
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Breiter Weg"
 housenumber: 122

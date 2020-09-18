@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.1022017
 longitude: 11.620806700000001
-postcode: 39120
+postcode: "39120"
 city: Magdeburg
 street: "Leipziger Straße"
 housenumber: 45d

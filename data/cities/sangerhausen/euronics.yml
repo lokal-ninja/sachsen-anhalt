@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.46561680000001
 longitude: 11.272708000000002
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Landweg"
 housenumber: 2

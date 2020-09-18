@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2591642
 longitude: 11.844286100000001
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Zibbeklebener Straße"
 housenumber: 7

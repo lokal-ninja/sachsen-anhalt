@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 52.2705585
 longitude: 11.856544300000001
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Markt"
 housenumber: 14
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; PH off"
+opening_hours: "Tu-Fr 08:30-20:00; Sa 08:30-18:00; Mo,Su,PH off"
 website: ""

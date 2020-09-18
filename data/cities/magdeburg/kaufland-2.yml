@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1302814
 longitude: 11.6302254
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Kantstraße"
 housenumber: 5a

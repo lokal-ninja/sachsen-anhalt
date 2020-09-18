@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.1173866
 longitude: 11.6278401
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Planckstraße"
 housenumber: 9

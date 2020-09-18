@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 51.804652600000004
 longitude: 11.054772
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Hinter dem Amt"
 housenumber: 40
-phone: ""
+phone: "+49 3946 6432"
 opening_hours: ""
-website: ""
+website: "http://tiebes-hofladen.de"

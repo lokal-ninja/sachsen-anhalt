@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.451564600000005
 longitude: 11.7969755
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Poststraße"
 housenumber: 5

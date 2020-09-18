@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2973688
 longitude: 12.0679035
-postcode: 06231
+postcode: "06231"
 city: Bad Dürrenberg
 street: "Soleweg"
 housenumber: 15

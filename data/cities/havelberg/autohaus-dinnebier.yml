@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.81842940000001
 longitude: 12.069521100000001
-postcode: 39539
+postcode: "39539"
 city: Havelberg
 street: "Genthiner Straße"
 housenumber: 14a

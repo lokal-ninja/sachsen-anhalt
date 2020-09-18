@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.525817700000005
 longitude: 11.3929585
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "Ernst-Thälmann-Straße"
 housenumber: 5

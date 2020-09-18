@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.771493400000004
 longitude: 10.7991989
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Kuhgasse"
 housenumber: 1

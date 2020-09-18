@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.525506400000005
 longitude: 11.395274500000001
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "Aschberg"
 housenumber: 23

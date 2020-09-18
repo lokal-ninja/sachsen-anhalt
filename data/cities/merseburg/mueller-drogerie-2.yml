@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.354893000000004
 longitude: 11.9965252
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Gotthardstraße"
 housenumber: 20

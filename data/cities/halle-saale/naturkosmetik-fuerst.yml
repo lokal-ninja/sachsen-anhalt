@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.4779241
 longitude: 11.9696835
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Steinweg"
 housenumber: 56

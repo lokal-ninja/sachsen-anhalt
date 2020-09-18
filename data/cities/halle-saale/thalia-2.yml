@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.479568
 longitude: 11.919866500000001
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Neustädter Passage"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.481512200000004
 longitude: 11.9734987
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 11

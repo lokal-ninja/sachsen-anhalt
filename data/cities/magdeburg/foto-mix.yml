@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.1703854
 longitude: 11.6329708
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Neustädter Platz"
 housenumber: 10

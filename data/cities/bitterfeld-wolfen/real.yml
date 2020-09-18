@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6394907
 longitude: 12.3104451
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Anhaltstraße"
 housenumber: 74

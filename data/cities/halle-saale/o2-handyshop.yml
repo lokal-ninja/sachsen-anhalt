@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.4972057
 longitude: 11.96607
-postcode: 06114
+postcode: "06114"
 city: Halle (Saale)
 street: "Reilstraße"
 housenumber: 12

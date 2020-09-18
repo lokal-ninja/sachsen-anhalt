@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.880524300000005
 longitude: 11.056302500000001
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Klusstraße"
 housenumber: 32

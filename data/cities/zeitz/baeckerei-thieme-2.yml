@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.057496300000004
 longitude: 12.1264324
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Schädestraße"
 housenumber: 4 A

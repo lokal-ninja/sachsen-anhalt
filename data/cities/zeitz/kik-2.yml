@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.036892900000005
 longitude: 12.164150800000002
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Hainichener Dorfstraße"
 housenumber: 1

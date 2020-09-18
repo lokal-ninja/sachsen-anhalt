@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.2654172
 longitude: 11.8475798
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Magdeburger Chaussee"
 housenumber: 41
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: ""

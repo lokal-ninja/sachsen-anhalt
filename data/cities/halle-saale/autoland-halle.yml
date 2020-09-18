@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4857024
 longitude: 11.914796
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Hallesche Straße"
 housenumber: 15

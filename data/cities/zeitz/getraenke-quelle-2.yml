@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0569775
 longitude: 12.134523300000001
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Donaliesstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1563388
 longitude: 11.1817623
-postcode: 39365
+postcode: "39365"
 city: Ummendorf
 street: "Eilslebener Straße"
 housenumber: 1

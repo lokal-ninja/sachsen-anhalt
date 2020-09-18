@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.384412000000005
 longitude: 11.782017100000001
-postcode: 06246
+postcode: "06246"
 city: Goethestadt Bad Lauchstädt
 street: "Merseburger Straße"
 housenumber: 22a

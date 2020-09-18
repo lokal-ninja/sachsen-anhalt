@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.7819201
 longitude: 11.751782100000002
-postcode: 06406
+postcode: "06406"
 city: Bernburg
 street: "Zepziger Weg"
 housenumber: 2

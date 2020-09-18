@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1557097
 longitude: 11.571867600000001
-postcode: 39130
+postcode: "39130"
 city: Magdeburg
 street: "Birkenallee"
 housenumber: 2

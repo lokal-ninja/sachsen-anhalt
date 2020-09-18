@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.7924383
 longitude: 11.128941900000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Westerhäuser Straße"
 housenumber: 

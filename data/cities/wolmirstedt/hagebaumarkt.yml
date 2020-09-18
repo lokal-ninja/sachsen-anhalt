@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.2618188
 longitude: 11.6378246
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Rogätzer Straße"
 housenumber: 22

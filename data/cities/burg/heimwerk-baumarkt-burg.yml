@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.272307600000005
 longitude: 11.8401438
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Friedenstraße"
 housenumber: 51

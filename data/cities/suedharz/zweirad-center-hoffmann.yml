@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.4951802
 longitude: 10.9735074
-postcode: 06536
+postcode: "06536"
 city: Südharz
 street: "Uftrunger Hauptstraße"
 housenumber: 3

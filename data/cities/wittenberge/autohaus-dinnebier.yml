@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0138836
 longitude: 11.728722000000001
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Lindenberger Straße"
 housenumber: 6

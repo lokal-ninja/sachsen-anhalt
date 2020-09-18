@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1301988
 longitude: 11.629647
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Kantstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0835981
 longitude: 11.5982693
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 67

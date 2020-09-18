@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.7883137
 longitude: 11.1417816
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Steinbrücke"
 housenumber: 2

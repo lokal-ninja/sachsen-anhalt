@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4764665
 longitude: 11.957306200000001
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Holzplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.061098
 longitude: 12.1300135
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Weißenfelser Straße"
 housenumber: 1

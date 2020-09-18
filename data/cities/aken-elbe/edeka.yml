@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8534183
 longitude: 12.0556025
-postcode: 06385
+postcode: "06385"
 city: Aken (Elbe)
 street: "Am Dreieck"
 housenumber: 7

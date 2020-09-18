@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.1555886
 longitude: 11.6525017
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Wasserkunststraße"
 housenumber: 

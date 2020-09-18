@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0836042
 longitude: 11.598647900000001
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 

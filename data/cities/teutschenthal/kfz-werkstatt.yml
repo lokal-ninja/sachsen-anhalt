@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.457100100000005
 longitude: 11.8909654
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Salzstraße"
 housenumber: 16

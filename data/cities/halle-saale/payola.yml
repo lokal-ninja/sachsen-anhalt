@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.4843886
 longitude: 11.972724300000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Große Steinstraße"
 housenumber: 74

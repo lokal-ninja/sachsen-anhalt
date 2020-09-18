@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.835190000000004
 longitude: 12.228425000000001
-postcode: 06846
+postcode: "06846"
 city: Dessau-Roßlau
 street: "Kühnauer Straße"
 housenumber: 25

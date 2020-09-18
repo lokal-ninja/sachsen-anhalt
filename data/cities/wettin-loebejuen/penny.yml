@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.644314
 longitude: 11.905401300000001
-postcode: 06193
+postcode: "06193"
 city: Wettin-Löbejün
 street: "Anhalter Straße"
 housenumber: 6B

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.8354871
 longitude: 12.2464393
-postcode: 06844
+postcode: "06844"
 city: Dessau-Roßlau
 street: "Zerbster Straße"
 housenumber: 9

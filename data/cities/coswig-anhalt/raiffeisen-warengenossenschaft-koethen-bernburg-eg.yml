@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8916764
 longitude: 12.446636000000002
-postcode: 06869
+postcode: "06869"
 city: Coswig (Anhalt)
 street: "Querstraße"
 housenumber: 12

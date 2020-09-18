@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.876975900000005
 longitude: 11.491651000000001
-postcode: 39619
+postcode: "39619"
 city: Arendsee (Altmark)
 street: "Bahnhofstraße"
 housenumber: 27

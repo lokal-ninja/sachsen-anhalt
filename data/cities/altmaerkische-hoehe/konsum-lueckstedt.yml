@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8208141
 longitude: 11.582111300000001
-postcode: 39606
+postcode: "39606"
 city: Altmärkische Höhe
 street: ""
 housenumber: 49a

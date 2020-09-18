@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4835098
 longitude: 11.967515
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Große Klausstraße"
 housenumber: 20

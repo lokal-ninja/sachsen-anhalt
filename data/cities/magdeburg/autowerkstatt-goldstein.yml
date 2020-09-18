@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1146205
 longitude: 11.6125898
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.526638600000005
 longitude: 11.3932596
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "Rathausplatz"
 housenumber: 14

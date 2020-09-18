@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.180523900000004
 longitude: 11.6171219
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Am Pfahlberg"
 housenumber: 7

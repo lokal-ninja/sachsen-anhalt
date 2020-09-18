@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.721219500000004
 longitude: 12.7871234
-postcode: 06905
+postcode: "06905"
 city: Bad Schmiedeberg
 street: "Wittenberger Straße"
 housenumber: 39a

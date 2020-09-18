@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.0372034
 longitude: 12.1643494
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Hainichener Dorfstraße"
 housenumber: 1

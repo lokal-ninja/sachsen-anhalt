@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9314526
 longitude: 11.612138900000001
-postcode: 39615
+postcode: "39615"
 city: Zehrental
 street: "Hauptstraße"
 housenumber: 19

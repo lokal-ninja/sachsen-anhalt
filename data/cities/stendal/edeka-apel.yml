@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6114188
 longitude: 11.856161
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Nordwall"
 housenumber: 12b

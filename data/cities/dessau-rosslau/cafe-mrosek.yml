@@ -3,10 +3,10 @@ type: node
 shop: Süßwaren
 latitude: 51.8307743
 longitude: 12.240322200000001
-postcode: 06842
+postcode: "06842"
 city: Dessau-Roßlau
 street: "Askanische Straße"
 housenumber: 52
-phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-17:00; Su 13:30-18:00"
+phone: "+49340212651"
+opening_hours: "Tu-Sa 10:00-17:00; Su 13:30-17:00"
 website: ""

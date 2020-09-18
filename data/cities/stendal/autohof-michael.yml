@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5827122
 longitude: 11.8718993
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Heerener Straße"
 housenumber: 80

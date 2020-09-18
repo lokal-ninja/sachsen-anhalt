@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1204267
 longitude: 12.026487000000001
-postcode: 06682
+postcode: "06682"
 city: Teuchern
 street: "Mühlstraße"
 housenumber: 3

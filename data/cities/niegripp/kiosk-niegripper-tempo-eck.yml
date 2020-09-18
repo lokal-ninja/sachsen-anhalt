@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.265688000000004
 longitude: 11.7585859
-postcode: 
+postcode: ""
 city: Niegripp
 street: "Hauptstraße"
 housenumber: 10

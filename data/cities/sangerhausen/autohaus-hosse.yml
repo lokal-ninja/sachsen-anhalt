@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4675985
 longitude: 11.267486900000002
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Grabenweg"
 housenumber: 2

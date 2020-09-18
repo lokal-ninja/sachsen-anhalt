@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 51.051917700000004
 longitude: 12.1079454
-postcode: 06712
+postcode: "06712"
 city: Kretzschau
 street: "Hasselweg"
 housenumber: 10

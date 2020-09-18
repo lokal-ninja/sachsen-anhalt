@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.669901800000005
 longitude: 10.7159283
-postcode: 38877
+postcode: "38877"
 city: Oberharz am Brocken
 street: "Bahnhofstraße"
 housenumber: 11

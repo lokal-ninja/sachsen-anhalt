@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.477818000000006
 longitude: 11.9701784
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Franckeplatz"
 housenumber: 5

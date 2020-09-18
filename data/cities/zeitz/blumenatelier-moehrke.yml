@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0817944
 longitude: 12.1101054
-postcode: 06711
+postcode: "06711"
 city: Zeitz
 street: "Zeitzer Straße"
 housenumber: 39

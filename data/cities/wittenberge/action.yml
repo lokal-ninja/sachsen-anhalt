@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.9948295
 longitude: 11.730789000000001
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Wahrenberger Straße"
 housenumber: 78

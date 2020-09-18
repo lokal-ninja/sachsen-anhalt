@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3192989
 longitude: 11.947823900000001
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Merseburger Straße"
 housenumber: 49

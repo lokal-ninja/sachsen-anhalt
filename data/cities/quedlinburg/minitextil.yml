@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7891094
 longitude: 11.141687000000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Markt"
 housenumber: 5

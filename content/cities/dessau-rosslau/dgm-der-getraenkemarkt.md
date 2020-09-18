@@ -1,4 +1,4 @@
 ---
-title: "DGM, Der Getränkemarkt"
+title: "DGM Der Getränkemarkt"
 url: /dessau-rosslau/dgm-der-getraenkemarkt/
 ---

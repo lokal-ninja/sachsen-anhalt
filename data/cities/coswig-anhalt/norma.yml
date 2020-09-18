@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8829453
 longitude: 12.436972800000001
-postcode: 06869
+postcode: "06869"
 city: Coswig (Anhalt)
 street: "Roßlauer Straße"
 housenumber: 35

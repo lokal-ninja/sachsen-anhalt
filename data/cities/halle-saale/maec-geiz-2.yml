@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.4806595
 longitude: 11.941260000000002
-postcode: 06124
+postcode: "06124"
 city: Halle (Saale)
 street: "Rennbahnring"
 housenumber: 9

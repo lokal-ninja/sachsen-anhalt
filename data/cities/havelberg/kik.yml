@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.8331117
 longitude: 12.079304400000002
-postcode: 39539
+postcode: "39539"
 city: Havelberg
 street: "Robert-Koch-Straße"
 housenumber: 6

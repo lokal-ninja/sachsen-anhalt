@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.297080300000005
 longitude: 12.068663500000001
-postcode: 06231
+postcode: "06231"
 city: Bad Dürrenberg
 street: "Breite Straße"
 housenumber: 20a

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.145394100000004
 longitude: 11.786724600000001
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Flemminger Weg"
 housenumber: 55

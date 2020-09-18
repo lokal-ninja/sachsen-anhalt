@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5216207
 longitude: 11.5561445
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Hallesche Straße"
 housenumber: 88

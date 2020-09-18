@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5834983
 longitude: 11.502755500000001
-postcode: 06308
+postcode: "06308"
 city: Klostermansfeld
 street: "Auf der Spitze"
 housenumber: 2

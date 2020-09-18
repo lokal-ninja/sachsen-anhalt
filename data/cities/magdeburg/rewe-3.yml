@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.097577300000005
 longitude: 11.6293316
-postcode: 39120
+postcode: "39120"
 city: Magdeburg
 street: "Hopfenbreite"
 housenumber: 63

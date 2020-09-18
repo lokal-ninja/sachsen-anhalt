@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.0620929
 longitude: 11.0873434
-postcode: 39393
+postcode: "39393"
 city: Am Großen Bruch
 street: "Kirchstraße"
 housenumber: 1

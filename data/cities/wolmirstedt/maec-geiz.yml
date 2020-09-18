@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.247415200000006
 longitude: 11.628497300000001
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Triftstraße"
 housenumber: 17c

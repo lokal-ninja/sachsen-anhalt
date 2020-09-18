@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.9731515
 longitude: 11.8834133
-postcode: 39249
+postcode: "39249"
 city: Barby
 street: "Schloßstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6430225
 longitude: 11.5379059
-postcode: 06333
+postcode: "06333"
 city: Hettstedt
 street: "Gerbstedter Straße"
 housenumber: 77

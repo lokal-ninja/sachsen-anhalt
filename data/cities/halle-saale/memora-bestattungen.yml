@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.4570103
 longitude: 11.962095600000001
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Paul-Suhr-Straße"
 housenumber: 44

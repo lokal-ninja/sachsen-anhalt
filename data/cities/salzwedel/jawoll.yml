@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.8598902
 longitude: 11.1583717
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Kristallweg"
 housenumber: 2

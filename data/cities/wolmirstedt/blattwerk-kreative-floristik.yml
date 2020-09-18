@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2496347
 longitude: 11.6279968
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "August-Bebel-Straße"
 housenumber: 33

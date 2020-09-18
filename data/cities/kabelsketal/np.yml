@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.429565100000005
 longitude: 12.1155171
-postcode: 06184
+postcode: "06184"
 city: Kabelsketal
 street: "Lange Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5293086
 longitude: 11.4111069
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "Stendaler Straße"
 housenumber: 89

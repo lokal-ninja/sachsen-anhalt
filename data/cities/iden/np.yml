@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7800171
 longitude: 11.910090700000001
-postcode: 39606
+postcode: "39606"
 city: Iden
 street: "Rohrbecker Straße"
 housenumber: 4

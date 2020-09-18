@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.726311
 longitude: 12.4330847
-postcode: 06773
+postcode: "06773"
 city: Gräfenhainichen
 street: "Gadewitzer Weg"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.163470100000005
 longitude: 12.099290400000001
-postcode: 06679
+postcode: "06679"
 city: Hohenmölsen
 street: "Lützener Straße"
 housenumber: 16

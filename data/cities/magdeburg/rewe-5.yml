@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1468264
 longitude: 11.5822724
-postcode: 39130
+postcode: "39130"
 city: Magdeburg
 street: "Heinrich-Schmutze-Straße"
 housenumber: 2

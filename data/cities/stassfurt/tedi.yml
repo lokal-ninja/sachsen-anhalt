@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.8502128
 longitude: 11.5976666
-postcode: 39418
+postcode: "39418"
 city: Staßfurt
 street: "An der Salzrinne"
 housenumber: 1

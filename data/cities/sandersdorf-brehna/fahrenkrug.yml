@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.627127900000005
 longitude: 12.2648813
-postcode: 06792
+postcode: "06792"
 city: Sandersdorf-Brehna
 street: "Hauptstraße"
 housenumber: 7

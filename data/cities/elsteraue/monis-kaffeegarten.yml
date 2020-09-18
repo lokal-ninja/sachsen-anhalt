@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.114994700000004
 longitude: 12.204500900000001
-postcode: 06729
+postcode: "06729"
 city: Elsteraue
 street: "Predel"
 housenumber: 33

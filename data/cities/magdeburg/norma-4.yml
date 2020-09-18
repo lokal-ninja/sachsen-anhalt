@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1528111
 longitude: 11.6240766
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Silberschlagstraße"
 housenumber: 10

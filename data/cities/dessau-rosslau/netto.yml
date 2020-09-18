@@ -1,12 +1,12 @@
-id: 119329881
-type: way
+id: 7638375902
+type: node
 shop: Supermarkt
-latitude: 51.8480775
-longitude: 12.223089100000001
-postcode: 06846
+latitude: 51.847982
+longitude: 12.2234102
+postcode: "06846"
 city: Dessau-Roßlau
 street: "Kornhausstraße"
 housenumber: 34
-phone: ""
+phone: "+49 180 2551212"
 opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

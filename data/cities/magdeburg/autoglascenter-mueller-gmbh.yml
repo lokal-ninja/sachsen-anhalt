@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1687803
 longitude: 11.662013
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Havelstraße"
 housenumber: 17

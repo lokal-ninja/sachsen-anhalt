@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.1493583
 longitude: 11.658158700000001
-postcode: 39106
+postcode: "39106"
 city: Magdeburg
 street: "Hafenstraße"
 housenumber: 9

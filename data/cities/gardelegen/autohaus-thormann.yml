@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5394586
 longitude: 11.394929300000001
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "An der Breiten Gehre"
 housenumber: 20

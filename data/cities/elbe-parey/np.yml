@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.342122700000004
 longitude: 11.9781028
-postcode: 39317
+postcode: "39317"
 city: Elbe-Parey
 street: "Straße der DSF"
 housenumber: 7

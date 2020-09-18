@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.49431310000001
 longitude: 11.6924709
-postcode: 06317
+postcode: "06317"
 city: Seegebiet Mansfelder Land
 street: "Nordstrand"
 housenumber: 111

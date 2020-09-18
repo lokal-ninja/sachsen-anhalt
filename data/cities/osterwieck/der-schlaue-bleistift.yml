@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.966839300000004
 longitude: 10.7144442
-postcode: 38835
+postcode: "38835"
 city: Osterwieck
 street: "Ernst-Thälmann-Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.1713539
 longitude: 11.663288900000001
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Körbelitzer Straße"
 housenumber: 1

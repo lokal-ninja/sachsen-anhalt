@@ -1,9 +1,9 @@
 id: 1746569384
 type: node
-shop: Supermarkt
+shop: Friseur
 latitude: 52.126603900000006
 longitude: 11.6309087
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Max-Josef-Metzger-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.792511600000005
 longitude: 12.9614066
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Rosa-Luxemburg-Straße"
 housenumber: 29

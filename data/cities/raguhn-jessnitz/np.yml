@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7091684
 longitude: 12.277112
-postcode: 06779
+postcode: "06779"
 city: Raguhn-Jeßnitz
 street: "Hallesche Straße"
 housenumber: 51A

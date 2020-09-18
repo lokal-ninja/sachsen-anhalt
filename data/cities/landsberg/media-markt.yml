@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.5115818
 longitude: 12.048018800000001
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Saarbrücker Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 52.129806
 longitude: 11.5944599
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Große Diesdorfer Straße"
 housenumber: 66b

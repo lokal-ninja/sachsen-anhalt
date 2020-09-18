@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4903045
 longitude: 12.0139615
-postcode: 06116
+postcode: "06116"
 city: Halle (Saale)
 street: "Cossebauder Weg"
 housenumber: 1

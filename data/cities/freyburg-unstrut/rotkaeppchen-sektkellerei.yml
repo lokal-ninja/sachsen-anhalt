@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.215018
 longitude: 11.7676698
-postcode: 06632
+postcode: "06632"
 city: Freyburg (Unstrut)
 street: "Sektkellereistraße"
 housenumber: 5

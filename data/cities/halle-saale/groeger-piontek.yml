@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4447697
 longitude: 11.971146500000001
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
 street: "Freyburger Straße"
 housenumber: 19

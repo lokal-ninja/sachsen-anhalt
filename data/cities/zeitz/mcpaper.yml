@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.050548400000004
 longitude: 12.1358613
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Roßmarkt"
 housenumber: 14

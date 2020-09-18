@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.0797193
 longitude: 11.5829193
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Werner-von-Siemens-Ring"
 housenumber: 15

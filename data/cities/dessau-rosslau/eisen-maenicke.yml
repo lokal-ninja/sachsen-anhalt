@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.812082000000004
 longitude: 12.2525186
-postcode: 06849
+postcode: "06849"
 city: Dessau-Roßlau
 street: "Heinz-Steyer-Ring"
 housenumber: 80

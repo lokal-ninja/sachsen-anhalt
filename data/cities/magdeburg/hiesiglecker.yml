@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.1348144
 longitude: 11.617864200000001
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Olvenstedter Straße"
 housenumber: 14

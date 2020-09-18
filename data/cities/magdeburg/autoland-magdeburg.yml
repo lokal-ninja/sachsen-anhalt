@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.083118500000005
 longitude: 11.592855
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Am Busch"
 housenumber: 10

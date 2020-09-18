@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.4995842
 longitude: 11.9324673
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Hubertusplatz"
 housenumber: 1

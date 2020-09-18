@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4760336
 longitude: 11.447035600000001
-postcode: 06542
+postcode: "06542"
 city: Allstedt
 street: "Bauernreihe"
 housenumber: 13

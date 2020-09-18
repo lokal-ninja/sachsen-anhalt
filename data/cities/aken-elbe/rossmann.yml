@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.8537886
 longitude: 12.044586
-postcode: 06385
+postcode: "06385"
 city: Aken (Elbe)
 street: "Köthener Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.605248
 longitude: 11.8598771
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Markt"
 housenumber: 1

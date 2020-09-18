@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8377123
 longitude: 10.7681397
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Ilsenburger Straße"
 housenumber: 31

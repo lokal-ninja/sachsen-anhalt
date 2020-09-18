@@ -1,12 +1,12 @@
-id: 41586042
-type: way
+id: 5583171126
+type: node
 shop: Kleidung
-latitude: 51.8973388
-longitude: 11.0615213
-postcode: 38820
+latitude: 51.898815500000005
+longitude: 11.039551000000001
+postcode: "38820"
 city: Halberstadt
-street: "Magdeburger Straße"
-housenumber: 50
+street: "Braunschweiger Straße"
+housenumber: 83-88
 phone: ""
 opening_hours: ""
 website: ""

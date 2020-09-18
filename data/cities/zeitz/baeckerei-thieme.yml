@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.0383897
 longitude: 12.1378517
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Rudolf-Puschendorf-Straße"
 housenumber: 1A
 phone: ""
-opening_hours: ""
-website: "https://baeckerei-thieme-zeitz.jimdo.com/"
+opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-11:00; Mo,Su,PH off"
+website: ""

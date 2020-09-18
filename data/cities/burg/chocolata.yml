@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.271368800000005
 longitude: 11.851014800000002
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Schartauer Straße"
 housenumber: 44

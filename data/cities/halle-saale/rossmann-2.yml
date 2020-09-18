@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4536736
 longitude: 12.0182512
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Leipziger Chaussee"
 housenumber: 147

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.4900127
 longitude: 11.9659609
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Geiststraße"
 housenumber: 45

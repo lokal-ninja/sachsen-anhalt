@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.90365370000001
 longitude: 11.7742143
-postcode: 39240
+postcode: "39240"
 city: Calbe (Saale)
 street: "Ritterstraße"
 housenumber: 1

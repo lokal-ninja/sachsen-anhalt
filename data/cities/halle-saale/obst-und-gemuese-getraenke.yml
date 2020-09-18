@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.479773800000004
 longitude: 11.976517300000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 50

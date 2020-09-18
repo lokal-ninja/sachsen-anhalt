@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7620051
 longitude: 12.833707200000001
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "An den Linden"
 housenumber: 13a

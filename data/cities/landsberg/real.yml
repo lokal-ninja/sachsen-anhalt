@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.512226600000005
 longitude: 12.049216600000001
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Saarbrücker Straße"
 housenumber: 1

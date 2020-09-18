@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.794721
 longitude: 12.948971
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Rehainer Straße"
 housenumber: 8

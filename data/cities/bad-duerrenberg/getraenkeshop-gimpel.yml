@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2897125
 longitude: 12.0544496
-postcode: 06231
+postcode: "06231"
 city: Bad Dürrenberg
 street: "Kirchdorfer Ring"
 housenumber: 2

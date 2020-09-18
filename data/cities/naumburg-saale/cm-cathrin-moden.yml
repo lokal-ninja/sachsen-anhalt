@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.150040600000004
 longitude: 11.8182443
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Weißenfelser Straße"
 housenumber: 24

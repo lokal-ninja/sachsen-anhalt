@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.4570146
 longitude: 11.984152900000002
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Merseburger Straße"
 housenumber: 207

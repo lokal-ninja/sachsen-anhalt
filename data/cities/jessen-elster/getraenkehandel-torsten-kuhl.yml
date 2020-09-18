@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.786219100000004
 longitude: 12.955575000000001
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Höfchen"
 housenumber: 22

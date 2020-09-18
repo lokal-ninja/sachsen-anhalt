@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.773042600000004
 longitude: 10.803503000000001
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Wernigeröder Straße"
 housenumber: 3

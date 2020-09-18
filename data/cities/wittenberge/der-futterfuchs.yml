@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.996107800000004
 longitude: 11.762663300000002
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Liebigstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7996702
 longitude: 10.947882900000002
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Neue Halberstädter Straße"
 housenumber: 67a

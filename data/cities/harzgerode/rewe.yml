@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6427161
 longitude: 11.139897900000001
-postcode: 06493
+postcode: "06493"
 city: Harzgerode
 street: "Wallstraße"
 housenumber: 8

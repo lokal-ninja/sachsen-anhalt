@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0572607
 longitude: 12.1335256
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Donaliesstraße"
 housenumber: 51

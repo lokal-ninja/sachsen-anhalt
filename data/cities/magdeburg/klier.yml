@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.083612
 longitude: 11.599212900000001
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 

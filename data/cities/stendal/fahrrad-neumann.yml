@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.607149500000006
 longitude: 11.852135700000002
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Petrikirchstraße"
 housenumber: 1

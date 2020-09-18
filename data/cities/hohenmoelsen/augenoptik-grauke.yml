@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1555697
 longitude: 12.101746700000001
-postcode: 06679
+postcode: "06679"
 city: Hohenmölsen
 street: "Ernst-Thälmann-Straße"
 housenumber: 9

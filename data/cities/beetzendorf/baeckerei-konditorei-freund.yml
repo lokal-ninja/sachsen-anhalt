@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.7018896
 longitude: 11.091029500000001
-postcode: 38489
+postcode: "38489"
 city: Beetzendorf
 street: "Lindenstraße"
 housenumber: 12

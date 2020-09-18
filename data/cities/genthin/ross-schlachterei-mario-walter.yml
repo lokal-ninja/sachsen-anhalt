@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.40541090000001
 longitude: 12.1584816
-postcode: 39307
+postcode: "39307"
 city: Genthin
 street: "Bahnhofstraße"
 housenumber: 3

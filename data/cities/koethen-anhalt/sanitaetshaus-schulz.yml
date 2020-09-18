@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.749339400000004
 longitude: 11.9821764
-postcode: 06366
+postcode: "06366"
 city: Köthen (Anhalt)
 street: "Leipziger Straße"
 housenumber: 63-64

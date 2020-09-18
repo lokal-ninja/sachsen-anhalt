@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4820915
 longitude: 11.9699916
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Schmeerstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.682070200000005
 longitude: 12.2638092
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Comeniusstraße"
 housenumber: 38

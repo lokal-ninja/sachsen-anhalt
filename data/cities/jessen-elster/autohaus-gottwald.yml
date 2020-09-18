@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7938655
 longitude: 12.951350300000001
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Rehainer Straße"
 housenumber: 6

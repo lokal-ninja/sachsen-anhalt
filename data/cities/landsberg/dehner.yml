@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.5146163
 longitude: 12.0523822
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Saarbrücker Straße"
 housenumber: 3

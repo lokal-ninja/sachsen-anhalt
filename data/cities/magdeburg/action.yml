@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.1187722
 longitude: 11.6233245
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Am Sudenburger Tor"
 housenumber: 8

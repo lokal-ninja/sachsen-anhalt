@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1822274
 longitude: 11.585766300000001
-postcode: 39179
+postcode: "39179"
 city: Barleben
 street: "Curt-Schröter-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.176551100000005
 longitude: 11.49418
-postcode: 39326
+postcode: "39326"
 city: Hohenwarsleben
 street: "Berliner Allee"
 housenumber: 2a

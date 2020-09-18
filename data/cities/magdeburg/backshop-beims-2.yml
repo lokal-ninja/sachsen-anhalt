@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1306213
 longitude: 11.567577100000001
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Alt Diesdorf"
 housenumber: 40

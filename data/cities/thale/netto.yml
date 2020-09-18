@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.749394800000005
 longitude: 11.0461387
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Bertolt-Brecht-Straße"
 housenumber: 1

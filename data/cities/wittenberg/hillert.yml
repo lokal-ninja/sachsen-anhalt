@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8685531
 longitude: 12.6000951
-postcode: 06886
+postcode: "06886"
 city: Wittenberg
 street: "Bergstraße"
 housenumber: 28

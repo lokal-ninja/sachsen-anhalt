@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 51.4817733
 longitude: 11.9726622
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Leipziger Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.4888386
 longitude: 11.966168300000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Geiststraße"
 housenumber: 55

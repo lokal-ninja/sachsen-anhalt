@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8847734
 longitude: 11.0706289
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Quedlinburger Landstraße"
 housenumber: 4

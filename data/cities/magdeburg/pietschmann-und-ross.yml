@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.122292300000005
 longitude: 11.635788600000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Schleinufer"
 housenumber: 49

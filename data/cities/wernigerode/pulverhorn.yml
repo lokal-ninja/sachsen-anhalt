@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.8308395
 longitude: 10.795463600000001
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Am Schloß"
 housenumber: 6a

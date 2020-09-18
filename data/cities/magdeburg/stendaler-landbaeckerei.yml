@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1296405
 longitude: 11.6390802
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Goldschmiedebrücke"
 housenumber: 

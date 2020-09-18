@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2887052
 longitude: 11.578623400000001
-postcode: 06642
+postcode: "06642"
 city: Nebra
 street: "August-Bebel-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7450636
 longitude: 10.6870151
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Hauptstraße"
 housenumber: 20

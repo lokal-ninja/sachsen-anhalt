@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.1269356
 longitude: 11.6131288
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Lessingstraße"
 housenumber: 66

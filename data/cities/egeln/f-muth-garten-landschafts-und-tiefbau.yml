@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.9591087
 longitude: 11.4396334
-postcode: 39435
+postcode: "39435"
 city: Egeln
 street: "Magdeburger Chaussee"
 housenumber: 22

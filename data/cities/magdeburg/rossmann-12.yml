@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1113988
 longitude: 11.6049363
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 91

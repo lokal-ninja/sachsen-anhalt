@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.111000000000004
 longitude: 11.6017752
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 112

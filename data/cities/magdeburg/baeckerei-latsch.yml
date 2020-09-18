@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0644785
 longitude: 11.6767458
-postcode: 39122
+postcode: "39122"
 city: Magdeburg
 street: "Alt Westerhüsen"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4628942
 longitude: 11.9542468
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Pestalozzistraße"
 housenumber: 6

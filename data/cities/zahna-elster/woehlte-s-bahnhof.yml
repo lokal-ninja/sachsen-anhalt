@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.8314529
 longitude: 12.8088177
-postcode: 06895
+postcode: "06895"
 city: Zahna-Elster
 street: "Am Gewerbepark"
 housenumber: 1

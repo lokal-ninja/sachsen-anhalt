@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4873233
 longitude: 11.9679243
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Universitätsring"
 housenumber: 7

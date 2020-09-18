@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.004365
 longitude: 12.7824667
-postcode: 14929
+postcode: "14929"
 city: Treuenbrietzen
 street: "Feldheimer Straße"
 housenumber: 5

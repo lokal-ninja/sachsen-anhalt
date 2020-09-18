@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.83754630000001
 longitude: 11.766796900000001
-postcode: 06429
+postcode: "06429"
 city: Nienburg (Saale)
 street: "Adolf-Meyer-Straße"
 housenumber: 15

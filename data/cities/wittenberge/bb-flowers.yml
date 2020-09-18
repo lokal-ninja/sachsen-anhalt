@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 52.992546000000004
 longitude: 11.752056000000001
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Bahnstraße"
 housenumber: 112
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00;Sa 09:00-13:00;Su,Mo off"
 website: "http://www.bb-flowers.com"

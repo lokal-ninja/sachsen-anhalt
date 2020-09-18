@@ -3,10 +3,10 @@ type: node
 shop: Kramladen
 latitude: 51.0429438
 longitude: 12.1251311
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Friedensstraße"
 housenumber: 13
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.tedi.com"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5001821
 longitude: 11.969226800000001
-postcode: 06114
+postcode: "06114"
 city: Halle (Saale)
 street: "Hegelstraße"
 housenumber: 74

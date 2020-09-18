@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1612756
 longitude: 11.606263
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Olvenstedter Graseweg"
 housenumber: 37

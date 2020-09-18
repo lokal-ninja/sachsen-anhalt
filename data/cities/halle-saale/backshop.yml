@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5196824
 longitude: 11.9087308
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Blumenauweg"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.8324383
 longitude: 10.786443
-postcode: 
+postcode: ""
 city: Wernigerode
 street: "Kochstraße"
 housenumber: 14

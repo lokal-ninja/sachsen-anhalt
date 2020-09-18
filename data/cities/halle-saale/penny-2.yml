@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4751793
 longitude: 11.9824867
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Willy-Brandt-Straße"
 housenumber: 57

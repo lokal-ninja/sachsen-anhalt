@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7924779
 longitude: 11.153565700000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Birkenstraße"
 housenumber: 24

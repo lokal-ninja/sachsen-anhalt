@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.491863200000004
 longitude: 11.966181
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Bernburger Straße"
 housenumber: 32

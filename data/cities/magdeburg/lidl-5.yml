@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1568887
 longitude: 11.6265592
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Thietmarstraße"
 housenumber: 17

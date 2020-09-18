@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.2046245
 longitude: 11.7340149
-postcode: 06632
+postcode: "06632"
 city: Balgstädt
 street: "Lauchaer Straße"
 housenumber: 4

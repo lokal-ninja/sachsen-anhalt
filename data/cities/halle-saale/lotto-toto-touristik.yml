@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4823048
 longitude: 11.9410161
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Am Meeresbrunnen"
 housenumber: 

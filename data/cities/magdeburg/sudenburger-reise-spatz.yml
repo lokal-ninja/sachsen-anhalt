@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.1130361
 longitude: 11.607285000000001
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 68

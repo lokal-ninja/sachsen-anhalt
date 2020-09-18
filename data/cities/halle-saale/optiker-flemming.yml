@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4832595
 longitude: 11.9706284
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Brüderstraße"
 housenumber: 16

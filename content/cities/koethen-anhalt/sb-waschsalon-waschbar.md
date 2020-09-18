@@ -1,0 +1,4 @@
+---
+title: "SB-Waschsalon Waschbar"
+url: /koethen-anhalt/sb-waschsalon-waschbar/
+---

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.623950400000005
 longitude: 12.293988200000001
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Zörbiger Straße"
 housenumber: 49a

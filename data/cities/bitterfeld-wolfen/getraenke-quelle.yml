@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.60153570000001
 longitude: 12.3067823
-postcode: 06808
+postcode: "06808"
 city: Bitterfeld-Wolfen
 street: "Hauptstraße"
 housenumber: 66

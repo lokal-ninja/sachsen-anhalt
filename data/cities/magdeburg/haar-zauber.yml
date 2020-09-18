@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.155687400000005
 longitude: 11.6405747
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Schmidtstraße"
 housenumber: 57

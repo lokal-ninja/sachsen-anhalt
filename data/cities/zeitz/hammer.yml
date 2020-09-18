@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0369444
 longitude: 12.1608999
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Hainichener Dorfstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7894907
 longitude: 10.9576007
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Lange Straße"
 housenumber: 39

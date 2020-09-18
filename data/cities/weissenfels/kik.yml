@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1840873
 longitude: 11.9258474
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Am Marktwege"
 housenumber: 2

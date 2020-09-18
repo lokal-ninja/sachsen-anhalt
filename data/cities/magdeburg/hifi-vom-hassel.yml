@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1184978
 longitude: 11.627460500000002
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Sternstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.83071270000001
 longitude: 10.795761200000001
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Am Schloß"
 housenumber: 6

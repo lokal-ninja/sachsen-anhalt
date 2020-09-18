@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5983512
 longitude: 11.8654253
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Tangermünder Straße"
 housenumber: 1

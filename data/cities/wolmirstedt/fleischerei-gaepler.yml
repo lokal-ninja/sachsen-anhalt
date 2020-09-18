@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.24723040000001
 longitude: 11.6274631
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Friedensstraße"
 housenumber: 2

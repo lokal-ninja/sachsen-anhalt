@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.723157900000004
 longitude: 11.220556400000001
-postcode: 06493
+postcode: "06493"
 city: Ballenstedt
 street: "Felsenkellerweg"
 housenumber: 21

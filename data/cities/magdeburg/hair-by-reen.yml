@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1480972
 longitude: 11.5815117
-postcode: 39130
+postcode: "39130"
 city: Magdeburg
 street: "Bruno-Taut-Ring"
 housenumber: 

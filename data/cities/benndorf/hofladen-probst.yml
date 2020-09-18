@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.5678804
 longitude: 11.483015
-postcode: 06308
+postcode: "06308"
 city: Benndorf
 street: "Siebigeröder Straße"
 housenumber: 2

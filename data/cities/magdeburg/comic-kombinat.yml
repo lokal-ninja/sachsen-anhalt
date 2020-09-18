@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.1323425
 longitude: 11.6321212
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Otto-von-Guericke-Straße"
 housenumber: 7

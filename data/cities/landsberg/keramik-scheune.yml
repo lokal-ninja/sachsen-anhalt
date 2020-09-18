@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 51.5368032
 longitude: 12.137263
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Piltitzer Straße"
 housenumber: 1

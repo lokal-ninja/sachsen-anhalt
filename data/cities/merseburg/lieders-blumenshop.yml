@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.361722400000005
 longitude: 11.994298500000001
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Weiße Mauer"
 housenumber: 14

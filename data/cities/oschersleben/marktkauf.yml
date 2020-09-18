@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.030067300000006
 longitude: 11.249588500000002
-postcode: 
+postcode: "39387"
 city: Oschersleben
-street: ""
-housenumber: 
+street: "Anderslebener Straße"
+housenumber: 42j
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.588469
 longitude: 11.8732652
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Heerener Straße"
 housenumber: 53

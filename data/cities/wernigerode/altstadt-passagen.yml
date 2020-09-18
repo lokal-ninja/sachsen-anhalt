@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.8357578
 longitude: 10.7837677
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Ringstraße"
 housenumber: 37

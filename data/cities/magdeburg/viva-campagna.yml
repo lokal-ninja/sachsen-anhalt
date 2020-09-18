@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.1315624
 longitude: 11.631437700000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 

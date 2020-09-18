@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0503161
 longitude: 12.137765600000002
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Wendische Straße"
 housenumber: 30

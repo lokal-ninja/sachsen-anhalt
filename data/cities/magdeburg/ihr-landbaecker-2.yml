@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.153967
 longitude: 11.6378702
-postcode: 39124
+postcode: "39124"
 city: Magdeburg
 street: "Lübecker Straße"
 housenumber: 

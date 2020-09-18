@@ -3,10 +3,10 @@ type: node
 shop: Angeln
 latitude: 51.831725500000005
 longitude: 12.2390834
-postcode: 06844
+postcode: "06844"
 city: Dessau-Roßlau
 street: "Willy-Lohmann-Straße"
 housenumber: 18
-phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
-website: ""
+phone: "+493402400730"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+website: "http://www.nipos.de/"

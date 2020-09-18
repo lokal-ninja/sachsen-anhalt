@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1385689
 longitude: 11.6247737
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Motzstraße"
 housenumber: 2

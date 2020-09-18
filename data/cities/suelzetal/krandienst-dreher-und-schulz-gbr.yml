@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.0518445
 longitude: 11.584226300000001
-postcode: 39171
+postcode: "39171"
 city: Sülzetal
 street: "Lange Göhren"
 housenumber: 4a

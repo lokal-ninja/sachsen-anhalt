@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.057707300000004
 longitude: 11.434092900000001
-postcode: 39164
+postcode: "39164"
 city: Wanzleben-Börde
 street: "Lindenpromenade"
 housenumber: 34A

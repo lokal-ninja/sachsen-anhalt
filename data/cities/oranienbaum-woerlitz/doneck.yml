@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.843042800000006
 longitude: 12.418172
-postcode: 
+postcode: ""
 city: Oranienbaum-Wörlitz
 street: "Erdmannsdorffstraße"
 housenumber: 86

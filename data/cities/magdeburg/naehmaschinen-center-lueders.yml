@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 52.131122700000006
 longitude: 11.6141295
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Maxim-Gorki-Straße"
 housenumber: 34

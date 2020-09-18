@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4640927
 longitude: 11.292883000000002
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Karl-Liebknecht-Straße"
 housenumber: 29a

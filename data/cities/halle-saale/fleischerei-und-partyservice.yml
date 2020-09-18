@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.5034445
 longitude: 11.9785146
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Landrain"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.84714
 longitude: 12.22268
-postcode: 06846
+postcode: "06846"
 city: Dessau-Roßlau
 street: "Kornhausstraße"
 housenumber: 31a

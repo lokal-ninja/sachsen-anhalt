@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2076318
 longitude: 11.5844251
-postcode: 06647
+postcode: "06647"
 city: Bad Bibra
 street: "Lauchaer Straße"
 housenumber: 18

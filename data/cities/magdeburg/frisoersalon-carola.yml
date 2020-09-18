@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.094651500000005
 longitude: 11.615033700000001
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Kirschweg"
 housenumber: 47

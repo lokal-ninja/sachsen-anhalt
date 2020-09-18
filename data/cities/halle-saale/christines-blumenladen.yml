@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4759017
 longitude: 11.9700997
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Steinweg"
 housenumber: 39

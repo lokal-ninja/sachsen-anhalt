@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4896754
 longitude: 11.997012600000001
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Fritz-Hoffmann-Straße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.464348900000005
 longitude: 11.2926686
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Karl-Liebknecht-Straße"
 housenumber: 29a

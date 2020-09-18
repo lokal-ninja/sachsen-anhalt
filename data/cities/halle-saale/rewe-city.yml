@@ -1,12 +1,12 @@
-id: 4917052782
+id: 3704242225
 type: node
 shop: Supermarkt
-latitude: 51.4817456
-longitude: 11.965724400000001
-postcode: 06108
+latitude: 51.4811947
+longitude: 11.973729200000001
+postcode: "06108"
 city: Halle (Saale)
-street: "Kellnerstraße"
-housenumber: 4
+street: "Leipziger Straße"
+housenumber: 94
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: "Mo-Fr 07:00-22:00, Sa 07:00-20:00; PH off"
 website: ""

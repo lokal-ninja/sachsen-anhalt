@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.1400409
 longitude: 11.7353816
-postcode: 39175
+postcode: "39175"
 city: Biederitz
 street: "Berliner Straße"
 housenumber: 15

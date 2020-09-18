@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.5011066
 longitude: 11.993809500000001
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Mühlrain"
 housenumber: 16

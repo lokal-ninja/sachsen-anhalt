@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.296928900000005
 longitude: 12.0673928
-postcode: 06231
+postcode: "06231"
 city: Bad Dürrenberg
 street: "Saline-Passage"
 housenumber: 

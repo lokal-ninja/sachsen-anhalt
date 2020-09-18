@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7308183
 longitude: 12.4579205
-postcode: 06773
+postcode: "06773"
 city: Gräfenhainichen
 street: "Paul-Gerhardt-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.1384399
 longitude: 11.6386389
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Universitätsplatz"
 housenumber: 11

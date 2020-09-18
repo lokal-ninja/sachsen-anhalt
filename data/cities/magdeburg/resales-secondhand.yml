@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1339392
 longitude: 11.637564300000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Breiter Weg"
 housenumber: 123-125

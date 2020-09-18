@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1292617
 longitude: 11.637495900000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Goldschmiedebrücke"
 housenumber: 7, 9, 11

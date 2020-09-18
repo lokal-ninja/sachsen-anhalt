@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.1297301
 longitude: 11.6387727
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 11

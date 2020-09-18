@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.623711400000005
 longitude: 12.3994532
-postcode: 06774
+postcode: "06774"
 city: Muldestausee
 street: "Alt-Pouch"
 housenumber: 3

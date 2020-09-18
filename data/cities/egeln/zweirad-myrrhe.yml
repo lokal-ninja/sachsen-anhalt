@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9383853
 longitude: 11.4183275
-postcode: 39435
+postcode: "39435"
 city: Egeln
 street: "Hakeborner Weg"
 housenumber: 3

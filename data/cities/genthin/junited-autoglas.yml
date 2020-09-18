@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.415040700000006
 longitude: 12.1506328
-postcode: 39307
+postcode: "39307"
 city: Genthin
 street: "Brettiner Chaussee"
 housenumber: 1A

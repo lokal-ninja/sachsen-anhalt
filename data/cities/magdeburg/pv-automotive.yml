@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1406648
 longitude: 11.617113600000001
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Albert-Vater-Straße"
 housenumber: 70

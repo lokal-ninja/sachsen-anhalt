@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7901791
 longitude: 11.1474881
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Steinweg"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 51.2545487
 longitude: 12.1408166
-postcode: 06686
+postcode: "06686"
 city: Lützen
 street: "Schloßstraße"
 housenumber: 17

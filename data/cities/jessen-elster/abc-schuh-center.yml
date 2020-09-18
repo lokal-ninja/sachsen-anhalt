@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.790702800000005
 longitude: 12.9573224
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Baderhag"
 housenumber: 1

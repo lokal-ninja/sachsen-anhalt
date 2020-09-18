@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.852090000000004
 longitude: 11.1560301
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Neuperverstraße"
 housenumber: 66

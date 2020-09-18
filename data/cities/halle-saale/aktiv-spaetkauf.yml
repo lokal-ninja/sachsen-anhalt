@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.474134600000006
 longitude: 11.969545400000001
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Steinweg"
 housenumber: 30

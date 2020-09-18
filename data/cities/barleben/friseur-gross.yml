@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.182461700000005
 longitude: 11.5740963
-postcode: 
+postcode: ""
 city: Barleben
 street: "Magdeburger Straße"
 housenumber: 46

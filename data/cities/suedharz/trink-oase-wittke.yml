@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.460506
 longitude: 11.117418
-postcode: 06536
+postcode: "06536"
 city: Südharz
 street: "Breite Straße"
 housenumber: 11

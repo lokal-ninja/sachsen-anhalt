@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.3581032
 longitude: 11.992342200000001
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "König-Heinrich-Straße"
 housenumber: 15

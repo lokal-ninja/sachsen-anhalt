@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.5126749
 longitude: 11.9106942
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Ulmenweg"
 housenumber: 1 a

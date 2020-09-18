@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4539356
 longitude: 11.505918600000001
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Allstedter Straße"
 housenumber: 4

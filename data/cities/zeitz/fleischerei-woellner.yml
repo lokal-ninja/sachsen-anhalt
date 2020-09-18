@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9947188
 longitude: 12.2390453
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Altenburger Landstraße"
 housenumber: 5

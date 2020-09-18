@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.1299317
 longitude: 11.638462500000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 11

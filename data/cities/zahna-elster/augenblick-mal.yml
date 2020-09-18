@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.8285649
 longitude: 12.8268275
-postcode: 06895
+postcode: "06895"
 city: Zahna-Elster
 street: "Friedensstraße"
 housenumber: 

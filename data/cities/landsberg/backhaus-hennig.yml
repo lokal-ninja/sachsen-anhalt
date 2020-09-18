@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.525073500000005
 longitude: 12.155939100000001
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Hallesche Landstraße"
 housenumber: 13

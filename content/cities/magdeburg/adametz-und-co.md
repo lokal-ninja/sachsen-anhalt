@@ -1,4 +1,4 @@
 ---
-title: "ADAMETZ & Co."
+title: "Adametz & Co"
 url: /magdeburg/adametz-und-co/
 ---

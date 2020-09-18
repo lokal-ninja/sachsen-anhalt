@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.262204100000005
 longitude: 11.638185100000001
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Rogätzer Straße"
 housenumber: 22

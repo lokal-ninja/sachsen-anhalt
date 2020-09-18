@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7380203
 longitude: 11.1501523
-postcode: 06485
+postcode: "06485"
 city: Quedlinburg
 street: "Auf den Steinen"
 housenumber: 18

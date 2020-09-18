@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.6587596
 longitude: 11.3548296
-postcode: 06456
+postcode: "06456"
 city: Arnstein
 street: "Am Kirchberg"
 housenumber: 

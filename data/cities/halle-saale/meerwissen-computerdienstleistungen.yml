@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.479253
 longitude: 11.9998407
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Delitzscher Straße"
 housenumber: 53

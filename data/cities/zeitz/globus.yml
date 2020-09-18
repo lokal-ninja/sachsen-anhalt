@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.082116500000005
 longitude: 12.110725200000001
-postcode: 06711
+postcode: "06711"
 city: Zeitz
 street: "Zeitzer Straße"
 housenumber: 39

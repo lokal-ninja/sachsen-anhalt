@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.537835400000006
 longitude: 11.409246900000001
-postcode: 39638
+postcode: "39638"
 city: Gardelegen
 street: "An den Burgstücken"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6063406
 longitude: 11.616560600000001
-postcode: 06347
+postcode: "06347"
 city: Helmsdorf
 street: "Pollebener Straße"
 housenumber: 7

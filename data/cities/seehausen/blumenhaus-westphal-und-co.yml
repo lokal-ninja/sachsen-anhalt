@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.8878518
 longitude: 11.7526218
-postcode: 39615
+postcode: "39615"
 city: Seehausen
 street: "Lindenstraße"
 housenumber: 1

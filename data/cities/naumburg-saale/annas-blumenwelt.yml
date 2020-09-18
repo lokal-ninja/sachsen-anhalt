@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1624642
 longitude: 11.798031
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Bahnhofstraße"
 housenumber: 40/42

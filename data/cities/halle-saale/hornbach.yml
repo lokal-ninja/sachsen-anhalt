@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4777563
 longitude: 12.0023754
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Delitzscher Straße"
 housenumber: 54

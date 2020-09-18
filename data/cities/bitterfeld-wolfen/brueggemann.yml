@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5998626
 longitude: 12.282643400000001
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Hallesche Straße"
 housenumber: 32

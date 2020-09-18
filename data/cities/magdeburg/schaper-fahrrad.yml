@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1118339
 longitude: 11.6051325
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 89

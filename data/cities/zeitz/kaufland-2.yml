@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0377482
 longitude: 12.1281002
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Schwarzer Weg"
 housenumber: 40

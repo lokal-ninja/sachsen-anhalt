@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4937684
 longitude: 11.9699471
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Ludwig-Wucherer-Straße"
 housenumber: 57

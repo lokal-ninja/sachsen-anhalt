@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.4336914
 longitude: 11.792467700000001
-postcode: 39517
+postcode: "39517"
 city: Tangerhütte
 street: "Neustädter Ring"
 housenumber: 78
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6881232
 longitude: 12.2477181
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Wittener Straße"
 housenumber: 28

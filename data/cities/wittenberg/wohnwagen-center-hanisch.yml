@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8655606
 longitude: 12.624224600000002
-postcode: 06886
+postcode: "06886"
 city: Wittenberg
 street: "Dessauer Straße"
 housenumber: 8

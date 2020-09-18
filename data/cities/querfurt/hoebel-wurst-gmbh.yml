@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3800108
 longitude: 11.6001236
-postcode: 06268
+postcode: "06268"
 city: Querfurt
 street: "Merseburger Straße"
 housenumber: 01

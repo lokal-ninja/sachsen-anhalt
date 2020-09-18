@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0801188
 longitude: 11.581261300000001
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Werner-von-Siemens-Ring"
 housenumber: 14

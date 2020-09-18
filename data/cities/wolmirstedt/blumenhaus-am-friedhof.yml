@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.250894200000005
 longitude: 11.6303718
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Farsleber Straße"
 housenumber: 15a

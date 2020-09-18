@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4824703
 longitude: 11.966523400000002
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Talamtstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.5125101
 longitude: 12.0517743
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Saarbrücker Straße"
 housenumber: 1

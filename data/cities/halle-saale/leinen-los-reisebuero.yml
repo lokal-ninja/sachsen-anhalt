@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4797718
 longitude: 11.9669635
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "An der Moritzkirche"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.790187200000005
 longitude: 11.1448747
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Bockstraße"
 housenumber: 8

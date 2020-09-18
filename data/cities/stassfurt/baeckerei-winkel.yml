@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8189835
 longitude: 11.5732557
-postcode: 39418
+postcode: "39418"
 city: Staßfurt
 street: "Alte Güstener Straße"
 housenumber: 29

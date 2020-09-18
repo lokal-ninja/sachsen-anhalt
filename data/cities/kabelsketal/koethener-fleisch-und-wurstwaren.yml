@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4293502
 longitude: 12.115878100000002
-postcode: 06184
+postcode: "06184"
 city: Kabelsketal
 street: "Lange Straße"
 housenumber: 3

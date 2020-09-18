@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.995473200000006
 longitude: 11.7409075
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Grüner Weg"
 housenumber: 13
-phone: ""
+phone: "+49 3877 4099979"
 opening_hours: ""
 website: ""

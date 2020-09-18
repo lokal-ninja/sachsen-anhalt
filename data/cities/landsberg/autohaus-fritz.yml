@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.552322100000005
 longitude: 12.025641
-postcode: 06188
+postcode: "06188"
 city: Landsberg
 street: "Dessauer Straße"
 housenumber: 12a

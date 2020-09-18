@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.405613
 longitude: 12.161651
-postcode: 39307
+postcode: "39307"
 city: Genthin
 street: "Brandenburger Straße"
 housenumber: 84

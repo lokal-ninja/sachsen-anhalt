@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6899632
 longitude: 11.0368279
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Hauptstraße"
 housenumber: 116a

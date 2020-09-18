@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5890611
 longitude: 12.001180600000001
-postcode: 06193
+postcode: "06193"
 city: Petersberg
 street: "Christian-Reuter-Platz"
 housenumber: 5

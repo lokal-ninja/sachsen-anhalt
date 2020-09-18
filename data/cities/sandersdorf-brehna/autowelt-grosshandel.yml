@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5489953
 longitude: 12.194305700000001
-postcode: 06796
+postcode: "06796"
 city: Sandersdorf-Brehna
 street: "Max-Planck-Straße"
 housenumber: 7

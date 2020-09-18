@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.1155503
 longitude: 11.436224300000001
-postcode: 39164
+postcode: "39164"
 city: Wanzleben-Börde
 street: "Rodenslebener Straße"
 housenumber: 12

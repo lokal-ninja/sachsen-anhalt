@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 51.830387300000005
 longitude: 12.240905600000001
-postcode: 06842
+postcode: "06842"
 city: Dessau-Roßlau
 street: "Askanische Straße"
 housenumber: 47
-phone: ""
+phone: "+493402106033"
 opening_hours: "Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-12:30"
-website: ""
+website: "http://www.meilenstein-augenoptik.de/"

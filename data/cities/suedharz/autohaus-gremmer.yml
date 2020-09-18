@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4598371
 longitude: 11.1228605
-postcode: 06536
+postcode: "06536"
 city: Südharz
 street: "Halle-Kasseler-Straße"
 housenumber: 233A

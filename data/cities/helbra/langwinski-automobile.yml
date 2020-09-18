@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5547496
 longitude: 11.502632
-postcode: 06311
+postcode: "06311"
 city: Helbra
 street: "Christian-Ottiliae-Straße"
 housenumber: 9

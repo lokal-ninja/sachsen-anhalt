@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 51.442156000000004
 longitude: 12.057790200000001
-postcode: 06184
+postcode: "06184"
 city: Kabelsketal
 street: "Zur Hohen Bude"
 housenumber: 2
-phone: "03454711882"
+phone: "+49 3454711882"
 opening_hours: ""
 website: "https://netzwerk-und-pc.com/"

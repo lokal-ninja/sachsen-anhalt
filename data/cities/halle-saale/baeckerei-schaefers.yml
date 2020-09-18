@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4746899
 longitude: 11.9699431
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Steinweg"
 housenumber: 33

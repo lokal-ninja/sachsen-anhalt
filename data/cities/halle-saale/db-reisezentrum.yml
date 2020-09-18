@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.4777776
 longitude: 11.987304
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Hans-Dietrich-Genscher-Platz"
 housenumber: 

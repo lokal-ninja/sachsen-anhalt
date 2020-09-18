@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.0503317
 longitude: 12.1374455
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Wendische Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.458918700000005
 longitude: 11.908207
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Lauchstädter Straße"
 housenumber: 10A

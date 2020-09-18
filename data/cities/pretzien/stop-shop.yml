@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.0461395
 longitude: 11.8269494
-postcode: 39217
+postcode: "39217"
 city: Pretzien
 street: "August-Bebel-Straße"
 housenumber: 29a

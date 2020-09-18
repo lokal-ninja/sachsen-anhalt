@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.147223700000005
 longitude: 11.6459262
-postcode: 39106
+postcode: "39106"
 city: Magdeburg
 street: "Sieverstorstraße"
 housenumber: 1

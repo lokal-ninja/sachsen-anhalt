@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4362131
 longitude: 11.9739491
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
 street: "Alte Heerstraße"
 housenumber: 260

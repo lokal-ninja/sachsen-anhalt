@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.673251
 longitude: 11.7724346
-postcode: 06420
+postcode: "06420"
 city: Könnern
 street: "Platz des Friedens"
 housenumber: 6

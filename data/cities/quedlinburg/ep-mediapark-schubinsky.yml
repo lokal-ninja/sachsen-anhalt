@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.7778215
 longitude: 11.1395725
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Neinstedter Feldweg"
 housenumber: 4

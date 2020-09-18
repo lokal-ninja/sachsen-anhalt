@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1210035
 longitude: 11.628619800000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Breiter Weg"
 housenumber: 251

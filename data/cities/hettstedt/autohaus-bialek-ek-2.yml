@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6369696
 longitude: 11.512379300000001
-postcode: 06333
+postcode: "06333"
 city: Hettstedt
 street: "Bahnhofstraße"
 housenumber: 53

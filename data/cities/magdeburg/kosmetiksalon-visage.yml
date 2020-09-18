@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.1148991
 longitude: 11.6118045
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "Halberstädter Straße"
 housenumber: 43

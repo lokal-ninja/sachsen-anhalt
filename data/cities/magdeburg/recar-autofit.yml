@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.174414600000006
 longitude: 11.660570300000002
-postcode: 39126
+postcode: "39126"
 city: Magdeburg
 street: "Windmühlenstraße"
 housenumber: 52

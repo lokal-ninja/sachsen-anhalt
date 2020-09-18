@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8746847
 longitude: 11.0906792
-postcode: 38829
+postcode: "38829"
 city: Harsleben
 street: "Am Schützenkrug"
 housenumber: 2

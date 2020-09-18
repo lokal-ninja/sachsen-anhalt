@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.8022593
 longitude: 10.9460412
-postcode: 38889
+postcode: "38889"
 city: Blankenburg (Harz)
 street: "Am Mönchenfelde"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.481912900000005
 longitude: 11.9669205
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Salzgrafenstraße"
 housenumber: 1

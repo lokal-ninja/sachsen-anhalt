@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 52.1314848
 longitude: 11.6340891
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ernst-Reuter-Allee"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.492209100000004
 longitude: 11.9661874
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Bernburger Straße"
 housenumber: 29

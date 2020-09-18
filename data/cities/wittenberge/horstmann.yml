@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.9944186
 longitude: 11.7526747
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "Bahnstraße"
 housenumber: 88

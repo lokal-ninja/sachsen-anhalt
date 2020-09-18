@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7467813
 longitude: 11.946868100000001
-postcode: 06366
+postcode: "06366"
 city: Köthen (Anhalt)
 street: "Langenfelder Straße"
 housenumber: 19

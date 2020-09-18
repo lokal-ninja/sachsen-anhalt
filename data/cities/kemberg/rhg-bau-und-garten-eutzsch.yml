@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.826618
 longitude: 12.637836
-postcode: 06901
+postcode: "06901"
 city: Kemberg
 street: "Berliner Straße"
 housenumber: 18a

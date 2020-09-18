@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.484423500000005
 longitude: 11.778023300000001
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Paul-Schmidt-Straße"
 housenumber: 27

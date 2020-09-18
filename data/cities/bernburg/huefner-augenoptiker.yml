@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.7967523
 longitude: 11.7408259
-postcode: 06406
+postcode: "06406"
 city: Bernburg
 street: "Wilhelmstraße"
 housenumber: 13a

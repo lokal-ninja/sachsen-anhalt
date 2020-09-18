@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.078887900000005
 longitude: 11.6205934
-postcode: 39120
+postcode: "39120"
 city: Magdeburg
 street: "Ottersleber Chaussee"
 housenumber: 95

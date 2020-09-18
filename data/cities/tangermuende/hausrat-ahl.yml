@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.542250100000004
 longitude: 11.973664600000001
-postcode: 
+postcode: ""
 city: Tangermünde
 street: "Kirchstraße"
 housenumber: 46

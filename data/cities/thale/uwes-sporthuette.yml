@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.7496165
 longitude: 11.035360800000001
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Karl-Marx-Straße"
 housenumber: 33

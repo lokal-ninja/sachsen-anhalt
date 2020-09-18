@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.95997800000001
 longitude: 11.440666100000001
-postcode: 39435
+postcode: "39435"
 city: Egeln
 street: "Magdeburger Chaussee"
 housenumber: 24

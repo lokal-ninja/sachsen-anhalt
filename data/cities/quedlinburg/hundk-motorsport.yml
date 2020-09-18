@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.7842354
 longitude: 11.1424801
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Neuer Weg"
 housenumber: 22

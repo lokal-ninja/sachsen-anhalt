@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1304505
 longitude: 11.636336100000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6135657
 longitude: 11.864919800000001
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Arneburger Straße"
 housenumber: 20

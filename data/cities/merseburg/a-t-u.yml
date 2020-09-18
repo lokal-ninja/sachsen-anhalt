@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3279323
 longitude: 11.9758609
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Naumburger Straße"
 housenumber: 132

@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 51.38838560000001
 longitude: 11.6035594
-postcode: 06268
+postcode: "06268"
 city: Querfurt
 street: "Döcklitzer Tor"
 housenumber: 55

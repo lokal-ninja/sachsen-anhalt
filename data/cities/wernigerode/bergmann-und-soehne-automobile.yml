@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.8619014
 longitude: 10.8024722
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Am Stadtweg"
 housenumber: 1

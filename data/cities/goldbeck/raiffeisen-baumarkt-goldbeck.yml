@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.727175300000006
 longitude: 11.860267700000001
-postcode: 39596
+postcode: "39596"
 city: Goldbeck
 street: "Möllendorfer Chaussee"
 housenumber: 

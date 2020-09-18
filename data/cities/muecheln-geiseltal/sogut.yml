@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3023201
 longitude: 11.8092205
-postcode: 06249
+postcode: "06249"
 city: Mücheln (Geiseltal)
 street: "Ernst Thälmann Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.9380856
 longitude: 11.318675
-postcode: 39397
+postcode: "39397"
 city: Kroppenstedt
 street: "Hakeborner Weg"
 housenumber: 4

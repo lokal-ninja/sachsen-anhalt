@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 51.4757642
 longitude: 11.2975413
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "An der Gonna"
 housenumber: 3

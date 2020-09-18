@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 52.151550400000005
 longitude: 11.6069993
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Holzweg"
 housenumber: 54

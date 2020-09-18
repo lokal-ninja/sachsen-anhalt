@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.2845895
 longitude: 11.8831801
-postcode: 06242
+postcode: "06242"
 city: Braunsbedra
 street: "Markt"
 housenumber: 2

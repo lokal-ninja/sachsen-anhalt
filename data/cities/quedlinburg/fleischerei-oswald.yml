@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.78721
 longitude: 11.1430924
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Neuer Weg"
 housenumber: 4

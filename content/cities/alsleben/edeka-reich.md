@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Reich"
+title: "Edeka Reich"
 url: /alsleben/edeka-reich/
 ---

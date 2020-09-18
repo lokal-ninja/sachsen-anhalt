@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4885279
 longitude: 11.9662112
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Geiststraße"
 housenumber: 57

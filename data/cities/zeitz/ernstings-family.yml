@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.042524900000004
 longitude: 12.1263094
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Friedensstraße"
 housenumber: 23
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.ernstings-family.de"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
+website: ""

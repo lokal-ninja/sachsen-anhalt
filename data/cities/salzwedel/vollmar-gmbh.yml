@@ -3,7 +3,7 @@ type: way
 shop: Kerzen
 latitude: 52.827355100000005
 longitude: 11.2098496
-postcode: 29410
+postcode: "29410"
 city: Salzwedel
 street: "Fuchsberger Straße"
 housenumber: 1

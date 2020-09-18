@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.4629162
 longitude: 11.9771894
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Huttenstraße"
 housenumber: 76

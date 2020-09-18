@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.129902
 longitude: 11.635123
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Ulrichplatz"
 housenumber: 4

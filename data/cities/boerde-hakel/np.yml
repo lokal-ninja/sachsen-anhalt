@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.963375400000004
 longitude: 11.3918947
-postcode: 39448
+postcode: "39448"
 city: Börde-Hakel
 street: "Steinstraße"
 housenumber: 11

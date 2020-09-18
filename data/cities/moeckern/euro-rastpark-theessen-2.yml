@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2364687
 longitude: 12.0607237
-postcode: 39291
+postcode: "39291"
 city: Möckern
 street: "Gewerbestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4821918
 longitude: 11.9699164
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Marktplatz"
 housenumber: 3

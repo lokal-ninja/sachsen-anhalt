@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5215425
 longitude: 11.5428666
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Friedensstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3341463
 longitude: 11.4644332
-postcode: 06268
+postcode: "06268"
 city: Querfurt
 street: "Querfurter Straße"
 housenumber: 25a

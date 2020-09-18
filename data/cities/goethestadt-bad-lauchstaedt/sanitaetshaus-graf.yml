@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.387019900000006
 longitude: 11.8723597
-postcode: 06246
+postcode: "06246"
 city: Goethestadt Bad Lauchstädt
 street: "Merseburger Landstraße"
 housenumber: 33

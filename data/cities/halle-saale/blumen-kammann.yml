@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.462918800000004
 longitude: 11.9769407
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
 street: "Huttenstraße"
 housenumber: 75

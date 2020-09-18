@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.787207300000006
 longitude: 11.1477658
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Bahnhofstraße"
 housenumber: 1

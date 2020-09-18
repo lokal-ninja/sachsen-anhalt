@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.787578
 longitude: 11.143329600000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Heiligegeiststraße"
 housenumber: 1

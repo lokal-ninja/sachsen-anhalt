@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.422836800000006
 longitude: 11.9340697
-postcode: 06258
+postcode: "06258"
 city: Schkopau
 street: "Fleischergasse"
 housenumber: 5

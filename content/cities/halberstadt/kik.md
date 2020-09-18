@@ -1,4 +1,4 @@
 ---
-title: "KiK"
+title: "kik"
 url: /halberstadt/kik/
 ---

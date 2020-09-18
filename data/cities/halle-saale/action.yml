@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.448856400000004
 longitude: 11.952565600000002
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Südstadtring"
 housenumber: 58

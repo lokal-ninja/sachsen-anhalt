@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.0838261
 longitude: 11.600060500000001
-postcode: 39118
+postcode: "39118"
 city: Magdeburg
 street: "Salbker Chaussee"
 housenumber: 

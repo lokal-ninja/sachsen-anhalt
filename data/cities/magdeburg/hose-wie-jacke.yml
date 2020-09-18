@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.1089661
 longitude: 11.593928100000001
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
 street: "St.-Michael-Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2964211
 longitude: 12.071312800000001
-postcode: 06231
+postcode: "06231"
 city: Bad Dürrenberg
 street: "Seumestraße"
 housenumber: 22

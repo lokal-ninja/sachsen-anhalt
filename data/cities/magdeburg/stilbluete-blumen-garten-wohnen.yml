@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.134032000000005
 longitude: 11.617863000000002
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Olvenstedter Straße"
 housenumber: 65a

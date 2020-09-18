@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.794671900000004
 longitude: 11.3907887
-postcode: 39619
+postcode: "39619"
 city: Arendsee (Altmark)
 street: "Velgauer Straße"
 housenumber: 11b

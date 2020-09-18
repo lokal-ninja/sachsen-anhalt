@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 51.487022700000004
 longitude: 11.966088200000002
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Kleine Ulrichstraße"
 housenumber: 19

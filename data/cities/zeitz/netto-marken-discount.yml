@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.047065200000006
 longitude: 12.124899200000002
-postcode: 06712
+postcode: "06712"
 city: Zeitz
 street: "Geraer Straße"
 housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: ""

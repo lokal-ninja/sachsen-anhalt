@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.3350261
 longitude: 11.9866065
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Straße des Friedens"
 housenumber: 64A
-phone: ""
+phone: "+49 3461 525003"
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.edeka.de/eh/minden-hannover/edeka-griese-str.-des-friedens-64a/index-2.jsp"

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.769316100000005
 longitude: 10.9031418
-postcode: 38889
+postcode: "38889"
 city: Blankenburg
 street: "Alte Bahnhofstraße"
 housenumber: 11

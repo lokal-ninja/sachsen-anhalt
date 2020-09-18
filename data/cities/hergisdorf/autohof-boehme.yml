@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5363957
 longitude: 11.4812227
-postcode: 06313
+postcode: "06313"
 city: Hergisdorf
 street: "Thomas-Müntzer-Straße"
 housenumber: 115

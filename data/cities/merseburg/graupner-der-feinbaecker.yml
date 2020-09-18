@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3616972
 longitude: 11.9946423
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Weiße Mauer"
 housenumber: 29

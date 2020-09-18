@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.486433500000004
 longitude: 11.9674203
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Große Ulrichstraße"
 housenumber: 40

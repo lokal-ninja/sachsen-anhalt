@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.796420600000005
 longitude: 11.741096800000001
-postcode: 06406
+postcode: "06406"
 city: Bernburg
 street: "Wilhelmstraße"
 housenumber: 16

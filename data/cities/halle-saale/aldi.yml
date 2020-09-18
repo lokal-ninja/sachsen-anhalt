@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.43232750000001
 longitude: 11.9830444
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
 street: "Merseburger Straße"
 housenumber: 388

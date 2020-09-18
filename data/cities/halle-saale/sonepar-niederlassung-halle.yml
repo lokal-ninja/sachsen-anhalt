@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.4976196
 longitude: 12.016006800000001
-postcode: 06116
+postcode: "06116"
 city: Halle (Saale)
 street: "Berliner Straße"
 housenumber: 88

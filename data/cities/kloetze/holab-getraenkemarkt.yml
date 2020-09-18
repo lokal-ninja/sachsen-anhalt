@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.634185800000004
 longitude: 11.1565353
-postcode: 38486
+postcode: "38486"
 city: Klötze
 street: "Poppauer Straße"
 housenumber: 36

@@ -3,10 +3,10 @@ type: way
 shop: Großhandel
 latitude: 52.0788717
 longitude: 11.5771248
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Werner-von-Siemens-Ring"
 housenumber: 9
 phone: "+49 391 60960"
-opening_hours: ""
-website: "https://www.metro24.de/pages/DE/Standorte/105_METROMagdeburg"
+opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+website: "https://www.metro.de/standorte/magdeburg"

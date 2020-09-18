@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.524805900000004
 longitude: 11.5231831
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Kasseler Straße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9963988
 longitude: 11.5541353
-postcode: 39171
+postcode: "39171"
 city: Sülzetal
 street: "Altenwedddinger Straße"
 housenumber: 25a

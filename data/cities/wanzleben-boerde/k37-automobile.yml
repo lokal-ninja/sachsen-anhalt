@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.054932
 longitude: 11.451379500000002
-postcode: 39164
+postcode: "39164"
 city: Wanzleben-Börde
 street: "An der Alten Tonkuhle"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.134449800000006
 longitude: 11.6174899
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Olvenstedter Straße"
 housenumber: 64

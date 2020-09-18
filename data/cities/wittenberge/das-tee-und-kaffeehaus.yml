@@ -1,12 +1,12 @@
 id: 6164497288
 type: node
 shop: Kaffee
-latitude: 52.997649700000004
-longitude: 11.7592692
-postcode: 19322
+latitude: 52.994084300000004
+longitude: 11.752861300000001
+postcode: "19322"
 city: Wittenberge
 street: "Bahnstraße"
-housenumber: 22
+housenumber: 87
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-12:30"
+opening_hours: "Mo off; Tu-Fr 09:30-18:00; Sa-Su 14:00-17:30"
 website: ""

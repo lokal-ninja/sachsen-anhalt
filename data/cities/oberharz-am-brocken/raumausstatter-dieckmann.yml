@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 51.7696224
 longitude: 10.804132200000002
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Wasserstraße"
 housenumber: 8

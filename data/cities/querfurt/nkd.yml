@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3799246
 longitude: 11.5982619
-postcode: 06268
+postcode: "06268"
 city: Querfurt
 street: "Braunstraße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.758847900000006
 longitude: 11.458649000000001
-postcode: 06449
+postcode: "06449"
 city: Aschersleben
 street: "Seegraben"
 housenumber: 5

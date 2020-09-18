@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.572361400000005
 longitude: 11.496475
-postcode: 06308
+postcode: "06308"
 city: Benndorf
 street: "Steigerstraße"
 housenumber: 1

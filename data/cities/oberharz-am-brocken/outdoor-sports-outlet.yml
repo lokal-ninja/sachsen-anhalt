@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.674352400000004
 longitude: 10.7153407
-postcode: 38877
+postcode: "38877"
 city: Oberharz am Brocken
 street: "Sandbrink"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2628495
 longitude: 11.6378933
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Rogätzer Straße"
 housenumber: 22

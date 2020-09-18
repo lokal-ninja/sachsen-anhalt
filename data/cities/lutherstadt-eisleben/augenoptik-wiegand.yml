@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.528717400000005
 longitude: 11.547693
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Markt"
 housenumber: 17

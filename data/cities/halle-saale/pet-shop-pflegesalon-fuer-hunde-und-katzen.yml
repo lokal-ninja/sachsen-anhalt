@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 51.4849782
 longitude: 11.9715913
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Mittelstraße"
 housenumber: 5

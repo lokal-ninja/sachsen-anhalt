@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.37343490000001
 longitude: 11.9692156
-postcode: 06217
+postcode: "06217"
 city: Merseburg
 street: "Fischweg"
 housenumber: 20

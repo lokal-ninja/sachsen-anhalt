@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2124505
 longitude: 11.9668071
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Merseburger Straße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1478964
 longitude: 11.822304
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Weißenfelser Straße"
 housenumber: 57 a

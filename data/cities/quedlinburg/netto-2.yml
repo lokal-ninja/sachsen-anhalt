@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.795819400000006
 longitude: 11.137122600000001
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Schillerstraße"
 housenumber: 6

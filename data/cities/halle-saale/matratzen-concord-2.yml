@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 51.5204633
 longitude: 11.9540047
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
 street: "Trothaer Straße"
 housenumber: 43

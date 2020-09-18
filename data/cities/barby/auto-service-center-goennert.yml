@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.91087580000001
 longitude: 11.881628300000001
-postcode: 39240
+postcode: "39240"
 city: Barby
 street: "Patzetzer Straße"
 housenumber: 13

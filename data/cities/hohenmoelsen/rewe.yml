@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1634496
 longitude: 12.094429100000001
-postcode: 06679
+postcode: "06679"
 city: Hohenmölsen
 street: "Wilhelm-Külz-Straße"
 housenumber: 8

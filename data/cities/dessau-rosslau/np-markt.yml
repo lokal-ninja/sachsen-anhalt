@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.905339000000005
 longitude: 12.257048500000002
-postcode: 06862
+postcode: "06862"
 city: Dessau-Roßlau
 street: "Bahnhofstraße"
 housenumber: 49
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00;Sa 07:00-20:00"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
 website: ""

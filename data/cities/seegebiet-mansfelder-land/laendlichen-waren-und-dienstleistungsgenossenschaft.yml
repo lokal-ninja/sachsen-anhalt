@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.46145610000001
 longitude: 11.6686659
-postcode: 06317
+postcode: "06317"
 city: Seegebiet Mansfelder Land
 street: "Erdeborner Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.030342100000006
 longitude: 11.2481617
-postcode: 39387
+postcode: "39387"
 city: Oschersleben
 street: "Anderslebener Straße"
 housenumber: 42b

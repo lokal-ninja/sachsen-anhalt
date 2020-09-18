@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.898756500000005
 longitude: 11.0441497
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Voigtei"
 housenumber: 21

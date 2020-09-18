@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.8314163
 longitude: 12.0785625
-postcode: 39539
+postcode: "39539"
 city: Havelberg
 street: "Semmelweisstraße"
 housenumber: 8

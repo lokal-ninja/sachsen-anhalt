@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4707184
 longitude: 11.293827700000001
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Schützenplatz"
 housenumber: 2

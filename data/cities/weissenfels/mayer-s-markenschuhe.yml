@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1838259
 longitude: 11.926132
-postcode: 06667
+postcode: "06667"
 city: Weißenfels
 street: "Am Marktwege"
 housenumber: 2

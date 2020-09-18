@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.17631050000001
 longitude: 11.627021300000001
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Neuer Sülzeweg"
 housenumber: 102

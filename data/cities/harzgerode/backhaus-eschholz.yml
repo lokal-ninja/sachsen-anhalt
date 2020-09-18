@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.602700000000006
 longitude: 11.20363
-postcode: 06493
+postcode: "06493"
 city: Harzgerode
 street: "Klausstraße"
 housenumber: 133c

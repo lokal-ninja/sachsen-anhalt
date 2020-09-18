@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4757704
 longitude: 11.2971499
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "An der Gonna"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0866903
 longitude: 11.568103800000001
-postcode: 39116
+postcode: "39116"
 city: Magdeburg
 street: "Königstraße"
 housenumber: 65a

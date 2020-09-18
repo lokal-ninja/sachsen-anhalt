@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.736552700000004
 longitude: 11.4343388
-postcode: 06449
+postcode: "06449"
 city: Aschersleben
 street: "Ascherslebener Weg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.453681800000005
 longitude: 12.018056000000001
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Leipziger Chaussee"
 housenumber: 147

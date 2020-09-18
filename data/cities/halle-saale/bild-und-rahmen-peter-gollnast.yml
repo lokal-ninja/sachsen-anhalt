@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.484877600000004
 longitude: 11.9704092
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Barfüßerstraße"
 housenumber: 17

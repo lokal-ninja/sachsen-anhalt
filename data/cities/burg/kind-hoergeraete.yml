@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 52.2703537
 longitude: 11.8588956
-postcode: 39288
+postcode: "39288"
 city: Burg
 street: "Markt"
 housenumber: 30
-phone: "+49 3921 984021"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.kind.com/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Su,PH off"
+website: ""

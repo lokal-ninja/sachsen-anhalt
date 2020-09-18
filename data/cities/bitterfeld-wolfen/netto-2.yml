@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6133236
 longitude: 12.2949845
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
 street: "Leipziger Straße"
 housenumber: 

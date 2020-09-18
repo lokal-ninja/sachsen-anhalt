@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4733329
 longitude: 11.8198807
-postcode: 06198
+postcode: "06198"
 city: Salzatal
 street: "Eisdorfer Straße"
 housenumber: 32

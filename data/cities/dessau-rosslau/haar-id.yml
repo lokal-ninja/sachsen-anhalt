@@ -1,12 +1,12 @@
-id: 2497746288
+id: 441181545
 type: node
 shop: Friseur
-latitude: 51.8092199
-longitude: 12.2554136
-postcode: 06849
+latitude: 51.829864900000004
+longitude: 12.2427636
+postcode: "06842"
 city: Dessau-Roßlau
-street: "Kreuzbergstraße"
-housenumber: 162
-phone: "+49 340 8581504"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-12:30"
-website: "www.haar-id.de"
+street: "Rennstraße"
+housenumber: 9
+phone: "+49340212433"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
+website: "http://www.haar-id.de/"

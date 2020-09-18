@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.790513100000005
 longitude: 11.7521006
-postcode: 39606
+postcode: "39606"
 city: Osterburg (Altmark)
 street: "Breite Straße"
 housenumber: 53

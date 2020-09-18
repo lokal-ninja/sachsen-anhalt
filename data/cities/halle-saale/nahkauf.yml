@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.480728500000005
 longitude: 11.899442800000001
-postcode: 06126
+postcode: "06126"
 city: Halle (Saale)
 street: "Cloppenburger Straße"
 housenumber: 31-34

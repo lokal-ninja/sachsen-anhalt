@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.8375052
 longitude: 10.786612600000002
-postcode: 38855
+postcode: "38855"
 city: Wernigerode
 street: "Grüne Straße"
 housenumber: 62

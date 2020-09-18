@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.40831
 longitude: 12.162058
-postcode: 39307
+postcode: "39307"
 city: Genthin
 street: "Jahnstraße"
 housenumber: 6

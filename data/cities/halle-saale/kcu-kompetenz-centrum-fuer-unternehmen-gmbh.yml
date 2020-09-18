@@ -3,7 +3,7 @@ type: way
 shop: Immobilien
 latitude: 51.474361
 longitude: 11.9871554
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Maybachstraße"
 housenumber: 1

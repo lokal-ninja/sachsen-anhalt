@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.496818000000005
 longitude: 11.9665432
-postcode: 06114
+postcode: "06114"
 city: Halle (Saale)
 street: "Reilstraße"
 housenumber: 129

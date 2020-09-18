@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.1281946
 longitude: 11.5995982
-postcode: 39110
+postcode: "39110"
 city: Magdeburg
 street: "Große Diesdorfer Straße"
 housenumber: 186/187

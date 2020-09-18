@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7894264
 longitude: 11.1426449
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Schuhhof"
 housenumber: 2

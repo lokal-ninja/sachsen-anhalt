@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.152632700000005
 longitude: 11.7181505
-postcode: 39175
+postcode: "39175"
 city: Biederitz
 street: ""
 housenumber: 

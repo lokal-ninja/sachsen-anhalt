@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.026805800000005
 longitude: 11.2262488
-postcode: 39387
+postcode: "39387"
 city: Oschersleben (Bode)
 street: "Hornhäuser Straße"
 housenumber: 1

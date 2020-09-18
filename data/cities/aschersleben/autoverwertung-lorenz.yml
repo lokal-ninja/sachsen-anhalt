@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.734751300000006
 longitude: 11.4299923
-postcode: 06449
+postcode: "06449"
 city: Aschersleben
 street: "Welbslebener Chaussee"
 housenumber: 2

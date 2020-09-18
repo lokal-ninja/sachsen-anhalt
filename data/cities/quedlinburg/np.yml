@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.782648300000005
 longitude: 11.1523619
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Stresemannstraße"
 housenumber: 7

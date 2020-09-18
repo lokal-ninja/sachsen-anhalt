@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6022587
 longitude: 11.8476592
-postcode: 39576
+postcode: "39576"
 city: Stendal
 street: "Stadtseeallee"
 housenumber: 31

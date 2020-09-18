@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.12388180000001
 longitude: 11.6117763
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Liebknechtstraße"
 housenumber: 34

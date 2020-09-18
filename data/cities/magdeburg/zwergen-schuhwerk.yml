@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.1278012
 longitude: 11.6098139
-postcode: 39108
+postcode: "39108"
 city: Magdeburg
 street: "Annastraße"
 housenumber: 37

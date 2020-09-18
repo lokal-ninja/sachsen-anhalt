@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.748867800000006
 longitude: 11.051027600000001
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Bertolt-Brecht-Straße"
 housenumber: 43

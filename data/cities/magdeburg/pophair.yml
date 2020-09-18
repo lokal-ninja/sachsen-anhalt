@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1088019
 longitude: 11.6393757
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Schönebecker Straße"
 housenumber: 116

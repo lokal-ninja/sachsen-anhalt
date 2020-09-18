@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.853847200000004
 longitude: 12.044666600000001
-postcode: 06385
+postcode: "06385"
 city: Aken (Elbe)
 street: "Köthener Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.037317
 longitude: 11.2491453
-postcode: 39387
+postcode: "39387"
 city: Oschersleben
 street: "Am Eulenbruch"
 housenumber: 2

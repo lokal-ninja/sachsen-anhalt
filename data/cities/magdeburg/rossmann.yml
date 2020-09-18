@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.119731900000005
 longitude: 11.6588448
-postcode: 39114
+postcode: "39114"
 city: Magdeburg
 street: "Cracauer Straße"
 housenumber: 60

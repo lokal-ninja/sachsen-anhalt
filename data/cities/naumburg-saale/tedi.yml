@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.1623632
 longitude: 11.7982992
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Bahnhofstraße"
 housenumber: 

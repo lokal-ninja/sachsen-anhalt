@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.788570400000005
 longitude: 11.141234
-postcode: 06484
+postcode: "06484"
 city: Quedlinburg
 street: "Markt"
 housenumber: 9

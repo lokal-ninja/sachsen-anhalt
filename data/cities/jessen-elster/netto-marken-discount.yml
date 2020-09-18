@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.790610900000004
 longitude: 12.9569162
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Baderhag"
 housenumber: 1

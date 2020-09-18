@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6234228
 longitude: 11.0764258
-postcode: 38486
+postcode: "38486"
 city: Klötze
 street: "Neuferchauer Weg"
 housenumber: 7

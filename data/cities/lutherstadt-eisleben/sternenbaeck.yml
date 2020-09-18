@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.512220600000006
 longitude: 11.5759509
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Herner Straße"
 housenumber: 7

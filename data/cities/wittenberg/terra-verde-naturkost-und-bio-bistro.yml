@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.865584500000004
 longitude: 12.648008500000001
-postcode: 06886
+postcode: "06886"
 city: Wittenberg
 street: "Collegienstraße"
 housenumber: 26

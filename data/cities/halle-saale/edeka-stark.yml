@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.516466
 longitude: 11.913900100000001
-postcode: 06120
+postcode: "06120"
 city: Halle (Saale)
 street: "Heideringpassage"
 housenumber: 10

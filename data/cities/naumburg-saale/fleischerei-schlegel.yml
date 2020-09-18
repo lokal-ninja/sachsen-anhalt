@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1530372
 longitude: 11.808179200000001
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Herrenstraße"
 housenumber: 21

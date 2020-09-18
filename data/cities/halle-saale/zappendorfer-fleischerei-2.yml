@@ -1,12 +1,12 @@
-id: 3660748125
-type: node
+id: 415971383
+type: way
 shop: Metzgerei
-latitude: 51.47452070000001
-longitude: 11.970118800000002
-postcode: 06110
+latitude: 51.4962511
+longitude: 11.9660721
+postcode: "06114"
 city: Halle (Saale)
-street: "Steinweg"
-housenumber: 25
-phone: ""
+street: "Reilstraße"
+housenumber: 4
+phone: "+49 345 6824149"
 opening_hours: ""
-website: ""
+website: "https://www.zappendorfer.de/"

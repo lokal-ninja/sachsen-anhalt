@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1486772
 longitude: 11.8239728
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Franz-Julius-Hoelz-Straße"
 housenumber: 3

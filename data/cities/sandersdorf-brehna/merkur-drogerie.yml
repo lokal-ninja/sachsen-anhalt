@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.6272487
 longitude: 12.266865300000001
-postcode: 06792
+postcode: "06792"
 city: Sandersdorf-Brehna
 street: "Hauptstraße"
 housenumber: 15

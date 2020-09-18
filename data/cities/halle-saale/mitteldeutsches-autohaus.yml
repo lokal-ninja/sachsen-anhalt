@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4735729
 longitude: 11.985805500000001
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Rudolf-Ernst-Weise-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8652255
 longitude: 12.6184609
-postcode: 06886
+postcode: "06886"
 city: Wittenberg
 street: "Dessauer Straße"
 housenumber: 12

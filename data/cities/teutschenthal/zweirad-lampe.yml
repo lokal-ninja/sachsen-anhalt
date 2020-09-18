@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4484938
 longitude: 11.9008403
-postcode: 06179
+postcode: "06179"
 city: Teutschenthal
 street: "Ernst-Thälmann-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6271196
 longitude: 12.1097123
-postcode: 06780
+postcode: "06780"
 city: Zörbig
 street: "Stumsdorfer Straße"
 housenumber: 5

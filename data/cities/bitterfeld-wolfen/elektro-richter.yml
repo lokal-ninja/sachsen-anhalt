@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6607653
 longitude: 12.2747159
-postcode: 06766
+postcode: "06766"
 city: Bitterfeld-Wolfen
 street: "Bahnhofstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.506422
 longitude: 11.5909156
-postcode: 06295
+postcode: "06295"
 city: Lutherstadt Eisleben
 street: "Am Strohügel"
 housenumber: 2

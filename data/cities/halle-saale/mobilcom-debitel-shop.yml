@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.480571100000006
 longitude: 11.919291600000001
-postcode: 06122
+postcode: "06122"
 city: Halle (Saale)
 street: "Neustädter Passage"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.165403600000005
 longitude: 11.6039294
-postcode: 39128
+postcode: "39128"
 city: Magdeburg
 street: "Silberbergweg"
 housenumber: 10

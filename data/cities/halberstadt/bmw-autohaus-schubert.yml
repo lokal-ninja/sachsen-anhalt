@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.879358200000006
 longitude: 11.076832000000001
-postcode: 38820
+postcode: "38820"
 city: Halberstadt
 street: "Im Sülzeteiche"
 housenumber: 1

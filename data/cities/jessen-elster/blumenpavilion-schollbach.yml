@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.796404100000004
 longitude: 12.9616366
-postcode: 06917
+postcode: "06917"
 city: Jessen (Elster)
 street: "Jessener Schulstraße"
 housenumber: 4

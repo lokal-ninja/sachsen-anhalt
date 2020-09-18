@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.573967100000004
 longitude: 11.277550000000002
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Wippraer Bahnhofstraße"
 housenumber: 21

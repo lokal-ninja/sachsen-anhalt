@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.769210300000005
 longitude: 10.8083541
-postcode: 38875
+postcode: "38875"
 city: Oberharz am Brocken
 street: "Mühlental"
 housenumber: 4

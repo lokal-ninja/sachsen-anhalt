@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.457553700000005
 longitude: 12.0062802
-postcode: 06112
+postcode: "06112"
 city: Halle (Saale)
 street: "Dieselstraße"
 housenumber: 19

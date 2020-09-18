@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.0321919
 longitude: 11.2379233
-postcode: 39387
+postcode: "39387"
 city: Oschersleben (Bode)
 street: "Schermcker Straße"
 housenumber: 15

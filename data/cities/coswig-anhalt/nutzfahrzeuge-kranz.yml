@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.8848299
 longitude: 12.428226800000001
-postcode: 06869
+postcode: "06869"
 city: Coswig (Anhalt)
 street: "Am Brennickel"
 housenumber: 5

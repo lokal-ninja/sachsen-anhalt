@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.7093165
 longitude: 11.2942327
-postcode: 06463
+postcode: "06463"
 city: Falkenstein/Harz
 street: "Hauptstraße"
 housenumber: 196b

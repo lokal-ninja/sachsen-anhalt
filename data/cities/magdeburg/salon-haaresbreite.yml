@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.09669220000001
 longitude: 11.628534700000001
-postcode: 39120
+postcode: "39120"
 city: Magdeburg
 street: "Lion-Feuchtwanger-Straße"
 housenumber: 27

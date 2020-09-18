@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8703815
 longitude: 12.654167500000002
-postcode: 06886
+postcode: "06886"
 city: Wittenberg
 street: "Paul-Gerhardt-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.723838900000004
 longitude: 12.4446545
-postcode: 06773
+postcode: "06773"
 city: Gräfenhainichen
 street: "Nachtigallenweg"
 housenumber: 1

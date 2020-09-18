@@ -1,4 +1,4 @@
 ---
-title: "Müller (Drogerie)"
+title: "Müller-Drogerie"
 url: /merseburg/mueller-drogerie/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.1047245
 longitude: 11.638199
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Karl-Schmidt-Straße"
 housenumber: 13b

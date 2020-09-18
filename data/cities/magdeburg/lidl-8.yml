@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1469595
 longitude: 11.6547522
-postcode: 39106
+postcode: "39106"
 city: Magdeburg
 street: "Rogätzer Straße"
 housenumber: 25

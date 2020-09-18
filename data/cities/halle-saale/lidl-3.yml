@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4805507
 longitude: 11.9097159
-postcode: 06126
+postcode: "06126"
 city: Halle (Saale)
 street: "Nietlebener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4569722
 longitude: 11.962075800000001
-postcode: 06128
+postcode: "06128"
 city: Halle (Saale)
 street: "Paul-Suhr-Straße"
 housenumber: 44

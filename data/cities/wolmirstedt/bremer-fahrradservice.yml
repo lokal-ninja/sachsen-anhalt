@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.251727100000004
 longitude: 11.6329177
-postcode: 39326
+postcode: "39326"
 city: Wolmirstedt
 street: "Zur Grube"
 housenumber: 2

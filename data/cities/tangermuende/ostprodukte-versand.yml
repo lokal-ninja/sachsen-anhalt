@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.5404472
 longitude: 11.969173300000001
-postcode: 39590
+postcode: "39590"
 city: Tangermünde
 street: "Lange Straße"
 housenumber: 74

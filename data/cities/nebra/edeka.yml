@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2862802
 longitude: 11.5896255
-postcode: 06642
+postcode: "06642"
 city: Nebra
 street: "Erlenweg"
 housenumber: 3

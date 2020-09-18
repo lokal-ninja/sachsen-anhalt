@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.749687400000006
 longitude: 11.047041400000001
-postcode: 06502
+postcode: "06502"
 city: Thale
 street: "Bertolt-Brecht-Straße"
 housenumber: 2

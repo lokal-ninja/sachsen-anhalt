@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4661814
 longitude: 11.272447000000001
-postcode: 06526
+postcode: "06526"
 city: Sangerhausen
 street: "Landweg"
 housenumber: 4

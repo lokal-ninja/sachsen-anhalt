@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.1480625
 longitude: 11.5815748
-postcode: 39130
+postcode: "39130"
 city: Magdeburg
 street: "Bruno-Taut-Ring"
 housenumber: 3b

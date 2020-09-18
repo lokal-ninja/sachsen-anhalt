@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.5384947
 longitude: 11.9672294
-postcode: 39590
+postcode: "39590"
 city: Tangermünde
 street: "Magdeburger Straße"
 housenumber: 70

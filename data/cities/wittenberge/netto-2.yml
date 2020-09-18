@@ -1,12 +1,12 @@
-id: 232388283
+id: 178574299
 type: way
 shop: Supermarkt
-latitude: 53.0005492
-longitude: 11.7314456
-postcode: 19322
+latitude: 52.9946222
+longitude: 11.750800700000001
+postcode: "19322"
 city: Wittenberge
-street: "Lenzener Chaussee"
-housenumber: 64
+street: "Turmstraße"
+housenumber: 12
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.netto.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.1584012
 longitude: 11.822223200000002
-postcode: 06618
+postcode: "06618"
 city: Naumburg (Saale)
 street: "Overwegstraße"
 housenumber: 1cf

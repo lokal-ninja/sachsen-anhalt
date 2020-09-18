@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.878581700000005
 longitude: 11.078669900000001
-postcode: 38829
+postcode: "38829"
 city: Harsleben
 street: "Am Galgenberg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.1312463
 longitude: 11.639054000000002
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Alter Markt"
 housenumber: 5

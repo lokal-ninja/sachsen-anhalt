@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.1283436
 longitude: 11.635869300000001
-postcode: 39104
+postcode: "39104"
 city: Magdeburg
 street: "Bärplatz"
 housenumber: 3

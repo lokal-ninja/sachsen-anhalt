@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 51.48034620000001
 longitude: 11.9702602
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
 street: "Alter Markt"
 housenumber: 4

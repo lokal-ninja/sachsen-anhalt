@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.6705594
 longitude: 10.7099718
-postcode: 38877
+postcode: "38877"
 city: Oberharz am Brocken
 street: "Voigtsfeld"
 housenumber: 9
