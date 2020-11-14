@@ -1,4 +1,4 @@
 ---
-title: "RUNNERS POINT"
+title: "Runners Point"
 url: /halle-saale/runners-point/
 ---

@@ -1,12 +1,12 @@
-id: 1670356556
-type: node
+id: 558775554
+type: way
 shop: Supermarkt
-latitude: 51.612614400000005
-longitude: 12.3060322
-postcode: "06749"
+latitude: 51.681863400000005
+longitude: 12.2623333
+postcode: "06766"
 city: Bitterfeld-Wolfen
-street: "Brehnaer Straße"
-housenumber: 
+street: "Dessauer Allee"
+housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+website: ""

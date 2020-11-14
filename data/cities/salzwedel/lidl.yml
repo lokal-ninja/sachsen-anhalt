@@ -1,12 +1,12 @@
-id: 289530828
-type: node
+id: 743827741
+type: way
 shop: Supermarkt
-latitude: 52.841537900000006
-longitude: 11.172684400000001
+latitude: 52.841295800000005
+longitude: 11.1724327
 postcode: "29410"
 city: Salzwedel
 street: "Arendseer Straße"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
 website: ""
