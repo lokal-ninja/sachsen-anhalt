@@ -1,12 +1,12 @@
-id: 428335024
+id: 336042410
 type: node
 shop: Supermarkt
-latitude: 52.180374300000004
-longitude: 11.667436100000002
-postcode: "39126"
+latitude: 52.1481572
+longitude: 11.573679
+postcode: "39130"
 city: Magdeburg
-street: "Scheidebuschstraße"
-housenumber: 30
+street: "Roggengrund"
+housenumber: 37
 phone: ""
-opening_hours: ""
-website: "https://www.penny.de/"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: ""

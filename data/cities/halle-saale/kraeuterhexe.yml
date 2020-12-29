@@ -1,12 +1,12 @@
-id: 303144448
-type: way
-shop: Bioladen
-latitude: 51.49371300000001
-longitude: 11.969074800000001
+id: 8162602631
+type: node
+shop: Tee
+latitude: 51.4937344
+longitude: 11.969324100000001
 postcode: "06108"
 city: Halle (Saale)
 street: "Ludwig-Wucherer-Straße"
 housenumber: 33
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 345 5224522"
+opening_hours: "Mo-Fr 10:30-19:00, Sa 10.30-15.00"
+website: "https://www.die-kraeuterhexe.de"

@@ -1,12 +1,12 @@
-id: 352099146
-type: way
+id: 1169909890
+type: node
 shop: Supermarkt
-latitude: 51.573967100000004
-longitude: 11.277550000000002
+latitude: 51.4376175
+longitude: 11.305961400000001
 postcode: "06526"
 city: Sangerhausen
-street: "Wippraer Bahnhofstraße"
-housenumber: 21
+street: "Sangerhäuser Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""
