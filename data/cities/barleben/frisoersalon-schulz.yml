@@ -1,6 +1,5 @@
 id: 1233933713
 type: node
-shop: Friseur
 latitude: 52.1814145
 longitude: 11.5712928
 postcode: "39179"
@@ -8,5 +7,5 @@ city: Barleben
 street: "Olvenstedter Straße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo,We 08:30–18:30; Tu 08:30–12:30; Th 15:00–20:00; Fr 09:30–18:30; Sa,Su,PH off"
+opening_hours: "Mo,We 08:30-18:30; Tu 08:30-12:30; Th 15:00-20:00; Fr 09:30-18:30; Sa,Su,PH off"
 website: ""

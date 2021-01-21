@@ -1,6 +1,5 @@
 id: 5208030622
 type: node
-shop: Lebensmittel
 latitude: 52.1262218
 longitude: 11.612554600000001
 postcode: "39108"
@@ -8,5 +7,5 @@ city: Magdeburg
 street: "Arndtstraße"
 housenumber: 38
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:31,14:31-19:00; Sa 10:00-16:00"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: ""

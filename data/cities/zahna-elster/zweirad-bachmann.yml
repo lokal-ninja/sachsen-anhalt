@@ -1,6 +1,5 @@
 id: 8205143136
 type: node
-shop: Fahrrad
 latitude: 51.8267857
 longitude: 12.8333089
 postcode: "06895"
@@ -8,5 +7,5 @@ city: Zahna-Elster
 street: "Dresdener Straße"
 housenumber: 19a
 phone: ""
-opening_hours: "Mo–Fr 09:30–12:00,13:30–18:00; Sa 09:00–12:00; Su,PH off"
+opening_hours: "Mo-Fr 09:30-12:00,13:30-18:00; Sa 09:00-12:00; Su,PH off"
 website: ""

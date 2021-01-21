@@ -1,6 +1,5 @@
 id: 598718683
 type: node
-shop: Bäckerei
 latitude: 52.1270102
 longitude: 11.610124800000001
 postcode: "39108"
@@ -8,5 +7,5 @@ city: Magdeburg
 street: ""
 housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 07:00-18:00"
+opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 07:00-17:00"
 website: ""

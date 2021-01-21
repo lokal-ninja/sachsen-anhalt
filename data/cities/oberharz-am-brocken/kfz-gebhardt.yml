@@ -1,6 +1,5 @@
 id: 7110707690
 type: node
-shop: Autowerkstatt
 latitude: 51.700571200000006
 longitude: 10.7294677
 postcode: "38875"
@@ -8,5 +7,5 @@ city: Oberharz am Brocken
 street: "Bodetalstraße"
 housenumber: 3B
 phone: ""
-opening_hours: "Mo-Th 08.00-18.00; Fr 08:00-17:00; Sa,Su,PH off"
+opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa,Su,PH off"
 website: ""

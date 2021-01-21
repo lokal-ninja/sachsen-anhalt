@@ -1,6 +1,5 @@
 id: 7237265834
 type: node
-shop: Supermarkt
 latitude: 51.8440905
 longitude: 11.7675706
 postcode: "06429"
@@ -8,5 +7,5 @@ city: Nienburg
 street: "Calbesche Straße"
 housenumber: 32
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00 Sa 8:00-12:00"
+opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-12:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 192334622
 type: way
-shop: Supermarkt
 latitude: 51.142307800000005
 longitude: 11.780660000000001
 postcode: "06618"
@@ -8,5 +7,5 @@ city: Naumburg (Saale)
 street: "Flemminger Weg"
 housenumber: 145
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

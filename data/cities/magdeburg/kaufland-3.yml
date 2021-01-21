@@ -1,12 +1,11 @@
-id: 27695403
-type: way
-shop: Supermarkt
-latitude: 52.120921200000005
-longitude: 11.612191300000001
-postcode: "39108"
+id: 360323185
+type: node
+latitude: 52.1073005
+longitude: 11.5924992
+postcode: "39112"
 city: Magdeburg
-street: "Zur Viehbörse"
-housenumber: 1
+street: "Halberstädter Straße"
+housenumber: 182-186
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-20:00"
+opening_hours: ""
 website: ""

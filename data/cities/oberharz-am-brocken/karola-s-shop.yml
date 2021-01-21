@@ -1,6 +1,5 @@
 id: 7256584624
 type: node
-shop: Allgemein
 latitude: 51.6620782
 longitude: 10.882079800000001
 postcode: "38899"
@@ -8,5 +7,5 @@ city: Oberharz am Brocken
 street: "Lange Straße"
 housenumber: 37
 phone: ""
-opening_hours: "Mo-Fr 09:00–12:30,15:00–18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:00; Su,PH off"
 website: ""

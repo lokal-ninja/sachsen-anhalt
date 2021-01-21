@@ -1,6 +1,5 @@
 id: 288498218
 type: node
-shop: Supermarkt
 latitude: 51.7894025
 longitude: 10.958332700000001
 postcode: "38889"
@@ -8,5 +7,5 @@ city: Blankenburg (Harz)
 street: "Schnappelberg"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 1974885785
 type: node
-shop: Fahrrad
 latitude: 51.4990553
 longitude: 11.966697700000001
 postcode: "06114"
@@ -8,5 +7,5 @@ city: Halle (Saale)
 street: "Reilstraße"
 housenumber: 126
 phone: "+49 345 5226756"
-opening_hours: ""
+opening_hours: "Mo-We,Fr 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-20:00; Sa 10:00-13:00"
 website: "http://www.rad-plus-tat.de"

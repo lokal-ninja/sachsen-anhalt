@@ -1,12 +1,11 @@
-id: 138122848
-type: way
-shop: Supermarkt
-latitude: 51.4715703
-longitude: 11.923274900000001
-postcode: ""
+id: 6168186873
+type: node
+latitude: 51.448499000000005
+longitude: 11.958161400000002
+postcode: "06128"
 city: Halle (Saale)
-street: "Zollrain"
-housenumber: 9
+street: "Südstadtring"
+housenumber: 90
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
 website: ""

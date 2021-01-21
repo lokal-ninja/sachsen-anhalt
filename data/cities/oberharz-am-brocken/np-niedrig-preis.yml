@@ -1,6 +1,5 @@
 id: 197582202
 type: way
-shop: Supermarkt
 latitude: 51.6673739
 longitude: 10.718467700000001
 postcode: "38877"
@@ -8,5 +7,5 @@ city: Oberharz am Brocken
 street: "Teichdamm"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

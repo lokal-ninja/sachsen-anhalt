@@ -1,6 +1,5 @@
 id: 1306550142
 type: node
-shop: Metzgerei
 latitude: 51.437708300000004
 longitude: 11.306047000000001
 postcode: "06526"
@@ -8,5 +7,5 @@ city: Sangerhausen
 street: "Sangerhäuser Straße"
 housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 08.00-18.00; Sa 08.00-18.00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-18:00; Su,PH off"
 website: ""

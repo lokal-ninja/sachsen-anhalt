@@ -1,6 +1,5 @@
 id: 5296202586
 type: node
-shop: Allgemein
 latitude: 51.8526771
 longitude: 12.044291300000001
 postcode: "06385"
@@ -8,5 +7,5 @@ city: Aken (Elbe)
 street: "Köthener Straße"
 housenumber: 41
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00 Sa 09:00-12:00"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
 website: ""

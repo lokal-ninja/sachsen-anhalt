@@ -1,4 +1,5 @@
 ---
 title: "Haar-ID"
 url: /dessau-rosslau/haar-id/
+shop: Friseur
 ---

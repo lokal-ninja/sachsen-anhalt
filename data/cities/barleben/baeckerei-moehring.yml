@@ -1,6 +1,5 @@
 id: 1233371334
 type: node
-shop: Bäckerei
 latitude: 52.2098206
 longitude: 11.563399500000001
 postcode: "39179"
@@ -8,5 +7,5 @@ city: Barleben
 street: "Lange Straße"
 housenumber: 9
 phone: ""
-opening_hours: "Tu,We 08:00–13:00,15:00–18:00; Th,Fr 08:00-18:00; Sa 07:00-10:00; Mo,Su,PH off"
+opening_hours: "Tu,We 08:00-13:00,15:00-18:00; Th,Fr 08:00-18:00; Sa 07:00-10:00; Mo,Su,PH off"
 website: ""

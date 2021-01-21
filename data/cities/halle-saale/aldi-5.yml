@@ -1,6 +1,5 @@
 id: 60370697
 type: way
-shop: Supermarkt
 latitude: 51.4931337
 longitude: 11.9320444
 postcode: "06120"
@@ -8,5 +7,5 @@ city: Halle (Saale)
 street: "Blücherstraße"
 housenumber: 36
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-nord.de/"

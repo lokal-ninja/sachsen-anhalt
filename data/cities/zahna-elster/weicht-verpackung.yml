@@ -1,6 +1,5 @@
 id: 8214782960
 type: node
-shop: Allgemein
 latitude: 51.860739800000005
 longitude: 12.7190916
 postcode: "06895"
@@ -8,5 +7,5 @@ city: Zahna-Elster
 street: "Marktstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,15:00-17:00; Sa 09.00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 10:00-14:00,15:00-17:00; Sa 09:00-12:00; Su,PH off"
 website: ""

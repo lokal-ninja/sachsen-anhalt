@@ -1,6 +1,5 @@
 id: 3660731025
 type: node
-shop: Kiosk
 latitude: 51.4744753
 longitude: 11.969815700000002
 postcode: "06110"
@@ -8,5 +7,5 @@ city: Halle (Saale)
 street: "Steinweg"
 housenumber: 32
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-19:00; Sa 08:00-17:00"
 website: ""

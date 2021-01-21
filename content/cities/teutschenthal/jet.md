@@ -1,4 +1,5 @@
 ---
-title: "JET"
+title: "Jet"
 url: /teutschenthal/jet/
+shop: Allgemein
 ---

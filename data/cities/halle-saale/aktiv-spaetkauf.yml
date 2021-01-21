@@ -1,6 +1,5 @@
 id: 5698531621
 type: node
-shop: Lebensmittel
 latitude: 51.474134600000006
 longitude: 11.969545400000001
 postcode: "06110"
@@ -8,5 +7,5 @@ city: Halle (Saale)
 street: "Steinweg"
 housenumber: 30
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-22:00; Sa 10:00-22:00; Su 13:00-20:00"
 website: ""

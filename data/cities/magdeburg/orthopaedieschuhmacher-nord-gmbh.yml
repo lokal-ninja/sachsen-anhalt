@@ -1,6 +1,5 @@
 id: 709029586
 type: node
-shop: Schuhe
 latitude: 52.1522817
 longitude: 11.6377947
 postcode: "39124"
@@ -8,5 +7,5 @@ city: Magdeburg
 street: "Lübecker Straße"
 housenumber: 10
 phone: "+49 ß391 3005296"
-opening_hours: "Mo,Tu,Th 09:00-18:00; We,Fr 09:00-12:00"
+opening_hours: "Mo,Tu 09:00-16:00; We,Fr 09:00-12:00; Th 09:00-18:00"
 website: "https://www.schuhmacher-nord-gmbh.de/"

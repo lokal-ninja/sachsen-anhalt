@@ -1,6 +1,5 @@
 id: 3660729525
 type: node
-shop: Möbel
 latitude: 51.474502
 longitude: 11.969853
 postcode: "06110"
@@ -8,5 +7,5 @@ city: Halle (Saale)
 street: "Steinweg"
 housenumber: 32
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-13:00"
 website: ""
