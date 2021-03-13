@@ -1,11 +1,11 @@
-id: 130552850
-type: way
-latitude: 52.0883096
-longitude: 11.566013
-postcode: "39116"
+id: 8195089948
+type: node
+latitude: 52.1431327
+longitude: 11.6533455
+postcode: "39106"
 city: Magdeburg
-street: "Königstraße"
-housenumber: 82
-phone: "+49 391 6202007"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.niedrig-preis.de/"
+street: "Rogätzer Straße"
+housenumber: 5a
+phone: ""
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+website: ""

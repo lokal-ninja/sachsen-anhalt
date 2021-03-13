@@ -1,11 +1,11 @@
-id: 94777291
-type: way
-latitude: 52.1568887
-longitude: 11.6265592
-postcode: "39128"
+id: 7735596103
+type: node
+latitude: 52.129763800000006
+longitude: 11.639079
+postcode: "39104"
 city: Magdeburg
-street: "Thietmarstraße"
-housenumber: 17
+street: "Ernst-Reuter-Allee"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: ""
+website: ""

@@ -1,5 +1,5 @@
 ---
-title: "porta"
+title: "Porta"
 url: /stendal/porta/
 shop: Möbel
 ---

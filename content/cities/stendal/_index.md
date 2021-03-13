@@ -1,6 +1,6 @@
 ---
 title: Stendal
 url: /stendal/
-latitude: 52.6051341
-longitude: 11.8593217
+latitude: 52.6050782
+longitude: 11.8594279
 ---
