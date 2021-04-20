@@ -1,11 +1,11 @@
-id: 2859495881
-type: node
-latitude: 52.129846500000006
-longitude: 11.638508400000001
+id: 880797664
+type: way
+latitude: 52.1307574
+longitude: 11.6304586
 postcode: "39104"
 city: Magdeburg
-street: "Ernst-Reuter-Allee"
-housenumber: 11
+street: "Kantstraße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Th 09:30-20:00; Fr 09:30-22:00; Sa 09:30-20:00"
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""
