@@ -1,5 +1,5 @@
 ---
-title: "mobilcom debitel"
+title: "Mobilcom Debitel"
 url: /salzwedel/mobilcom-debitel/
 shop: Handy
 ---

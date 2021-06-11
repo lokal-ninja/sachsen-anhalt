@@ -1,5 +1,5 @@
 ---
-title: "GROSCHEN-MARKT"
+title: "Groschen-Markt"
 url: /biederitz/groschen-markt/
-shop: Supermarkt
+shop: Kramladen
 ---
