@@ -1,5 +1,5 @@
 ---
-title: "NP."
+title: "NP"
 url: /raguhn-jessnitz/np/
 shop: Supermarkt
 ---

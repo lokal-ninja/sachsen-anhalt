@@ -1,5 +1,5 @@
 ---
-title: "Groschen-Markt"
+title: "Groschen Markt"
 url: /luetzen/groschen-markt/
-shop: Warenhaus
+shop: Kramladen
 ---
