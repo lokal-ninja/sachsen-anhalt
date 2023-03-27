@@ -1,6 +1,6 @@
 ---
 title: Haldensleben
 url: /haldensleben/
-latitude: 52.263
-longitude: 11.427
+latitude: 52.264
+longitude: 11.423
 ---
