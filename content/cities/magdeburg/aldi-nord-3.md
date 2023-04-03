@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /weissenfels/aldi-nord/
+url: /magdeburg/aldi-nord/
 shop: Supermarkt
 ---
