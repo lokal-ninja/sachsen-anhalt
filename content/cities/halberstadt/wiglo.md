@@ -1,5 +1,5 @@
 ---
 title: "Wiglo"
 url: /halberstadt/wiglo/
-shop: Supermarkt
+shop: Kramladen
 ---
