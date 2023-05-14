@@ -1,6 +1,6 @@
 ---
 title: Möser
 url: /moeser/
-latitude: 52.212
-longitude: 11.737
+latitude: 52.214
+longitude: 11.794
 ---
