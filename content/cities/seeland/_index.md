@@ -1,6 +1,6 @@
 ---
 title: Seeland
 url: /seeland/
-latitude: 51.821
-longitude: 11.288
+latitude: 51.822
+longitude: 11.285
 ---
