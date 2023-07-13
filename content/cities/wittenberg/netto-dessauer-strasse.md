@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /halle-saale/netto/
+url: /wittenberg/netto/
 shop: Supermarkt
 ---
