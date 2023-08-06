@@ -1,6 +1,6 @@
 ---
 title: Aschersleben
 url: /aschersleben/
-latitude: 51.76
-longitude: 11.436
+latitude: 51.754
+longitude: 11.457
 ---

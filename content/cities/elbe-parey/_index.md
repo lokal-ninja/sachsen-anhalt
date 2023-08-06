@@ -1,6 +1,6 @@
 ---
 title: Elbe-Parey
 url: /elbe-parey/
-latitude: 52.342
-longitude: 11.978
+latitude: 52.376
+longitude: 11.984
 ---
