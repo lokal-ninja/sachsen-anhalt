@@ -1,6 +1,6 @@
 ---
 title: Wefensleben
 url: /wefensleben/
-latitude: 52.184
-longitude: 11.162
+latitude: 52.19
+longitude: 11.159
 ---
