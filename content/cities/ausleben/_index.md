@@ -1,6 +1,6 @@
 ---
 title: Ausleben
 url: /ausleben/
-latitude: 52.088
-longitude: 11.119
+latitude: 52.085
+longitude: 11.122
 ---
