@@ -1,6 +1,6 @@
 ---
 title: Zeitz
 url: /zeitz/
-latitude: 51.037
-longitude: 12.164
+latitude: 51.071
+longitude: 12.122
 ---
