@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bernburg/dm/
+url: /bernburg/dm-lindenstrasse/
 shop: Drogerie
 ---

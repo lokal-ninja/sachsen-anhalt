@@ -1,5 +1,5 @@
 ---
 title: "Globus"
-url: /halle-saale/globus/
+url: /halle-saale/globus-dieselstrasse/
 shop: Supermarkt
 ---

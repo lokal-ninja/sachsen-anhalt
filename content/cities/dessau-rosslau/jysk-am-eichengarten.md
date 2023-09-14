@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /dessau-rosslau/jysk/
+url: /dessau-rosslau/jysk-am-eichengarten/
 shop: Möbel
 ---

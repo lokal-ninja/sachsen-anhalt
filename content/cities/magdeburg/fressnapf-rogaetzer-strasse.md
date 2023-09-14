@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /magdeburg/fressnapf/
+url: /magdeburg/fressnapf-rogaetzer-strasse/
 shop: Tiere
 ---

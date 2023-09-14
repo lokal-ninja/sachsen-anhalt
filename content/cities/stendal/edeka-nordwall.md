@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /stendal/edeka/
+url: /stendal/edeka-nordwall/
 shop: Supermarkt
 ---

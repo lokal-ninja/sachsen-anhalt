@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /stendal/vodafone/
+url: /stendal/vodafone-breite-strasse/
 shop: Handy
 ---

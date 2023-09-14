@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /magdeburg/fressnapf/
+url: /magdeburg/fressnapf-salbker-chaussee/
 shop: Tiere
 ---

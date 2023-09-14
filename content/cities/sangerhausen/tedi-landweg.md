@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /sangerhausen/tedi/
+url: /sangerhausen/tedi-landweg/
 shop: Kramladen
 ---

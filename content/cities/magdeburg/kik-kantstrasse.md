@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /magdeburg/kik/
+url: /magdeburg/kik-kantstrasse/
 shop: Kleidung
 ---

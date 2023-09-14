@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /moeser/netto-marken-discount/
+url: /moeser/netto-marken-discount-feldstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thonke"
-url: /stendal/thonke/
+url: /stendal/thonke-scharnhorststrasse/
 shop: Bäckerei
 ---

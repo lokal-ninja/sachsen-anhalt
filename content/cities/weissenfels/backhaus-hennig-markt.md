@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Hennig"
-url: /weissenfels/backhaus-hennig/
+url: /weissenfels/backhaus-hennig-markt/
 shop: Bäckerei
 ---

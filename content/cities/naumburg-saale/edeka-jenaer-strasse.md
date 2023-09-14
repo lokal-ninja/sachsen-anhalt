@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /naumburg-saale/edeka/
+url: /naumburg-saale/edeka-jenaer-strasse/
 shop: Supermarkt
 ---

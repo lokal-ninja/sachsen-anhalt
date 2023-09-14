@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /magdeburg/dm/
+url: /magdeburg/dm-olvenstedter-graseweg/
 shop: Drogerie
 ---

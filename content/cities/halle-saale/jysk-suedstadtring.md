@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /halle-saale/jysk/
+url: /halle-saale/jysk-suedstadtring/
 shop: Möbel
 ---

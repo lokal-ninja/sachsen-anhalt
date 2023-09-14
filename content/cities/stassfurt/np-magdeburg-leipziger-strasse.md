@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /stassfurt/np/
+url: /stassfurt/np-magdeburg-leipziger-strasse/
 shop: Supermarkt
 ---

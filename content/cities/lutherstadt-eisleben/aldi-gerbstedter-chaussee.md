@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /lutherstadt-eisleben/aldi/
+url: /lutherstadt-eisleben/aldi-gerbstedter-chaussee/
 shop: Supermarkt
 ---

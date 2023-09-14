@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /weissenfels/vodafone/
+url: /weissenfels/vodafone-am-marktwege/
 shop: Handy
 ---

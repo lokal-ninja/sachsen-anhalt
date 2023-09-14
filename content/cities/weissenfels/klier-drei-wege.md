@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /weissenfels/klier/
+url: /weissenfels/klier-drei-wege/
 shop: Friseur
 ---

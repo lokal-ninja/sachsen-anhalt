@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /magdeburg/jysk/
+url: /magdeburg/jysk-silberbergweg/
 shop: Möbel
 ---

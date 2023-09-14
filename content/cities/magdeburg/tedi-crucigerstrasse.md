@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /magdeburg/tedi/
+url: /magdeburg/tedi-crucigerstrasse/
 shop: Kramladen
 ---

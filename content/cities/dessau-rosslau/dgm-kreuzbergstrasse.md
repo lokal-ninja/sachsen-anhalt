@@ -1,5 +1,5 @@
 ---
 title: "DGM"
-url: /dessau-rosslau/dgm/
+url: /dessau-rosslau/dgm-kreuzbergstrasse/
 shop: Getränke
 ---

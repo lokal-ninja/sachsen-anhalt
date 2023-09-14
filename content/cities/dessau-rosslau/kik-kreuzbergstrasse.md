@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /dessau-rosslau/kik/
+url: /dessau-rosslau/kik-kreuzbergstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /stendal/renault/
+url: /stendal/renault-albrecht-duerer-strasse/
 shop: Autohaus
 ---

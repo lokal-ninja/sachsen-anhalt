@@ -1,5 +1,5 @@
 ---
 title: "Ihr Landbäcker"
-url: /magdeburg/ihr-landbaecker/
+url: /magdeburg/ihr-landbaecker-luebecker-strasse/
 shop: Bäckerei
 ---

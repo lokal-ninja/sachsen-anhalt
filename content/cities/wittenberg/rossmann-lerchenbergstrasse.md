@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wittenberg/rossmann/
+url: /wittenberg/rossmann-lerchenbergstrasse/
 shop: Drogerie
 ---

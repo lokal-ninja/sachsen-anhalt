@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /sangerhausen/np/
+url: /sangerhausen/np-georg-schumann-strasse/
 shop: Supermarkt
 ---

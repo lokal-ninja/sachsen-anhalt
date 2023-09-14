@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /merseburg/steinecke/
+url: /merseburg/steinecke-gotthardstrasse/
 shop: Bäckerei
 ---

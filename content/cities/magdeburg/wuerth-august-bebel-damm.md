@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /magdeburg/wuerth/
+url: /magdeburg/wuerth-august-bebel-damm/
 shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /halle-saale/vodafone/
+url: /halle-saale/vodafone-leipziger-strasse/
 shop: Handy
 ---

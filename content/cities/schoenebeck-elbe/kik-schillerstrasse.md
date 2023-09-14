@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /schoenebeck-elbe/kik/
+url: /schoenebeck-elbe/kik-schillerstrasse/
 shop: Kleidung
 ---

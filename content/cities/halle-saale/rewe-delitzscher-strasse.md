@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /halle-saale/rewe/
+url: /halle-saale/rewe-delitzscher-strasse/
 shop: Supermarkt
 ---

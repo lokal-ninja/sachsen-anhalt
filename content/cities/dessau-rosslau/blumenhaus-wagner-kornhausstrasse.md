@@ -1,5 +1,5 @@
 ---
 title: "Blumenhaus Wagner"
-url: /dessau-rosslau/blumenhaus-wagner/
+url: /dessau-rosslau/blumenhaus-wagner-kornhausstrasse/
 shop: Blumen
 ---

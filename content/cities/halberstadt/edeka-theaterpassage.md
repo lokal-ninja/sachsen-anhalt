@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /halberstadt/edeka/
+url: /halberstadt/edeka-theaterpassage/
 shop: Supermarkt
 ---

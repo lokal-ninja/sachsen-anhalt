@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bernburg/lidl/
+url: /bernburg/lidl-am-platz-der-jugend/
 shop: Supermarkt
 ---

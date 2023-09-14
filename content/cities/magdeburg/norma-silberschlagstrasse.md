@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /magdeburg/norma/
+url: /magdeburg/norma-silberschlagstrasse/
 shop: Supermarkt
 ---

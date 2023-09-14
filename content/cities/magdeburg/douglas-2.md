@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /magdeburg/douglas/
+url: /magdeburg/douglas-2/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /weissenfels/kaufland/
+url: /weissenfels/kaufland-max-planck-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /bernburg/steinecke/
+url: /bernburg/steinecke-am-platz-der-jugend/
 shop: Bäckerei
 ---

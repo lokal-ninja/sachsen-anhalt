@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bitterfeld-wolfen/netto-marken-discount/
+url: /bitterfeld-wolfen/netto-marken-discount-bernsteinring/
 shop: Supermarkt
 ---

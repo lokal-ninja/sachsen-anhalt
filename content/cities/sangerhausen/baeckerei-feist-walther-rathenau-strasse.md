@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Feist"
-url: /sangerhausen/baeckerei-feist/
+url: /sangerhausen/baeckerei-feist-walther-rathenau-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /schkopau/np/
+url: /schkopau/np-hauptstrasse/
 shop: Supermarkt
 ---

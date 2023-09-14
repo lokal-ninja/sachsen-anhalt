@@ -1,5 +1,5 @@
 ---
 title: "Konsum Halle"
-url: /halle-saale/konsum-halle/
+url: /halle-saale/konsum-halle-burgstrasse/
 shop: Supermarkt
 ---

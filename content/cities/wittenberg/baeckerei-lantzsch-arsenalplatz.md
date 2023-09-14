@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Lantzsch"
-url: /wittenberg/baeckerei-lantzsch/
+url: /wittenberg/baeckerei-lantzsch-arsenalplatz/
 shop: Bäckerei
 ---

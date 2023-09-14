@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /wittenberg/penny/
+url: /wittenberg/penny-friedrichstrasse/
 shop: Supermarkt
 ---

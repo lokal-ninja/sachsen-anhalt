@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /magdeburg/np/
+url: /magdeburg/np-motzstrasse/
 shop: Supermarkt
 ---

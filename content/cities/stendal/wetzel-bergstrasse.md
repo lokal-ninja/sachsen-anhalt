@@ -1,5 +1,5 @@
 ---
 title: "Wetzel"
-url: /stendal/wetzel/
+url: /stendal/wetzel-bergstrasse/
 shop: Bäckerei
 ---

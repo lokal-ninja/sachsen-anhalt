@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
-url: /schoenebeck-elbe/peugeot/
+url: /schoenebeck-elbe/peugeot-am-stremsgraben/
 shop: Autowerkstatt
 ---

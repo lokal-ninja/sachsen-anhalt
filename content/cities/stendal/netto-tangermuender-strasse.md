@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /stendal/netto/
+url: /stendal/netto-tangermuender-strasse/
 shop: Supermarkt
 ---

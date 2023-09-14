@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /wernigerode/steinecke/
+url: /wernigerode/steinecke-breite-strasse/
 shop: Bäckerei
 ---

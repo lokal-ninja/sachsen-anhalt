@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /burg/steinecke/
+url: /burg/steinecke-conrad-tack-ring/
 shop: Bäckerei
 ---

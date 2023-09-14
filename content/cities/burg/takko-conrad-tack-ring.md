@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /burg/takko/
+url: /burg/takko-conrad-tack-ring/
 shop: Kleidung
 ---

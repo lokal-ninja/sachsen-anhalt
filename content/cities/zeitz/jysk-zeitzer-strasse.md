@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /zeitz/jysk/
+url: /zeitz/jysk-zeitzer-strasse/
 shop: Möbel
 ---

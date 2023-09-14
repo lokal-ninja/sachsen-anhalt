@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /bernburg/aldi-nord/
+url: /bernburg/aldi-nord-karlstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /dessau-rosslau/rossmann/
+url: /dessau-rosslau/rossmann-luchplatz/
 shop: Drogerie
 ---

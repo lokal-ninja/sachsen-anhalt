@@ -1,5 +1,5 @@
 ---
 title: "GP Getränkemarkt"
-url: /dessau-rosslau/gp-getraenkemarkt/
+url: /dessau-rosslau/gp-getraenkemarkt-kuehnauer-strasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /halle-saale/aldi-nord/
+url: /halle-saale/aldi-nord-beesener-strasse/
 shop: Supermarkt
 ---

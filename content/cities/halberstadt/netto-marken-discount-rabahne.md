@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /halberstadt/netto-marken-discount/
+url: /halberstadt/netto-marken-discount-rabahne/
 shop: Supermarkt
 ---

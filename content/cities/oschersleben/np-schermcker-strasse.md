@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /oschersleben/np/
+url: /oschersleben/np-schermcker-strasse/
 shop: Supermarkt
 ---

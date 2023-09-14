@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /dessau-rosslau/schaefers/
+url: /dessau-rosslau/schaefers-nordstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /magdeburg/woolworth/
+url: /magdeburg/woolworth-kantstrasse/
 shop: Warenhaus
 ---

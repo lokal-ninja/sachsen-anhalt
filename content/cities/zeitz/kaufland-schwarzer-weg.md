@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /zeitz/kaufland/
+url: /zeitz/kaufland-schwarzer-weg/
 shop: Supermarkt
 ---

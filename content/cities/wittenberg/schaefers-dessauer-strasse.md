@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /wittenberg/schaefers/
+url: /wittenberg/schaefers-dessauer-strasse/
 shop: Bäckerei
 ---

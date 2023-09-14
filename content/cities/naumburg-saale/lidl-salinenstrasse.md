@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /naumburg-saale/lidl/
+url: /naumburg-saale/lidl-salinenstrasse/
 shop: Supermarkt
 ---

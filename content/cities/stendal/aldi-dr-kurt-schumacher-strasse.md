@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /stendal/aldi/
+url: /stendal/aldi-dr-kurt-schumacher-strasse/
 shop: Supermarkt
 ---

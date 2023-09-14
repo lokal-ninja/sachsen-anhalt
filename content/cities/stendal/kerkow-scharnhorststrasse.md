@@ -1,5 +1,5 @@
 ---
 title: "Kerkow"
-url: /stendal/kerkow/
+url: /stendal/kerkow-scharnhorststrasse/
 shop: Bäckerei
 ---

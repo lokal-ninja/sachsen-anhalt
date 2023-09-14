@@ -1,5 +1,5 @@
 ---
 title: "HairStyling"
-url: /halle-saale/hairstyling/
+url: /halle-saale/hairstyling-huttenstrasse/
 shop: Friseur
 ---

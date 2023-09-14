@@ -1,5 +1,5 @@
 ---
 title: "Backshop Beims"
-url: /magdeburg/backshop-beims/
+url: /magdeburg/backshop-beims-leiterstrasse/
 shop: Bäckerei
 ---

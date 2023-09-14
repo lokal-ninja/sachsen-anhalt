@@ -1,5 +1,5 @@
 ---
 title: "Double Fantasy"
-url: /halle-saale/double-fantasy/
+url: /halle-saale/double-fantasy-schmeerstrasse/
 shop: Kleidung
 ---

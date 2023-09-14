@@ -1,5 +1,5 @@
 ---
 title: "Konsum"
-url: /halle-saale/konsum/
+url: /halle-saale/konsum-bernburger-strasse/
 shop: Supermarkt
 ---

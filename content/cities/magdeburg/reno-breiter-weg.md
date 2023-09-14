@@ -1,5 +1,5 @@
 ---
 title: "Reno"
-url: /magdeburg/reno/
+url: /magdeburg/reno-breiter-weg/
 shop: Schuhe
 ---

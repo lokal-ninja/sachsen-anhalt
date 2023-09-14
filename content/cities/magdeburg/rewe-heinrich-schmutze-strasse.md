@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /magdeburg/rewe/
+url: /magdeburg/rewe-heinrich-schmutze-strasse/
 shop: Supermarkt
 ---

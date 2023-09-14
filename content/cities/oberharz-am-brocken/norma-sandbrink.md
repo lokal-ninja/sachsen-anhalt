@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /oberharz-am-brocken/norma/
+url: /oberharz-am-brocken/norma-sandbrink/
 shop: Supermarkt
 ---

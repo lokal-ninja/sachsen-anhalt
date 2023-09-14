@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /thale/np/
+url: /thale/np-strasse-des-friedens/
 shop: Supermarkt
 ---

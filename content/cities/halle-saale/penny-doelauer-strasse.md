@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /halle-saale/penny/
+url: /halle-saale/penny-doelauer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /halle-saale/penny/
+url: /halle-saale/penny-hettstedter-strasse/
 shop: Supermarkt
 ---

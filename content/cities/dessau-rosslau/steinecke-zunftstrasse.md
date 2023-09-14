@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /dessau-rosslau/steinecke/
+url: /dessau-rosslau/steinecke-zunftstrasse/
 shop: Bäckerei
 ---

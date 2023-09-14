@@ -1,5 +1,5 @@
 ---
 title: "Firma Gräser"
-url: /stendal/firma-graeser/
+url: /stendal/firma-graeser-dorfstrasse/
 shop: Bestattungen
 ---

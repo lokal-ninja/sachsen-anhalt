@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Hennig"
-url: /merseburg/backhaus-hennig/
+url: /merseburg/backhaus-hennig-querfurter-strasse/
 shop: Bäckerei
 ---

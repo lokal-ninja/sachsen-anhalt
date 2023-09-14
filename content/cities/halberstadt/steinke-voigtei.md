@@ -1,5 +1,5 @@
 ---
 title: "Steinke"
-url: /halberstadt/steinke/
+url: /halberstadt/steinke-voigtei/
 shop: Sanitätshaus
 ---

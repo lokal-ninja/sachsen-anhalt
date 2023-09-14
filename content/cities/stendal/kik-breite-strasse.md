@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /stendal/kik/
+url: /stendal/kik-breite-strasse/
 shop: Kleidung
 ---

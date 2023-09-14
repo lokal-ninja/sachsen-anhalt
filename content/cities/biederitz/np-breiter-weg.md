@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /biederitz/np/
+url: /biederitz/np-breiter-weg/
 shop: Supermarkt
 ---

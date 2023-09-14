@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /halberstadt/kik/
+url: /halberstadt/kik-magdeburger-strasse/
 shop: Kleidung
 ---

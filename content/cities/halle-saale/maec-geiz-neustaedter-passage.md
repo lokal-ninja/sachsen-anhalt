@@ -1,5 +1,5 @@
 ---
 title: "Mäc-Geiz"
-url: /halle-saale/maec-geiz/
+url: /halle-saale/maec-geiz-neustaedter-passage/
 shop: Kramladen
 ---

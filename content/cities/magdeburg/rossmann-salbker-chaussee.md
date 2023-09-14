@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /magdeburg/rossmann/
+url: /magdeburg/rossmann-salbker-chaussee/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /magdeburg/penny/
+url: /magdeburg/penny-halberstaedter-chaussee/
 shop: Supermarkt
 ---

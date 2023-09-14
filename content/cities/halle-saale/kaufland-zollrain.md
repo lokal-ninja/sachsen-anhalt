@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /halle-saale/kaufland/
+url: /halle-saale/kaufland-zollrain/
 shop: Supermarkt
 ---

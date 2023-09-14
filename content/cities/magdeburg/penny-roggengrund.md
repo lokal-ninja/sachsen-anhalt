@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /magdeburg/penny/
+url: /magdeburg/penny-roggengrund/
 shop: Supermarkt
 ---

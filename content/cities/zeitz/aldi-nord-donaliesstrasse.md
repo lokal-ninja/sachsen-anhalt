@@ -1,5 +1,5 @@
 ---
 title: "Aldi Nord"
-url: /zeitz/aldi-nord/
+url: /zeitz/aldi-nord-donaliesstrasse/
 shop: Supermarkt
 ---

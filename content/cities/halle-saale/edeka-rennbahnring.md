@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /halle-saale/edeka/
+url: /halle-saale/edeka-rennbahnring/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reiseland"
-url: /dessau-rosslau/reiseland/
+url: /dessau-rosslau/reiseland-am-eichengarten/
 shop: Reisebüro
 ---

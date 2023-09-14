@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /zeitz/kik/
+url: /zeitz/kik-hainichener-dorfstrasse/
 shop: Kleidung
 ---

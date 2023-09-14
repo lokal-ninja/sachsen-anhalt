@@ -1,5 +1,5 @@
 ---
 title: "Reinsdorfer"
-url: /dessau-rosslau/reinsdorfer/
+url: /dessau-rosslau/reinsdorfer-kavalierstrasse/
 shop: Metzgerei
 ---

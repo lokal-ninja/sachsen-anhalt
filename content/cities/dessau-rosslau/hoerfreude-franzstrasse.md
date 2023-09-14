@@ -1,5 +1,5 @@
 ---
 title: "Hörfreude"
-url: /dessau-rosslau/hoerfreude/
+url: /dessau-rosslau/hoerfreude-franzstrasse/
 shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reinsdorfer"
-url: /wittenberg/reinsdorfer/
+url: /wittenberg/reinsdorfer-markt/
 shop: Metzgerei
 ---

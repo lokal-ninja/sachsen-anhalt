@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /landsberg/np/
+url: /landsberg/np-alte-bahnhofstrasse/
 shop: Supermarkt
 ---

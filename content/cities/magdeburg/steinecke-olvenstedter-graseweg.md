@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /magdeburg/steinecke/
+url: /magdeburg/steinecke-olvenstedter-graseweg/
 shop: Bäckerei
 ---

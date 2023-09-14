@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /moeckern/norma/
+url: /moeckern/norma-muenchentor/
 shop: Supermarkt
 ---

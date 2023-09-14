@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /gardelegen/edeka/
+url: /gardelegen/edeka-thaelmannstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /dessau-rosslau/rewe/
+url: /dessau-rosslau/rewe-kavalierstrasse/
 shop: Supermarkt
 ---

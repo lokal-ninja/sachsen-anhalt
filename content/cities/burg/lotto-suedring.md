@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
-url: /burg/lotto/
+url: /burg/lotto-suedring/
 shop: Zeitungen
 ---

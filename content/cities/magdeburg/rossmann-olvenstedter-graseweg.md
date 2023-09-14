@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /magdeburg/rossmann/
+url: /magdeburg/rossmann-olvenstedter-graseweg/
 shop: Drogerie
 ---

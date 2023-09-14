@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /quedlinburg/np/
+url: /quedlinburg/np-stresemannstrasse/
 shop: Supermarkt
 ---

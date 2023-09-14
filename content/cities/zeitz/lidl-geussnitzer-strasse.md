@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /zeitz/lidl/
+url: /zeitz/lidl-geussnitzer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /quedlinburg/steinecke/
+url: /quedlinburg/steinecke-badeborner-weg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /merseburg/rossmann/
+url: /merseburg/rossmann-kollenbeyer-weg/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ihr Landbäcker"
-url: /elbe-parey/ihr-landbaecker/
+url: /elbe-parey/ihr-landbaecker-hauptstrasse/
 shop: Bäckerei
 ---

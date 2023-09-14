@@ -1,5 +1,5 @@
 ---
 title: "Meiling"
-url: /wittenberg/meiling/
+url: /wittenberg/meiling-markt/
 shop: Bäckerei
 ---

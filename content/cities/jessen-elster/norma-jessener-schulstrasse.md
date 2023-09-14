@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /jessen-elster/norma/
+url: /jessen-elster/norma-jessener-schulstrasse/
 shop: Supermarkt
 ---

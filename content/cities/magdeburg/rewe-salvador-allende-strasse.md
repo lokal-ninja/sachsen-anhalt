@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /magdeburg/rewe/
+url: /magdeburg/rewe-salvador-allende-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /halle-saale/schaefers/
+url: /halle-saale/schaefers-rannische-strasse/
 shop: Bäckerei
 ---

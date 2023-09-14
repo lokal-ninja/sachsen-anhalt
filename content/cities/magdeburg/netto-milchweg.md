@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /magdeburg/netto/
+url: /magdeburg/netto-milchweg/
 shop: Supermarkt
 ---

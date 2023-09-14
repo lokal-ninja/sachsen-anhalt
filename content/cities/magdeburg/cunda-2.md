@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /magdeburg/cunda/
+url: /magdeburg/cunda-2/
 shop: Kleidung
 ---

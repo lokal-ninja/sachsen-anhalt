@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /halberstadt/steinecke/
+url: /halberstadt/steinecke-braunschweiger-strasse/
 shop: Bäckerei
 ---

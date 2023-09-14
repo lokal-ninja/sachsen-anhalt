@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /magdeburg/schaefers/
+url: /magdeburg/schaefers-berliner-chaussee/
 shop: Bäckerei
 ---

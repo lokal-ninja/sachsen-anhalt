@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /magdeburg/kaufland/
+url: /magdeburg/kaufland-halberstaedter-strasse/
 shop: Supermarkt
 ---

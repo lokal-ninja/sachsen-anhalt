@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Pfeiffer"
-url: /thale/baeckerei-pfeiffer/
+url: /thale/baeckerei-pfeiffer-obersteigerweg/
 shop: Bäckerei
 ---

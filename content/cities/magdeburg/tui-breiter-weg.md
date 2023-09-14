@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /magdeburg/tui/
+url: /magdeburg/tui-breiter-weg/
 shop: Reisebüro
 ---

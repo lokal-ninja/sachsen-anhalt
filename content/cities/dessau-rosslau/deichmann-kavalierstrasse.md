@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /dessau-rosslau/deichmann/
+url: /dessau-rosslau/deichmann-kavalierstrasse/
 shop: Schuhe
 ---

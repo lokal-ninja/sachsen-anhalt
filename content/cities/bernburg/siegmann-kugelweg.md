@@ -1,5 +1,5 @@
 ---
 title: "Siegmann"
-url: /bernburg/siegmann/
+url: /bernburg/siegmann-kugelweg/
 shop: Bäckerei
 ---

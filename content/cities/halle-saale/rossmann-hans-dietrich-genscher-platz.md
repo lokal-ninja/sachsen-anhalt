@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /halle-saale/rossmann/
+url: /halle-saale/rossmann-hans-dietrich-genscher-platz/
 shop: Drogerie
 ---

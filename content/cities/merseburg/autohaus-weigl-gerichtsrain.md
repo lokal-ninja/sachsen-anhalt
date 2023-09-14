@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Weigl"
-url: /merseburg/autohaus-weigl/
+url: /merseburg/autohaus-weigl-gerichtsrain/
 shop: Autohaus
 ---

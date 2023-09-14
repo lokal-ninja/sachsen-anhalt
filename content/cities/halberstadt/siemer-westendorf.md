@@ -1,5 +1,5 @@
 ---
 title: "Siemer"
-url: /halberstadt/siemer/
+url: /halberstadt/siemer-westendorf/
 shop: Bäckerei
 ---

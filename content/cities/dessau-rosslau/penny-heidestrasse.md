@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /dessau-rosslau/penny/
+url: /dessau-rosslau/penny-heidestrasse/
 shop: Supermarkt
 ---

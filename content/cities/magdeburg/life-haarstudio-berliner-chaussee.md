@@ -1,5 +1,5 @@
 ---
 title: "Life Haarstudio"
-url: /magdeburg/life-haarstudio/
+url: /magdeburg/life-haarstudio-berliner-chaussee/
 shop: Friseur
 ---

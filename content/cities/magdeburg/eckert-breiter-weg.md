@@ -1,5 +1,5 @@
 ---
 title: "Eckert"
-url: /magdeburg/eckert/
+url: /magdeburg/eckert-breiter-weg/
 shop: Kiosk
 ---

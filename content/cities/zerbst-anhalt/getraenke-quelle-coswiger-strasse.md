@@ -1,5 +1,5 @@
 ---
 title: "Getränke Quelle"
-url: /zerbst-anhalt/getraenke-quelle/
+url: /zerbst-anhalt/getraenke-quelle-coswiger-strasse/
 shop: Getränke
 ---

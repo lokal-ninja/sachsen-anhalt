@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /bernburg/penny/
+url: /bernburg/penny-bahnhofstrasse/
 shop: Supermarkt
 ---

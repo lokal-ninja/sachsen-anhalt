@@ -1,5 +1,5 @@
 ---
 title: "Ernsting's family"
-url: /bernburg/ernstings-family/
+url: /bernburg/ernstings-family-zepziger-weg/
 shop: Kleidung
 ---

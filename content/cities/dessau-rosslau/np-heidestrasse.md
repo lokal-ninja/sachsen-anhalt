@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /dessau-rosslau/np/
+url: /dessau-rosslau/np-heidestrasse/
 shop: Supermarkt
 ---

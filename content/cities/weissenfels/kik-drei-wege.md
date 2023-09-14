@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /weissenfels/kik/
+url: /weissenfels/kik-drei-wege/
 shop: Kleidung
 ---

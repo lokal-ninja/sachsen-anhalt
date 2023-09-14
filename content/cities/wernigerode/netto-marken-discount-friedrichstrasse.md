@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /wernigerode/netto-marken-discount/
+url: /wernigerode/netto-marken-discount-friedrichstrasse/
 shop: Supermarkt
 ---

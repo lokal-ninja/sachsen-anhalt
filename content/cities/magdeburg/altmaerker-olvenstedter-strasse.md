@@ -1,5 +1,5 @@
 ---
 title: "Altmärker"
-url: /magdeburg/altmaerker/
+url: /magdeburg/altmaerker-olvenstedter-strasse/
 shop: Metzgerei
 ---

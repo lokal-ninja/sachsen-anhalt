@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /wanzleben-boerde/np/
+url: /wanzleben-boerde/np-alte-hauptstrasse/
 shop: Supermarkt
 ---

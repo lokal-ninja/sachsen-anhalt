@@ -1,5 +1,5 @@
 ---
 title: "Vergißmeinnicht"
-url: /thale/vergissmeinnicht/
+url: /thale/vergissmeinnicht-blankenburger-strasse/
 shop: Blumen
 ---

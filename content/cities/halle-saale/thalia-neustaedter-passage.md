@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /halle-saale/thalia/
+url: /halle-saale/thalia-neustaedter-passage/
 shop: Bücher
 ---

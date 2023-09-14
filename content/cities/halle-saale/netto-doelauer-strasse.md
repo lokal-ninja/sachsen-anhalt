@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /halle-saale/netto/
+url: /halle-saale/netto-doelauer-strasse/
 shop: Supermarkt
 ---

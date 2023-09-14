@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /weissenfels/rossmann/
+url: /weissenfels/rossmann-juedenstrasse/
 shop: Drogerie
 ---

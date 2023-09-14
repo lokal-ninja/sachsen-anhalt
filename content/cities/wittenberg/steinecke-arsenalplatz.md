@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /wittenberg/steinecke/
+url: /wittenberg/steinecke-arsenalplatz/
 shop: Bäckerei
 ---

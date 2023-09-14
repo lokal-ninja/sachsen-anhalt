@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /burg/np/
+url: /burg/np-suedring/
 shop: Supermarkt
 ---

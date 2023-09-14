@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /wittenberg/netto/
+url: /wittenberg/netto-dessauer-strasse/
 shop: Supermarkt
 ---

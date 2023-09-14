@@ -1,5 +1,5 @@
 ---
 title: "Ewa Abel Bestattungen"
-url: /magdeburg/ewa-abel-bestattungen/
+url: /magdeburg/ewa-abel-bestattungen-schoeppensteg/
 shop: Bestattungen
 ---

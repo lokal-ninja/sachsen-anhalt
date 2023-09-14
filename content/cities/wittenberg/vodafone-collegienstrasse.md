@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /wittenberg/vodafone/
+url: /wittenberg/vodafone-collegienstrasse/
 shop: Handy
 ---
