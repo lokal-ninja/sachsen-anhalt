@@ -1,6 +1,6 @@
 ---
 title: Naumburg
 url: /naumburg/
-latitude: 51.157
-longitude: 11.807
+latitude: 51.153
+longitude: 11.81
 ---
