@@ -1,11 +1,11 @@
-id: 8383294393
-type: node
-latitude: 51.49985
-longitude: 11.96936
-postcode: "06114"
+id: 104125356
+type: way
+latitude: 51.47471
+longitude: 11.98147
+postcode: "06110"
 city: Halle (Saale)
-street: "Fischer-von-Erlach-Straße"
-housenumber: 27
-phone: "+4934523989645"
-opening_hours: "Mo-Fr 08:00-19:00"
-website: "http://www.getraenke-quelle.net/"
+street: "Turmstraße"
+housenumber: 157
+phone: ""
+opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-14:00"
+website: ""
