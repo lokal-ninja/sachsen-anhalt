@@ -1,11 +1,11 @@
-id: 274242884
-type: node
-latitude: 51.82181
-longitude: 12.21739
+id: 90633642
+type: way
+latitude: 51.82205
+longitude: 12.21804
 postcode: "06847"
 city: Dessau-Roßlau
 street: "Weststraße"
 housenumber: 21-25
-phone: "+4934055040"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: ""
+phone: "+49 340-55040-0"
+opening_hours: "Mo,We-Fr 10:00-19:00; Sa 09:00-18:00; Tu,Su,PH off"
+website: "https://www.sconto.de/dessau"
