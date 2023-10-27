@@ -1,11 +1,11 @@
-id: 6318230457
-type: node
-latitude: 51.8014
-longitude: 12.25336
-postcode: "06849"
+id: 101415901
+type: way
+latitude: 51.84308
+longitude: 12.24496
+postcode: "06844"
 city: Dessau-Roßlau
-street: "Kreuzbergstraße"
-housenumber: 33
-phone: "+49 340 87057777"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: "Goethestraße"
+housenumber: 5
+phone: ""
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00–20:00; Su,PH off"
 website: ""
