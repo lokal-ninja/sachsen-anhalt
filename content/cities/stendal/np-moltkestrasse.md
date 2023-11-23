@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /magdeburg/np-holzweg/
+url: /stendal/np-moltkestrasse/
 shop: Supermarkt
 ---
