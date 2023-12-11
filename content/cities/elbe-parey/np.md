@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /magdeburg/np-holzweg/
+url: /elbe-parey/np/
 shop: Supermarkt
 ---
