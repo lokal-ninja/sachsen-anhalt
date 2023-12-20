@@ -1,5 +1,5 @@
 ---
 title: "Blumenhaus am Friedhof"
 url: /wolmirstedt/blumenhaus-am-friedhof/
-shop: Blumen
+shop: Leerstehend
 ---
