@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Siemer"
-url: /osterwieck/backhaus-siemer/
+url: /halberstadt/backhaus-siemer/
 shop: Bäckerei
 ---
