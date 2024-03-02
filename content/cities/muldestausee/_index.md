@@ -1,6 +1,6 @@
 ---
 title: Muldestausee
 url: /muldestausee/
-latitude: 51.627
-longitude: 12.554
+latitude: 51.646
+longitude: 12.367
 ---

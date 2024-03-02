@@ -1,6 +1,6 @@
 ---
 title: Halle (Saale)
 url: /halle-saale/
-latitude: 51.424
-longitude: 11.99
+latitude: 51.426
+longitude: 11.987
 ---
