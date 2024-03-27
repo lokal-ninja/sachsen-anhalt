@@ -1,6 +1,6 @@
 ---
 title: Quedlinburg
 url: /quedlinburg/
-latitude: 51.788
-longitude: 11.147
+latitude: 51.791
+longitude: 11.162
 ---

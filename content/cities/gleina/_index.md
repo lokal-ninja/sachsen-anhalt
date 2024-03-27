@@ -1,6 +1,6 @@
 ---
 title: Gleina
 url: /gleina/
-latitude: 51.259
-longitude: 11.718
+latitude: 51.257
+longitude: 11.719
 ---
