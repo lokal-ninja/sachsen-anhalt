@@ -1,6 +1,6 @@
 ---
 title: Iden
 url: /iden/
-latitude: 52.785
-longitude: 11.951
+latitude: 52.78
+longitude: 11.91
 ---

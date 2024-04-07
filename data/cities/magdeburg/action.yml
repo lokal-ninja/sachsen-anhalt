@@ -1,11 +1,11 @@
-id: 37381117
-type: way
-latitude: 52.11877
-longitude: 11.62332
-postcode: "39104"
+id: 11795551822
+type: node
+latitude: 52.17379
+longitude: 11.62865
+postcode: "39126"
 city: Magdeburg
-street: "Am Sudenburger Tor"
-housenumber: 8
-phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off; PH off"
-website: ""
+street: "Ziolkowskistraße"
+housenumber: 11
+phone: "+49 211 30146100"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.action.com/de-de/laden/magdeburg-nord/"

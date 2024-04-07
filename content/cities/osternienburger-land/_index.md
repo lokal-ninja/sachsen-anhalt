@@ -1,6 +1,6 @@
 ---
 title: Osternienburger Land
 url: /osternienburger-land/
-latitude: 51.791
-longitude: 12.009
+latitude: 51.81
+longitude: 12.013
 ---
