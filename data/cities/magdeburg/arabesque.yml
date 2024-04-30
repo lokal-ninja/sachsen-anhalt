@@ -7,5 +7,5 @@ city: Magdeburg
 street: "Westring"
 housenumber: 4
 phone: ""
-opening_hours: "Mo 11:00-15:45, 17:00-19:00;Tu 11:00-17:00, 18:15-19:00;We 11:00-19:00;Th-Fr 11:00-18:00;Sa 10:00-14:00"
+opening_hours: "Mo,Tu,Th 10:00-14:00,15:00-19:00; We 10:00-14:00,15:00-18:00; Fr 10:00-14:00,15:00-18:30; Sa 10:00-14:00; PH off"
 website: ""

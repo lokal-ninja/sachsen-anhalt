@@ -1,5 +1,5 @@
 ---
 title: "Arabesque"
 url: /magdeburg/arabesque/
-shop: Allgemein
+shop: Sport
 ---

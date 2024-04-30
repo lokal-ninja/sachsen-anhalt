@@ -1,5 +1,5 @@
 ---
 title: "Getränke Quelle"
-url: /sangerhausen/getraenke-quelle-oststrasse/
+url: /sangerhausen/getraenke-quelle-2/
 shop: Getränke
 ---
