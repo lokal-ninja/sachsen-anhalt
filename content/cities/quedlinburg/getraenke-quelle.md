@@ -1,5 +1,5 @@
 ---
-title: "Getränke-Quelle"
+title: "Getränke Quelle"
 url: /quedlinburg/getraenke-quelle/
-shop: Supermarkt
+shop: Getränke
 ---

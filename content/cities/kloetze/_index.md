@@ -1,6 +1,6 @@
 ---
 title: Klötze
 url: /kloetze/
-latitude: 52.626
-longitude: 11.159
+latitude: 52.628
+longitude: 11.172
 ---
