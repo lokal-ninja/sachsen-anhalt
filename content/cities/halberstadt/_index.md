@@ -1,6 +1,6 @@
 ---
 title: Halberstadt
 url: /halberstadt/
-latitude: 51.888
-longitude: 11.035
+latitude: 51.882
+longitude: 11.056
 ---
