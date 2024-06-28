@@ -1,6 +1,6 @@
 ---
 title: Arneburg
 url: /arneburg/
-latitude: 52.677
-longitude: 12.002
+latitude: 52.675
+longitude: 12.005
 ---

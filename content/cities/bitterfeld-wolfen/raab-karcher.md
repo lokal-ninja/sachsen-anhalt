@@ -1,5 +1,5 @@
 ---
-title: "raab-karcher"
+title: "Raab Karcher"
 url: /bitterfeld-wolfen/raab-karcher/
-shop: Baumarkt
+shop: Baustoffe
 ---

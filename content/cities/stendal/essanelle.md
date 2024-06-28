@@ -1,5 +1,5 @@
 ---
-title: "essanelle"
+title: "Essanelle"
 url: /stendal/essanelle/
 shop: Friseur
 ---

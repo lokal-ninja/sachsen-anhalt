@@ -1,5 +1,5 @@
 ---
-title: "liberty woman"
+title: "Liberty Woman"
 url: /stendal/liberty-woman/
 shop: Kleidung
 ---
