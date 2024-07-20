@@ -1,5 +1,5 @@
 ---
 title: "Alawa"
 url: /magdeburg/alawa/
-shop: Lebensmittel
+shop: Friseur
 ---
