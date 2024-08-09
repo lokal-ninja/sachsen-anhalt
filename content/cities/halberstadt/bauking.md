@@ -1,5 +1,5 @@
 ---
-title: "Bauking"
+title: "BAUKING"
 url: /halberstadt/bauking/
-shop: Baustoffe
+shop: Baumarkt
 ---
