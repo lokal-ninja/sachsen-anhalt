@@ -1,6 +1,6 @@
 ---
 title: Gräfenhainichen
 url: /graefenhainichen/
-latitude: 51.731
-longitude: 12.458
+latitude: 51.726
+longitude: 12.433
 ---
