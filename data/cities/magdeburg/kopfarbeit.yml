@@ -4,8 +4,8 @@ latitude: 52.12737
 longitude: 11.60513
 postcode: "39110"
 city: Magdeburg
-street: "Spielhagenstraße"
-housenumber: 12
-phone: "+49 391 8190509"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://kopfarbeit-md.de/"
+street: Spielhagenstraße
+housenumber: "12"
+phone: +49 391 8190509
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: https://kopfarbeit-md.de/

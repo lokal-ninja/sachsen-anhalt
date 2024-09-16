@@ -4,8 +4,8 @@ latitude: 51.5015
 longitude: 11.96682
 postcode: "06114"
 city: Halle (Saale)
-street: "Reilstraße"
-housenumber: 112
-phone: "+49 345 5223406"
-opening_hours: "Mo-Fr 13:00-18:00"
-website: "http://www.haltex.de/"
+street: Reilstraße
+housenumber: "112"
+phone: +49 345 5223406
+opening_hours: Mo-Fr 13:00-18:00
+website: http://www.haltex.de/

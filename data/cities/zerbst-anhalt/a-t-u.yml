@@ -1,11 +1,11 @@
 id: 247815088
-type: way
+type: node
 latitude: 51.95476
 longitude: 12.10171
 postcode: "39261"
 city: Zerbst/Anhalt
-street: "Dessauer Straße"
-housenumber: 
+street: Dessauer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

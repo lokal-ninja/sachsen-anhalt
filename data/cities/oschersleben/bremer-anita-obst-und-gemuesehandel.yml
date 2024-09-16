@@ -1,11 +1,11 @@
 id: 203784528
-type: way
+type: node
 latitude: 51.98987
 longitude: 11.30709
 postcode: "39387"
 city: Oschersleben
-street: "Kroppenstedter Straße"
-housenumber: 51
+street: Kroppenstedter Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

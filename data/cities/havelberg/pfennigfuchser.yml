@@ -1,11 +1,11 @@
 id: 108277110
-type: way
+type: node
 latitude: 52.83142
 longitude: 12.07856
 postcode: "39539"
 city: Havelberg
-street: "Semmelweisstraße"
-housenumber: 8
+street: Semmelweisstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

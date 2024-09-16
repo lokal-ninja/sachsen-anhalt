@@ -1,11 +1,11 @@
 id: 45184492
-type: way
+type: node
 latitude: 51.88569
 longitude: 11.05054
 postcode: "38820"
 city: Halberstadt
-street: "Westerhäuser Straße"
-housenumber: 86
+street: Westerhäuser Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

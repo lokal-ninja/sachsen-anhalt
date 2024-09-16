@@ -4,8 +4,8 @@ latitude: 52.14173
 longitude: 11.58113
 postcode: "39130"
 city: Magdeburg
-street: "Rennebogen"
-housenumber: 177
+street: Rennebogen
+housenumber: "177"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.lidl.de/

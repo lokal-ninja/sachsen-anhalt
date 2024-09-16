@@ -1,11 +1,11 @@
 id: 39301778
-type: way
+type: node
 latitude: 51.51594
 longitude: 11.91384
 postcode: "06120"
 city: Halle (Saale)
-street: "Heideringpassage"
-housenumber: 
+street: Heideringpassage
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

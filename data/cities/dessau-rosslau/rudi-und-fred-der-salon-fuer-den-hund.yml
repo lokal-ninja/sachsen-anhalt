@@ -4,8 +4,8 @@ latitude: 51.83992
 longitude: 12.22086
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Fischereiweg"
-housenumber: 40
+street: Fischereiweg
+housenumber: "40"
 phone: "+4917656551980"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.hundesalon-dessau.de"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.hundesalon-dessau.de

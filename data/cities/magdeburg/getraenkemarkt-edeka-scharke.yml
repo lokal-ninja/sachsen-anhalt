@@ -1,11 +1,11 @@
 id: 95003172
-type: way
+type: node
 latitude: 52.16943
 longitude: 11.62673
 postcode: "39128"
 city: Magdeburg
-street: "Hans-Grundig-Straße"
-housenumber: 19
+street: Hans-Grundig-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

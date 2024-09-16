@@ -1,11 +1,11 @@
 id: 248648407
-type: way
+type: node
 latitude: 52.02421
 longitude: 11.72885
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Geschwister-Scholl-Straße"
-housenumber: 143
-phone: "+49 3928 42430"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
+street: Geschwister-Scholl-Straße
+housenumber: "143"
+phone: +49 3928 42430
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

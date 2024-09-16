@@ -1,11 +1,11 @@
 id: 1037183568
-type: way
+type: node
 latitude: 52.28468
 longitude: 11.39592
 postcode: "39340"
 city: Haldensleben
-street: "Süplinger Straße"
-housenumber: 43
-phone: "+49 3904 40160"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; PH off"
+street: Süplinger Straße
+housenumber: "43"
+phone: +49 3904 40160
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00; PH off
 website: ""

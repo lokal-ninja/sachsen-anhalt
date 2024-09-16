@@ -1,11 +1,11 @@
 id: 244451872
-type: way
+type: node
 latitude: 52.83867
 longitude: 11.07416
 postcode: "29410"
 city: Salzwedel
-street: "Klein Gerstedt"
-housenumber: 17
+street: Klein Gerstedt
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

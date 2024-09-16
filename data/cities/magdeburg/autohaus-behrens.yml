@@ -1,11 +1,11 @@
 id: 256995599
-type: way
+type: node
 latitude: 52.08707
 longitude: 11.56662
 postcode: "39116"
 city: Magdeburg
-street: "Halberstädter Chaussee"
-housenumber: 9
-phone: "+49 391 609200"
+street: Halberstädter Chaussee
+housenumber: "9"
+phone: +49 391 609200
 opening_hours: ""
-website: "https://autohaus-behrens-ohg.de/"
+website: https://autohaus-behrens-ohg.de/

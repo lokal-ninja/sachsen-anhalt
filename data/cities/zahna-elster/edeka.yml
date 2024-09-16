@@ -1,11 +1,11 @@
 id: 93590414
-type: way
+type: node
 latitude: 51.91326
 longitude: 12.7787
 postcode: "06895"
 city: Zahna-Elster
-street: "Westendstraße"
-housenumber: 32
+street: Westendstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

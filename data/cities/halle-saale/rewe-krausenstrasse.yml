@@ -1,11 +1,11 @@
 id: 35012585
-type: way
+type: node
 latitude: 51.48853
 longitude: 11.98212
 postcode: "06112"
 city: Halle (Saale)
-street: "Krausenstraße"
-housenumber: 7
+street: Krausenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; PH off"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; PH off
 website: ""

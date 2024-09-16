@@ -1,11 +1,11 @@
 id: 315192752
-type: way
+type: node
 latitude: 52.34215
 longitude: 11.9783
 postcode: "39317"
 city: Elbe-Parey
-street: "Straße der DSF"
-housenumber: 7
+street: Straße der DSF
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

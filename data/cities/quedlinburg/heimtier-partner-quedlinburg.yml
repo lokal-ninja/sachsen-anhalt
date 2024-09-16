@@ -4,8 +4,8 @@ latitude: 51.79447
 longitude: 11.15413
 postcode: "06484"
 city: Quedlinburg
-street: "Weyhegarten"
-housenumber: 1
-phone: "+49 3946 90 76 480"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.heimtier-partner.com/"
+street: Weyhegarten
+housenumber: "1"
+phone: +49 3946 90 76 480
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.heimtier-partner.com/

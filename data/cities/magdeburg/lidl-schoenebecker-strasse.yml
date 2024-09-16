@@ -1,11 +1,11 @@
 id: 100781093
-type: way
+type: node
 latitude: 52.09957
 longitude: 11.64897
 postcode: "39104"
 city: Magdeburg
-street: "Schönebecker Straße"
-housenumber: 75
+street: Schönebecker Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

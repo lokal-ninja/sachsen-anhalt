@@ -1,11 +1,11 @@
 id: 496426275
-type: way
+type: node
 latitude: 51.51483
 longitude: 11.3285
 postcode: "06526"
 city: Sangerhausen
-street: "An der blauen Halde"
-housenumber: 1
+street: An der blauen Halde
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

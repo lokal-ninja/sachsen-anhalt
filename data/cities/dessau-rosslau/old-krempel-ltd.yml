@@ -4,8 +4,8 @@ latitude: 51.82875
 longitude: 12.22364
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Junkersstraße"
-housenumber: 113
-phone: "+49 (0)340 5196646"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "http://www.old-krempel-ltd.de"
+street: Junkersstraße
+housenumber: "113"
+phone: +49 (0)340 5196646
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00
+website: http://www.old-krempel-ltd.de

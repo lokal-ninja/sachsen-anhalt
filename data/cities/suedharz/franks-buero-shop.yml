@@ -1,11 +1,11 @@
 id: 241559056
-type: way
+type: node
 latitude: 51.5719
 longitude: 10.95624
 postcode: "06536"
 city: Südharz
-street: "Niedergasse"
-housenumber: 25
-phone: "+49 34654 372"
-opening_hours: "Mo-Sa 09:00-12:00,16:00-18:00, Mo 15:00-18:00"
+street: Niedergasse
+housenumber: "25"
+phone: +49 34654 372
+opening_hours: Mo-Sa 09:00-12:00,16:00-18:00, Mo 15:00-18:00
 website: ""

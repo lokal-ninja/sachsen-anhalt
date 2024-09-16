@@ -4,8 +4,9 @@ latitude: 51.80755
 longitude: 12.2426
 postcode: "06849"
 city: Dessau-Roßlau
-street: "Grenzstraße"
-housenumber: 10
+street: Grenzstraße
+housenumber: "10"
 phone: "+493408827723"
-opening_hours: "Mo-Tu 09:00-13:00, 14:00-17:00; We 09:00-14:00; Th 09:00-13:00, 14:00-17:00; Fr 09:00-13:00"
-website: "https://www.sanitaetshaus-august.de/grenzstrasse5.php"
+opening_hours: Mo-Tu 09:00-13:00, 14:00-17:00; We 09:00-14:00; Th 09:00-13:00, 14:00-17:00;
+    Fr 09:00-13:00
+website: https://www.sanitaetshaus-august.de/grenzstrasse5.php

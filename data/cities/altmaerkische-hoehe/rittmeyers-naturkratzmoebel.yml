@@ -1,11 +1,11 @@
 id: 291918366
-type: way
+type: node
 latitude: 52.84058
 longitude: 11.6331
 postcode: "39606"
 city: Altmärkische Höhe
-street: "Dorfstraße"
-housenumber: 29
+street: Dorfstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://web.archive.org/web/20181229081849/http://www.katzen-kratzbaeume-shop.de:80/"
+website: https://web.archive.org/web/20181229081849/http://www.katzen-kratzbaeume-shop.de:80/

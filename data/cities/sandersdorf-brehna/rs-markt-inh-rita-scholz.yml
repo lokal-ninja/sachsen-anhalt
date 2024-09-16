@@ -1,11 +1,11 @@
 id: 220265552
-type: way
+type: node
 latitude: 51.57579
 longitude: 12.26245
 postcode: "06809"
 city: Sandersdorf-Brehna
-street: "Ernst-Thälmann-Straße"
-housenumber: 57
+street: Ernst-Thälmann-Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

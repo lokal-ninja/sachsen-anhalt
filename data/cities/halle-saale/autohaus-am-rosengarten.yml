@@ -1,11 +1,11 @@
 id: 172611890
-type: way
+type: node
 latitude: 51.44495
 longitude: 11.98591
 postcode: "06132"
 city: Halle (Saale)
-street: "Merseburger Straße"
-housenumber: 317
+street: Merseburger Straße
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

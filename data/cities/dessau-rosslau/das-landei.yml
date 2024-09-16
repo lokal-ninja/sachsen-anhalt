@@ -4,8 +4,8 @@ latitude: 51.83802
 longitude: 12.24227
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Johannisstraße"
-housenumber: 15
+street: Johannisstraße
+housenumber: "15"
 phone: "+493405204390"
-opening_hours: "Mo-Fr 09:30-14:00, 15:00-17:00"
-website: "https://www.landei-dessau.de/"
+opening_hours: Mo-Fr 09:30-14:00, 15:00-17:00
+website: https://www.landei-dessau.de/

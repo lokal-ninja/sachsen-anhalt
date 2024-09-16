@@ -4,8 +4,8 @@ latitude: 51.78978
 longitude: 12.23852
 postcode: "06849"
 city: Dessau-Roßlau
-street: "Heidestraße"
-housenumber: 441
-phone: "+49 177 64666244"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Heidestraße
+housenumber: "441"
+phone: +49 177 64666244
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

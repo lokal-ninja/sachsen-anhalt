@@ -4,8 +4,8 @@ latitude: 51.82342
 longitude: 12.29174
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Oranienbaumer Straße"
-housenumber: 6
+street: Oranienbaumer Straße
+housenumber: "6"
 phone: "+49340210210"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.avs-dessau.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.avs-dessau.de/

@@ -1,11 +1,11 @@
 id: 1019403356
-type: way
+type: node
 latitude: 52.17485
 longitude: 11.48738
 postcode: "39326"
 city: Hohe Börde
-street: "Schönebecker Straße"
-housenumber: 2
+street: Schönebecker Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.48199
 longitude: 11.97038
 postcode: "06108"
 city: Halle (Saale)
-street: "Schmeerstraße"
-housenumber: 1
-phone: "+49 345 2028620"
-opening_hours: "Mo-Fr 11:00-13:00,14:00-18:00; Sa 11:00-14:00"
-website: "http://www.juwelierimstadthaus.de"
+street: Schmeerstraße
+housenumber: "1"
+phone: +49 345 2028620
+opening_hours: Mo-Fr 11:00-13:00,14:00-18:00; Sa 11:00-14:00
+website: http://www.juwelierimstadthaus.de

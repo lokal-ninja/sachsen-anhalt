@@ -4,8 +4,8 @@ latitude: 52.16105
 longitude: 11.60673
 postcode: "39128"
 city: Magdeburg
-street: "Olvenstedter Graseweg"
-housenumber: 37
-phone: "+49 391 24307767"
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
-website: "http://www.servicepunkt.net/"
+street: Olvenstedter Graseweg
+housenumber: "37"
+phone: +49 391 24307767
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
+website: http://www.servicepunkt.net/

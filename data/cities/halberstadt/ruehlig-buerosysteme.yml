@@ -1,11 +1,11 @@
 id: 254707695
-type: way
+type: node
 latitude: 51.88543
 longitude: 11.07866
 postcode: "38820"
 city: Halberstadt
-street: "Am Sülzegraben"
-housenumber: 16
+street: Am Sülzegraben
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

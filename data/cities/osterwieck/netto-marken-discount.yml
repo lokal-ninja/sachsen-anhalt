@@ -1,11 +1,11 @@
 id: 601351251
-type: way
+type: node
 latitude: 51.97469
 longitude: 10.70989
 postcode: "38835"
 city: Osterwieck
-street: "Am Langen Kamp"
-housenumber: 24
+street: Am Langen Kamp
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

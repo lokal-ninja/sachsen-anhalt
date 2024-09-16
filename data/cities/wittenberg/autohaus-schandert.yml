@@ -1,11 +1,11 @@
 id: 163837680
-type: way
+type: node
 latitude: 51.86471
 longitude: 12.687
 postcode: "06886"
 city: Wittenberg
-street: "Dresdener Straße"
-housenumber: 41
+street: Dresdener Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

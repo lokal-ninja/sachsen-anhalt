@@ -1,11 +1,11 @@
 id: 560265109
-type: way
+type: node
 latitude: 51.4496
 longitude: 11.30336
 postcode: "06526"
 city: Sangerhausen
-street: "Am Mittelfeld"
-housenumber: 2
+street: Am Mittelfeld
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.norma-online.de"
+website: https://www.norma-online.de

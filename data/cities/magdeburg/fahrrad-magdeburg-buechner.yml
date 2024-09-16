@@ -4,8 +4,8 @@ latitude: 52.12925
 longitude: 11.62861
 postcode: "39104"
 city: Magdeburg
-street: "Hasselbachstraße"
-housenumber: 8
-phone: "+49 391 5556040"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.fahrrad-magdeburg.de/"
+street: Hasselbachstraße
+housenumber: "8"
+phone: +49 391 5556040
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.fahrrad-magdeburg.de/

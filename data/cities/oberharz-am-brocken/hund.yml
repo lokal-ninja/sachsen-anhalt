@@ -1,11 +1,11 @@
 id: 207155206
-type: way
+type: node
 latitude: 51.66781
 longitude: 10.71522
 postcode: "38877"
 city: Oberharz am Brocken
-street: "Oberstadt"
-housenumber: 10
+street: Oberstadt
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

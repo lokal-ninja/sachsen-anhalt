@@ -1,11 +1,11 @@
 id: 143838427
-type: way
+type: node
 latitude: 52.04081
 longitude: 11.51391
 postcode: "39171"
 city: Sülzetal
-street: "Über der Dingelstelle"
-housenumber: 4
+street: Über der Dingelstelle
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00; We 10:00-14:00"
+opening_hours: Mo-Fr 11:00-16:00; We 10:00-14:00
 website: ""

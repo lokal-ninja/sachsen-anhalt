@@ -1,11 +1,11 @@
 id: 42793610
-type: way
+type: node
 latitude: 51.49305
 longitude: 11.97135
 postcode: "06108"
 city: Halle (Saale)
-street: "Ludwig-Wucherer-Straße"
-housenumber: 60
-phone: "+49 345 190652"
-opening_hours: "Tu-Fr 11:00-17:00; Sa 11:00-14:00"
-website: "https://www.goldstudio60.com"
+street: Ludwig-Wucherer-Straße
+housenumber: "60"
+phone: +49 345 190652
+opening_hours: Tu-Fr 11:00-17:00; Sa 11:00-14:00
+website: https://www.goldstudio60.com

@@ -1,11 +1,11 @@
 id: 1096786307
-type: way
+type: node
 latitude: 52.08374
 longitude: 11.83008
 postcode: "39245"
 city: Gommern
-street: "Karither Straße"
-housenumber: 42
+street: Karither Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

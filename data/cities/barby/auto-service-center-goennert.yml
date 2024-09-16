@@ -1,11 +1,11 @@
 id: 253523903
-type: way
+type: node
 latitude: 51.91087
 longitude: 11.88166
 postcode: "39240"
 city: Barby
-street: "Patzetzer Straße"
-housenumber: 13
+street: Patzetzer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

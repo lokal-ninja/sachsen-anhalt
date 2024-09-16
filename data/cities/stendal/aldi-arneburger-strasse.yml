@@ -1,11 +1,11 @@
 id: 97491966
-type: way
+type: node
 latitude: 52.61615
 longitude: 11.86822
 postcode: "39576"
 city: Stendal
-street: "Arneburger Straße"
-housenumber: 30
+street: Arneburger Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

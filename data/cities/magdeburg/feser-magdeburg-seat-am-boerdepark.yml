@@ -1,11 +1,11 @@
 id: 728020233
-type: way
+type: node
 latitude: 52.08076
 longitude: 11.61388
 postcode: "39118"
 city: Magdeburg
-street: "Pallasweg"
-housenumber: 10
-phone: "+49 391 50979 6000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.feser-graf-gruppe.de/das-unternehmen/standorte/seat/seat-magdeburg-am-boerdepark/"
+street: Pallasweg
+housenumber: "10"
+phone: +49 391 50979 6000
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.feser-graf-gruppe.de/das-unternehmen/standorte/seat/seat-magdeburg-am-boerdepark/

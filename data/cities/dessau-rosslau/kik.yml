@@ -4,8 +4,8 @@ latitude: 51.83062
 longitude: 12.24317
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Franzstraße"
-housenumber: 85
+street: Franzstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.kik.de"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.kik.de

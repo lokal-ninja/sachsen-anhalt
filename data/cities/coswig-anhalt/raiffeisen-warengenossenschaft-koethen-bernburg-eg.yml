@@ -1,11 +1,11 @@
 id: 67231748
-type: way
+type: node
 latitude: 51.89168
 longitude: 12.44664
 postcode: "06869"
 city: Coswig (Anhalt)
-street: "Querstraße"
-housenumber: 12
+street: Querstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

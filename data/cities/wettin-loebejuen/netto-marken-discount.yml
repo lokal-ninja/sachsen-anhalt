@@ -1,11 +1,11 @@
 id: 61421751
-type: way
+type: node
 latitude: 51.63939
 longitude: 11.90008
 postcode: "06193"
 city: Wettin-Löbejün
-street: "Mühlenstraße"
-housenumber: 1
+street: Mühlenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

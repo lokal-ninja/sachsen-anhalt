@@ -1,11 +1,11 @@
 id: 243102285
-type: way
+type: node
 latitude: 51.20095
 longitude: 11.98268
 postcode: "06667"
 city: Weißenfels
-street: "Selauer Straße"
-housenumber: 4
+street: Selauer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

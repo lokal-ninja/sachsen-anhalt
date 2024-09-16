@@ -1,11 +1,11 @@
 id: 352099146
-type: way
+type: node
 latitude: 51.57398
 longitude: 11.27754
 postcode: "06526"
 city: Sangerhausen
-street: "Wippraer Bahnhofstraße"
-housenumber: 21
+street: Wippraer Bahnhofstraße
+housenumber: "21"
 phone: ""
-opening_hours: "PH off; Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: PH off; Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 377172171
-type: way
+type: node
 latitude: 51.86554
 longitude: 12.62447
 postcode: "06886"
 city: Wittenberg
-street: "Dessauer Straße"
-housenumber: 8
+street: Dessauer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

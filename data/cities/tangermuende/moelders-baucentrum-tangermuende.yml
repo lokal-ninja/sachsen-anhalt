@@ -1,11 +1,11 @@
 id: 1284481981
-type: way
+type: node
 latitude: 52.5489
 longitude: 11.9578
 postcode: "39590"
 city: Tangermünde
-street: "Gewerbepark"
-housenumber: 20
+street: Gewerbepark
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr: 06:30-17:00; Sa: 08:00-12:00"
+opening_hours: 'Mo-Fr: 06:30-17:00; Sa: 08:00-12:00'
 website: ""

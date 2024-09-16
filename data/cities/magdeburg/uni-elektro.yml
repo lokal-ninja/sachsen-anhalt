@@ -1,11 +1,11 @@
 id: 93401269
-type: way
+type: node
 latitude: 52.15407
 longitude: 11.65258
 postcode: "39124"
 city: Magdeburg
-street: "Wasserkunststraße"
-housenumber: 98
+street: Wasserkunststraße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Do 07:00-17:00, Fr 07:00-15:00"
-website: "https://www.unielektro.de/"
+opening_hours: Mo-Do 07:00-17:00, Fr 07:00-15:00
+website: https://www.unielektro.de/

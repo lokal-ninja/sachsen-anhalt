@@ -4,8 +4,9 @@ latitude: 52.07022
 longitude: 11.36144
 postcode: "39164"
 city: Wanzleben-Börde
-street: "Rabbethgestraße"
-housenumber: 7
+street: Rabbethgestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 06:00-10:00; Tu-Fr 06:00-13:00,15:00-18:00; Sa 06:00-10:30; Su,PH off"
+opening_hours: Mo 06:00-10:00; Tu-Fr 06:00-13:00,15:00-18:00; Sa 06:00-10:30; Su,PH
+    off
 website: ""

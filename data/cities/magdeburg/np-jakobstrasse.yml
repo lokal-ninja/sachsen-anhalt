@@ -4,8 +4,8 @@ latitude: 52.13603
 longitude: 11.64389
 postcode: "39104"
 city: Magdeburg
-street: "Jakobstraße"
-housenumber: 13
-phone: "+49 391 5430816"
-opening_hours: "Mo-Fr 06:00-24:00, Sa 06:00-20:00"
-website: "https://www.np.de/"
+street: Jakobstraße
+housenumber: "13"
+phone: +49 391 5430816
+opening_hours: Mo-Fr 06:00-24:00, Sa 06:00-20:00
+website: https://www.np.de/

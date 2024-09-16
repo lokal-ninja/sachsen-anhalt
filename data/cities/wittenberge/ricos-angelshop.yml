@@ -1,11 +1,11 @@
 id: 178574298
-type: way
+type: node
 latitude: 52.99156
 longitude: 11.75219
 postcode: "19322"
 city: Wittenberge
-street: "Bahnstraße"
-housenumber: 122
+street: Bahnstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

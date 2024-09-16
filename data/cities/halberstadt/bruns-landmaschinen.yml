@@ -1,11 +1,11 @@
 id: 253367321
-type: way
+type: node
 latitude: 51.86367
 longitude: 10.9779
 postcode: "38895"
 city: Halberstadt
-street: "Harzblick"
-housenumber: 11
+street: Harzblick
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://abc-bruns.de/de/unternehmen/standorte/langenstein.php"
+website: https://abc-bruns.de/de/unternehmen/standorte/langenstein.php

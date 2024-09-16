@@ -1,11 +1,11 @@
 id: 387992180
-type: way
+type: node
 latitude: 51.50822
 longitude: 11.88087
 postcode: "06120"
 city: Halle (Saale)
-street: "Lieskauer Straße"
-housenumber: 2
+street: Lieskauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00, Sa 07:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 07:00-21:00, Sa 07:00-20:00
+website: https://www.netto.de/

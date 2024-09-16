@@ -1,11 +1,11 @@
 id: 152025566
-type: way
+type: node
 latitude: 51.62809
 longitude: 12.32855
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Friedensstraße"
-housenumber: 7
-phone: "+49 800 4353361"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+street: Friedensstraße
+housenumber: "7"
+phone: +49 800 4353361
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.lidl.de/

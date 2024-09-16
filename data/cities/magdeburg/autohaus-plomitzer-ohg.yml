@@ -1,11 +1,11 @@
 id: 100177787
-type: way
+type: node
 latitude: 52.08123
 longitude: 11.61264
 postcode: "39118"
 city: Magdeburg
-street: "Pallasweg"
-housenumber: 8
+street: Pallasweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-plomitzer.de/"
+website: https://www.autohaus-plomitzer.de/

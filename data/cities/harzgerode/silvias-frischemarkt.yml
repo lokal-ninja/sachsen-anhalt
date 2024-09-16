@@ -1,11 +1,11 @@
 id: 491578016
-type: way
+type: node
 latitude: 51.59083
 longitude: 11.14028
 postcode: "06493"
 city: Harzgerode
-street: "Kleine Gasse"
-housenumber: 16
+street: Kleine Gasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

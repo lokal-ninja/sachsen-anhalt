@@ -5,7 +5,8 @@ longitude: 11.84145
 postcode: "39217"
 city: Pretzien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Apr 01-Oct 01: Tu-Su 10:00-19:00; Oct 02-Mar 31: Sa,Su 10:00-16:00 nach Absprache"
+opening_hours: 'Apr 01-Oct 01: Tu-Su 10:00-19:00; Oct 02-Mar 31: Sa,Su 10:00-16:00
+    "nach Absprache"'
 website: ""

@@ -1,11 +1,11 @@
 id: 148335581
-type: way
+type: node
 latitude: 51.8376
 longitude: 12.23929
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Antoinettenstraße"
-housenumber: 26
+street: Antoinettenstraße
+housenumber: "26"
 phone: "+4934085072327"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 08:00-12:00"
+opening_hours: Tu-Fr 10:00-18:00; Sa 08:00-12:00
 website: ""

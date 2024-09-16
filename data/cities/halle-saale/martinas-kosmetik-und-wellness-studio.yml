@@ -4,8 +4,8 @@ latitude: 51.49311
 longitude: 11.9763
 postcode: "06114"
 city: Halle (Saale)
-street: "Goethestraße"
-housenumber: 13
+street: Goethestraße
+housenumber: "13"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

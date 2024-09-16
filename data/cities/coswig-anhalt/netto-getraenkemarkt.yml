@@ -1,11 +1,11 @@
 id: 48821722
-type: way
+type: node
 latitude: 51.88342
 longitude: 12.44446
 postcode: "06869"
 city: Coswig (Anhalt)
-street: "Zerbster Straße"
-housenumber: 54
+street: Zerbster Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

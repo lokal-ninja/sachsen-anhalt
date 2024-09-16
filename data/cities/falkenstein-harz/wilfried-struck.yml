@@ -1,11 +1,11 @@
 id: 541378831
-type: way
+type: node
 latitude: 51.65924
 longitude: 11.27816
 postcode: "06543"
 city: Falkenstein/Harz
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

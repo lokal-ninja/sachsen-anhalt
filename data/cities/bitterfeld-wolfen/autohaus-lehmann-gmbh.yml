@@ -1,11 +1,11 @@
 id: 88282116
-type: way
+type: node
 latitude: 51.62397
 longitude: 12.29401
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Zörbiger Straße"
+street: Zörbiger Straße
 housenumber: 49a
 phone: ""
 opening_hours: ""
-website: "https://lehmann.nissan-haendler.de/"
+website: https://lehmann.nissan-haendler.de/

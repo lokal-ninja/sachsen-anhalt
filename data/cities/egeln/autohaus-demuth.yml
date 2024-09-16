@@ -1,11 +1,11 @@
 id: 210049370
-type: way
+type: node
 latitude: 51.94232
 longitude: 11.42848
 postcode: ""
 city: Egeln
-street: "Bergstraße"
-housenumber: 6
+street: Bergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.citroen-haendler.de/demuth-egeln/"
+website: https://www.citroen-haendler.de/demuth-egeln/

@@ -1,11 +1,11 @@
 id: 88206312
-type: way
+type: node
 latitude: 52.58379
 longitude: 11.87301
 postcode: "39576"
 city: Stendal
-street: "Heerener Straße"
-housenumber: 79
-phone: "+49 3931 6765"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://porta.de/stendal"
+street: Heerener Straße
+housenumber: "79"
+phone: +49 3931 6765
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://porta.de/stendal

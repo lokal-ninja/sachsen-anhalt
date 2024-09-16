@@ -4,8 +4,8 @@ latitude: 51.49397
 longitude: 11.96862
 postcode: "06114"
 city: Halle (Saale)
-street: "Mühlweg"
-housenumber: 29
-phone: "+49 345 68458690"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://www.stillerfluss.de/"
+street: Mühlweg
+housenumber: "29"
+phone: +49 345 68458690
+opening_hours: Mo-Fr 08:00-20:00
+website: https://www.stillerfluss.de/

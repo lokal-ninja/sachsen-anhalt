@@ -1,11 +1,11 @@
 id: 1096250509
-type: way
+type: node
 latitude: 52.10954
 longitude: 11.78029
 postcode: "39175"
 city: Gommern
-street: "Gerstenberg"
-housenumber: 3
+street: Gerstenberg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

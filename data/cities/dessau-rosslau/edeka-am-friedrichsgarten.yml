@@ -1,11 +1,11 @@
 id: 691522106
-type: way
+type: node
 latitude: 51.84053
 longitude: 12.25681
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Am Friedrichsgarten"
-housenumber: 3
+street: Am Friedrichsgarten
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

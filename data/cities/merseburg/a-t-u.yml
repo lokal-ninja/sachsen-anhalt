@@ -1,11 +1,11 @@
 id: 314023934
-type: way
+type: node
 latitude: 51.32793
 longitude: 11.97586
 postcode: "06217"
 city: Merseburg
-street: "Naumburger Straße"
-housenumber: 132
+street: Naumburger Straße
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

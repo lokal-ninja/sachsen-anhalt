@@ -1,11 +1,11 @@
 id: 909522214
-type: way
+type: node
 latitude: 52.01805
 longitude: 10.78142
 postcode: "38835"
 city: Osterwieck
-street: "Leipziger Straße"
-housenumber: 11
+street: Leipziger Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

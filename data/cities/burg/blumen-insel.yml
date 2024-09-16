@@ -1,11 +1,11 @@
 id: 182440214
-type: way
+type: node
 latitude: 52.26555
 longitude: 11.85802
 postcode: "39288"
 city: Burg
-street: "Conrad-Tack-Ring"
-housenumber: 30
+street: Conrad-Tack-Ring
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 10:00-12:00
 website: ""

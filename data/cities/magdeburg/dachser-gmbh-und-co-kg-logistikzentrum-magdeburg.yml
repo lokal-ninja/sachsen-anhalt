@@ -1,11 +1,11 @@
 id: 48063524
-type: way
+type: node
 latitude: 52.2028
 longitude: 11.67001
 postcode: "39126"
 city: Magdeburg
-street: "Wörmlitzer Straße"
-housenumber: 2
+street: Wörmlitzer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 304073326
-type: way
+type: node
 latitude: 52.91618
 longitude: 11.72114
 postcode: "39615"
 city: Aland
-street: "Kirchweg"
-housenumber: 7
+street: Kirchweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

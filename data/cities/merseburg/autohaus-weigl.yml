@@ -1,11 +1,11 @@
 id: 150680719
-type: way
+type: node
 latitude: 51.37202
 longitude: 11.98112
 postcode: "06217"
 city: Merseburg
-street: "Querfurter Straße"
-housenumber: 6
+street: Querfurter Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-weigl.de/"
+website: https://www.autohaus-weigl.de/

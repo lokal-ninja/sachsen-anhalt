@@ -4,8 +4,8 @@ latitude: 51.15169
 longitude: 11.80571
 postcode: "06618"
 city: Naumburg
-street: "Lindenring"
-housenumber: 1
-phone: "+49 3445 201418"
-opening_hours: "Mo-Fr 09:30-16:30, Sa,Su,PH off"
-website: "https://www.textilreinigung-naumburg.de/"
+street: Lindenring
+housenumber: "1"
+phone: +49 3445 201418
+opening_hours: Mo-Fr 09:30-16:30, Sa,Su,PH off
+website: https://www.textilreinigung-naumburg.de/

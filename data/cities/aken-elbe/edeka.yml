@@ -1,11 +1,11 @@
 id: 96001309
-type: way
+type: node
 latitude: 51.85342
 longitude: 12.0556
 postcode: "06385"
 city: Aken (Elbe)
-street: "Am Dreieck"
-housenumber: 7
+street: Am Dreieck
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

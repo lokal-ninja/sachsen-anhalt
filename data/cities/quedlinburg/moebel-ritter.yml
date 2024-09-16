@@ -1,11 +1,11 @@
 id: 242088561
-type: way
+type: node
 latitude: 51.73546
 longitude: 11.15168
 postcode: "06485"
 city: Quedlinburg
-street: "Quedlinburger Straße"
-housenumber: 23
+street: Quedlinburger Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

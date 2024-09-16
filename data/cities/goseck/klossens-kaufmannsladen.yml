@@ -1,11 +1,11 @@
 id: 449088932
-type: way
+type: node
 latitude: 51.21069
 longitude: 11.86922
 postcode: "06667"
 city: Goseck
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

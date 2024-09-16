@@ -4,8 +4,8 @@ latitude: 51.4641
 longitude: 11.07928
 postcode: "06536"
 city: Südharz
-street: "Hallesche Straße"
-housenumber: 39
+street: Hallesche Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.kik.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.kik.de

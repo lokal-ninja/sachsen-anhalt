@@ -1,11 +1,11 @@
 id: 1115848559
-type: way
+type: node
 latitude: 51.90522
 longitude: 12.25727
 postcode: "06862"
 city: Dessau-Roßlau
-street: "Bahnhofstraße"
-housenumber: 49
+street: Bahnhofstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

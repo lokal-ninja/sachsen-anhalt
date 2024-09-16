@@ -1,11 +1,11 @@
 id: 1203937461
-type: way
+type: node
 latitude: 52.40281
 longitude: 12.1524
 postcode: "39307"
 city: Genthin
-street: "Steinstraße"
-housenumber: 8
+street: Steinstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-12:00
 website: ""

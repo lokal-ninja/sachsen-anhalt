@@ -1,11 +1,11 @@
 id: 93256180
-type: way
+type: node
 latitude: 51.87583
 longitude: 12.55672
 postcode: "06886"
 city: Wittenberg
-street: "Coswiger Landstraße"
-housenumber: 6
+street: Coswiger Landstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

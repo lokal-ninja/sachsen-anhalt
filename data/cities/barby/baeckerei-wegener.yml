@@ -4,8 +4,8 @@ latitude: 51.96672
 longitude: 11.88629
 postcode: "39249"
 city: Barby
-street: "Marktplatz"
-housenumber: 10
-phone: "+49(0)39298-3164"
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-11:00, Su 07:00-11:00"
+street: Marktplatz
+housenumber: "10"
+phone: +49(0)39298-3164
+opening_hours: Mo-Fr 06:00-18:00, Sa 06:00-11:00, Su 07:00-11:00
 website: ""

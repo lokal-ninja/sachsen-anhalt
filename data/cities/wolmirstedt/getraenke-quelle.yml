@@ -1,11 +1,11 @@
 id: 1082552061
-type: way
+type: node
 latitude: 52.25571
 longitude: 11.6335
 postcode: "39326"
 city: Wolmirstedt
-street: "Rogätzer Straße"
-housenumber: 27
+street: Rogätzer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

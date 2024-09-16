@@ -1,11 +1,11 @@
 id: 393468657
-type: way
+type: node
 latitude: 51.22506
 longitude: 11.9619
 postcode: "06667"
 city: Weißenfels
-street: "Tagwerbener Straße"
-housenumber: 108
-phone: "+49 3443 33560"
+street: Tagwerbener Straße
+housenumber: "108"
+phone: +49 3443 33560
 opening_hours: ""
-website: "https://rentlift.eu"
+website: https://rentlift.eu

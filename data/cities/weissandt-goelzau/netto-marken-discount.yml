@@ -1,11 +1,11 @@
 id: 1301285282
-type: way
+type: node
 latitude: 51.67284
 longitude: 12.0797
 postcode: "06369"
 city: Weißandt-Gölzau
-street: "Gewerbepark"
-housenumber: 2
-phone: "+49 34978 30751"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+street: Gewerbepark
+housenumber: "2"
+phone: +49 34978 30751
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

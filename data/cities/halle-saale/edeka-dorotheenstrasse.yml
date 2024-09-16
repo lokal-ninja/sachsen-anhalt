@@ -1,11 +1,11 @@
 id: 976359204
-type: way
+type: node
 latitude: 51.47905
 longitude: 11.98105
 postcode: "06108"
 city: Halle (Saale)
-street: "Dorotheenstraße"
-housenumber: 11
+street: Dorotheenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

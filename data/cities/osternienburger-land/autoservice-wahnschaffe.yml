@@ -1,11 +1,11 @@
 id: 369337604
-type: way
+type: node
 latitude: 51.79134
 longitude: 12.0085
 postcode: "06386"
 city: Osternienburger Land
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

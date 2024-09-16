@@ -1,11 +1,11 @@
 id: 181659405
-type: way
+type: node
 latitude: 52.25675
 longitude: 11.86578
 postcode: "39288"
 city: Burg
-street: "Zibbeklebener Straße"
-housenumber: 33
+street: Zibbeklebener Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/"
+website: https://www.atu.de/

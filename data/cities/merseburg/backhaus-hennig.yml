@@ -4,8 +4,8 @@ latitude: 51.36483
 longitude: 11.98211
 postcode: "06217"
 city: Merseburg
-street: "Gerichtsrain"
-housenumber: 64
+street: Gerichtsrain
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH,Su off
 website: ""

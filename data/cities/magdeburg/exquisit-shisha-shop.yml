@@ -4,8 +4,8 @@ latitude: 52.1194
 longitude: 11.62767
 postcode: "39104"
 city: Magdeburg
-street: "Sternstraße"
-housenumber: 32
+street: Sternstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00; Sa 13:00-19:00"
+opening_hours: Mo-Su 10:00-22:00; Sa 13:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1027017489
-type: way
+type: node
 latitude: 52.2438
 longitude: 11.57868
 postcode: "39326"
 city: Niedere Börde
-street: "Schulstraße"
-housenumber: 6
-phone: "+49 39201 32635"
+street: Schulstraße
+housenumber: "6"
+phone: +49 39201 32635
 opening_hours: ""
 website: ""

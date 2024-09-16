@@ -1,11 +1,11 @@
 id: 96746434
-type: way
+type: node
 latitude: 51.86102
 longitude: 10.80802
 postcode: "38855"
 city: Wernigerode
-street: "Brockenblick"
-housenumber: 25
-phone: "+49 3943 500046"
+street: Brockenblick
+housenumber: "25"
+phone: +49 3943 500046
 opening_hours: ""
 website: ""

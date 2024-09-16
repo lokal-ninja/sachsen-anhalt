@@ -1,11 +1,11 @@
 id: 194028224
-type: way
+type: node
 latitude: 52.5365
 longitude: 11.40778
 postcode: "39638"
 city: Gardelegen
-street: "Am Kämmereiforst"
-housenumber: 15
+street: Am Kämmereiforst
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

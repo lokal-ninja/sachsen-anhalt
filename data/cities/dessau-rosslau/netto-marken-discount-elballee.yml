@@ -1,11 +1,11 @@
 id: 42466909
-type: way
+type: node
 latitude: 51.84812
 longitude: 12.21552
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Elballee"
-housenumber: 44
+street: Elballee
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

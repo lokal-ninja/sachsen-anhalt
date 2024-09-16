@@ -1,11 +1,11 @@
 id: 234543417
-type: way
+type: node
 latitude: 51.79511
 longitude: 11.75158
 postcode: "06406"
 city: Bernburg
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220122416
-type: way
+type: node
 latitude: 51.96629
 longitude: 12.08536
 postcode: "39261"
 city: Zerbst/Anhalt
-street: "Alte Brücke"
-housenumber: 3
-phone: "+49 3923 48660"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off"
-website: "https://filiale.kaufland.de/service/filiale/zerbst-1740.html"
+street: Alte Brücke
+housenumber: "3"
+phone: +49 3923 48660
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off
+website: https://filiale.kaufland.de/service/filiale/zerbst-1740.html

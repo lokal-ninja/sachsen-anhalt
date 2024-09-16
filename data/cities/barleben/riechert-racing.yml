@@ -1,11 +1,11 @@
 id: 1028526613
-type: way
+type: node
 latitude: 52.19357
 longitude: 11.62207
 postcode: "39179"
 city: Barleben
-street: "Lindenallee"
-housenumber: 2
+street: Lindenallee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,12:30-17:30"
-website: "https://www.riechert-racing.de/startseite.html"
+opening_hours: Mo-Fr 08:30-12:00,12:30-17:30
+website: https://www.riechert-racing.de/startseite.html

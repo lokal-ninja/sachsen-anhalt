@@ -1,11 +1,11 @@
 id: 201366663
-type: way
+type: node
 latitude: 51.4795
 longitude: 11.78229
 postcode: "06179"
 city: Teutschenthal
-street: "Köchstedter Weg"
+street: Köchstedter Weg
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

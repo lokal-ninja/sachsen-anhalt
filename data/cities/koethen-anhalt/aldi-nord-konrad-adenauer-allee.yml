@@ -1,11 +1,11 @@
 id: 114440700
-type: way
+type: node
 latitude: 51.74816
 longitude: 11.94909
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Konrad-Adenauer-Allee"
-housenumber: 3
+street: Konrad-Adenauer-Allee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

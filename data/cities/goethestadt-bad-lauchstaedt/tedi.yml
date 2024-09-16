@@ -1,11 +1,11 @@
 id: 159295744
-type: way
+type: node
 latitude: 51.38741
 longitude: 11.87394
 postcode: "06246"
 city: Goethestadt Bad Lauchstädt
-street: "Am Bahnhof"
-housenumber: 25
+street: Am Bahnhof
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

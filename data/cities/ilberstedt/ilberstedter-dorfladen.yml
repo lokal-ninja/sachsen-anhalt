@@ -1,11 +1,11 @@
 id: 229102060
-type: way
+type: node
 latitude: 51.80265
 longitude: 11.66619
 postcode: "06408"
 city: Ilberstedt
-street: "Lindenstraße"
-housenumber: 
+street: Lindenstraße
+housenumber: ""
 phone: ""
-opening_hours: "Tu 07:00-12:00; Sa 07:00-11:00"
+opening_hours: Tu 07:00-12:00; Sa 07:00-11:00
 website: ""

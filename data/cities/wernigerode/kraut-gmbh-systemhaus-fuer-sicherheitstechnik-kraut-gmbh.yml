@@ -1,11 +1,11 @@
 id: 973261151
-type: way
+type: node
 latitude: 51.8534
 longitude: 10.79186
 postcode: "38855"
 city: Wernigerode
-street: "Kratzensteinring"
-housenumber: 2
-phone: "+49 3943 4099990"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kraut-gmbh.de/startseite.html"
+street: Kratzensteinring
+housenumber: "2"
+phone: +49 3943 4099990
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kraut-gmbh.de/startseite.html

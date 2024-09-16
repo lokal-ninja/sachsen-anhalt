@@ -4,8 +4,8 @@ latitude: 52.15995
 longitude: 11.60511
 postcode: "39128"
 city: Magdeburg
-street: "Olvenstedter Graseweg"
-housenumber: 37
-phone: "+49 391 300420"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://www.floristik99.de/index.php"
+street: Olvenstedter Graseweg
+housenumber: "37"
+phone: +49 391 300420
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://www.floristik99.de/index.php

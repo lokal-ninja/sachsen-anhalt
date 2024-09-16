@@ -1,11 +1,11 @@
 id: 268611463
-type: way
+type: node
 latitude: 51.83886
 longitude: 12.24457
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Ferdinand-von-Schill-Straße"
-housenumber: 38
+street: Ferdinand-von-Schill-Straße
+housenumber: "38"
 phone: "+49340213630"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.hausderstoffe.de/"
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.hausderstoffe.de/

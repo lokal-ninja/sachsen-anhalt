@@ -1,11 +1,11 @@
 id: 80340788
-type: way
+type: node
 latitude: 51.52636
 longitude: 11.82525
 postcode: "06198"
 city: Salzatal
-street: "Straße der Einheit"
-housenumber: 15
+street: Straße der Einheit
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

@@ -1,11 +1,11 @@
 id: 288273773
-type: way
+type: node
 latitude: 51.1226
 longitude: 12.02435
 postcode: "06682"
 city: Teuchern
-street: "Goethestraße"
+street: Goethestraße
 housenumber: 2A
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

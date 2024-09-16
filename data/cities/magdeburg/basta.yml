@@ -1,11 +1,11 @@
 id: 646021219
-type: way
+type: node
 latitude: 52.11411
 longitude: 11.61116
 postcode: "39112"
 city: Magdeburg
-street: "Halberstädter Straße"
+street: Halberstädter Straße
 housenumber: 51-53
 phone: ""
 opening_hours: ""
-website: "https://basta.rocks/"
+website: https://basta.rocks/

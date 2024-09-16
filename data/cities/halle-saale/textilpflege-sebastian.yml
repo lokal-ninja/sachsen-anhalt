@@ -4,8 +4,8 @@ latitude: 51.49429
 longitude: 11.96883
 postcode: "06108"
 city: Halle (Saale)
-street: "Ludwig-Wucherer-Straße"
-housenumber: 54
-phone: "+49 345 8044421"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://textilpflege-halle.de"
+street: Ludwig-Wucherer-Straße
+housenumber: "54"
+phone: +49 345 8044421
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://textilpflege-halle.de

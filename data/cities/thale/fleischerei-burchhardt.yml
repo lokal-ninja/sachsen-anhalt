@@ -1,11 +1,11 @@
 id: 234397478
-type: way
+type: node
 latitude: 51.75598
 longitude: 11.04268
 postcode: "06502"
 city: Thale
-street: "Markt"
-housenumber: 5
+street: Markt
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

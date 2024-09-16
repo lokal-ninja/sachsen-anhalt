@@ -4,8 +4,8 @@ latitude: 51.79861
 longitude: 11.73591
 postcode: "06406"
 city: Bernburg
-street: "Markt"
-housenumber: 15
+street: Markt
+housenumber: "15"
 phone: "+493471350905"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-11:30"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-11:30
 website: ""

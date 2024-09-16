@@ -1,11 +1,11 @@
 id: 28309918
-type: way
+type: node
 latitude: 52.77522
 longitude: 11.75482
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Am Bültgraben"
-housenumber: 23
-phone: "+49 3937 2921340"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Am Bültgraben
+housenumber: "23"
+phone: +49 3937 2921340
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

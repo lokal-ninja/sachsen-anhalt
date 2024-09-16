@@ -1,11 +1,11 @@
 id: 202973467
-type: way
+type: node
 latitude: 51.77202
 longitude: 10.80228
 postcode: "38875"
 city: Oberharz am Brocken
-street: "Pfarrstraße"
-housenumber: 8
+street: Pfarrstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

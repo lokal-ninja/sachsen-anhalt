@@ -1,11 +1,11 @@
 id: 96759612
-type: way
+type: node
 latitude: 51.82949
 longitude: 10.77265
 postcode: "38855"
 city: Wernigerode
-street: "Friedrichstraße"
-housenumber: 134
+street: Friedrichstraße
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.np.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.np.de/

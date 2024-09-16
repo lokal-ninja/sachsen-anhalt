@@ -4,8 +4,8 @@ latitude: 51.35436
 longitude: 11.99217
 postcode: "06217"
 city: Merseburg
-street: "Teichstraße"
-housenumber: 1
-phone: "+49 3461 2767144"
-opening_hours: "Tu-Sa 12:00-19:00"
-website: "http://www.thaimassage-koch.de/index.htm"
+street: Teichstraße
+housenumber: "1"
+phone: +49 3461 2767144
+opening_hours: Tu-Sa 12:00-19:00
+website: http://www.thaimassage-koch.de/index.htm

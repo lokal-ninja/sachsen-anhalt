@@ -1,11 +1,11 @@
 id: 118358392
-type: way
+type: node
 latitude: 51.7802
 longitude: 11.75182
 postcode: "06406"
 city: Bernburg
-street: "Zepziger Weg"
-housenumber: 9
+street: Zepziger Weg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

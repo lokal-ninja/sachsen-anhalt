@@ -4,8 +4,8 @@ latitude: 51.82474
 longitude: 12.24237
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Franzstraße"
-housenumber: 159
+street: Franzstraße
+housenumber: "159"
 phone: "+493405169062"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.schaumaloptic.de/terminanfrage"
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.schaumaloptic.de/terminanfrage

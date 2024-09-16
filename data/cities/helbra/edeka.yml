@@ -1,11 +1,11 @@
 id: 170661139
-type: way
+type: node
 latitude: 51.55508
 longitude: 11.49777
 postcode: "06311"
 city: Helbra
-street: "Lehbreite"
-housenumber: 1
-phone: "+49 34772 33210"
-opening_hours: "Mo-Fr 07:00-20:00"
+street: Lehbreite
+housenumber: "1"
+phone: +49 34772 33210
+opening_hours: Mo-Fr 07:00-20:00
 website: ""

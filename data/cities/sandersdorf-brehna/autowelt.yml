@@ -4,8 +4,8 @@ latitude: 51.54896
 longitude: 12.19368
 postcode: "06796"
 city: Sandersdorf-Brehna
-street: "Max-Planck-Straße"
-housenumber: 7
+street: Max-Planck-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su Schautag"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su "Schautag"
 website: ""

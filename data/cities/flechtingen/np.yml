@@ -1,11 +1,11 @@
 id: 300519808
-type: way
+type: node
 latitude: 52.33143
 longitude: 11.24124
 postcode: "39345"
 city: Flechtingen
-street: "Zur Spetze"
-housenumber: 2
+street: Zur Spetze
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 264253990
-type: way
+type: node
 latitude: 52.93817
 longitude: 11.79081
 postcode: "39615"
 city: Seehausen
-street: "Ostorfer Straße"
-housenumber: 2
+street: Ostorfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.schaeferei-schuster.de/"
+website: https://www.schaeferei-schuster.de/

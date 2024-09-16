@@ -1,11 +1,11 @@
 id: 518249947
-type: way
+type: node
 latitude: 51.9203
 longitude: 10.75532
 postcode: "38871"
 city: Nordharz
-street: "Dorfstraße"
-housenumber: 7
+street: Dorfstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

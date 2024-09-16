@@ -4,8 +4,8 @@ latitude: 51.83716
 longitude: 10.77322
 postcode: "38855"
 city: Wernigerode
-street: "Ilsenburger Straße"
-housenumber: 40
+street: Ilsenburger Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-17:00; PH off"
-website: "http://www.banse-grohmann.de"
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-17:00; PH off
+website: http://www.banse-grohmann.de

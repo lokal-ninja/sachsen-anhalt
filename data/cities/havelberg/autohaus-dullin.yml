@@ -1,11 +1,11 @@
 id: 392714828
-type: way
+type: node
 latitude: 52.83539
 longitude: 12.08004
 postcode: "39539"
 city: Havelberg
-street: "Pritzwalker Straße"
-housenumber: 58
+street: Pritzwalker Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

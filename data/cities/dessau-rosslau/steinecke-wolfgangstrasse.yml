@@ -4,8 +4,8 @@ latitude: 51.83998
 longitude: 12.23961
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Wolfgangstraße"
-housenumber: 14
+street: Wolfgangstraße
+housenumber: "14"
 phone: "+493402208008"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
 website: ""

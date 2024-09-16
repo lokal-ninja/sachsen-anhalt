@@ -1,11 +1,11 @@
 id: 24547114
-type: way
+type: node
 latitude: 51.8979
 longitude: 11.05829
 postcode: "38820"
 city: Halberstadt
-street: "Augustenstraße"
-housenumber: 10
+street: Augustenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

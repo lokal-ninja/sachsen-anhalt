@@ -1,11 +1,11 @@
 id: 26746008
-type: way
+type: node
 latitude: 51.62278
 longitude: 12.32764
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Walther-Rathenau-Straße"
+street: Walther-Rathenau-Straße
 housenumber: 1C
-phone: "+49 3493 8242494"
-opening_hours: "Mo-Fr 08:00-18:00; Su 13:30-18:00"
-website: "https://goldstein-bitterfeld.de"
+phone: +49 3493 8242494
+opening_hours: Mo-Fr 08:00-18:00; Su 13:30-18:00
+website: https://goldstein-bitterfeld.de

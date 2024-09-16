@@ -1,11 +1,11 @@
 id: 840648951
-type: way
+type: node
 latitude: 51.84238
 longitude: 12.41961
 postcode: "06785"
 city: Oranienbaum-Wörlitz
-street: "Neue Reihe"
-housenumber: 179
+street: Neue Reihe
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

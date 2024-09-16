@@ -4,8 +4,8 @@ latitude: 51.83751
 longitude: 10.78661
 postcode: "38855"
 city: Wernigerode
-street: "Grüne Straße"
-housenumber: 62
-phone: "+49 3943 265828"
-opening_hours: "Mo,We-Fr 09:30-13:00, Sa 09:00-12:00; Tu off, Mo,We-Fr 14:00-18:00"
-website: "https://www.blumenecke-busch.de/"
+street: Grüne Straße
+housenumber: "62"
+phone: +49 3943 265828
+opening_hours: Mo,We-Fr 09:30-13:00, Sa 09:00-12:00; Tu off, Mo,We-Fr 14:00-18:00
+website: https://www.blumenecke-busch.de/

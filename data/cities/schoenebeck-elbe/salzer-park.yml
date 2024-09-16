@@ -1,11 +1,11 @@
 id: 26092980
-type: way
+type: node
 latitude: 52.01585
 longitude: 11.71798
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Stadionstraße"
-housenumber: 10
+street: Stadionstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

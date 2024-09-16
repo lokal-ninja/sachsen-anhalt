@@ -4,8 +4,8 @@ latitude: 51.48149
 longitude: 11.97372
 postcode: "06108"
 city: Halle (Saale)
-street: "Leipziger Straße"
-housenumber: 12
+street: Leipziger Straße
+housenumber: "12"
 phone: "+4934567826268"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.eyesandmore.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.eyesandmore.de/

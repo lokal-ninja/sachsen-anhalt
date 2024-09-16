@@ -4,8 +4,8 @@ latitude: 51.86566
 longitude: 12.64646
 postcode: "06886"
 city: Wittenberg
-street: "Collegienstraße"
-housenumber: 81
-phone: "+49 3491 8755560"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.modehaus-eule.de/"
+street: Collegienstraße
+housenumber: "81"
+phone: +49 3491 8755560
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.modehaus-eule.de/

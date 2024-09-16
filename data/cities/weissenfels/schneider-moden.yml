@@ -4,8 +4,8 @@ latitude: 51.20113
 longitude: 11.97051
 postcode: "06667"
 city: Weißenfels
-street: "Jüdenstraße"
-housenumber: 10
+street: Jüdenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-12:00"
-website: "https://www.schneidermoden.de/filiale/weissenfels-outlet-store.html"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-12:00
+website: https://www.schneidermoden.de/filiale/weissenfels-outlet-store.html

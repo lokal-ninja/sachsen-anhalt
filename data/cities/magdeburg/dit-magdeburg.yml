@@ -4,8 +4,8 @@ latitude: 52.07975
 longitude: 11.62167
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 2
+street: Carnotstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://toyota-car-center-magdeburg.de/"
+website: http://toyota-car-center-magdeburg.de/

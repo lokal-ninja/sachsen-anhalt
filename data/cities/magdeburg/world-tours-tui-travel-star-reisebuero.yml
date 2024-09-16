@@ -4,8 +4,8 @@ latitude: 52.13395
 longitude: 11.61771
 postcode: "39108"
 city: Magdeburg
-street: "Goethestraße"
-housenumber: 1
-phone: "+49 391 7346060"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.wt24.de/"
+street: Goethestraße
+housenumber: "1"
+phone: +49 391 7346060
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.wt24.de/

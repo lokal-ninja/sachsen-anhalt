@@ -1,11 +1,11 @@
 id: 1194405985
-type: way
+type: node
 latitude: 52.38314
 longitude: 11.98756
 postcode: "39317"
 city: Elbe-Parey
-street: "Bittkauer Weg"
-housenumber: 1
+street: Bittkauer Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

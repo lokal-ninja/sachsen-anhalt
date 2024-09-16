@@ -4,8 +4,8 @@ latitude: 51.48684
 longitude: 11.96632
 postcode: "06108"
 city: Halle (Saale)
-street: "Kleine Ulrichstraße"
-housenumber: 31
+street: Kleine Ulrichstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.vogelvilla.com/haendler"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.vogelvilla.com/haendler

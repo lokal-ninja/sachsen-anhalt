@@ -1,11 +1,11 @@
 id: 235612992
-type: way
+type: node
 latitude: 52.62964
 longitude: 11.15659
 postcode: "38486"
 city: Klötze
-street: "Poppauer Straße"
-housenumber: 2
+street: Poppauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-junghans-poppauer-str.-2/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-junghans-poppauer-str.-2/index.jsp

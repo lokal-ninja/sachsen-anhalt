@@ -1,11 +1,11 @@
 id: 185757234
-type: way
+type: node
 latitude: 51.46388
 longitude: 11.90782
 postcode: "06179"
 city: Teutschenthal
-street: "An der Lauchstädter Straße"
-housenumber: 4
+street: An der Lauchstädter Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

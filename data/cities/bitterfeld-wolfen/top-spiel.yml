@@ -1,11 +1,11 @@
 id: 124843005
-type: way
+type: node
 latitude: 51.63886
 longitude: 12.30985
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Anhaltstraße"
-housenumber: 72
+street: Anhaltstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

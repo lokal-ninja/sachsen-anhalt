@@ -1,11 +1,11 @@
 id: 236835570
-type: way
+type: node
 latitude: 52.54764
 longitude: 11.97999
 postcode: "39590"
 city: Tangermünde
-street: "Arneburger Straße"
-housenumber: 116
+street: Arneburger Straße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 52.72738
 longitude: 11.86045
 postcode: "39596"
 city: Goldbeck
-street: "Möllendorfer Chaussee"
-housenumber: 
-phone: "+49 39388 28286"
-opening_hours: "Mo, We, Th 09:00-13:00, 14:00-16:30; Tu, Fr 09:00-13:00, 14:00-18:00; Sa 08:00-12:00; Nov-Feb Sa off"
-website: "https://www.vr-plus.de/startseite.html"
+street: Möllendorfer Chaussee
+housenumber: ""
+phone: +49 39388 28286
+opening_hours: Mo, We, Th 09:00-13:00, 14:00-16:30; Tu, Fr 09:00-13:00, 14:00-18:00;
+    Sa 08:00-12:00; Nov-Feb Sa off
+website: https://www.vr-plus.de/startseite.html

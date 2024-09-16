@@ -1,11 +1,11 @@
 id: 197826680
-type: way
+type: node
 latitude: 52.4163
 longitude: 12.15202
 postcode: "39307"
 city: Genthin
-street: "Brettiner Chaussee"
-housenumber: 2
+street: Brettiner Chaussee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

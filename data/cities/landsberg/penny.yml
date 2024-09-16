@@ -1,11 +1,11 @@
 id: 49051919
-type: way
+type: node
 latitude: 51.53761
 longitude: 12.15812
 postcode: "06188"
 city: Landsberg
-street: "Zörbiger Straße"
-housenumber: 12
+street: Zörbiger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 06:30-20:00
+website: https://www.penny.de/

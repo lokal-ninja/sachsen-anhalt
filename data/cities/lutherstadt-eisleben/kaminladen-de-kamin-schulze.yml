@@ -1,11 +1,11 @@
 id: 182499355
-type: way
+type: node
 latitude: 51.50745
 longitude: 11.57081
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Hauptstraße"
-housenumber: 48
-phone: "+49 3475 715753"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: Hauptstraße
+housenumber: "48"
+phone: +49 3475 715753
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

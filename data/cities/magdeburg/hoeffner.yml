@@ -1,11 +1,11 @@
 id: 51832345
-type: way
+type: node
 latitude: 52.18238
 longitude: 11.61492
 postcode: "39128"
 city: Magdeburg
-street: "Am Pfahlberg"
-housenumber: 8
-phone: "+49 391 2891-0"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.hoeffner.de/magdeburg-pfahlberg"
+street: Am Pfahlberg
+housenumber: "8"
+phone: +49 391 2891-0
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.hoeffner.de/magdeburg-pfahlberg

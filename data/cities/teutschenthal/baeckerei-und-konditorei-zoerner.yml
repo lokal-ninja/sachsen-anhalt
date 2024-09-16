@@ -1,11 +1,11 @@
 id: 180598447
-type: way
+type: node
 latitude: 51.48442
 longitude: 11.77805
 postcode: "06179"
 city: Teutschenthal
-street: "Paul-Schmidt-Straße"
-housenumber: 27
+street: Paul-Schmidt-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

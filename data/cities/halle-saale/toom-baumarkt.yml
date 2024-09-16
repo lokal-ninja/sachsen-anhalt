@@ -1,11 +1,11 @@
 id: 24528715
-type: way
+type: node
 latitude: 51.4359
 longitude: 11.97367
 postcode: "06132"
 city: Halle (Saale)
-street: "Alte Heerstraße"
-housenumber: 260
+street: Alte Heerstraße
+housenumber: "260"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00
 website: ""

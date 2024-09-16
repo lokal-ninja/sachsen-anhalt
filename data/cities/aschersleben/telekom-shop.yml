@@ -4,8 +4,8 @@ latitude: 51.75405
 longitude: 11.45683
 postcode: "06449"
 city: Aschersleben
-street: "Breite Straße"
-housenumber: 14
-phone: "+49 3473 2266745"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/aschersleben/breite-str-14"
+street: Breite Straße
+housenumber: "14"
+phone: +49 3473 2266745
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00; Su off
+website: https://shopseite.telekom.de/nord-ost/aschersleben/breite-str-14

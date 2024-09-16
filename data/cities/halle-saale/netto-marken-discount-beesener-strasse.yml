@@ -1,11 +1,11 @@
 id: 47354146
-type: way
+type: node
 latitude: 51.46339
 longitude: 11.97171
 postcode: "06110"
 city: Halle (Saale)
-street: "Beesener Straße"
-housenumber: 42
+street: Beesener Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

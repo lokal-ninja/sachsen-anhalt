@@ -1,11 +1,11 @@
 id: 165176439
-type: way
+type: node
 latitude: 51.60499
 longitude: 11.47245
 postcode: "06343"
 city: Mansfeld
-street: "Plan"
-housenumber: 2
+street: Plan
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

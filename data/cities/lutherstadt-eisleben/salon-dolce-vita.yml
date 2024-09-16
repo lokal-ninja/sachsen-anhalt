@@ -4,8 +4,8 @@ latitude: 51.52151
 longitude: 11.54301
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Friedensstraße"
-housenumber: 14
-phone: "+49 3475 683377"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su off"
-website: "http://www.friseur-eisleben.de/index.html"
+street: Friedensstraße
+housenumber: "14"
+phone: +49 3475 683377
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su off
+website: http://www.friseur-eisleben.de/index.html

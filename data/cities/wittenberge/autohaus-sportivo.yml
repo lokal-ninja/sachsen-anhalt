@@ -1,11 +1,11 @@
 id: 232392463
-type: way
+type: node
 latitude: 53.01324
 longitude: 11.72382
 postcode: "19322"
 city: Wittenberge
-street: "Hirtenweg"
-housenumber: 5
+street: Hirtenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

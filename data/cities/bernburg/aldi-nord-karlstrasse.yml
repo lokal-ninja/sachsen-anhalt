@@ -1,11 +1,11 @@
 id: 196642898
-type: way
+type: node
 latitude: 51.79491
 longitude: 11.74503
 postcode: "06406"
 city: Bernburg
-street: "Karlstraße"
-housenumber: 1
+street: Karlstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 834544070
-type: way
+type: node
 latitude: 51.74537
 longitude: 11.03309
 postcode: "06502"
 city: Thale
-street: "Poststraße"
-housenumber: 3
-phone: "+49 3947 2215"
-opening_hours: "Tu-Fr 08:00-13:00,14:00-18:00;Sa 08:00-11:00;Mo,Su,PH off"
+street: Poststraße
+housenumber: "3"
+phone: +49 3947 2215
+opening_hours: Tu-Fr 08:00-13:00,14:00-18:00;Sa 08:00-11:00;Mo,Su,PH off
 website: ""

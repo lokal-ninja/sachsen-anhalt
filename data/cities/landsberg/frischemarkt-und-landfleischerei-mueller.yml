@@ -1,11 +1,11 @@
 id: 279629882
-type: way
+type: node
 latitude: 51.55161
 longitude: 12.09105
 postcode: "06188"
 city: Landsberg
-street: "Plößnitzer Straße"
-housenumber: 9
+street: Plößnitzer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

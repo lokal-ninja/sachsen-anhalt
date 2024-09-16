@@ -1,11 +1,11 @@
 id: 109586959
-type: way
+type: node
 latitude: 51.80874
 longitude: 10.94735
 postcode: "38889"
 city: Blankenburg (Harz)
-street: "Am Platenberg"
-housenumber: 13
+street: Am Platenberg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

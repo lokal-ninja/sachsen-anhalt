@@ -1,11 +1,11 @@
 id: 876633276
-type: way
+type: node
 latitude: 52.14777
 longitude: 11.64455
 postcode: "39106"
 city: Magdeburg
-street: "Agnetenstraße"
-housenumber: 21
+street: Agnetenstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

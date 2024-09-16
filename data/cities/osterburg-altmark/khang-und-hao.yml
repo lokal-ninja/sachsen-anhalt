@@ -1,11 +1,11 @@
 id: 140810610
-type: way
+type: node
 latitude: 52.78367
 longitude: 11.75302
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Rosa-Luxemburg-Weg"
-housenumber: 1
+street: Rosa-Luxemburg-Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.07999
 longitude: 11.62407
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 8
-phone: "+49 391 6226522"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"
-website: "http://www.auto-wolle.de/"
+street: Carnotstraße
+housenumber: "8"
+phone: +49 391 6226522
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00
+website: http://www.auto-wolle.de/

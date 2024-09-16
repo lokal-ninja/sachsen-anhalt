@@ -1,11 +1,11 @@
 id: 1028674146
-type: way
+type: node
 latitude: 52.19243
 longitude: 11.62227
 postcode: "39179"
 city: Barleben
-street: "Breiteweg"
-housenumber: 95
+street: Breiteweg
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

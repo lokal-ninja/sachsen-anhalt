@@ -1,11 +1,11 @@
 id: 27579439
-type: way
+type: node
 latitude: 51.8951
 longitude: 11.05261
 postcode: "38820"
 city: Halberstadt
-street: "Holzmarkt"
-housenumber: 7
+street: Holzmarkt
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.rathauspassagen-halberstadt.de/"
+website: https://www.rathauspassagen-halberstadt.de/

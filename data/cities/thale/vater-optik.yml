@@ -4,8 +4,8 @@ latitude: 51.7462
 longitude: 11.03334
 postcode: "06502"
 city: Thale
-street: "Poststraße"
-housenumber: 17
+street: Poststraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 08:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 08:00-12:00
 website: ""

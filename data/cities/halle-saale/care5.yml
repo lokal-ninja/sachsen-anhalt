@@ -4,8 +4,8 @@ latitude: 51.49096
 longitude: 11.96601
 postcode: "06108"
 city: Halle (Saale)
-street: "Geiststraße"
-housenumber: 37
-phone: "+49 345 17142050"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://care5.de/"
+street: Geiststraße
+housenumber: "37"
+phone: +49 345 17142050
+opening_hours: Mo-Fr 10:00-19:00
+website: https://care5.de/

@@ -1,11 +1,11 @@
 id: 170901848
-type: way
+type: node
 latitude: 51.80544
 longitude: 11.05917
 postcode: "06502"
 city: Thale
-street: "Planstraße"
-housenumber: 127
+street: Planstraße
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 795249266
-type: way
+type: node
 latitude: 52.08738
 longitude: 11.11927
 postcode: "39393"
 city: Ausleben
-street: "Straße der Einheit"
+street: Straße der Einheit
 housenumber: 26A
-phone: "+49 39404 66912"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.np.de"
+phone: +49 39404 66912
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.np.de

@@ -1,11 +1,11 @@
 id: 235609403
-type: way
+type: node
 latitude: 52.62967
 longitude: 11.15574
 postcode: "38486"
 city: Klötze
-street: "Poppauer Straße"
-housenumber: 1
+street: Poppauer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2536/kloetze/poppauer-strasse-1"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2536/kloetze/poppauer-strasse-1

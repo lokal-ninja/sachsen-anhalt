@@ -1,11 +1,11 @@
 id: 1202558095
-type: way
+type: node
 latitude: 52.39015
 longitude: 12.13744
 postcode: "39307"
 city: Genthin
-street: "Nikolaus-Otto-Straße"
-housenumber: 2
+street: Nikolaus-Otto-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

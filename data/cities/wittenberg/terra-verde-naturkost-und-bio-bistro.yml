@@ -4,8 +4,8 @@ latitude: 51.86558
 longitude: 12.64801
 postcode: "06886"
 city: Wittenberg
-street: "Collegienstraße"
-housenumber: 26
+street: Collegienstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:00"
-website: "http://www.naturkost-wittenberg.de/"
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-14:00
+website: http://www.naturkost-wittenberg.de/

@@ -1,11 +1,11 @@
 id: 1018790955
-type: way
+type: node
 latitude: 52.16985
 longitude: 11.48867
 postcode: "39167"
 city: Hohe Börde
-street: "Zeppelinstraße"
-housenumber: 2
+street: Zeppelinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
 website: ""

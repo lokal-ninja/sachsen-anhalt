@@ -1,11 +1,11 @@
 id: 996371068
-type: way
+type: node
 latitude: 51.28467
 longitude: 11.88293
 postcode: "06242"
 city: Braunsbedra
-street: "Markt"
-housenumber: 20
+street: Markt
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

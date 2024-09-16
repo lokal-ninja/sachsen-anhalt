@@ -1,11 +1,11 @@
 id: 1029025495
-type: way
+type: node
 latitude: 52.23707
 longitude: 12.05768
 postcode: "39291"
 city: Möckern
-street: "Gewerbestraße"
-housenumber: 17
+street: Gewerbestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

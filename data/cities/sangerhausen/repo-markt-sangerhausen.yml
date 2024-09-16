@@ -4,8 +4,8 @@ latitude: 51.45379
 longitude: 11.29859
 postcode: "06526"
 city: Sangerhausen
-street: "Juri-Gagarin-Straße"
-housenumber: 8
-phone: "+49 5172 96120"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.repo-markt.de/"
+street: Juri-Gagarin-Straße
+housenumber: "8"
+phone: +49 5172 96120
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.repo-markt.de/

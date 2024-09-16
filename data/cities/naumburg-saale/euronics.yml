@@ -1,11 +1,11 @@
 id: 93921069
-type: way
+type: node
 latitude: 51.14506
 longitude: 11.83198
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Wilhelm-Franke-Straße"
-housenumber: 1
+street: Wilhelm-Franke-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "mo-fr 09:00-19:00; sa 09:00-18:00"
+opening_hours: mo-fr 09:00-19:00; sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 44427869
-type: way
+type: node
 latitude: 51.88046
 longitude: 11.05545
 postcode: "38820"
 city: Halberstadt
-street: "Klusstraße"
-housenumber: 38
-phone: "+49 3941600261"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; PH,Su off"
-website: "https://www.rewe.de/marktseite/halberstadt/4040124/rewe-markt-klusstr-38?ecid=seo_localseo_4040124_g_nn_nn_nn_nn_nn"
+street: Klusstraße
+housenumber: "38"
+phone: +49 3941600261
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; PH,Su off
+website: https://www.rewe.de/marktseite/halberstadt/4040124/rewe-markt-klusstr-38?ecid=seo_localseo_4040124_g_nn_nn_nn_nn_nn

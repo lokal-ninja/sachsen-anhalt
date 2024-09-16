@@ -1,11 +1,11 @@
 id: 1167991774
-type: way
+type: node
 latitude: 52.26644
 longitude: 11.8359
 postcode: "39288"
 city: Burg
-street: "In der Alten Kaserne"
-housenumber: 10
+street: In der Alten Kaserne
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

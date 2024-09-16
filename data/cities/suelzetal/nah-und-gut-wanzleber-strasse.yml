@@ -1,11 +1,11 @@
 id: 215311839
-type: way
+type: node
 latitude: 52.03834
 longitude: 11.52124
 postcode: "39171"
 city: Sülzetal
-street: "Wanzleber Straße"
-housenumber: 16
+street: Wanzleber Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://verbund.edeka/nordbayern-sachsen-th%C3%BCringen/%C3%BCber-uns/markttypen/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://verbund.edeka/nordbayern-sachsen-th%C3%BCringen/%C3%BCber-uns/markttypen/

@@ -1,11 +1,11 @@
 id: 93439888
-type: way
+type: node
 latitude: 52.15559
 longitude: 11.65251
 postcode: "39124"
 city: Magdeburg
-street: "Wasserkunststraße"
-housenumber: 
+street: Wasserkunststraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

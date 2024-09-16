@@ -4,8 +4,8 @@ latitude: 51.75383
 longitude: 11.99752
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Alte Straße"
-housenumber: 4
+street: Alte Straße
+housenumber: "4"
 phone: "+493496214255"
-opening_hours: "Mo - Fr 06:00 - 17:00; Sa 07:00 - 12:00"
-website: "https://www.baumaschinen-koethen.de/"
+opening_hours: Mo - Fr 06:00 - 17:00; Sa 07:00 - 12:00
+website: https://www.baumaschinen-koethen.de/

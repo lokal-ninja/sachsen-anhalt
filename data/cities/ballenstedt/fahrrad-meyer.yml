@@ -4,8 +4,8 @@ latitude: 51.72479
 longitude: 11.24881
 postcode: "06493"
 city: Ballenstedt
-street: "Schwarzerweg"
-housenumber: 1
-phone: "+49 (0) 15229044945"
-opening_hours: "Mo-Sa 08:00-18:00; Su off; PH off"
-website: "http://www.fahrrad-meyer-harz.de/"
+street: Schwarzerweg
+housenumber: "1"
+phone: +49 (0) 15229044945
+opening_hours: Mo-Sa 08:00-18:00; Su off; PH off
+website: http://www.fahrrad-meyer-harz.de/

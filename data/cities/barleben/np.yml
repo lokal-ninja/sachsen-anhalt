@@ -1,11 +1,11 @@
 id: 55320712
-type: way
+type: node
 latitude: 52.18579
 longitude: 11.57232
 postcode: "39179"
 city: Barleben
-street: "Am Thieplatz"
-housenumber: 2
+street: Am Thieplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-19:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:00-19:00; Su,PH off
 website: ""

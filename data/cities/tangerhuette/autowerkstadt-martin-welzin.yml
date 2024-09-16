@@ -1,11 +1,11 @@
 id: 112976235
-type: way
+type: node
 latitude: 52.43921
 longitude: 11.79864
 postcode: "39517"
 city: Tangerhütte
-street: "Schönwalder Chaussee"
-housenumber: 28
+street: Schönwalder Chaussee
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

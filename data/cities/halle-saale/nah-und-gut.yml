@@ -1,11 +1,11 @@
 id: 158970515
-type: way
+type: node
 latitude: 51.51551
 longitude: 11.90258
 postcode: "06120"
 city: Halle (Saale)
-street: "Grasnelkenweg"
-housenumber: 19
-phone: "+49 345 5511962"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://verbund.edeka/presse/pressemeldungen/aus-np-wird-nah-gut-%E2%80%93-moderner-einkaufskomfort-mit-gr%C3%B6%C3%9Ferem-sortiment.html"
+street: Grasnelkenweg
+housenumber: "19"
+phone: +49 345 5511962
+opening_hours: Mo-Sa 07:00-20:00
+website: https://verbund.edeka/presse/pressemeldungen/aus-np-wird-nah-gut-%E2%80%93-moderner-einkaufskomfort-mit-gr%C3%B6%C3%9Ferem-sortiment.html

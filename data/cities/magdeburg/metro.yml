@@ -1,11 +1,11 @@
 id: 110561363
-type: way
+type: node
 latitude: 52.07887
 longitude: 11.57712
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 9
-phone: "+49 391 60960"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.metro.de/standorte/magdeburg"
+street: Werner-von-Siemens-Ring
+housenumber: "9"
+phone: +49 391 60960
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.metro.de/standorte/magdeburg

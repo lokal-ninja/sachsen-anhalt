@@ -1,11 +1,11 @@
 id: 674120114
-type: way
+type: node
 latitude: 51.05726
 longitude: 12.13353
 postcode: "06712"
 city: Zeitz
-street: "Donaliesstraße"
-housenumber: 51
+street: Donaliesstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

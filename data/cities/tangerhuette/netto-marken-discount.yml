@@ -1,11 +1,11 @@
 id: 193933806
-type: way
+type: node
 latitude: 52.43047
 longitude: 11.7965
 postcode: "39517"
 city: Tangerhütte
-street: "Straße der Jugend"
-housenumber: 23
+street: Straße der Jugend
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 165412321
-type: way
+type: node
 latitude: 51.49329
 longitude: 11.96625
 postcode: "06108"
 city: Halle (Saale)
-street: "Bernburger Straße"
-housenumber: 25
+street: Bernburger Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.46799
 longitude: 11.27545
 postcode: "06526"
 city: Sangerhausen
-street: "Riethweg"
-housenumber: 8
-phone: "+49 800 72 55 888"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.pfennigpfeiffer.de/"
+street: Riethweg
+housenumber: "8"
+phone: +49 800 72 55 888
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.pfennigpfeiffer.de/

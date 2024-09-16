@@ -1,11 +1,11 @@
 id: 182491896
-type: way
+type: node
 latitude: 51.51114
 longitude: 11.56926
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Hauptstraße"
-housenumber: 
+street: Hauptstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/"
+website: https://www.aldi-nord.de/

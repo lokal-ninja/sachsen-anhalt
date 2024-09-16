@@ -4,8 +4,8 @@ latitude: 51.32442
 longitude: 12.01072
 postcode: "06237"
 city: Leuna
-street: "Am Haupttor"
-housenumber: 4310
-phone: "+49 3461 434461"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.haarwelten.com/"
+street: Am Haupttor
+housenumber: "4310"
+phone: +49 3461 434461
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.haarwelten.com/

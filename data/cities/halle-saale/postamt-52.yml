@@ -4,8 +4,8 @@ latitude: 51.51601
 longitude: 11.91355
 postcode: "06120"
 city: Halle (Saale)
-street: "Heideringpassage"
-housenumber: 5
+street: Heideringpassage
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00; PH off; Mo-Fr 08:00-18:30; Sa 08:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00; PH off; Mo-Fr 08:00-18:30; Sa 08:00-14:00
 website: ""

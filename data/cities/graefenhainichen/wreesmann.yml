@@ -1,11 +1,11 @@
 id: 1264102602
-type: way
+type: node
 latitude: 51.72573
 longitude: 12.44643
 postcode: "06773"
 city: Gräfenhainichen
-street: "Rosa-Luxemburg-Straße"
-housenumber: 47
+street: Rosa-Luxemburg-Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

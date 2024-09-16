@@ -1,11 +1,11 @@
 id: 74406248
-type: way
+type: node
 latitude: 51.79567
 longitude: 11.1603
 postcode: "06484"
 city: Quedlinburg
-street: "Fichtenstraße"
-housenumber: 2
+street: Fichtenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "PH off"
+opening_hours: PH off
 website: ""

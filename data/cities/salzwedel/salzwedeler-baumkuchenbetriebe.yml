@@ -1,11 +1,11 @@
 id: 499538257
-type: way
+type: node
 latitude: 52.85012
 longitude: 11.15416
 postcode: "29410"
 city: Salzwedel
-street: "Kleine Sankt-Ilsen-Straße"
-housenumber: 14
+street: Kleine Sankt-Ilsen-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-12:00"
-website: "https://www.salzwedelerbaumkuchen.de/"
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-12:00
+website: https://www.salzwedelerbaumkuchen.de/

@@ -1,11 +1,11 @@
 id: 424598700
-type: way
+type: node
 latitude: 53.00284
 longitude: 11.76255
 postcode: "19322"
 city: Wittenberge
-street: "Am Bahnhof"
-housenumber: 1
+street: Am Bahnhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; Sa,Su,PH 07:00-20:00"
+opening_hours: Mo-Fr 05:00-20:00; Sa,Su,PH 07:00-20:00
 website: ""

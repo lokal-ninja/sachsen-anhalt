@@ -4,8 +4,8 @@ latitude: 51.49103
 longitude: 11.97579
 postcode: "06108"
 city: Halle (Saale)
-street: "Ludwig-Wucherer-Straße"
-housenumber: 76
+street: Ludwig-Wucherer-Straße
+housenumber: "76"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.inkerbelltattoos.de"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.inkerbelltattoos.de

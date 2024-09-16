@@ -4,8 +4,8 @@ latitude: 51.81968
 longitude: 12.30276
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Am Eichengarten"
-housenumber: 2
+street: Am Eichengarten
+housenumber: "2"
 phone: "+493402175042"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.deichmann.com/de-de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.deichmann.com/de-de/

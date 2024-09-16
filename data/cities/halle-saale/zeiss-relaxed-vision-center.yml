@@ -4,8 +4,8 @@ latitude: 51.4852
 longitude: 11.96876
 postcode: "06108"
 city: Halle (Saale)
-street: "Große Ulrichstraße"
-housenumber: 52
+street: Große Ulrichstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-12:00"
-website: "https://www.zeiss.de/corporate/home.html"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-12:00
+website: https://www.zeiss.de/corporate/home.html

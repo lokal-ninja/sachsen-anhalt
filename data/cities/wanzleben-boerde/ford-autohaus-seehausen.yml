@@ -1,11 +1,11 @@
 id: 80445620
-type: way
+type: node
 latitude: 52.09764
 longitude: 11.29682
 postcode: "39164"
 city: Wanzleben-Börde
-street: "Ringstraße"
-housenumber: 13
+street: Ringstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

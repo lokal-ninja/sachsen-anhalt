@@ -1,11 +1,11 @@
 id: 382216430
-type: way
+type: node
 latitude: 51.20127
 longitude: 11.97118
 postcode: "06667"
 city: Weißenfels
-street: "Jüdenstraße"
-housenumber: 2
+street: Jüdenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-14:00
 website: ""

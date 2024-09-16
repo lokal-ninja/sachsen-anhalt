@@ -4,8 +4,8 @@ latitude: 51.4719
 longitude: 11.97976
 postcode: "06110"
 city: Halle (Saale)
-street: "Pfännerhöhe"
-housenumber: 47
-phone: "+49 345 805 47 75"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-20:00; Sa 09:00-14:00"
-website: "https://www.schoenheitsoase-albrecht.de/kontakt"
+street: Pfännerhöhe
+housenumber: "47"
+phone: +49 345 805 47 75
+opening_hours: Mo-Fr 08:00-12:00,13:00-20:00; Sa 09:00-14:00
+website: https://www.schoenheitsoase-albrecht.de/kontakt

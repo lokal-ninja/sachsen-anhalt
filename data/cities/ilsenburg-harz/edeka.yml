@@ -1,11 +1,11 @@
 id: 1041935231
-type: way
+type: node
 latitude: 51.87227
 longitude: 10.69138
 postcode: "38871"
 city: Ilsenburg (Harz)
-street: "Apfelweg"
-housenumber: 1
+street: Apfelweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

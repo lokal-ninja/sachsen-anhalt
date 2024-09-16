@@ -4,8 +4,8 @@ latitude: 51.48388
 longitude: 11.96655
 postcode: "06108"
 city: Halle (Saale)
-street: "Kleine Klausstraße"
-housenumber: 3
+street: Kleine Klausstraße
+housenumber: "3"
 phone: "+493456856475"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.kosmetikstudio-metzschke.de/medizinische-kosmetik/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.kosmetikstudio-metzschke.de/medizinische-kosmetik/

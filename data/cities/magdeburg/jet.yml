@@ -1,11 +1,11 @@
 id: 177697545
-type: way
+type: node
 latitude: 52.16249
 longitude: 11.6399
 postcode: "39124"
 city: Magdeburg
-street: "Kastanienstraße"
-housenumber: 8
-phone: "+49 391 2538482"
-opening_hours: "Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 07:00-23:00"
+street: Kastanienstraße
+housenumber: "8"
+phone: +49 391 2538482
+opening_hours: Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 07:00-23:00
 website: ""

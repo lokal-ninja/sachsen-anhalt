@@ -4,8 +4,8 @@ latitude: 51.47935
 longitude: 11.98019
 postcode: "06108"
 city: Halle (Saale)
-street: "Martinstraße"
-housenumber: 18
-phone: "+49 345 94979653"
-opening_hours: "Mo-We 10:00-14:00"
-website: "http://www.henrysumzuege.de/"
+street: Martinstraße
+housenumber: "18"
+phone: +49 345 94979653
+opening_hours: Mo-We 10:00-14:00
+website: http://www.henrysumzuege.de/

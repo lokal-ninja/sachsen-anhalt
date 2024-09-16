@@ -4,8 +4,8 @@ latitude: 51.88097
 longitude: 11.0714
 postcode: "38820"
 city: Halberstadt
-street: "Quedlinburger Landstraße"
-housenumber: 13
+street: Quedlinburger Landstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PF off"
-website: "https://www.fressnapf.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PF off
+website: https://www.fressnapf.de/

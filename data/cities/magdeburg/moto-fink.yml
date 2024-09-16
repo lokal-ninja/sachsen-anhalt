@@ -1,11 +1,11 @@
 id: 86566024
-type: way
+type: node
 latitude: 52.13075
 longitude: 11.6057
 postcode: "39108"
 city: Magdeburg
-street: "Barlachstraße"
-housenumber: 11
-phone: "+49 391 7327525"
-opening_hours: "Mo-Fr 10:00-18:00; Sa,Su,PH off"
-website: "https://www.moto-fink.de/"
+street: Barlachstraße
+housenumber: "11"
+phone: +49 391 7327525
+opening_hours: Mo-Fr 10:00-18:00; Sa,Su,PH off
+website: https://www.moto-fink.de/

@@ -1,11 +1,11 @@
 id: 92384365
-type: way
+type: node
 latitude: 52.19611
 longitude: 11.66957
 postcode: "39126"
 city: Magdeburg
-street: "Ihleburger Straße"
-housenumber: 3
+street: Ihleburger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.sw-fruchthandel.de/firma/firma.htm"
+website: http://www.sw-fruchthandel.de/firma/firma.htm

@@ -1,11 +1,11 @@
 id: 162015318
-type: way
+type: node
 latitude: 52.05265
 longitude: 11.57631
 postcode: "39171"
 city: Sülzetal
-street: "Bahnhofstraße"
-housenumber: 46
+street: Bahnhofstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

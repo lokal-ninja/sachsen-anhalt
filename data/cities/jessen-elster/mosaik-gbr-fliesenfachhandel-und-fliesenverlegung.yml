@@ -1,11 +1,11 @@
 id: 549595459
-type: way
+type: node
 latitude: 51.79515
 longitude: 12.96815
 postcode: "06917"
 city: Jessen (Elster)
-street: "Arnsdorfer Reihe"
-housenumber: 2
+street: Arnsdorfer Reihe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:00, 14:00-18:00"
-website: "https://www.mosaik-jessen.de/"
+opening_hours: Mo-Fr 9:00-12:00, 14:00-18:00
+website: https://www.mosaik-jessen.de/

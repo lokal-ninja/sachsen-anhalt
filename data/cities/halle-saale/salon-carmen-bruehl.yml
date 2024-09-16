@@ -4,8 +4,8 @@ latitude: 51.4809
 longitude: 11.97072
 postcode: "06108"
 city: Halle (Saale)
-street: "Kuhgasse"
-housenumber: 3
-phone: "+49 345 2902847"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
+street: Kuhgasse
+housenumber: "3"
+phone: +49 345 2902847
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00
 website: ""

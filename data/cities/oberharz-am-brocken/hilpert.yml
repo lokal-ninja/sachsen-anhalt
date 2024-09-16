@@ -1,11 +1,11 @@
 id: 208578202
-type: way
+type: node
 latitude: 51.66703
 longitude: 10.71486
 postcode: "38877"
 city: Oberharz am Brocken
-street: "Bauerwiese"
-housenumber: 3
+street: Bauerwiese
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

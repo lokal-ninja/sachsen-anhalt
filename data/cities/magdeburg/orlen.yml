@@ -1,11 +1,11 @@
 id: 170154708
-type: way
+type: node
 latitude: 52.13133
 longitude: 11.68399
 postcode: "39114"
 city: Magdeburg
-street: "Berliner Chaussee"
-housenumber: 117
+street: Berliner Chaussee
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00;Sa,Su,PH 06:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00;Sa,Su,PH 06:00-22:00
 website: ""

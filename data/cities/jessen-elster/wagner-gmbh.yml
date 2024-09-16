@@ -1,11 +1,11 @@
 id: 260098383
-type: way
+type: node
 latitude: 51.79472
 longitude: 12.94897
 postcode: "06917"
 city: Jessen (Elster)
-street: "Rehainer Straße"
-housenumber: 8
-phone: "+49 3537 214921"
+street: Rehainer Straße
+housenumber: "8"
+phone: +49 3537 214921
 opening_hours: ""
-website: "https://www.wagner-kfz.de/"
+website: https://www.wagner-kfz.de/

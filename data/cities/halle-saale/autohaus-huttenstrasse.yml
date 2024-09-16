@@ -1,11 +1,11 @@
 id: 44917641
-type: way
+type: node
 latitude: 51.46369
 longitude: 11.98146
 postcode: "06110"
 city: Halle (Saale)
-street: "Huttenstraße"
-housenumber: 92
+street: Huttenstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:30; Sa 09:00-13:00; Su,PH off
 website: ""

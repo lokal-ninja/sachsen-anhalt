@@ -1,11 +1,11 @@
 id: 1216652914
-type: way
+type: node
 latitude: 52.49714
 longitude: 12.02551
 postcode: "39319"
 city: Jerichow
-street: "Karl-Liebknecht-Straße"
-housenumber: 69
+street: Karl-Liebknecht-Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

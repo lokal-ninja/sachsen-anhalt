@@ -1,11 +1,11 @@
 id: 171690799
-type: way
+type: node
 latitude: 52.14165
 longitude: 11.73681
 postcode: "39175"
 city: Biederitz
-street: "Am Fuchsberg"
-housenumber: 52
+street: Am Fuchsberg
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-15:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-15:00; Su,PH off
 website: ""

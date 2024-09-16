@@ -4,8 +4,8 @@ latitude: 51.86725
 longitude: 12.64657
 postcode: "06886"
 city: Wittenberg
-street: "Jüdenstraße"
-housenumber: 11
+street: Jüdenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.fahrradhaus-kralisch.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.fahrradhaus-kralisch.de/

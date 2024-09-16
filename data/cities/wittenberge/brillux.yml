@@ -1,11 +1,11 @@
 id: 232392449
-type: way
+type: node
 latitude: 53.01441
 longitude: 11.72979
 postcode: "19322"
 city: Wittenberge
-street: "Lindenberger Straße"
-housenumber: 7
+street: Lindenberger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.brillux.de/"
+website: https://www.brillux.de/

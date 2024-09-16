@@ -4,8 +4,8 @@ latitude: 52.16511
 longitude: 11.60687
 postcode: "39128"
 city: Magdeburg
-street: "Silberbergweg"
-housenumber: 6
-phone: "+49 391 255830"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 09:30-18:00; Su,PH off"
-website: "https://jysk.de/filialen/magdeburg/silberbergweg"
+street: Silberbergweg
+housenumber: "6"
+phone: +49 391 255830
+opening_hours: Mo-Fr 10:00-18:30, Sa 09:30-18:00; Su,PH off
+website: https://jysk.de/filialen/magdeburg/silberbergweg

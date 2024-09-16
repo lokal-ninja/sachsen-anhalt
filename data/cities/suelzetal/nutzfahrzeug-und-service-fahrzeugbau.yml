@@ -1,11 +1,11 @@
 id: 989064917
-type: way
+type: node
 latitude: 52.06017
 longitude: 11.57692
 postcode: "39171"
 city: Sülzetal
-street: "Appendorfer Weg"
-housenumber: 1
+street: Appendorfer Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

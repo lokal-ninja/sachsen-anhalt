@@ -6,6 +6,7 @@ postcode: "39112"
 city: Magdeburg
 street: ""
 housenumber: 10a
-phone: "+49 391 6224384"
-opening_hours: "week 1-53/2 Mo-We 08:00-14:00, Th-Fr 10:00-19:00, Sa-Su off, week 2-52/2 Mo 10:00-19:00,We 10:00-19:00, Th-Sa 08:00-14:00, Tu,Su off"
+phone: +49 391 6224384
+opening_hours: week 1-53/2 Mo-We 08:00-14:00, Th-Fr 10:00-19:00, Sa-Su off, week 2-52/2
+    Mo 10:00-19:00,We 10:00-19:00, Th-Sa 08:00-14:00, Tu,Su off
 website: ""

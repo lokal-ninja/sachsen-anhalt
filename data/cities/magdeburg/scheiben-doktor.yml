@@ -4,8 +4,8 @@ latitude: 52.11449
 longitude: 11.61383
 postcode: "39112"
 city: Magdeburg
-street: "Halberstädter Straße"
-housenumber: 25
-phone: "+49 391 4089 404"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"
-website: "https://magdeburg.scheiben-doktor.de/ueber-uns/magdeburg-sudenburg/"
+street: Halberstädter Straße
+housenumber: "25"
+phone: +49 391 4089 404
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00
+website: https://magdeburg.scheiben-doktor.de/ueber-uns/magdeburg-sudenburg/

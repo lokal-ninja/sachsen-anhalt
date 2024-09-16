@@ -1,11 +1,11 @@
 id: 1191691636
-type: way
+type: node
 latitude: 52.34643
 longitude: 11.97504
 postcode: "39317"
 city: Elbe-Parey
-street: "Feldstraße"
-housenumber: 9
+street: Feldstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.88859
 longitude: 12.25125
 postcode: "06862"
 city: Dessau-Roßlau
-street: "Hauptstraße"
-housenumber: 45
-phone: "+49 34901 82363"
-opening_hours: "Mo 09:00-18:00; Tu-Fr 10:45-18:00"
+street: Hauptstraße
+housenumber: "45"
+phone: +49 34901 82363
+opening_hours: Mo 09:00-18:00; Tu-Fr 10:45-18:00
 website: ""

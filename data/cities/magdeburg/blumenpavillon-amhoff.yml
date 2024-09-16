@@ -1,11 +1,11 @@
 id: 52458891
-type: way
+type: node
 latitude: 52.13019
 longitude: 11.61603
 postcode: "39108"
 city: Magdeburg
-street: "Große Diesdorfer Straße"
-housenumber: 241
-phone: "+49 391 7330377"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-11:00"
+street: Große Diesdorfer Straße
+housenumber: "241"
+phone: +49 391 7330377
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-11:00
 website: ""

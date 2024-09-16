@@ -1,11 +1,11 @@
 id: 1078212951
-type: way
+type: node
 latitude: 52.30646
 longitude: 11.06275
 postcode: "39356"
 city: Oebisfelde-Weferlingen
-street: "Magdeburger Straße"
-housenumber: 35
+street: Magdeburger Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

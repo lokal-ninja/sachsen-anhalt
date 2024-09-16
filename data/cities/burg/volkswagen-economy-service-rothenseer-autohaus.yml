@@ -1,11 +1,11 @@
 id: 1167772483
-type: way
+type: node
 latitude: 52.25919
 longitude: 11.84363
 postcode: "39288"
 city: Burg
-street: "Magdeburger Chaussee"
-housenumber: 79
+street: Magdeburger Chaussee
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
 website: ""

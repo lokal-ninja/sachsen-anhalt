@@ -4,8 +4,9 @@ latitude: 52.85241
 longitude: 11.15692
 postcode: "29410"
 city: Salzwedel
-street: "Wollweberstraße"
-housenumber: 5
-phone: "+49 3901 424779"
-opening_hours: "Apr-Sep: Tu 10:00-18:00; Oct-Mar: Tu 10:00-18:00, Th 10:00-17:00; PH off"
+street: Wollweberstraße
+housenumber: "5"
+phone: +49 3901 424779
+opening_hours: 'Apr-Sep: Tu 10:00-18:00; Oct-Mar: Tu 10:00-18:00, Th 10:00-17:00;
+    PH off'
 website: ""

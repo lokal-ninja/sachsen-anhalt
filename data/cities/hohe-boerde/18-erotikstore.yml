@@ -1,11 +1,11 @@
 id: 51436402
-type: way
+type: node
 latitude: 52.17707
 longitude: 11.4924
 postcode: "39326"
 city: Hohe Börde
-street: "Berliner Allee"
-housenumber: 6
+street: Berliner Allee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 10:00-22:00; Fr,Sa 10:00-01:00; Su, Ph 12:00-22:00"
+opening_hours: Mo-Th 10:00-22:00; Fr,Sa 10:00-01:00; Su, Ph 12:00-22:00
 website: ""

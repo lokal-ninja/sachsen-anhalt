@@ -1,11 +1,11 @@
 id: 171690806
-type: way
+type: node
 latitude: 52.14056
 longitude: 11.7368
 postcode: "39175"
 city: Biederitz
-street: "Berliner Straße"
-housenumber: 16
+street: Berliner Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

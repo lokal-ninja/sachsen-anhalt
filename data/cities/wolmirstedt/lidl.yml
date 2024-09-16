@@ -1,11 +1,11 @@
 id: 240158805
-type: way
+type: node
 latitude: 52.25119
 longitude: 11.62026
 postcode: "39326"
 city: Wolmirstedt
-street: "Samsweger Straße"
-housenumber: 16
+street: Samsweger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

@@ -1,11 +1,12 @@
 id: 199639897
-type: way
+type: node
 latitude: 52.64918
 longitude: 10.98859
 postcode: "38489"
 city: Beetzendorf
-street: "Im Dorfe"
-housenumber: 14
+street: Im Dorfe
+housenumber: "14"
 phone: ""
-opening_hours: "Tu 10:00-12:00,15:00-18:00; We 14:00-19:00; PH off || nach telefonischer Vereinbarung"
+opening_hours: Tu 10:00-12:00,15:00-18:00; We 14:00-19:00; PH off || "nach telefonischer
+    Vereinbarung"
 website: ""

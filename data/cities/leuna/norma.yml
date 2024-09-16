@@ -1,11 +1,11 @@
 id: 414867673
-type: way
+type: node
 latitude: 51.31989
 longitude: 12.02963
 postcode: "06237"
 city: Leuna
-street: "Karl-Barth-Straße"
-housenumber: 1
+street: Karl-Barth-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

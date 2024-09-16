@@ -1,11 +1,11 @@
 id: 170282568
-type: way
+type: node
 latitude: 52.14951
 longitude: 11.62801
 postcode: "39124"
 city: Magdeburg
-street: "Am Neustädter Feld"
-housenumber: 49
+street: Am Neustädter Feld
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

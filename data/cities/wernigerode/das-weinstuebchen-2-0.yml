@@ -4,8 +4,8 @@ latitude: 51.83297
 longitude: 10.78491
 postcode: "38855"
 city: Wernigerode
-street: "Marktstraße"
-housenumber: 1
+street: Marktstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 12:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-21:00"
+opening_hours: Mo-Th 12:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-21:00
 website: ""

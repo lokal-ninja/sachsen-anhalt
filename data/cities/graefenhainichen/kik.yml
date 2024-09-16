@@ -1,11 +1,11 @@
 id: 886019302
-type: way
+type: node
 latitude: 51.72427
 longitude: 12.43177
 postcode: "06773"
 city: Gräfenhainichen
-street: "Gadewitzer Weg"
-housenumber: 20
+street: Gadewitzer Weg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

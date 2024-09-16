@@ -1,11 +1,11 @@
 id: 80775978
-type: way
+type: node
 latitude: 52.17605
 longitude: 11.62746
 postcode: "39128"
 city: Magdeburg
-street: "Neuer Sülzeweg"
-housenumber: 103
+street: Neuer Sülzeweg
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00+"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00+
 website: ""

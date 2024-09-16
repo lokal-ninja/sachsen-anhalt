@@ -1,11 +1,11 @@
 id: 229108871
-type: way
+type: node
 latitude: 51.72728
 longitude: 11.13505
 postcode: "06485"
 city: Quedlinburg
-street: "Häuschenstraße"
-housenumber: 31
+street: Häuschenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://netto.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://netto.de

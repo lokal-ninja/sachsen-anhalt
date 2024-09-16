@@ -1,11 +1,11 @@
 id: 114722924
-type: way
+type: node
 latitude: 51.45288
 longitude: 11.01473
 postcode: "06536"
 city: Berga
-street: "Ahornweg"
-housenumber: 1
+street: Ahornweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

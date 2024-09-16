@@ -1,11 +1,11 @@
 id: 232392465
-type: way
+type: node
 latitude: 53.01242
 longitude: 11.72557
 postcode: "19322"
 city: Wittenberge
-street: "Lindenberger Straße"
-housenumber: 4
+street: Lindenberger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.koehler-rolladenbau.de/"
+website: https://www.koehler-rolladenbau.de/

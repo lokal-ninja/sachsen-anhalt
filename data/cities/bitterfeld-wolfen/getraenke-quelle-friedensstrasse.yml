@@ -1,11 +1,11 @@
 id: 152025576
-type: way
+type: node
 latitude: 51.62835
 longitude: 12.32895
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Friedensstraße"
-housenumber: 
-phone: "+49 3493 824885"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-14:00"
-website: "https://www.getraenke-quelle.net/"
+street: Friedensstraße
+housenumber: ""
+phone: +49 3493 824885
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-14:00
+website: https://www.getraenke-quelle.net/

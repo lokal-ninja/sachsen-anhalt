@@ -1,11 +1,11 @@
 id: 166164381
-type: way
+type: node
 latitude: 51.76259
 longitude: 11.43652
 postcode: "06449"
 city: Aschersleben
-street: "Hoymer Chaussee"
-housenumber: 108
+street: Hoymer Chaussee
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

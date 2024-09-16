@@ -4,8 +4,8 @@ latitude: 52.09937
 longitude: 11.64875
 postcode: "39104"
 city: Magdeburg
-street: "Schönebecker Straße"
-housenumber: 75
+street: Schönebecker Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Tu-Fr 15:00-18:00; Sa 09:00-12:00"
-website: "https://www.diveshopmagdeburg.de"
+opening_hours: Tu-Fr 15:00-18:00; Sa 09:00-12:00
+website: https://www.diveshopmagdeburg.de

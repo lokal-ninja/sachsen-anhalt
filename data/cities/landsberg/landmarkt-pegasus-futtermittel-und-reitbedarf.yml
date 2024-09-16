@@ -1,11 +1,11 @@
 id: 71398998
-type: way
+type: node
 latitude: 51.5479
 longitude: 12.02092
 postcode: "06188"
 city: Landsberg
-street: "Hallesches Dreieck"
-housenumber: 1
-phone: "+49 34604 20568"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-12:00"
-website: "https://www.landmarkt-pegasus.de/"
+street: Hallesches Dreieck
+housenumber: "1"
+phone: +49 34604 20568
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-12:00
+website: https://www.landmarkt-pegasus.de/

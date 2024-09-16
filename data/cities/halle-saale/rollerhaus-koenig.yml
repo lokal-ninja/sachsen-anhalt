@@ -1,11 +1,11 @@
 id: 795682081
-type: way
+type: node
 latitude: 51.47268
 longitude: 11.92534
 postcode: "06124"
 city: Halle (Saale)
-street: "Johann-Sebastian-Bach-Straße"
-housenumber: 24
+street: Johann-Sebastian-Bach-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-koenig.de/standorte/sachsen-anhalt/halle-2/"
+website: https://www.autohaus-koenig.de/standorte/sachsen-anhalt/halle-2/

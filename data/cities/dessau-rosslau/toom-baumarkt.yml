@@ -1,11 +1,11 @@
 id: 93387588
-type: way
+type: node
 latitude: 51.89452
 longitude: 12.22389
 postcode: "06862"
 city: Dessau-Roßlau
-street: "Tornauer Weg"
-housenumber: 6
-phone: "+49 34901 599210"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Tornauer Weg
+housenumber: "6"
+phone: +49 34901 599210
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

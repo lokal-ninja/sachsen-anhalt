@@ -1,11 +1,11 @@
 id: 100146086
-type: way
+type: node
 latitude: 52.10504
 longitude: 11.63783
 postcode: "39104"
 city: Magdeburg
-street: "Karl-Schmidt-Straße"
+street: Karl-Schmidt-Straße
 housenumber: 13A
 phone: ""
-opening_hours: "Tu 11:00-16:00"
-website: "https://www.abtshof-shop.de/#"
+opening_hours: Tu 11:00-16:00
+website: https://www.abtshof-shop.de/#

@@ -1,11 +1,11 @@
 id: 166584012
-type: way
+type: node
 latitude: 51.94101
 longitude: 11.23228
 postcode: "39397"
 city: Gröningen
-street: "Magdeburger Straße"
-housenumber: 20
+street: Magdeburger Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

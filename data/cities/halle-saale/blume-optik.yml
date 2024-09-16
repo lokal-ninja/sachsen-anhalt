@@ -4,8 +4,8 @@ latitude: 51.47803
 longitude: 12.02584
 postcode: "06116"
 city: Halle (Saale)
-street: "Kreuzotterweg"
-housenumber: 2
-phone: "+49 345 6868590"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.blume-optik-halle.de"
+street: Kreuzotterweg
+housenumber: "2"
+phone: +49 345 6868590
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.blume-optik-halle.de

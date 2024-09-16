@@ -4,8 +4,8 @@ latitude: 51.95965
 longitude: 11.44012
 postcode: "39435"
 city: Egeln
-street: "Magdeburger Chaussee"
-housenumber: 24
-phone: "+49 39268 6990"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-12:00"
-website: "https://www.schmidt-egeln.de/"
+street: Magdeburger Chaussee
+housenumber: "24"
+phone: +49 39268 6990
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-12:00
+website: https://www.schmidt-egeln.de/

@@ -1,11 +1,11 @@
 id: 274985300
-type: way
+type: node
 latitude: 51.04957
 longitude: 12.12878
 postcode: ""
 city: Zeitz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.wbg-zeitz.de/bruehl-center.html"
+website: https://www.wbg-zeitz.de/bruehl-center.html

@@ -4,8 +4,8 @@ latitude: 52.60465
 longitude: 11.86308
 postcode: "39576"
 city: Stendal
-street: "Breite Straße"
-housenumber: 8
-phone: "+49 3931 218382"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00"
-website: "https://www.thonke.de/filialen/stendal.html"
+street: Breite Straße
+housenumber: "8"
+phone: +49 3931 218382
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00
+website: https://www.thonke.de/filialen/stendal.html

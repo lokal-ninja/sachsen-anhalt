@@ -4,8 +4,8 @@ latitude: 51.47439
 longitude: 11.96977
 postcode: "06110"
 city: Halle (Saale)
-street: "Steinweg"
-housenumber: 31
+street: Steinweg
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, 09:00-18:00; Sa 09:30-16:00"
-website: "https://www.derlakritzladen-halle.de/"
+opening_hours: Mo-Fr 09:30-18:30, 09:00-18:00; Sa 09:30-16:00
+website: https://www.derlakritzladen-halle.de/

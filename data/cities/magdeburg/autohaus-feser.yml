@@ -1,11 +1,11 @@
 id: 48298453
-type: way
+type: node
 latitude: 52.17756
 longitude: 11.66733
 postcode: "39126"
 city: Magdeburg
-street: "August-Bebel-Damm"
-housenumber: 6
+street: August-Bebel-Damm
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://audi-zentrum-feser-magdeburg.de/"
+website: https://audi-zentrum-feser-magdeburg.de/

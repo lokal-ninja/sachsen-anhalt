@@ -1,11 +1,11 @@
 id: 126187170
-type: way
+type: node
 latitude: 52.6088
 longitude: 11.85056
 postcode: "39576"
 city: Stendal
-street: "Uenglinger Straße"
-housenumber: 2
+street: Uenglinger Straße
+housenumber: "2"
 phone: "+493931711037"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "www.graeser-stendal.de"
+opening_hours: Mo-Fr 09:00-17:00
+website: www.graeser-stendal.de

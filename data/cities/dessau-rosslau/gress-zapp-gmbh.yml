@@ -1,11 +1,11 @@
 id: 107091894
-type: way
+type: node
 latitude: 51.81607
 longitude: 12.29806
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Am Eichengarten"
-housenumber: 12
+street: Am Eichengarten
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

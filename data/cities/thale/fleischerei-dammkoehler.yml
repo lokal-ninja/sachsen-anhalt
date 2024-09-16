@@ -1,11 +1,11 @@
 id: 237687897
-type: way
+type: node
 latitude: 51.80523
 longitude: 11.05376
 postcode: "06502"
 city: Thale
-street: "Hinter dem Amt"
-housenumber: 32
+street: Hinter dem Amt
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Fr 08:00-13:00; We-Fr 15:00-18:00; Sa 07:30-11:00"
+opening_hours: Tu-Fr 08:00-13:00; We-Fr 15:00-18:00; Sa 07:30-11:00
 website: ""

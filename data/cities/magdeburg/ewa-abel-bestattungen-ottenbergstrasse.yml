@@ -1,11 +1,11 @@
 id: 38931636
-type: way
+type: node
 latitude: 52.14801
 longitude: 11.65109
 postcode: "39106"
 city: Magdeburg
-street: "Ottenbergstraße"
-housenumber: 3
-phone: "+49 800 136 136 1"
-opening_hours: "Mo-Fr 09:00-13:00,13:30-17:30"
+street: Ottenbergstraße
+housenumber: "3"
+phone: +49 800 136 136 1
+opening_hours: Mo-Fr 09:00-13:00,13:30-17:30
 website: ""

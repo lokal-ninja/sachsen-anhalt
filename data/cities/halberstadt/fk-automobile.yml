@@ -1,11 +1,11 @@
 id: 238681612
-type: way
+type: node
 latitude: 51.88008
 longitude: 11.07804
 postcode: "38820"
 city: Halberstadt
-street: "Im Sülzeteiche"
-housenumber: 4
+street: Im Sülzeteiche
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 66069178
-type: way
+type: node
 latitude: 51.79315
 longitude: 10.97132
 postcode: "38889"
 city: Blankenburg (Harz)
-street: "Westerhäuser Straße"
-housenumber: 34
+street: Westerhäuser Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

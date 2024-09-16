@@ -1,11 +1,11 @@
 id: 887692974
-type: way
+type: node
 latitude: 51.46359
 longitude: 11.9835
 postcode: "06110"
 city: Halle (Saale)
-street: "Merseburger Straße"
-housenumber: 128
+street: Merseburger Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

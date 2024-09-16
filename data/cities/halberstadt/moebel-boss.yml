@@ -4,8 +4,8 @@ latitude: 51.90135
 longitude: 11.07826
 postcode: "38820"
 city: Halberstadt
-street: "Avenariusstraße"
-housenumber: 4
-phone: "+49 3941 69430"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
-website: "https://moebel-boss.de/moebelhaeuser/halberstadt"
+street: Avenariusstraße
+housenumber: "4"
+phone: +49 3941 69430
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
+website: https://moebel-boss.de/moebelhaeuser/halberstadt

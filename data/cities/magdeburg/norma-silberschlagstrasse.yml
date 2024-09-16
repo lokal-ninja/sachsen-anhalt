@@ -1,11 +1,11 @@
 id: 96168077
-type: way
+type: node
 latitude: 52.15281
 longitude: 11.62408
 postcode: "39128"
 city: Magdeburg
-street: "Silberschlagstraße"
-housenumber: 10
+street: Silberschlagstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

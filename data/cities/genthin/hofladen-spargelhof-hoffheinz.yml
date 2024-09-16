@@ -1,11 +1,11 @@
 id: 396502245
-type: way
+type: node
 latitude: 52.40166
 longitude: 12.14233
 postcode: "39307"
 city: Genthin
-street: "Straße der Freundschaft"
-housenumber: 56
+street: Straße der Freundschaft
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

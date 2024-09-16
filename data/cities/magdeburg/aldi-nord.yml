@@ -4,8 +4,8 @@ latitude: 52.12629
 longitude: 11.6663
 postcode: ""
 city: Magdeburg
-street: "Friedrich-Ebert-Straße"
-housenumber: 73
+street: Friedrich-Ebert-Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

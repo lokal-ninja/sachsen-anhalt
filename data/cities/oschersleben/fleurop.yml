@@ -1,11 +1,11 @@
 id: 204141731
-type: way
+type: node
 latitude: 51.99231
 longitude: 11.30174
 postcode: "39387"
 city: Oschersleben
-street: "Stadtberg"
-housenumber: 19
+street: Stadtberg
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

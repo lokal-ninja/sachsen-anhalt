@@ -1,11 +1,11 @@
 id: 1059847099
-type: way
+type: node
 latitude: 52.2158
 longitude: 11.24653
 postcode: "39343"
 city: Erxleben
-street: "Oesterbornbreite"
-housenumber: 1
+street: Oesterbornbreite
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

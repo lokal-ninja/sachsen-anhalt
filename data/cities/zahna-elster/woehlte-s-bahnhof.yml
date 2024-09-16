@@ -1,11 +1,11 @@
 id: 345910059
-type: way
+type: node
 latitude: 51.83146
 longitude: 12.80884
 postcode: "06895"
 city: Zahna-Elster
-street: "Am Gewerbepark"
-housenumber: 1
+street: Am Gewerbepark
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00; Su,PH off
 website: ""

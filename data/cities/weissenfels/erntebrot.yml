@@ -1,11 +1,11 @@
 id: 655895546
-type: way
+type: node
 latitude: 51.20477
 longitude: 11.96739
 postcode: "06667"
 city: Weißenfels
-street: "Merseburger Straße"
-housenumber: 5
-phone: "+49 1525 6731697"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://erntebrot.de/"
+street: Merseburger Straße
+housenumber: "5"
+phone: +49 1525 6731697
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://erntebrot.de/

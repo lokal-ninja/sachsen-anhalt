@@ -1,11 +1,11 @@
 id: 90632990
-type: way
+type: node
 latitude: 51.82301
 longitude: 12.21627
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Weststraße"
-housenumber: 10
+street: Weststraße
+housenumber: "10"
 phone: "+49201201710"
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

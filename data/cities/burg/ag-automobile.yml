@@ -1,11 +1,11 @@
 id: 304003133
-type: way
+type: node
 latitude: 52.27299
 longitude: 11.86509
 postcode: "39288"
 city: Burg
-street: "Berliner Straße"
+street: Berliner Straße
 housenumber: 11A
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

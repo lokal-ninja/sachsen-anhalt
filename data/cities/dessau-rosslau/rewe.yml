@@ -4,8 +4,8 @@ latitude: 51.88373
 longitude: 12.23792
 postcode: "06862"
 city: Dessau-Roßlau
-street: "Luchplatz"
-housenumber: 3
-phone: "+49 3490152143"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+street: Luchplatz
+housenumber: "3"
+phone: +49 3490152143
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

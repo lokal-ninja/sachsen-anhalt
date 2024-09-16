@@ -1,11 +1,11 @@
 id: 566128393
-type: way
+type: node
 latitude: 52.10519
 longitude: 11.60117
 postcode: "39118"
 city: Magdeburg
-street: "Brenneckestraße"
-housenumber: 42
+street: Brenneckestraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

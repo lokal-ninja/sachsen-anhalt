@@ -1,11 +1,11 @@
 id: 1041144697
-type: way
+type: node
 latitude: 51.18751
 longitude: 11.98404
 postcode: "06667"
 city: Weißenfels
-street: "Max-Planck-Straße"
-housenumber: 6
+street: Max-Planck-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

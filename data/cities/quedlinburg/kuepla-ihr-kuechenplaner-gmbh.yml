@@ -4,8 +4,8 @@ latitude: 51.79013
 longitude: 11.16058
 postcode: "06484"
 city: Quedlinburg
-street: "Magdeburger Straße"
+street: Magdeburger Straße
 housenumber: 1A
-phone: "+49 	0 39 46 81 05 78"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.kuepla.de/"
+phone: "+49 \t0 39 46 81 05 78"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.kuepla.de/

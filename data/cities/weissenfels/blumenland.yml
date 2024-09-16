@@ -4,8 +4,8 @@ latitude: 51.20124
 longitude: 11.96952
 postcode: "06667"
 city: Weißenfels
-street: "Jüdenstraße"
-housenumber: 25
+street: Jüdenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "http://www.seumebuchhandlung.de"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: http://www.seumebuchhandlung.de

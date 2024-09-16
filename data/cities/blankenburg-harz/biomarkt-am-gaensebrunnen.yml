@@ -1,11 +1,11 @@
 id: 611554565
-type: way
+type: node
 latitude: 51.8744
 longitude: 10.90679
 postcode: "38895"
 city: Blankenburg (Harz)
-street: "Bleichstraße"
-housenumber: 2
+street: Bleichstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00; PH,Su off"
-website: "https://www.vitavitee.de"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00; PH,Su off
+website: https://www.vitavitee.de

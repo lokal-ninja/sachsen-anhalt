@@ -4,8 +4,8 @@ latitude: 51.48383
 longitude: 11.96704
 postcode: "06108"
 city: Halle (Saale)
-street: "Kleine Klausstraße"
-housenumber: 2
+street: Kleine Klausstraße
+housenumber: "2"
 phone: "+493452033115"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:30-14:00"
-website: "https://gewandhaushalle.de/"
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:30-14:00
+website: https://gewandhaushalle.de/

@@ -4,8 +4,8 @@ latitude: 51.81457
 longitude: 12.22285
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Bauhüttenstraße"
-housenumber: 15
-phone: "+49 340 510411"
-opening_hours: "Tu, Th 12:00-17:00"
+street: Bauhüttenstraße
+housenumber: "15"
+phone: +49 340 510411
+opening_hours: Tu, Th 12:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.27116
 longitude: 11.85278
 postcode: "39288"
 city: Burg
-street: "Schartauer Straße"
-housenumber: 15
+street: Schartauer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-18:00; We,Fr 09:00-13:00"
-website: "http://www.baeckerei-sprung.de"
+opening_hours: Mo,Tu,Th 09:00-18:00; We,Fr 09:00-13:00
+website: http://www.baeckerei-sprung.de

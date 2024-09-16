@@ -1,11 +1,11 @@
 id: 323408177
-type: way
+type: node
 latitude: 51.85206
 longitude: 12.0655
 postcode: ""
 city: Aken
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "mo-sa 07:00-20:00"
+opening_hours: mo-sa 07:00-20:00
 website: ""

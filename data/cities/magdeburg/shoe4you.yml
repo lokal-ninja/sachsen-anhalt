@@ -1,11 +1,11 @@
 id: 884169796
-type: way
+type: node
 latitude: 52.13022
 longitude: 11.62945
 postcode: "39104"
 city: Magdeburg
-street: "Kantstraße"
+street: Kantstraße
 housenumber: 5a
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

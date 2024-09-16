@@ -1,11 +1,11 @@
 id: 258215820
-type: way
+type: node
 latitude: 51.80011
 longitude: 11.62058
 postcode: "39439"
 city: Güsten
-street: "Ilberstedter Straße"
-housenumber: 8
+street: Ilberstedter Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

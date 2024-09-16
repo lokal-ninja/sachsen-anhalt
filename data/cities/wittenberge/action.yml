@@ -1,11 +1,11 @@
 id: 277424849
-type: way
+type: node
 latitude: 52.99483
 longitude: 11.73079
 postcode: "19322"
 city: Wittenberge
-street: "Wahrenberger Straße"
-housenumber: 78
+street: Wahrenberger Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""

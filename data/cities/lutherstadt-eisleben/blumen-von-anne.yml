@@ -4,8 +4,8 @@ latitude: 51.52154
 longitude: 11.54287
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Friedensstraße"
-housenumber: 14
-phone: "+49 3475 696208"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off"
-website: "http://www.blumen-von-anne.de/"
+street: Friedensstraße
+housenumber: "14"
+phone: +49 3475 696208
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
+website: http://www.blumen-von-anne.de/

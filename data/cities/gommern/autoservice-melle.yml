@@ -1,11 +1,11 @@
 id: 1110122846
-type: way
+type: node
 latitude: 52.0569
 longitude: 11.95402
 postcode: "39279"
 city: Gommern
-street: "Zerbster Straße"
-housenumber: 9
+street: Zerbster Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

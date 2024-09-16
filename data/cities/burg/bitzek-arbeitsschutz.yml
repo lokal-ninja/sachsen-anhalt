@@ -1,11 +1,11 @@
 id: 1177128473
-type: way
+type: node
 latitude: 52.2467
 longitude: 11.8806
 postcode: "39288"
 city: Burg
-street: "An den Krähenbergen"
-housenumber: 10
+street: An den Krähenbergen
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

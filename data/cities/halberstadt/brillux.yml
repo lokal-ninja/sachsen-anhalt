@@ -1,11 +1,11 @@
 id: 253367420
-type: way
+type: node
 latitude: 51.86261
 longitude: 10.97655
 postcode: "38895"
 city: Halberstadt
-street: "Harzblick"
-housenumber: 10
-phone: "+49 (0)3941 6834-0"
-opening_hours: "Mo-Th 06:30-16:30; Fr 06:30-14:00"
-website: "https://www.brillux.de/kontakt/niederlassungen/deutschland/details/?no_cache=1&nr=112&L=0"
+street: Harzblick
+housenumber: "10"
+phone: +49 (0)3941 6834-0
+opening_hours: Mo-Th 06:30-16:30; Fr 06:30-14:00
+website: https://www.brillux.de/kontakt/niederlassungen/deutschland/details/?no_cache=1&nr=112&L=0

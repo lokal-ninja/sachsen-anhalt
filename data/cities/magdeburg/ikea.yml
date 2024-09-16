@@ -1,11 +1,11 @@
 id: 504970699
-type: way
+type: node
 latitude: 52.16942
 longitude: 11.61038
 postcode: "39128"
 city: Magdeburg
-street: "Ebendorfer Chaussee"
-housenumber: 70
+street: Ebendorfer Chaussee
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

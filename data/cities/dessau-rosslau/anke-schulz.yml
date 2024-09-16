@@ -4,8 +4,8 @@ latitude: 51.84842
 longitude: 12.22409
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Essener Straße"
-housenumber: 9
-phone: "+49 340 6611133"
-opening_hours: "Wir haben für sie nach Vereinbarung geöffnet"
+street: Essener Straße
+housenumber: "9"
+phone: +49 340 6611133
+opening_hours: '"Wir haben für sie nach Vereinbarung geöffnet"'
 website: ""

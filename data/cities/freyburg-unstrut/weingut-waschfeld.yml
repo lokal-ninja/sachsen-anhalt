@@ -5,7 +5,7 @@ longitude: 11.80259
 postcode: "06632"
 city: Freyburg (Unstrut)
 street: ""
-housenumber: 16
+housenumber: "16"
 phone: ""
-opening_hours: "Nach telefonischer Voranmeldung"
-website: "https://www.weingut-waschfeld.de/"
+opening_hours: '"Nach telefonischer Voranmeldung"'
+website: https://www.weingut-waschfeld.de/

@@ -1,11 +1,11 @@
 id: 168957932
-type: way
+type: node
 latitude: 51.87633
 longitude: 11.53913
 postcode: "39446"
 city: Staßfurt
-street: "Neue Straße"
-housenumber: 1
+street: Neue Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

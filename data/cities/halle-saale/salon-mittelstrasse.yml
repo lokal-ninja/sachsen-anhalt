@@ -4,8 +4,8 @@ latitude: 51.48508
 longitude: 11.97151
 postcode: "06108"
 city: Halle (Saale)
-street: "Mittelstraße"
-housenumber: 5
-phone: "+49 345 2036007"
-opening_hours: "Mo-Fr 09:00-18:00; Sa nach Vereinbarung"
-website: "http://salon-mittelstrasse.de/"
+street: Mittelstraße
+housenumber: "5"
+phone: +49 345 2036007
+opening_hours: Mo-Fr 09:00-18:00; Sa "nach Vereinbarung"
+website: http://salon-mittelstrasse.de/

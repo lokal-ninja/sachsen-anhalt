@@ -1,11 +1,11 @@
 id: 125972624
-type: way
+type: node
 latitude: 51.88587
 longitude: 12.45105
 postcode: "06869"
 city: Coswig (Anhalt)
-street: "Puschkinstraße"
-housenumber: 52
+street: Puschkinstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

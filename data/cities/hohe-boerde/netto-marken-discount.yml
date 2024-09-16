@@ -1,11 +1,11 @@
 id: 222357370
-type: way
+type: node
 latitude: 52.13508
 longitude: 11.51045
 postcode: "39167"
 city: Hohe Börde
-street: "Magdeburger Straße"
-housenumber: 59
+street: Magdeburger Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

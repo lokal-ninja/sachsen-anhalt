@@ -1,11 +1,11 @@
 id: 1136564349
-type: way
+type: node
 latitude: 51.88189
 longitude: 12.65412
 postcode: "06886"
 city: Wittenberg
-street: "Annendorfer Straße"
-housenumber: 102
+street: Annendorfer Straße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

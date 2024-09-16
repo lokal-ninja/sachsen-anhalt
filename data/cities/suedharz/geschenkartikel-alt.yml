@@ -1,11 +1,11 @@
 id: 240623891
-type: way
+type: node
 latitude: 51.57297
 longitude: 10.9552
 postcode: "06536"
 city: Südharz
-street: "Niedergasse"
-housenumber: 2
+street: Niedergasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 10:30+, Su 11:00+; Mo closed"
+opening_hours: Tu-Sa 10:30+, Su 11:00+; Mo closed
 website: ""

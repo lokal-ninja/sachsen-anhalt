@@ -4,8 +4,8 @@ latitude: 51.44849
 longitude: 11.90084
 postcode: "06179"
 city: Teutschenthal
-street: "Ernst-Thälmann-Straße"
-housenumber: 10
-phone: "+49 345 9598200"
+street: Ernst-Thälmann-Straße
+housenumber: "10"
+phone: +49 345 9598200
 opening_hours: ""
-website: "http://www.zweirad-lampe.de/catalog/default.php"
+website: http://www.zweirad-lampe.de/catalog/default.php

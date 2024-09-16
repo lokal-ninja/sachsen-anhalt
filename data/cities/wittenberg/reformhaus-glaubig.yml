@@ -4,8 +4,8 @@ latitude: 51.86643
 longitude: 12.64215
 postcode: "06886"
 city: Wittenberg
-street: "Schlossstraße"
-housenumber: 32
+street: Schlossstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-13:00"
-website: "https://www.reformhaus-glaubig.de/index.html"
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-13:00
+website: https://www.reformhaus-glaubig.de/index.html

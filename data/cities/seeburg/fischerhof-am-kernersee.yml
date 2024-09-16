@@ -4,8 +4,9 @@ latitude: 51.48006
 longitude: 11.74084
 postcode: "06317"
 city: Seeburg
-street: "Am Kernersee"
-housenumber: 3
-phone: "+49 34601 25790"
-opening_hours: "Jan-Feb We-Fr 13:00-17:00; Sa 11:00-14:00; Mar-Dec We-Fr 11:00-17:00; Sa 11:00-14:00; Apr-Oct Sa-Su 11:00-14:00"
-website: "https://www.kernersee.de/"
+street: Am Kernersee
+housenumber: "3"
+phone: +49 34601 25790
+opening_hours: Jan-Feb We-Fr 13:00-17:00; Sa 11:00-14:00; Mar-Dec We-Fr 11:00-17:00;
+    Sa 11:00-14:00; Apr-Oct Sa-Su 11:00-14:00
+website: https://www.kernersee.de/

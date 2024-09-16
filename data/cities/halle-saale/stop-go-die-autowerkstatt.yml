@@ -1,11 +1,11 @@
 id: 185580088
-type: way
+type: node
 latitude: 51.43413
 longitude: 11.98453
 postcode: "06132"
 city: Halle (Saale)
-street: "Willi-Brundert-Straße"
-housenumber: 6
+street: Willi-Brundert-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.stopandgo.de/"
+website: https://www.stopandgo.de/

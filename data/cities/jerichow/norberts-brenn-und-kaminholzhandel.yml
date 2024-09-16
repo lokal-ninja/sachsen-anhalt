@@ -1,11 +1,11 @@
 id: 1209057353
-type: way
+type: node
 latitude: 52.39506
 longitude: 12.27936
 postcode: "39307"
 city: Jerichow
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 202176644
-type: way
+type: node
 latitude: 51.77149
 longitude: 10.7992
 postcode: "38875"
 city: Oberharz am Brocken
-street: "Kuhgasse"
-housenumber: 1
+street: Kuhgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

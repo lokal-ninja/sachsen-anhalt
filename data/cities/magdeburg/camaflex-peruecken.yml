@@ -4,8 +4,8 @@ latitude: 52.1339
 longitude: 11.63833
 postcode: "39104"
 city: Magdeburg
-street: "Breiter Weg"
-housenumber: 28
-phone: "+49 391 2585630"
-opening_hours: "Mo-Fr 09:30-18:00, Sa,Su off; PH off"
-website: "https://aderans-onlinestudio.de/pages/magdeburg"
+street: Breiter Weg
+housenumber: "28"
+phone: +49 391 2585630
+opening_hours: Mo-Fr 09:30-18:00, Sa,Su off; PH off
+website: https://aderans-onlinestudio.de/pages/magdeburg

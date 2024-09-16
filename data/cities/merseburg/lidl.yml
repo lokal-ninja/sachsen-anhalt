@@ -1,11 +1,11 @@
 id: 151681095
-type: way
+type: node
 latitude: 51.34192
 longitude: 11.98973
 postcode: "06217"
 city: Merseburg
-street: "Straße des Friedens"
-housenumber: 2
+street: Straße des Friedens
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

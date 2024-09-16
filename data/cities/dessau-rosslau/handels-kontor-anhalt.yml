@@ -1,11 +1,11 @@
 id: 148335597
-type: way
+type: node
 latitude: 51.83765
 longitude: 12.24196
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Johannisstraße"
-housenumber: 7
+street: Johannisstraße
+housenumber: "7"
 phone: "+4917695887764"
-opening_hours: "Mo,We,Fr 10:00-18:00"
-website: "http://handels-kontor-anhalt.de/"
+opening_hours: Mo,We,Fr 10:00-18:00
+website: http://handels-kontor-anhalt.de/

@@ -1,11 +1,11 @@
 id: 35629644
-type: way
+type: node
 latitude: 51.46319
 longitude: 11.90303
 postcode: "06179"
 city: Teutschenthal
-street: "An der Lauchstädter Straße"
-housenumber: 7
-phone: "+49 345 6134-0"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 09:00-20:00"
+street: An der Lauchstädter Straße
+housenumber: "7"
+phone: +49 345 6134-0
+opening_hours: Mo-Fr 10:00-20:00, Sa 09:00-20:00
 website: ""

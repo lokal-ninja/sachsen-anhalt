@@ -4,8 +4,8 @@ latitude: 51.73416
 longitude: 11.35608
 postcode: "06463"
 city: Falkenstein/Harz
-street: "Am Mittelweg"
-housenumber: 3
+street: Am Mittelweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 558775554
-type: way
+type: node
 latitude: 51.68183
 longitude: 12.26249
 postcode: "06766"
 city: Bitterfeld-Wolfen
-street: "Comeniusstraße"
-housenumber: 30
+street: Comeniusstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

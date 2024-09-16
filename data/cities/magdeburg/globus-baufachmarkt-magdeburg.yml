@@ -1,11 +1,11 @@
 id: 555262095
-type: way
+type: node
 latitude: 52.08226
 longitude: 11.60974
 postcode: "39118"
 city: Magdeburg
-street: "Salbker Chaussee"
-housenumber: 93
+street: Salbker Chaussee
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

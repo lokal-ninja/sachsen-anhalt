@@ -4,8 +4,8 @@ latitude: 51.48175
 longitude: 11.96636
 postcode: "06108"
 city: Halle (Saale)
-street: "Salzgrafenstraße"
-housenumber: 3
-phone: "+49 345 2023856"
-opening_hours: "Mo-Fr 09:30-12:30,13:30-18:00; Sa 10:00-13:00"
-website: "https://www.juwelier-folter.de/"
+street: Salzgrafenstraße
+housenumber: "3"
+phone: +49 345 2023856
+opening_hours: Mo-Fr 09:30-12:30,13:30-18:00; Sa 10:00-13:00
+website: https://www.juwelier-folter.de/

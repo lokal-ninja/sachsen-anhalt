@@ -4,8 +4,8 @@ latitude: 51.38138
 longitude: 11.60042
 postcode: "06268"
 city: Querfurt
-street: "Roßplatz"
-housenumber: 7
+street: Roßplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa 06:30-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Fr 06:30-21:00; Sa 06:30-20:00
+website: https://www.netto-online.de

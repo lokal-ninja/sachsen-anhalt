@@ -1,11 +1,11 @@
 id: 211366696
-type: way
+type: node
 latitude: 51.83804
 longitude: 12.23503
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Bitterfelder Straße"
-housenumber: 38
+street: Bitterfelder Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30, 13:30-18:00"
+opening_hours: Mo-Fr 10:00-12:30, 13:30-18:00
 website: ""

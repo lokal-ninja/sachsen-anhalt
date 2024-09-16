@@ -1,11 +1,11 @@
 id: 72455853
-type: way
+type: node
 latitude: 51.79248
 longitude: 11.15357
 postcode: "06484"
 city: Quedlinburg
-street: "Birkenstraße"
-housenumber: 24
+street: Birkenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132690360
-type: way
+type: node
 latitude: 51.74838
 longitude: 12.00244
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Gnetscher Straße"
-housenumber: 9
+street: Gnetscher Straße
+housenumber: "9"
 phone: "+49349641230"
 opening_hours: ""
-website: "http://www.maxi-baubedarf.de/"
+website: http://www.maxi-baubedarf.de/

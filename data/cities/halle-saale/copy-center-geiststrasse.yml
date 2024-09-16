@@ -4,8 +4,8 @@ latitude: 51.49
 longitude: 11.96591
 postcode: "06108"
 city: Halle (Saale)
-street: "Geiststraße"
-housenumber: 45
-phone: "+49 345 8043711"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00"
-website: "http://www.copygeist.de/"
+street: Geiststraße
+housenumber: "45"
+phone: +49 345 8043711
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:00
+website: http://www.copygeist.de/

@@ -4,8 +4,8 @@ latitude: 51.49596
 longitude: 11.96502
 postcode: "06114"
 city: Halle (Saale)
-street: "Stephanusstraße"
-housenumber: 12
+street: Stephanusstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-13:00; PH off"
-website: "http://www.biomarkt-halle.de"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-13:00; PH off
+website: http://www.biomarkt-halle.de

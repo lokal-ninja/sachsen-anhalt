@@ -1,11 +1,11 @@
 id: 108864865
-type: way
+type: node
 latitude: 51.05503
 longitude: 12.10338
 postcode: "06712"
 city: Kretzschau
-street: "Alte Schulstraße"
+street: Alte Schulstraße
 housenumber: 3c
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; Su,PH off
 website: ""

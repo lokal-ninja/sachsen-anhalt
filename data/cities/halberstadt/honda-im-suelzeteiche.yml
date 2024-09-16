@@ -1,11 +1,11 @@
 id: 238750714
-type: way
+type: node
 latitude: 51.87966
 longitude: 11.07828
 postcode: "38820"
 city: Halberstadt
-street: "Im Sülzeteiche"
-housenumber: 2
-phone: "+49 3941 605450"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.kurzautohaus.de/"
+street: Im Sülzeteiche
+housenumber: "2"
+phone: +49 3941 605450
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.kurzautohaus.de/

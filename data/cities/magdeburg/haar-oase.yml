@@ -4,8 +4,8 @@ latitude: 52.10419
 longitude: 11.61987
 postcode: "39120"
 city: Magdeburg
-street: "Leipziger Straße"
-housenumber: 43
-phone: "+49 391 6219807"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su,PH off"
+street: Leipziger Straße
+housenumber: "43"
+phone: +49 391 6219807
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
 website: ""

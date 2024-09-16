@@ -1,11 +1,11 @@
 id: 180598436
-type: way
+type: node
 latitude: 51.48431
 longitude: 11.80813
 postcode: "06198"
 city: Salzatal
-street: "Eislebener Straße"
-housenumber: 29
+street: Eislebener Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

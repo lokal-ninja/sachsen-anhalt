@@ -1,11 +1,11 @@
 id: 114856350
-type: way
+type: node
 latitude: 51.41958
 longitude: 12.00992
 postcode: "06132"
 city: Halle (Saale)
-street: "Regensburger Straße"
-housenumber: 46
-phone: "+49 345 7805260"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "http://www.ktm-halle.com"
+street: Regensburger Straße
+housenumber: "46"
+phone: +49 345 7805260
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: http://www.ktm-halle.com

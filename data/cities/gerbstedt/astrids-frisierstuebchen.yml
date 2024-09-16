@@ -1,11 +1,11 @@
 id: 179784872
-type: way
+type: node
 latitude: 51.60386
 longitude: 11.54462
 postcode: "06347"
 city: Gerbstedt
-street: "Lindenstraße"
-housenumber: 12
+street: Lindenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

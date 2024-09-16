@@ -4,8 +4,8 @@ latitude: 51.95745
 longitude: 12.31791
 postcode: "06868"
 city: Coswig (Anhalt)
-street: "Mönchholz"
-housenumber: 3
-phone: "+49 (0)34907 20455"
-opening_hours: "Tu-Su 09:00-17:00; Mo off"
-website: "https://www.forellenhof-thiessen.de/"
+street: Mönchholz
+housenumber: "3"
+phone: +49 (0)34907 20455
+opening_hours: Tu-Su 09:00-17:00; Mo off
+website: https://www.forellenhof-thiessen.de/

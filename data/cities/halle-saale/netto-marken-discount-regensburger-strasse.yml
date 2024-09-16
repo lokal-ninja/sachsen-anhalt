@@ -1,11 +1,11 @@
 id: 25522923
-type: way
+type: node
 latitude: 51.42409
 longitude: 11.98861
 postcode: "06132"
 city: Halle (Saale)
-street: "Regensburger Straße"
-housenumber: 137
+street: Regensburger Straße
+housenumber: "137"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

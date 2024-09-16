@@ -1,11 +1,11 @@
 id: 40987431
-type: way
+type: node
 latitude: 51.45674
 longitude: 11.98719
 postcode: "06130"
 city: Halle (Saale)
-street: "Dieselstraße"
-housenumber: 50
+street: Dieselstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1289187708
-type: way
+type: node
 latitude: 52.56459
 longitude: 11.97954
 postcode: "39590"
 city: Tangermünde
-street: "Otto-Kiesel-Straße"
-housenumber: 1
+street: Otto-Kiesel-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

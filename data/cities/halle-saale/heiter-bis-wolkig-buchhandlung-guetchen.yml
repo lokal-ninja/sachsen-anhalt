@@ -4,8 +4,8 @@ latitude: 51.49079
 longitude: 11.97544
 postcode: "06108"
 city: Halle (Saale)
-street: "Gütchenstraße"
-housenumber: 15
-phone: "+49 345 68232121"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-16:00"
-website: "https://heiterebuecher.de"
+street: Gütchenstraße
+housenumber: "15"
+phone: +49 345 68232121
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-16:00
+website: https://heiterebuecher.de

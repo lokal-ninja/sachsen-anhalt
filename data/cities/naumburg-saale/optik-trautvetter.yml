@@ -4,8 +4,8 @@ latitude: 51.15223
 longitude: 11.81286
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Jakobsstraße"
-housenumber: 25
-phone: "+49 3445 202328"
-opening_hours: "Mo-Fr 10:00-16:00 || Nach Vereinbarung"
-website: "https://www.optik-trautvetter.de/"
+street: Jakobsstraße
+housenumber: "25"
+phone: +49 3445 202328
+opening_hours: Mo-Fr 10:00-16:00 || "Nach Vereinbarung"
+website: https://www.optik-trautvetter.de/

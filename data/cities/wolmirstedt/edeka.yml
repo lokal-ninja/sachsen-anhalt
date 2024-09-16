@@ -1,11 +1,11 @@
 id: 375207578
-type: way
+type: node
 latitude: 52.24901
 longitude: 11.63117
 postcode: "39326"
 city: Wolmirstedt
-street: "Julius-Bremer-Straße"
-housenumber: 11
+street: Julius-Bremer-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 7:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 7:00-20:00
 website: ""

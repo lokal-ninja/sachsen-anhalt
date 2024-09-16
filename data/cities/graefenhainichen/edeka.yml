@@ -1,11 +1,11 @@
 id: 628957316
-type: way
+type: node
 latitude: 51.73182
 longitude: 12.45668
 postcode: "06773"
 city: Gräfenhainichen
-street: "Pfortenstraße"
-housenumber: 12
+street: Pfortenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

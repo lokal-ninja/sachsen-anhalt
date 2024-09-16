@@ -1,11 +1,11 @@
 id: 302029174
-type: way
+type: node
 latitude: 52.03761
 longitude: 11.24704
 postcode: "39387"
 city: Oschersleben
-street: "Schermcker Straße"
-housenumber: 47
+street: Schermcker Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

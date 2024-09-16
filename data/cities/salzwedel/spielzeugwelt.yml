@@ -1,11 +1,11 @@
 id: 489595757
-type: way
+type: node
 latitude: 52.85241
 longitude: 11.15494
 postcode: "29410"
 city: Salzwedel
-street: "Neuperverstraße"
-housenumber: 46
+street: Neuperverstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

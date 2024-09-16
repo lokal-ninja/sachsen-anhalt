@@ -4,8 +4,8 @@ latitude: 51.49815
 longitude: 11.98584
 postcode: "06114"
 city: Halle (Saale)
-street: "Hermesstraße"
-housenumber: 15
-phone: "+49 345 2998020"
-opening_hours: "Mo-Fr 07:00-21:00, Sa 07:00-20:00"
+street: Hermesstraße
+housenumber: "15"
+phone: +49 345 2998020
+opening_hours: Mo-Fr 07:00-21:00, Sa 07:00-20:00
 website: ""

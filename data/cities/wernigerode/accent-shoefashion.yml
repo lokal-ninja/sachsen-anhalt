@@ -1,11 +1,11 @@
 id: 194821772
-type: way
+type: node
 latitude: 51.83503
 longitude: 10.7888
 postcode: ""
 city: Wernigerode
-street: "Breite Straße"
-housenumber: 45
+street: Breite Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

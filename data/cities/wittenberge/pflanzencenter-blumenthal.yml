@@ -1,11 +1,11 @@
 id: 790470896
-type: way
+type: node
 latitude: 53.00662
 longitude: 11.73683
 postcode: "19322"
 city: Wittenberge
-street: "Düsterweg"
-housenumber: 45
-phone: "+49 3877 405135"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "http://www.pflanzencenter-blumenthal.de/"
+street: Düsterweg
+housenumber: "45"
+phone: +49 3877 405135
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
+website: http://www.pflanzencenter-blumenthal.de/

@@ -1,11 +1,11 @@
 id: 722931448
-type: way
+type: node
 latitude: 51.68318
 longitude: 12.24631
 postcode: "06766"
 city: Bitterfeld-Wolfen
-street: "Bitterfelder Straße"
+street: Bitterfelder Straße
 housenumber: 17a
 phone: ""
 opening_hours: ""
-website: "https://subarulab.de"
+website: https://subarulab.de

@@ -4,8 +4,8 @@ latitude: 52.17338
 longitude: 11.62875
 postcode: "39126"
 city: Magdeburg
-street: "Ziolkowskistraße"
-housenumber: 11
-phone: "+49 391 2445030"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://autoplus.de/filiale/magdeburg"
+street: Ziolkowskistraße
+housenumber: "11"
+phone: +49 391 2445030
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://autoplus.de/filiale/magdeburg

@@ -1,11 +1,11 @@
 id: 209815707
-type: way
+type: node
 latitude: 51.9399
 longitude: 11.43368
 postcode: ""
 city: Egeln
-street: "Mühlenstraße"
-housenumber: 27
+street: Mühlenstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.47267
 longitude: 11.29517
 postcode: "06526"
 city: Sangerhausen
-street: "Kylische Straße"
-housenumber: 46
-phone: "+ 49 3464 57 1445"
-opening_hours: "Mo, Tu, Th, Fr 11:00-14:00; We, Sa, Su OFF"
-website: "http://www.shs-sgh.de/"
+street: Kylische Straße
+housenumber: "46"
+phone: + 49 3464 57 1445
+opening_hours: Mo, Tu, Th, Fr 11:00-14:00; We, Sa, Su OFF
+website: http://www.shs-sgh.de/

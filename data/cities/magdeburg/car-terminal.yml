@@ -4,8 +4,8 @@ latitude: 52.10349
 longitude: 11.6392
 postcode: "39104"
 city: Magdeburg
-street: "Karl-Schmidt-Straße"
-housenumber: 19
-phone: "+49 391 4020448"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "http://www.car-terminal.de"
+street: Karl-Schmidt-Straße
+housenumber: "19"
+phone: +49 391 4020448
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: http://www.car-terminal.de

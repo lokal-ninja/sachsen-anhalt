@@ -4,8 +4,8 @@ latitude: 52.10612
 longitude: 11.63842
 postcode: "39104"
 city: Magdeburg
-street: "Thiemstraße"
-housenumber: 13
+street: Thiemstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Th 17:00-18:30"
-website: "https://www.foodcoop-md.de/"
+opening_hours: Th 17:00-18:30
+website: https://www.foodcoop-md.de/

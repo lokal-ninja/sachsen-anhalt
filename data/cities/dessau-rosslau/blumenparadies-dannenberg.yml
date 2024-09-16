@@ -4,8 +4,8 @@ latitude: 51.8895
 longitude: 12.24606
 postcode: "06862"
 city: Dessau-Roßlau
-street: "Hauptstraße"
-housenumber: 130
-phone: "+49 3490 182674"
-opening_hours: "Mo-Fr 09:00-18:00 Sa 09:00-12:00"
-website: "https://www.blumenparadies-dannenberg.de/"
+street: Hauptstraße
+housenumber: "130"
+phone: +49 3490 182674
+opening_hours: Mo-Fr 09:00-18:00 Sa 09:00-12:00
+website: https://www.blumenparadies-dannenberg.de/

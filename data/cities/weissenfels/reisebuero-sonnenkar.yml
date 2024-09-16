@@ -4,8 +4,8 @@ latitude: 51.20083
 longitude: 11.97294
 postcode: "06667"
 city: Weißenfels
-street: "Markt"
-housenumber: 9
+street: Markt
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.sonnenklartv-reisebuero.de/weissenfels"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.sonnenklartv-reisebuero.de/weissenfels

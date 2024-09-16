@@ -1,11 +1,11 @@
 id: 743827741
-type: way
+type: node
 latitude: 52.8413
 longitude: 11.17243
 postcode: "29410"
 city: Salzwedel
-street: "Arendseer Straße"
-housenumber: 8
+street: Arendseer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 1062205273
-type: way
+type: node
 latitude: 52.20892
 longitude: 11.1329
 postcode: "39343"
 city: Ingersleben
-street: "Zuckerfabrik"
-housenumber: 1
+street: Zuckerfabrik
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

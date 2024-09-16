@@ -1,11 +1,11 @@
 id: 279629854
-type: way
+type: node
 latitude: 51.51822
 longitude: 12.09672
 postcode: "06188"
 city: Landsberg
-street: "Alte Bahnhofstraße"
-housenumber: 78
+street: Alte Bahnhofstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

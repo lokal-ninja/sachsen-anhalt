@@ -1,11 +1,11 @@
 id: 240799251
-type: way
+type: node
 latitude: 51.57358
 longitude: 10.95526
 postcode: "06536"
 city: Südharz
-street: "Am Markt"
-housenumber: 4
+street: Am Markt
+housenumber: "4"
 phone: ""
-opening_hours: "Th 13:00-17:00"
+opening_hours: Th 13:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 233406896
-type: way
+type: node
 latitude: 51.83525
 longitude: 12.24037
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Antoinettenstraße"
-housenumber: 1
-phone: "+49 (0)340 2203380"
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-13:00"
-website: "https://www.sat-reisen.de/reisebueros/dessau-rosslau/"
+street: Antoinettenstraße
+housenumber: "1"
+phone: +49 (0)340 2203380
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-13:00
+website: https://www.sat-reisen.de/reisebueros/dessau-rosslau/

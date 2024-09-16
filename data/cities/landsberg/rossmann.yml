@@ -1,11 +1,11 @@
 id: 392198085
-type: way
+type: node
 latitude: 51.51254
 longitude: 12.05165
 postcode: "06188"
 city: Landsberg
-street: "Saarbrücker Straße"
-housenumber: 1
+street: Saarbrücker Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; PH off"
+opening_hours: Mo-Sa 08:30-20:00; PH off
 website: ""

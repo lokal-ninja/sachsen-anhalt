@@ -4,8 +4,8 @@ latitude: 52.13218
 longitude: 11.61979
 postcode: "39108"
 city: Magdeburg
-street: "Maxim-Gorki-Straße"
-housenumber: 11
-phone: "+49 391 6098220"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00"
-website: "http://www.schubert.bmw-motorrad.de/de/schubert/de/index.html"
+street: Maxim-Gorki-Straße
+housenumber: "11"
+phone: +49 391 6098220
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:00
+website: http://www.schubert.bmw-motorrad.de/de/schubert/de/index.html

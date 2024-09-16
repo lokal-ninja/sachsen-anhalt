@@ -4,8 +4,8 @@ latitude: 51.47971
 longitude: 11.97854
 postcode: "06108"
 city: Halle (Saale)
-street: "Martinstraße"
-housenumber: 10
-phone: "+49 345 44 53 85 83"
-opening_hours: "Mo-Th 10:00-18:00; Fr 11:00-18:00; Sa 11:00-16:00"
+street: Martinstraße
+housenumber: "10"
+phone: +49 345 44 53 85 83
+opening_hours: Mo-Th 10:00-18:00; Fr 11:00-18:00; Sa 11:00-16:00
 website: ""

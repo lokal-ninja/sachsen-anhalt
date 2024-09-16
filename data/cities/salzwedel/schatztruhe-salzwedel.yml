@@ -1,11 +1,11 @@
 id: 495713182
-type: way
+type: node
 latitude: 52.85375
 longitude: 11.1544
 postcode: "29410"
 city: Salzwedel
-street: "Breite Straße"
-housenumber: 18
+street: Breite Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

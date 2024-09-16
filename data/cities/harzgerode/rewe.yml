@@ -4,8 +4,8 @@ latitude: 51.64272
 longitude: 11.1399
 postcode: "06493"
 city: Harzgerode
-street: "Wallstraße"
-housenumber: 8
-phone: "+49 39484 723684"
-opening_hours: "Tu-Su 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.rewe.de/angebote/harzgerode/4040390/rewe-markt-wallstr-8/"
+street: Wallstraße
+housenumber: "8"
+phone: +49 39484 723684
+opening_hours: Tu-Su 07:00-22:00; Sa 07:00-20:00
+website: https://www.rewe.de/angebote/harzgerode/4040390/rewe-markt-wallstr-8/

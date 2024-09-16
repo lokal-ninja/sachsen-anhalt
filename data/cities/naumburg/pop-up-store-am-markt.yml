@@ -4,8 +4,8 @@ latitude: 51.15292
 longitude: 11.81019
 postcode: "06618"
 city: Naumburg
-street: "Markt"
-housenumber: 12
+street: Markt
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 13:00-18:00; We 09:00-18:00; Sa 09:00-14:00; Mo,Su,Ph off"
-website: "https://popupstore.naumburg-erleben.de/"
+opening_hours: Tu-Fr 13:00-18:00; We 09:00-18:00; Sa 09:00-14:00; Mo,Su,Ph off
+website: https://popupstore.naumburg-erleben.de/

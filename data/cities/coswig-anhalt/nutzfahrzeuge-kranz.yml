@@ -1,11 +1,11 @@
 id: 37664457
-type: way
+type: node
 latitude: 51.88483
 longitude: 12.42823
 postcode: "06869"
 city: Coswig (Anhalt)
-street: "Am Brennickel"
-housenumber: 5
+street: Am Brennickel
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

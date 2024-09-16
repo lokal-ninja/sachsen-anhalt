@@ -4,8 +4,8 @@ latitude: 51.21805
 longitude: 11.76765
 postcode: "06632"
 city: Freyburg (Unstrut)
-street: "Querfurter Straße"
-housenumber: 22
+street: Querfurter Straße
+housenumber: "22"
 phone: "+491709052523"
-opening_hours: "nach Vereinbarung"
-website: "http://wiegandtundsöhne.de"
+opening_hours: '"nach Vereinbarung"'
+website: http://wiegandtundsöhne.de

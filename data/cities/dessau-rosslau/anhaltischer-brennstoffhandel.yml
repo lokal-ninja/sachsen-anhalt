@@ -4,8 +4,8 @@ latitude: 51.83633
 longitude: 12.2337
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Bitterfelder Straße"
-housenumber: 1
+street: Bitterfelder Straße
+housenumber: "1"
 phone: "+49340212660"
-opening_hours: "Mo 08:00-16:00; Di 08:00-17:00; Fr 08:00-15:00"
+opening_hours: Mo 08:00-16:00; Di 08:00-17:00; Fr 08:00-15:00
 website: ""

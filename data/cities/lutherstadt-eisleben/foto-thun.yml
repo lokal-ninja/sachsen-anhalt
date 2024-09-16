@@ -4,8 +4,8 @@ latitude: 51.52433
 longitude: 11.55218
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Bahnhofstraße"
-housenumber: 27
-phone: "+49 3475 927915"
-opening_hours: "Mo,Tu,Th,Fr 10:00-17:00; We 10:00-12:00; Sa,Su off"
-website: "https://www.fotothun.de/"
+street: Bahnhofstraße
+housenumber: "27"
+phone: +49 3475 927915
+opening_hours: Mo,Tu,Th,Fr 10:00-17:00; We 10:00-12:00; Sa,Su off
+website: https://www.fotothun.de/

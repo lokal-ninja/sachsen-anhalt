@@ -4,8 +4,8 @@ latitude: 51.15331
 longitude: 11.80715
 postcode: "06618"
 city: Naumburg
-street: "Lindenring"
-housenumber: 14
+street: Lindenring
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 07:30-12:00"
-website: "https://sternenbaeck.de"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 07:30-12:00
+website: https://sternenbaeck.de

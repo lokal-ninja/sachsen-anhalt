@@ -4,8 +4,9 @@ latitude: 52.14936
 longitude: 11.65816
 postcode: "39106"
 city: Magdeburg
-street: "Hafenstraße"
-housenumber: 9
+street: Hafenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 09:30-12:00,13:00-16:30; Fr 09:30-12:00,13:00-14:30; Sa,Su,PH off"
+opening_hours: Mo-Th 09:30-12:00,13:00-16:30; Fr 09:30-12:00,13:00-14:30; Sa,Su,PH
+    off
 website: ""

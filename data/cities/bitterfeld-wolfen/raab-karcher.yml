@@ -1,11 +1,11 @@
 id: 88308511
-type: way
+type: node
 latitude: 51.61652
 longitude: 12.31304
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Güterbahnhofstraße"
-housenumber: 1
+street: Güterbahnhofstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

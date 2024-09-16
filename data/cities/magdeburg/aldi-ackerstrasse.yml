@@ -1,11 +1,11 @@
 id: 813834270
-type: way
+type: node
 latitude: 52.11554
 longitude: 11.61845
 postcode: "39112"
 city: Magdeburg
-street: "Ackerstraße"
-housenumber: 2
+street: Ackerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

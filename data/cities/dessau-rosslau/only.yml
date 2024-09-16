@@ -4,8 +4,8 @@ latitude: 51.83416
 longitude: 12.24546
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+4934914093680"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "http://only.com/"
+opening_hours: Mo-Sa 09:30-19:00
+website: http://only.com/

@@ -1,11 +1,11 @@
 id: 67730672
-type: way
+type: node
 latitude: 52.14097
 longitude: 11.61668
 postcode: "39108"
 city: Magdeburg
-street: "Albert-Vater-Straße"
-housenumber: 70
-phone: "+49 391 2581710"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.boschcarservice.com/de/de/"
+street: Albert-Vater-Straße
+housenumber: "70"
+phone: +49 391 2581710
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.boschcarservice.com/de/de/

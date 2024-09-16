@@ -1,11 +1,11 @@
 id: 649143548
-type: way
+type: node
 latitude: 51.48521
 longitude: 11.47819
 postcode: "06295"
 city: Bornstedt
-street: "Neue Sorge"
-housenumber: 37
+street: Neue Sorge
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

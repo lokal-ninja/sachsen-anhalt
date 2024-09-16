@@ -1,11 +1,11 @@
 id: 87399155
-type: way
+type: node
 latitude: 51.25027
 longitude: 11.97201
 postcode: "06667"
 city: Weißenfels
-street: "Schkortelweg"
-housenumber: 1
+street: Schkortelweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

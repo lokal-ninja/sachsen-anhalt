@@ -4,8 +4,8 @@ latitude: 51.83272
 longitude: 10.78872
 postcode: "38855"
 city: Wernigerode
-street: "Burgstraße"
-housenumber: 32
-phone: "+49 3943 260610"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH 12:00-18:00"
-website: "http://www.sammlereck.de"
+street: Burgstraße
+housenumber: "32"
+phone: +49 3943 260610
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH 12:00-18:00
+website: http://www.sammlereck.de

@@ -1,11 +1,11 @@
 id: 194828352
-type: way
+type: node
 latitude: 52.28706
 longitude: 11.4202
 postcode: "39340"
 city: Haldensleben
-street: "Magdeburger Straße"
-housenumber: 81
+street: Magdeburger Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

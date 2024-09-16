@@ -1,11 +1,11 @@
 id: 1007461182
-type: way
+type: node
 latitude: 51.99442
 longitude: 11.72902
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Calbesche Straße"
-housenumber: 53
+street: Calbesche Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

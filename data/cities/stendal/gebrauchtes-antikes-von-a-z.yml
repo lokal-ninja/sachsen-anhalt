@@ -1,11 +1,11 @@
 id: 450496453
-type: way
+type: node
 latitude: 52.59368
 longitude: 11.85816
 postcode: "39576"
 city: Stendal
-street: "Lüderitzer Straße"
-housenumber: 
+street: Lüderitzer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://der-stendaler-anundverkauf.de/"
+website: http://der-stendaler-anundverkauf.de/

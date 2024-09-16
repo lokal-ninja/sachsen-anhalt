@@ -1,11 +1,11 @@
 id: 169617502
-type: way
+type: node
 latitude: 52.14573
 longitude: 11.72221
 postcode: "39175"
 city: Biederitz
-street: "Heyrothsberger Straße"
-housenumber: 62
+street: Heyrothsberger Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

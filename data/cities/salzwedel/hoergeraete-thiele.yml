@@ -1,11 +1,11 @@
 id: 500105220
-type: way
+type: node
 latitude: 52.85042
 longitude: 11.14916
 postcode: "29410"
 city: Salzwedel
-street: "Jenny-Marx-Straße"
-housenumber: 16
+street: Jenny-Marx-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

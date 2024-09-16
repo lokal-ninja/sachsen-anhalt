@@ -1,11 +1,11 @@
 id: 248065425
-type: way
+type: node
 latitude: 51.7561
 longitude: 11.04543
 postcode: "06502"
 city: Thale
-street: "Breiteweg"
-housenumber: 12
+street: Breiteweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH,Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH,Su off
 website: ""

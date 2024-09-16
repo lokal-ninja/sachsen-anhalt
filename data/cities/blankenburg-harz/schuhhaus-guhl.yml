@@ -1,11 +1,11 @@
 id: 457960602
-type: way
+type: node
 latitude: 51.78961
 longitude: 10.95562
 postcode: "38889"
 city: Blankenburg (Harz)
-street: "Lange Straße"
-housenumber: 10
+street: Lange Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
 website: ""

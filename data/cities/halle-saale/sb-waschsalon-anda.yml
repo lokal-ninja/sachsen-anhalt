@@ -1,11 +1,11 @@
 id: 738783517
-type: way
+type: node
 latitude: 51.49184
 longitude: 11.97391
 postcode: "06108"
 city: Halle (Saale)
-street: "Ludwig-Wucherer-Straße"
-housenumber: 72
+street: Ludwig-Wucherer-Straße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-22:30"
-website: "https://waschladen.de/de/anda.html"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-22:30
+website: https://waschladen.de/de/anda.html

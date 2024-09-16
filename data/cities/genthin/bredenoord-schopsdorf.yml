@@ -1,11 +1,11 @@
 id: 1200667029
-type: way
+type: node
 latitude: 52.24407
 longitude: 12.2497
 postcode: "39291"
 city: Genthin
-street: "Schopsdorfer Industriestraße"
-housenumber: 10
+street: Schopsdorfer Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

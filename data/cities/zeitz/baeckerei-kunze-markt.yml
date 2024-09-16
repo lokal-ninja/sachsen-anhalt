@@ -4,8 +4,8 @@ latitude: 50.99328
 longitude: 12.23837
 postcode: "06712"
 city: Zeitz
-street: "Markt"
-housenumber: 7
+street: Markt
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 07:00-12:00; Tu-Fr 07:00-17:00; Sa,Su,PH off"
+opening_hours: Mo 07:00-12:00; Tu-Fr 07:00-17:00; Sa,Su,PH off
 website: ""

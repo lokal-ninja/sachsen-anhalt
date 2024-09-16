@@ -4,8 +4,8 @@ latitude: 51.39151
 longitude: 12.16266
 postcode: "06258"
 city: Schkopau
-street: "Auenstraße"
-housenumber: 9
-phone: "+49 34204 35035"
-opening_hours: "08:00-20:00 nach Vereinbarung"
-website: "http://www.beautyinsel.eu/"
+street: Auenstraße
+housenumber: "9"
+phone: +49 34204 35035
+opening_hours: 08:00-20:00 "nach Vereinbarung"
+website: http://www.beautyinsel.eu/

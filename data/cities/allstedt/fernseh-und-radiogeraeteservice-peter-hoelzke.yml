@@ -1,11 +1,11 @@
 id: 235129309
-type: way
+type: node
 latitude: 51.47531
 longitude: 11.44745
 postcode: "06542"
 city: Allstedt
-street: "Mittelstraße"
-housenumber: 6
+street: Mittelstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

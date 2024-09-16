@@ -1,11 +1,11 @@
 id: 101364123
-type: way
+type: node
 latitude: 51.50237
 longitude: 11.9677
 postcode: "06114"
 city: Halle (Saale)
-street: "Carl-Robert-Straße"
-housenumber: 4
+street: Carl-Robert-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:30; Sa 06:30-20:00"
+opening_hours: Mo-Fr 06:30-21:30; Sa 06:30-20:00
 website: ""

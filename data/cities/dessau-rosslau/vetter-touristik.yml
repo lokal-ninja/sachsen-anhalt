@@ -4,8 +4,8 @@ latitude: 51.84832
 longitude: 12.22316
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Kornhausstraße"
-housenumber: 36
-phone: "+49 340 631511"
-opening_hours: "Mo-Fr 10:00-16:00"
+street: Kornhausstraße
+housenumber: "36"
+phone: +49 340 631511
+opening_hours: Mo-Fr 10:00-16:00
 website: ""

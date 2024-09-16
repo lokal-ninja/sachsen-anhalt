@@ -1,11 +1,11 @@
 id: 232810381
-type: way
+type: node
 latitude: 51.77609
 longitude: 11.06043
 postcode: "06502"
 city: Thale
-street: "Technik"
-housenumber: 1
+street: Technik
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

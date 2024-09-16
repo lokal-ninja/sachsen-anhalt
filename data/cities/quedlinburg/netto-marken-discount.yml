@@ -1,11 +1,11 @@
 id: 232067288
-type: way
+type: node
 latitude: 51.79582
 longitude: 11.13712
 postcode: "06484"
 city: Quedlinburg
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

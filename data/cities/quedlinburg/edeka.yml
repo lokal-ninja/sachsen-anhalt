@@ -1,11 +1,11 @@
 id: 232234793
-type: way
+type: node
 latitude: 51.72643
 longitude: 11.14301
 postcode: "06485"
 city: Quedlinburg
-street: "Im Jacobsgarten"
-housenumber: 1
+street: Im Jacobsgarten
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 303685439
-type: way
+type: node
 latitude: 51.88551
 longitude: 11.17622
 postcode: "38828"
 city: Wegeleben
-street: "Lange Straße"
-housenumber: 42
+street: Lange Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

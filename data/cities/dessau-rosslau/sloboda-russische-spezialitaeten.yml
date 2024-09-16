@@ -1,11 +1,11 @@
 id: 1258893684
-type: way
+type: node
 latitude: 51.83182
 longitude: 12.24322
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Friedrich-Naumann-Straße"
-housenumber: 9
+street: Friedrich-Naumann-Straße
+housenumber: "9"
 phone: "+493405207080"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.sloboda-shop.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.sloboda-shop.de/

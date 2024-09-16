@@ -1,11 +1,11 @@
 id: 865888113
-type: way
+type: node
 latitude: 52.08146
 longitude: 11.58187
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 4
+street: Werner-von-Siemens-Ring
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.porsche-magdeburg.de/"
+website: https://www.porsche-magdeburg.de/

@@ -1,11 +1,11 @@
 id: 95387068
-type: way
+type: node
 latitude: 52.16943
 longitude: 11.62555
 postcode: "39128"
 city: Magdeburg
-street: "Hanns-Eisler-Platz"
-housenumber: 11
+street: Hanns-Eisler-Platz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
 website: ""

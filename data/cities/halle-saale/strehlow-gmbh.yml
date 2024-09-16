@@ -1,11 +1,11 @@
 id: 46346853
-type: way
+type: node
 latitude: 51.45637
 longitude: 11.962
 postcode: "06130"
 city: Halle (Saale)
-street: "Paul-Suhr-Straße"
-housenumber: 45
-phone: "+49 345 131630"
-opening_hours: "Mo,Tu,Th 09:00-16:30; Fr 09:00-14:00; We 09:00-18:00"
-website: "https://www.strehlow.info/index.php/privatkunden/filialen"
+street: Paul-Suhr-Straße
+housenumber: "45"
+phone: +49 345 131630
+opening_hours: Mo,Tu,Th 09:00-16:30; Fr 09:00-14:00; We 09:00-18:00
+website: https://www.strehlow.info/index.php/privatkunden/filialen

@@ -1,11 +1,11 @@
 id: 215535349
-type: way
+type: node
 latitude: 51.65537
 longitude: 12.08751
 postcode: "06369"
 city: Radegast
-street: "Bahnhofstraße"
-housenumber: 
-phone: "+49 34978 21476"
+street: Bahnhofstraße
+housenumber: ""
+phone: +49 34978 21476
 opening_hours: ""
-website: "https://autohaus-bennemann.de/"
+website: https://autohaus-bennemann.de/

@@ -1,11 +1,11 @@
 id: 1203476270
-type: way
+type: node
 latitude: 51.87946
 longitude: 11.05258
 postcode: "38820"
 city: Halberstadt
-street: "Hans-Neupert-Straße"
-housenumber: 1
+street: Hans-Neupert-Straße
+housenumber: "1"
 phone: "+493941573630"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.autohaus-halberstadt.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.autohaus-halberstadt.de/

@@ -1,11 +1,11 @@
 id: 168908361
-type: way
+type: node
 latitude: 51.8911
 longitude: 12.22674
 postcode: "06862"
 city: Dessau-Roßlau
-street: "Magdeburger Straße"
-housenumber: 83
+street: Magdeburger Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

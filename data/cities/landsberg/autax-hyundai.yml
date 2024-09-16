@@ -1,11 +1,11 @@
 id: 141037936
-type: way
+type: node
 latitude: 51.51897
 longitude: 12.06244
 postcode: "06188"
 city: Landsberg
-street: "Mägdeberge"
-housenumber: 8
-phone: "+49 34604 159999"
+street: Mägdeberge
+housenumber: "8"
+phone: +49 34604 159999
 opening_hours: ""
-website: "http://www.autohaus-autax.de"
+website: http://www.autohaus-autax.de

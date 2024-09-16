@@ -1,11 +1,11 @@
 id: 245803957
-type: way
+type: node
 latitude: 51.82019
 longitude: 12.25027
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Helmut-Kohl-Straße"
-housenumber: 73
+street: Helmut-Kohl-Straße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

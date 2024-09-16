@@ -1,11 +1,11 @@
 id: 275525638
-type: way
+type: node
 latitude: 51.72835
 longitude: 12.45712
 postcode: "06773"
 city: Gräfenhainichen
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

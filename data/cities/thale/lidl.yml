@@ -1,11 +1,11 @@
 id: 33043050
-type: way
+type: node
 latitude: 51.75058
 longitude: 11.04485
 postcode: "06502"
 city: Thale
-street: "Musestieg"
-housenumber: 5
+street: Musestieg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

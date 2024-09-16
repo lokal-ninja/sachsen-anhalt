@@ -1,11 +1,11 @@
 id: 395664440
-type: way
+type: node
 latitude: 51.22023
 longitude: 11.77287
 postcode: "06632"
 city: Freyburg (Unstrut)
-street: "Friedhofsweg"
-housenumber: 2
+street: Friedhofsweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

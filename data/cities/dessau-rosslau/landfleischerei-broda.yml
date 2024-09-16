@@ -4,8 +4,8 @@ latitude: 51.84844
 longitude: 12.21436
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Elballee"
-housenumber: 51
+street: Elballee
+housenumber: "51"
 phone: "+4934066123313"
-opening_hours: "Di-Fr 08:00-18:00; Sa 08:00-11:00"
-website: "https://www.landfleischerei-broda.de"
+opening_hours: Di-Fr 08:00-18:00; Sa 08:00-11:00
+website: https://www.landfleischerei-broda.de

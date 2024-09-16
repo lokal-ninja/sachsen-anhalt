@@ -1,11 +1,11 @@
 id: 1167127993
-type: way
+type: node
 latitude: 51.36541
 longitude: 11.98135
 postcode: "06217"
 city: Merseburg
-street: "Gerichtsrain"
-housenumber: 73
+street: Gerichtsrain
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.1696
 longitude: 11.62501
 postcode: "39128"
 city: Magdeburg
-street: "Hanns-Eisler-Platz"
-housenumber: 11
-phone: "+49 391 2527205"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-scharke-hanns-eisler-platz-11/index.jsp"
+street: Hanns-Eisler-Platz
+housenumber: "11"
+phone: +49 391 2527205
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/eh/minden-hannover/edeka-scharke-hanns-eisler-platz-11/index.jsp

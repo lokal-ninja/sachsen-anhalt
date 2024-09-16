@@ -1,11 +1,11 @@
 id: 178412578
-type: way
+type: node
 latitude: 51.37343
 longitude: 11.96922
 postcode: "06217"
 city: Merseburg
-street: "Fischweg"
-housenumber: 20
-phone: "+49 3461 74190"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-14:00"
-website: "https://www.duebner-motors.de/"
+street: Fischweg
+housenumber: "20"
+phone: +49 3461 74190
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-14:00
+website: https://www.duebner-motors.de/

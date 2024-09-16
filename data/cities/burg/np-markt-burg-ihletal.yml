@@ -1,11 +1,11 @@
 id: 199552427
-type: way
+type: node
 latitude: 52.26548
 longitude: 11.88735
 postcode: "39288"
 city: Burg
-street: "Grabower Landstraße"
-housenumber: 83
+street: Grabower Landstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

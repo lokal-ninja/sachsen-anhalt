@@ -1,11 +1,11 @@
 id: 38771045
-type: way
+type: node
 latitude: 52.17795
 longitude: 11.48527
 postcode: "39326"
 city: Hohe Börde
-street: "Berliner Allee"
-housenumber: 15
+street: Berliner Allee
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://frostkauf.de/frostkauf-vor-ort"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://frostkauf.de/frostkauf-vor-ort

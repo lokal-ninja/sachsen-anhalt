@@ -4,8 +4,8 @@ latitude: 51.50016
 longitude: 12.12917
 postcode: "06188"
 city: Landsberg
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://mtz-cichy.de/"
+website: https://mtz-cichy.de/

@@ -4,8 +4,8 @@ latitude: 52.15313
 longitude: 11.5835
 postcode: "39130"
 city: Magdeburg
-street: "Bruno-Taut-Ring"
-housenumber: 119
+street: Bruno-Taut-Ring
+housenumber: "119"
 phone: ""
-opening_hours: "Mo,We 09:00-16:00; Tu,Th 09:00-18:00; Fr 09:00-14:00"
-website: "http://sozialkaufhaus.bvik.de/locations/"
+opening_hours: Mo,We 09:00-16:00; Tu,Th 09:00-18:00; Fr 09:00-14:00
+website: http://sozialkaufhaus.bvik.de/locations/

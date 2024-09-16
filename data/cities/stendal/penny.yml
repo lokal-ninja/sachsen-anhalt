@@ -1,11 +1,11 @@
 id: 168997946
-type: way
+type: node
 latitude: 52.61533
 longitude: 11.86452
 postcode: "39576"
 city: Stendal
-street: "Arneburger Straße"
-housenumber: 146
+street: Arneburger Straße
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

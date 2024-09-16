@@ -4,8 +4,8 @@ latitude: 51.05142
 longitude: 12.13635
 postcode: "06712"
 city: Zeitz
-street: "Neumarkt"
-housenumber: 10
+street: Neumarkt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

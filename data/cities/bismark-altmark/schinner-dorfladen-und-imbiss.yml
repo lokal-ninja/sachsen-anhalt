@@ -1,11 +1,11 @@
 id: 246839958
-type: way
+type: node
 latitude: 52.65721
 longitude: 11.72972
 postcode: "39628"
 city: Bismark (Altmark)
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

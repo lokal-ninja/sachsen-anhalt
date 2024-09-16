@@ -1,11 +1,11 @@
 id: 428690909
-type: way
+type: node
 latitude: 51.59146
 longitude: 11.14071
 postcode: "06493"
 city: Harzgerode
-street: "Teichdamm"
-housenumber: 16
+street: Teichdamm
+housenumber: "16"
 phone: ""
-opening_hours: "Mo 06:30-11:00; Tu-Fr 06:30-12:00,15:00-18:00; Sa 06:30-11:00"
+opening_hours: Mo 06:30-11:00; Tu-Fr 06:30-12:00,15:00-18:00; Sa 06:30-11:00
 website: ""

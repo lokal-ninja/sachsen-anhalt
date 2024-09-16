@@ -1,11 +1,11 @@
 id: 219674206
-type: way
+type: node
 latitude: 51.66683
 longitude: 12.91686
 postcode: "06925"
 city: Annaburg
-street: "Am Güterbahnhof"
-housenumber: 1
+street: Am Güterbahnhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.aktionshaus-wreesmann.de/"
+website: https://www.aktionshaus-wreesmann.de/

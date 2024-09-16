@@ -1,11 +1,11 @@
 id: 43649697
-type: way
+type: node
 latitude: 51.48002
 longitude: 11.89528
 postcode: "06126"
 city: Halle (Saale)
-street: "Bennstedter Straße"
-housenumber: 22
+street: Bennstedter Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/"
+website: https://www.aldi-nord.de/

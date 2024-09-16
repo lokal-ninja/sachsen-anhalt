@@ -4,8 +4,8 @@ latitude: 51.48401
 longitude: 11.96998
 postcode: "06108"
 city: Halle (Saale)
-street: "Große Ulrichstraße"
-housenumber: 60
-phone: "+49 345 4701780"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.cierpinski-sport.de/"
+street: Große Ulrichstraße
+housenumber: "60"
+phone: +49 345 4701780
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.cierpinski-sport.de/

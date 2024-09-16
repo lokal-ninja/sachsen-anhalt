@@ -4,8 +4,8 @@ latitude: 52.27095
 longitude: 11.85289
 postcode: "39288"
 city: Burg
-street: "Schartauer Straße"
-housenumber: 50
-phone: "+49 3921 72 94 457"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.zehm-die-gardine.de/"
+street: Schartauer Straße
+housenumber: "50"
+phone: +49 3921 72 94 457
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.zehm-die-gardine.de/

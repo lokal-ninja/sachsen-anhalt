@@ -1,11 +1,11 @@
 id: 286217458
-type: way
+type: node
 latitude: 52.82034
 longitude: 12.07842
 postcode: "39539"
 city: Havelberg
-street: "Rathenower Straße"
-housenumber: 2
+street: Rathenower Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

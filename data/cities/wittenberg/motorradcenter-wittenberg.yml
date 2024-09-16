@@ -1,11 +1,11 @@
 id: 381901344
-type: way
+type: node
 latitude: 51.88077
 longitude: 12.65256
 postcode: "06886"
 city: Wittenberg
-street: "Feldstraße"
-housenumber: 70
+street: Feldstraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

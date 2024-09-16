@@ -1,11 +1,11 @@
 id: 131666237
-type: way
+type: node
 latitude: 52.0822
 longitude: 11.62262
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 3
+street: Carnotstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

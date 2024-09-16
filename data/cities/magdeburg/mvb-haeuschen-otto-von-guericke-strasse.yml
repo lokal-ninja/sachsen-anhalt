@@ -1,11 +1,11 @@
 id: 197527323
-type: way
+type: node
 latitude: 52.12103
 longitude: 11.62768
 postcode: "39104"
 city: Magdeburg
-street: "Otto-von-Guericke-Straße"
-housenumber: 
+street: Otto-von-Guericke-Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-15:00; Sa/Su/PH closed"
-website: "https://www.mvbnet.de/service/verkaufsstellen/#sctab11"
+opening_hours: Mo-Fr 08:00-15:00; Sa/Su/PH closed
+website: https://www.mvbnet.de/service/verkaufsstellen/#sctab11

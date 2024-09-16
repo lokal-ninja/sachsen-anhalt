@@ -1,11 +1,11 @@
 id: 464081646
-type: way
+type: node
 latitude: 52.61546
 longitude: 11.84486
 postcode: "39576"
 city: Stendal
-street: "Borghardtstraße"
-housenumber: 1
+street: Borghardtstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

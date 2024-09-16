@@ -1,11 +1,11 @@
 id: 90402652
-type: way
+type: node
 latitude: 52.0322
 longitude: 11.2379
 postcode: "39387"
 city: Oschersleben (Bode)
-street: "Schermcker Straße"
-housenumber: 15
+street: Schermcker Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-16:00; Su,PH off
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.49699
 longitude: 11.96281
 postcode: "06114"
 city: Halle (Saale)
-street: "Karl-Liebknecht-Straße"
+street: Karl-Liebknecht-Straße
 housenumber: 23 a
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Th 16:00-19:00; Fr 10:00-13:00,16:00-19:00; Sa 10:00-13:00; Su,PH off"
-website: "https://ruebchen-halle.de/"
+opening_hours: Mo 13:00-19:00; Tu-Th 16:00-19:00; Fr 10:00-13:00,16:00-19:00; Sa 10:00-13:00;
+    Su,PH off
+website: https://ruebchen-halle.de/

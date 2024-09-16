@@ -4,8 +4,8 @@ latitude: 51.88224
 longitude: 11.05872
 postcode: "38820"
 city: Halberstadt
-street: "Rudolf-Diesel-Straße"
-housenumber: 16
-phone: "+49 3941 57 08 94"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://shop.reinwelt.de/"
+street: Rudolf-Diesel-Straße
+housenumber: "16"
+phone: +49 3941 57 08 94
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://shop.reinwelt.de/

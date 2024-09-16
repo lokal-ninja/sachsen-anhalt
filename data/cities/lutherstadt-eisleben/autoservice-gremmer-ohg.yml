@@ -1,11 +1,11 @@
 id: 463237809
-type: way
+type: node
 latitude: 51.50618
 longitude: 11.58908
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Am Strohügel"
-housenumber: 7
+street: Am Strohügel
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.suzuki-gremmer.de/"
+website: http://www.suzuki-gremmer.de/

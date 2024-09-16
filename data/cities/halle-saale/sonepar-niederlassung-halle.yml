@@ -1,11 +1,11 @@
 id: 217841138
-type: way
+type: node
 latitude: 51.49762
 longitude: 12.01601
 postcode: "06116"
 city: Halle (Saale)
-street: "Berliner Straße"
-housenumber: 88
-phone: "+49 345 444780"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:00"
-website: "https://www.sonepar.de"
+street: Berliner Straße
+housenumber: "88"
+phone: +49 345 444780
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:00
+website: https://www.sonepar.de

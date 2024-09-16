@@ -4,8 +4,8 @@ latitude: 51.29467
 longitude: 11.71358
 postcode: "06268"
 city: Schnellroda
-street: "LPG-Straße"
-housenumber: 5
+street: LPG-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Sa 09:00-12:00"
-website: "http://www.gefluegel-schnellroda.de/"
+opening_hours: Sa 09:00-12:00
+website: http://www.gefluegel-schnellroda.de/

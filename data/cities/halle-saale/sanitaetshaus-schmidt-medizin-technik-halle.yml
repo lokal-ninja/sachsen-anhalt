@@ -4,8 +4,8 @@ latitude: 51.50384
 longitude: 11.96572
 postcode: "06114"
 city: Halle (Saale)
-street: "Kurallee"
-housenumber: 3
+street: Kurallee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-15:00"
-website: "https://www.schmidt-medizin-technik.de"
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-15:00
+website: https://www.schmidt-medizin-technik.de

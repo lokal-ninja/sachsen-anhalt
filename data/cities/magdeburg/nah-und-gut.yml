@@ -1,11 +1,11 @@
 id: 130552850
-type: way
+type: node
 latitude: 52.08831
 longitude: 11.56601
 postcode: "39116"
 city: Magdeburg
-street: "Königstraße"
-housenumber: 82
-phone: "+49 391 6202007"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://verbund.edeka/nordbayern-sachsen-th%C3%BCringen/%C3%BCber-uns/markttypen/"
+street: Königstraße
+housenumber: "82"
+phone: +49 391 6202007
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://verbund.edeka/nordbayern-sachsen-th%C3%BCringen/%C3%BCber-uns/markttypen/

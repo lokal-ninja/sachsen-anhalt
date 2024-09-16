@@ -4,8 +4,8 @@ latitude: 51.83415
 longitude: 12.24499
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+4934066105039"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.no1mode.de"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.no1mode.de

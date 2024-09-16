@@ -4,8 +4,8 @@ latitude: 51.4836
 longitude: 11.96921
 postcode: "06108"
 city: Halle (Saale)
-street: "Kleinschmieden"
-housenumber: 4
+street: Kleinschmieden
+housenumber: "4"
 phone: "+4903452029241"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
-website: "https://www.trothe.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
+website: https://www.trothe.de/

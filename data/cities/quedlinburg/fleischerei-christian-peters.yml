@@ -1,11 +1,11 @@
 id: 259446298
-type: way
+type: node
 latitude: 51.72466
 longitude: 11.14441
 postcode: "06485"
 city: Quedlinburg
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 2
+street: Rudolf-Breitscheid-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00, Sa 08:30-11:30"
+opening_hours: Tu-Fr 08:00-18:00, Sa 08:30-11:30
 website: ""

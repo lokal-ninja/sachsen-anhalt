@@ -1,11 +1,11 @@
 id: 93800585
-type: way
+type: node
 latitude: 51.48096
 longitude: 11.95625
 postcode: "06108"
 city: Halle (Saale)
-street: "Mansfelder Straße"
-housenumber: 15
-phone: "+49 345 2099850"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://wohn-centrum.de/"
+street: Mansfelder Straße
+housenumber: "15"
+phone: +49 345 2099850
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://wohn-centrum.de/

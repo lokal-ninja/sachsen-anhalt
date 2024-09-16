@@ -1,11 +1,11 @@
 id: 95917021
-type: way
+type: node
 latitude: 52.78823
 longitude: 11.74138
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Bismarker Straße"
-housenumber: 86
-phone: "+49 3937 895042"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Bismarker Straße
+housenumber: "86"
+phone: +49 3937 895042
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

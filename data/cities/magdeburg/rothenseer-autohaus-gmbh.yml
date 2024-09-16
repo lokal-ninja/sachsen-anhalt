@@ -1,11 +1,11 @@
 id: 92371312
-type: way
+type: node
 latitude: 52.20684
 longitude: 11.67274
 postcode: "39126"
 city: Magdeburg
-street: "August-Bebel-Damm"
-housenumber: 48
-phone: "+49 391 509030"
+street: August-Bebel-Damm
+housenumber: "48"
+phone: +49 391 509030
 opening_hours: ""
-website: "www.roh-ah.de"
+website: www.roh-ah.de

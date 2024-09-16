@@ -1,11 +1,11 @@
 id: 88308624
-type: way
+type: node
 latitude: 51.62727
 longitude: 12.31151
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Zörbiger Straße"
-housenumber: 2
+street: Zörbiger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

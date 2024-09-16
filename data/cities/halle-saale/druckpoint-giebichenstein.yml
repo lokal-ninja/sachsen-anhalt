@@ -4,8 +4,8 @@ latitude: 51.50112
 longitude: 11.95463
 postcode: "06114"
 city: Halle (Saale)
-street: "Burgstraße"
-housenumber: 68
+street: Burgstraße
+housenumber: "68"
 phone: "+493452085140"
-opening_hours: "Tu-Fr 10:00-17:00"
-website: "http://www.druckpoint-giebichenstein.de"
+opening_hours: Tu-Fr 10:00-17:00
+website: http://www.druckpoint-giebichenstein.de

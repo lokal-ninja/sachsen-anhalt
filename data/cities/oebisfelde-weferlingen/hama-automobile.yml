@@ -1,11 +1,11 @@
 id: 1078543814
-type: way
+type: node
 latitude: 52.31114
 longitude: 11.04753
 postcode: "39356"
 city: Oebisfelde-Weferlingen
-street: "Braunschweiger Straße"
-housenumber: 26
+street: Braunschweiger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

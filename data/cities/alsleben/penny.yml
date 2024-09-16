@@ -1,11 +1,11 @@
 id: 444195218
-type: way
+type: node
 latitude: 51.70135
 longitude: 11.67987
 postcode: "06425"
 city: Alsleben
-street: "Saaleplatz"
-housenumber: 9
+street: Saaleplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

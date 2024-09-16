@@ -5,7 +5,7 @@ longitude: 11.61819
 postcode: "39112"
 city: Magdeburg
 street: ""
-housenumber: 7
-phone: "+49 391 6224207"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-13:00"
-website: "https://www.autoservice-rusche.de/"
+housenumber: "7"
+phone: +49 391 6224207
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-13:00
+website: https://www.autoservice-rusche.de/

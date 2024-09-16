@@ -4,8 +4,8 @@ latitude: 52.15413
 longitude: 11.63827
 postcode: "39124"
 city: Magdeburg
-street: "Lübecker Straße"
-housenumber: 122
-phone: "+49 391 562980"
-opening_hours: "Mo-Fr 06:00-22:00, Sa 06:00-20:00; PH,Su off"
+street: Lübecker Straße
+housenumber: "122"
+phone: +49 391 562980
+opening_hours: Mo-Fr 06:00-22:00, Sa 06:00-20:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.09345
 longitude: 12.12469
 postcode: "06711"
 city: Zeitz
-street: "Bergweg"
-housenumber: 3
+street: Bergweg
+housenumber: "3"
 phone: ""
-opening_hours: "Th,Fr 15:00-18:00; Sa 09:00-12:00; Mo,Tu,We,Su,PH off"
+opening_hours: Th,Fr 15:00-18:00; Sa 09:00-12:00; Mo,Tu,We,Su,PH off
 website: ""

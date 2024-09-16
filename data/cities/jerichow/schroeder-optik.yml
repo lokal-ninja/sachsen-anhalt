@@ -4,8 +4,9 @@ latitude: 52.49884
 longitude: 12.02453
 postcode: "39319"
 city: Jerichow
-street: "Karl-Liebknecht-Straße"
-housenumber: 21
+street: Karl-Liebknecht-Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo 09:00-12:00,13:30-17:00; Tu,Th 09:00-12:00,13:30-18:00; We 09:00-13:00; Fr 09:00-12:00,13:30-16:00"
+opening_hours: Mo 09:00-12:00,13:30-17:00; Tu,Th 09:00-12:00,13:30-18:00; We 09:00-13:00;
+    Fr 09:00-12:00,13:30-16:00
 website: ""

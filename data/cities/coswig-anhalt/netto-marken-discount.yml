@@ -1,11 +1,11 @@
 id: 39753979
-type: way
+type: node
 latitude: 51.88805
 longitude: 12.4615
 postcode: "06869"
 city: Coswig (Anhalt)
-street: "Berliner Straße"
-housenumber: 2
+street: Berliner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1117559011
-type: way
+type: node
 latitude: 51.48054
 longitude: 11.31534
 postcode: "06526"
 city: Sangerhausen
-street: "Oststraße"
-housenumber: 2
+street: Oststraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/eh/minden-hannover/edeka-lehne-oststr.-2/index.jsp"
+website: https://www.edeka.de/eh/minden-hannover/edeka-lehne-oststr.-2/index.jsp

@@ -4,8 +4,8 @@ latitude: 51.83436
 longitude: 12.24558
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+493402204303"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.hussel.de"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.hussel.de

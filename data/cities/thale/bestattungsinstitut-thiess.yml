@@ -1,11 +1,11 @@
 id: 232448117
-type: way
+type: node
 latitude: 51.74302
 longitude: 11.03908
 postcode: "06502"
 city: Thale
-street: "Saarbrückner Straße"
-housenumber: 8
+street: Saarbrückner Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

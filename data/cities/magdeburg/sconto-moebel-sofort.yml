@@ -1,11 +1,11 @@
 id: 71411675
-type: way
+type: node
 latitude: 52.17977
 longitude: 11.61646
 postcode: "39128"
 city: Magdeburg
-street: "Am Pfahlberg"
-housenumber: 9
-phone: "+49 391 509594-0"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.sconto.de/magdeburg"
+street: Am Pfahlberg
+housenumber: "9"
+phone: +49 391 509594-0
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.sconto.de/magdeburg

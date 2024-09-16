@@ -1,11 +1,11 @@
 id: 249984526
-type: way
+type: node
 latitude: 51.72744
 longitude: 11.1195
 postcode: "06485"
 city: Quedlinburg
-street: "Ellernstraße"
-housenumber: 5
+street: Ellernstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

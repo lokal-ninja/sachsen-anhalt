@@ -4,8 +4,8 @@ latitude: 52.16434
 longitude: 11.6646
 postcode: "39126"
 city: Magdeburg
-street: "Saalestraße"
-housenumber: 21
+street: Saalestraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/Stores/Details/160-magdeburg-rothensee"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/Stores/Details/160-magdeburg-rothensee

@@ -4,8 +4,8 @@ latitude: 51.7943
 longitude: 12.96674
 postcode: "06917"
 city: Jessen (Elster)
-street: "Rosa-Luxemburg-Straße"
-housenumber: 65
+street: Rosa-Luxemburg-Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-15:00"
-website: "https://www.intersport-kloepping.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-15:00
+website: https://www.intersport-kloepping.de/

@@ -1,11 +1,11 @@
 id: 172524304
-type: way
+type: node
 latitude: 51.87532
 longitude: 12.66884
 postcode: "06886"
 city: Wittenberg
-street: "Friedrichstraße"
-housenumber: 78
+street: Friedrichstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00, PH off"
+opening_hours: Mo-Sa 07:00-20:00, PH off
 website: ""

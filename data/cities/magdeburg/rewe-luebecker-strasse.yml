@@ -4,8 +4,8 @@ latitude: 52.15826
 longitude: 11.63625
 postcode: "39124"
 city: Magdeburg
-street: "Lübecker Straße"
-housenumber: 107
-phone: "+49 391 55688840"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/magdeburg/1766073/rewe-markt-luebecker-str-107/"
+street: Lübecker Straße
+housenumber: "107"
+phone: +49 391 55688840
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.rewe.de/marktseite/magdeburg/1766073/rewe-markt-luebecker-str-107/

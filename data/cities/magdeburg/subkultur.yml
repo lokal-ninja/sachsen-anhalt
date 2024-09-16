@@ -4,8 +4,8 @@ latitude: 52.13159
 longitude: 11.63099
 postcode: "39104"
 city: Magdeburg
-street: "Ernst-Reuter-Allee"
-housenumber: 32
-phone: "+49 391 55961801"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "http://www.sub-kultur.eu"
+street: Ernst-Reuter-Allee
+housenumber: "32"
+phone: +49 391 55961801
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: http://www.sub-kultur.eu

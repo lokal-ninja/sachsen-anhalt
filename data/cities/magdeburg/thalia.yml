@@ -4,8 +4,8 @@ latitude: 52.16099
 longitude: 11.60507
 postcode: "39128"
 city: Magdeburg
-street: "Olvenstedter Graseweg"
-housenumber: 37
-phone: "+49 391 2518859"
-opening_hours: "Mo-Th 09:30-19:00; Fr,Sa 09:30-20:00; Su,PH off"
-website: "https://www.thalia.de/buchhandlung/5459"
+street: Olvenstedter Graseweg
+housenumber: "37"
+phone: +49 391 2518859
+opening_hours: Mo-Th 09:30-19:00; Fr,Sa 09:30-20:00; Su,PH off
+website: https://www.thalia.de/buchhandlung/5459

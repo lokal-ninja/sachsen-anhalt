@@ -4,8 +4,8 @@ latitude: 51.45447
 longitude: 12.01716
 postcode: "06112"
 city: Halle (Saale)
-street: "Leipziger Chaussee"
-housenumber: 147
-phone: "+49 345 5237080"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Leipziger Chaussee
+housenumber: "147"
+phone: +49 345 5237080
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

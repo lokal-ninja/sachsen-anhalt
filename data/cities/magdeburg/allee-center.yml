@@ -1,11 +1,11 @@
 id: 5154273
-type: way
+type: node
 latitude: 52.12994
 longitude: 11.63945
 postcode: "39104"
 city: Magdeburg
-street: "Ernst-Reuter-Allee"
-housenumber: 11
+street: Ernst-Reuter-Allee
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th,Sa 09:30-20:00; Fr 09:30-22:00"
+opening_hours: Mo-Th,Sa 09:30-20:00; Fr 09:30-22:00
 website: ""

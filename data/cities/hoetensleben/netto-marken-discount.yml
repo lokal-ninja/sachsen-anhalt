@@ -1,11 +1,11 @@
 id: 106939953
-type: way
+type: node
 latitude: 52.11503
 longitude: 11.02195
 postcode: ""
 city: Hötensleben
-street: "Fabrikstraße"
-housenumber: 1
+street: Fabrikstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

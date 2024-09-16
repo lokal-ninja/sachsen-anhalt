@@ -1,11 +1,11 @@
 id: 287682188
-type: way
+type: node
 latitude: 51.74955
 longitude: 11.03807
 postcode: "06502"
 city: Thale
-street: "Joachimstraße"
-housenumber: 22
+street: Joachimstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

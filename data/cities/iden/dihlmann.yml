@@ -1,11 +1,11 @@
 id: 314032813
-type: way
+type: node
 latitude: 52.78521
 longitude: 11.95092
 postcode: "39606"
 city: Iden
-street: "Straße der Freundschaft"
-housenumber: 21
+street: Straße der Freundschaft
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1073440608
-type: way
+type: node
 latitude: 51.62364
 longitude: 12.29116
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Marie-Curie-Straße"
-housenumber: 1
+street: Marie-Curie-Straße
+housenumber: "1"
 phone: "+493493922686"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.ibw-bitterfeld.de/"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.ibw-bitterfeld.de/

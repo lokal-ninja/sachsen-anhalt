@@ -4,8 +4,9 @@ latitude: 51.4736
 longitude: 11.29784
 postcode: "06526"
 city: Sangerhausen
-street: "Kylische Straße"
-housenumber: 12
-phone: "+49 3464570136"
-opening_hours: "Mo-Tu 09:30-13:00, 14:00-18:00; We-Th 09:30-13:00, 14:00-17:00; Fr 09:30-18:00; Sa-Su OFF"
-website: "https://www.dertour-reisebuero.de/reisebuero/sangerhausen-kylische-strasse-12/"
+street: Kylische Straße
+housenumber: "12"
+phone: +49 3464570136
+opening_hours: Mo-Tu 09:30-13:00, 14:00-18:00; We-Th 09:30-13:00, 14:00-17:00; Fr
+    09:30-18:00; Sa-Su OFF
+website: https://www.dertour-reisebuero.de/reisebuero/sangerhausen-kylische-strasse-12/

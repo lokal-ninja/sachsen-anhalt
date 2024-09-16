@@ -4,8 +4,8 @@ latitude: 51.47489
 longitude: 11.97907
 postcode: "06110"
 city: Halle (Saale)
-street: "Thomasiusstraße"
-housenumber: 50
-phone: "+49 345 13507881"
-opening_hours: "Th 10:00-12:00, Mo-Fr 15:00-17:30"
-website: "https://www.schreibkultur-nova.de/"
+street: Thomasiusstraße
+housenumber: "50"
+phone: +49 345 13507881
+opening_hours: Th 10:00-12:00, Mo-Fr 15:00-17:30
+website: https://www.schreibkultur-nova.de/

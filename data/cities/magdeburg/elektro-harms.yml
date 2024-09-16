@@ -4,8 +4,8 @@ latitude: 52.12112
 longitude: 11.6301
 postcode: "39104"
 city: Magdeburg
-street: "Leibnizstraße"
-housenumber: 17
-phone: "+49 391 543 50 28"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.elektro-harms.de/"
+street: Leibnizstraße
+housenumber: "17"
+phone: +49 391 543 50 28
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.elektro-harms.de/

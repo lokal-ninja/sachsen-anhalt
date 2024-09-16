@@ -4,8 +4,8 @@ latitude: 51.20117
 longitude: 11.97271
 postcode: "06667"
 city: Weißenfels
-street: "Markt"
-housenumber: 13
+street: Markt
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-11:00"
-website: "https://www.osterland-teuchern.de/standorte/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-11:00
+website: https://www.osterland-teuchern.de/standorte/

@@ -4,8 +4,8 @@ latitude: 51.83712
 longitude: 12.24517
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Poststraße"
-housenumber: 6
+street: Poststraße
+housenumber: "6"
 phone: "+49340214763"
-opening_hours: "Mo 09:00-18:30; Tu-Fr 09:00-19:00,09:00-13:00"
-website: "https://www.fielmann.de/niederlassungen/dessau-rosslau/06844-poststrasse-6/"
+opening_hours: Mo 09:00-18:30; Tu-Fr 09:00-19:00,09:00-13:00
+website: https://www.fielmann.de/niederlassungen/dessau-rosslau/06844-poststrasse-6/

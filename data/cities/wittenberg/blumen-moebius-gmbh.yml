@@ -1,11 +1,11 @@
 id: 1137701663
-type: way
+type: node
 latitude: 51.87658
 longitude: 12.61614
 postcode: "06886"
 city: Wittenberg
-street: "Rothemark"
-housenumber: 
+street: Rothemark
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

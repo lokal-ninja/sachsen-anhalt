@@ -1,11 +1,11 @@
 id: 206092315
-type: way
+type: node
 latitude: 51.66908
 longitude: 10.716
 postcode: "38877"
 city: Oberharz am Brocken
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

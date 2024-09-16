@@ -1,11 +1,11 @@
 id: 1066452120
-type: way
+type: node
 latitude: 51.63132
 longitude: 12.35016
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Bernsteinring"
-housenumber: 88
+street: Bernsteinring
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.15531
 longitude: 11.64069
 postcode: "39124"
 city: Magdeburg
-street: "Schmidtstraße"
-housenumber: 59
-phone: "0391 50695441"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/135/"
+street: Schmidtstraße
+housenumber: "59"
+phone: 0391 50695441
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/135/

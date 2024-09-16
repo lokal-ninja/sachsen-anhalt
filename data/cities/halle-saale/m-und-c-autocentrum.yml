@@ -1,11 +1,11 @@
 id: 33573509
-type: way
+type: node
 latitude: 51.48972
 longitude: 12.00431
 postcode: "06116"
 city: Halle (Saale)
-street: "Fritz-Hoffmann-Straße"
-housenumber: 52
+street: Fritz-Hoffmann-Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

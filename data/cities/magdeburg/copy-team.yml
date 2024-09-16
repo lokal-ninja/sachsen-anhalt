@@ -4,8 +4,8 @@ latitude: 52.14218
 longitude: 11.65038
 postcode: ""
 city: Magdeburg
-street: "Johannes-Kirsch-Straße"
-housenumber: 15
+street: Johannes-Kirsch-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.copyteam-md.de"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.copyteam-md.de

@@ -4,8 +4,8 @@ latitude: 51.47589
 longitude: 11.2986
 postcode: "06526"
 city: Sangerhausen
-street: "Neuehäuserstraße"
-housenumber: 33
-phone: "+49 3464572021"
-opening_hours: "Tu, Th, Fr 08:30-18:00; We 08:30-16:00; Sa 08:00-12:00; Mo OFF"
+street: Neuehäuserstraße
+housenumber: "33"
+phone: +49 3464572021
+opening_hours: Tu, Th, Fr 08:30-18:00; We 08:30-16:00; Sa 08:00-12:00; Mo OFF
 website: ""

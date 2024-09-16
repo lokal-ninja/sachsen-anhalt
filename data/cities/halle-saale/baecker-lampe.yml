@@ -4,8 +4,8 @@ latitude: 51.516
 longitude: 11.91335
 postcode: "06120"
 city: Halle (Saale)
-street: "Heideringpassage"
-housenumber: 6
+street: Heideringpassage
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
-website: "https://baecker-lampe.de/verkaufsstellen.html"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
+website: https://baecker-lampe.de/verkaufsstellen.html

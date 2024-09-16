@@ -1,11 +1,11 @@
 id: 422923695
-type: way
+type: node
 latitude: 52.10304
 longitude: 11.52564
 postcode: "39164"
 city: Wanzleben-Börde
-street: "Magdeburger Straße"
-housenumber: 1
+street: Magdeburger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "www.landhandel-schmidt.com"
+website: www.landhandel-schmidt.com

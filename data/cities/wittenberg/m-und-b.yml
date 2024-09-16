@@ -1,11 +1,11 @@
 id: 123923477
-type: way
+type: node
 latitude: 51.86723
 longitude: 12.63996
 postcode: "06886"
 city: Wittenberg
-street: "Coswiger Straße"
-housenumber: 21
-phone: "+49 3491 402849"
+street: Coswiger Straße
+housenumber: "21"
+phone: +49 3491 402849
 opening_hours: ""
 website: ""

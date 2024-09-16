@@ -1,11 +1,11 @@
 id: 330371285
-type: way
+type: node
 latitude: 51.46952
 longitude: 11.99333
 postcode: "06112"
 city: Halle (Saale)
-street: "Raffineriestraße"
-housenumber: 26
+street: Raffineriestraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

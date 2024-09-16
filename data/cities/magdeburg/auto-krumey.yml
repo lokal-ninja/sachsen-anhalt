@@ -1,11 +1,11 @@
 id: 131665630
-type: way
+type: node
 latitude: 52.08102
 longitude: 11.62202
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 1
+street: Carnotstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.krumey.mercedes-benz.de/"
+website: https://www.krumey.mercedes-benz.de/

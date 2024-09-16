@@ -5,7 +5,7 @@ longitude: 11.54904
 postcode: ""
 city: Bismark (Altmark)
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-bessing-wartenberger-chaussee-8-9/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-bessing-wartenberger-chaussee-8-9/index.jsp

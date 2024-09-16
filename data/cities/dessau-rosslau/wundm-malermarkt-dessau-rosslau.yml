@@ -4,8 +4,8 @@ latitude: 51.83579
 longitude: 12.22225
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Kühnauer Straße"
-housenumber: 70
-phone: "0340 6198 99"
-opening_hours: "Mo-Th 06:30-16:00; Fr 06:30-13:00"
-website: "https://wm-malermarkt.de/"
+street: Kühnauer Straße
+housenumber: "70"
+phone: 0340 6198 99
+opening_hours: Mo-Th 06:30-16:00; Fr 06:30-13:00
+website: https://wm-malermarkt.de/

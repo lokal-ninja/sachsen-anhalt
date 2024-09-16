@@ -4,8 +4,8 @@ latitude: 51.1522
 longitude: 11.8111
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Jakobsstraße"
-housenumber: 4
-phone: "+49 3445 203067"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off"
-website: "http://www.gutenberg-buchhandlung-naumburg.de"
+street: Jakobsstraße
+housenumber: "4"
+phone: +49 3445 203067
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off
+website: http://www.gutenberg-buchhandlung-naumburg.de

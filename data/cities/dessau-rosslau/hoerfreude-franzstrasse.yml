@@ -4,8 +4,8 @@ latitude: 51.83068
 longitude: 12.243
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Franzstraße"
-housenumber: 85
+street: Franzstraße
+housenumber: "85"
 phone: "+4934053094698"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hoerfreude.de"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.hoerfreude.de

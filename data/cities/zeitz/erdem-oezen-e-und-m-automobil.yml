@@ -1,11 +1,11 @@
 id: 440462631
-type: way
+type: node
 latitude: 51.06427
 longitude: 12.12532
 postcode: "06712"
 city: Zeitz
-street: "Weißenfelser Straße"
-housenumber: 37
+street: Weißenfelser Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "em-automobil.de"
+website: em-automobil.de

@@ -1,11 +1,11 @@
 id: 554524222
-type: way
+type: node
 latitude: 52.08222
 longitude: 11.81896
 postcode: "39245"
 city: Gommern
-street: "Industriepark I Straße B"
-housenumber: 4
+street: Industriepark I Straße B
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

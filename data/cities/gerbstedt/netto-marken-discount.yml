@@ -1,11 +1,11 @@
 id: 243143214
-type: way
+type: node
 latitude: 51.6354
 longitude: 11.62655
 postcode: "06347"
 city: Gerbstedt
-street: "Am Rittergut"
-housenumber: 1
+street: Am Rittergut
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

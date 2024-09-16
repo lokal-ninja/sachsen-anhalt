@@ -1,11 +1,11 @@
 id: 197716552
-type: way
+type: node
 latitude: 51.48606
 longitude: 11.80068
 postcode: "06198"
 city: Salzatal
-street: "Am Schauchenberg"
-housenumber: 8
+street: Am Schauchenberg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

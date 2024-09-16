@@ -1,11 +1,11 @@
 id: 449147780
-type: way
+type: node
 latitude: 51.88847
 longitude: 12.66538
 postcode: "06886"
 city: Wittenberg
-street: "Arthur-Schnitzler-Straße"
-housenumber: 12
+street: Arthur-Schnitzler-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

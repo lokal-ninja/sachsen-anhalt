@@ -1,11 +1,11 @@
 id: 687234836
-type: way
+type: node
 latitude: 51.91165
 longitude: 10.7941
 postcode: "38871"
 city: Nordharz
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

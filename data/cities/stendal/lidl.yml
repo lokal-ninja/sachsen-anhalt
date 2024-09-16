@@ -1,11 +1,11 @@
 id: 86390017
-type: way
+type: node
 latitude: 52.59733
 longitude: 11.83986
 postcode: "39576"
 city: Stendal
-street: "Erich-Weinert-Straße"
-housenumber: 23
+street: Erich-Weinert-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

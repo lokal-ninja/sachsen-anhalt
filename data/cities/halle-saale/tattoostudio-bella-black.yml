@@ -4,8 +4,8 @@ latitude: 51.48351
 longitude: 11.96336
 postcode: "06108"
 city: Halle (Saale)
-street: "Ankerstraße"
-housenumber: 11
+street: Ankerstraße
+housenumber: "11"
 phone: "+491627777976"
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

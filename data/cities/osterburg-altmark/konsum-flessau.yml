@@ -1,11 +1,11 @@
 id: 231204224
-type: way
+type: node
 latitude: 52.76288
 longitude: 11.67241
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Dorfstraße"
-housenumber: 4
+street: Dorfstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,13:30-16:30; Sa 08:00-10:00; PH,Su off"
+opening_hours: Mo-Fr 09:30-12:30,13:30-16:30; Sa 08:00-10:00; PH,Su off
 website: ""

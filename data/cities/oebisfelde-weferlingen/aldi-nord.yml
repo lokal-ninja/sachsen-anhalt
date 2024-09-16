@@ -1,11 +1,11 @@
 id: 40587138
-type: way
+type: node
 latitude: 52.42803
 longitude: 10.99458
 postcode: "39646"
 city: Oebisfelde-Weferlingen
-street: "Niendorfer Straße"
+street: Niendorfer Straße
 housenumber: 2A
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/oebisfelde/niendorfer-strasse-2-a.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/oebisfelde/niendorfer-strasse-2-a.html

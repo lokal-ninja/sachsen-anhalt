@@ -1,11 +1,11 @@
 id: 423631618
-type: way
+type: node
 latitude: 52.15341
 longitude: 11.57716
 postcode: "39130"
 city: Magdeburg
-street: "Wisninger Straße"
-housenumber: 31
-phone: "+49 391 7218006"
+street: Wisninger Straße
+housenumber: "31"
+phone: +49 391 7218006
 opening_hours: ""
-website: "https://www.lemmys-fahrradcenter.de/"
+website: https://www.lemmys-fahrradcenter.de/

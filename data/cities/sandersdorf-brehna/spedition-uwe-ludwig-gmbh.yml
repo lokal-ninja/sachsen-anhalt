@@ -1,11 +1,11 @@
 id: 91788130
-type: way
+type: node
 latitude: 51.62338
 longitude: 12.2654
 postcode: "06792"
 city: Sandersdorf-Brehna
-street: "Pfingstanger"
-housenumber: 12
-phone: "+49 3493 88291"
+street: Pfingstanger
+housenumber: "12"
+phone: +49 3493 88291
 opening_hours: ""
-website: "https://www.ludwig-sandersdorf.de/"
+website: https://www.ludwig-sandersdorf.de/

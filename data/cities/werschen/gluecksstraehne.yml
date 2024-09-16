@@ -1,11 +1,11 @@
 id: 1124766829
-type: way
+type: node
 latitude: 51.13706
 longitude: 12.0605
 postcode: "06679"
 city: Werschen
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.81855
 longitude: 12.18098
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Ernst-Zindel-Straße"
-housenumber: 4
-phone: "+49 340 540030"
-opening_hours: "Mo-We,Sa 08:00-20:00; Th,Fr 08:00-21:00"
+street: Ernst-Zindel-Straße
+housenumber: "4"
+phone: +49 340 540030
+opening_hours: Mo-We,Sa 08:00-20:00; Th,Fr 08:00-21:00
 website: ""

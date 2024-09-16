@@ -1,11 +1,11 @@
 id: 1214852878
-type: way
+type: node
 latitude: 52.4692
 longitude: 12.07284
 postcode: "39319"
 city: Jerichow
-street: "Klietznicker Weg"
-housenumber: 8
+street: Klietznicker Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

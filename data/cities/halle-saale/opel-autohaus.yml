@@ -1,11 +1,11 @@
 id: 182021186
-type: way
+type: node
 latitude: 51.4754
 longitude: 11.90055
 postcode: "06126"
 city: Halle (Saale)
-street: "Göttinger Bogen"
-housenumber: 6
+street: Göttinger Bogen
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

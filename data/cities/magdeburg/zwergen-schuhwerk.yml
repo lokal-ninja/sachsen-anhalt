@@ -4,8 +4,8 @@ latitude: 52.1278
 longitude: 11.60981
 postcode: "39108"
 city: Magdeburg
-street: "Annastraße"
-housenumber: 37
+street: Annastraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00,14:00-17:00; Fr 10:00-15:00; Sa,Su,PH off"
+opening_hours: Mo-Th 10:00-13:00,14:00-17:00; Fr 10:00-15:00; Sa,Su,PH off
 website: ""

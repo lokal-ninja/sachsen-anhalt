@@ -4,8 +4,8 @@ latitude: 51.8171
 longitude: 12.1961
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Auenweg"
-housenumber: 38
+street: Auenweg
+housenumber: "38"
 phone: "+49340510801"
-opening_hours: "Mo 09:00-13:00; Th-Fr 09:00-17:00; Sa10:00-15:00"
+opening_hours: Mo 09:00-13:00; Th-Fr 09:00-17:00; Sa10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 189653814
-type: way
+type: node
 latitude: 51.52481
 longitude: 11.90347
 postcode: "06120"
 city: Halle (Saale)
-street: "Schiepziger Straße"
-housenumber: 25
+street: Schiepziger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Th,Fr 08:00-18:00; Sa 08:00-12:00"
-website: "http://www.koehler-huette.de/"
+opening_hours: Th,Fr 08:00-18:00; Sa 08:00-12:00
+website: http://www.koehler-huette.de/

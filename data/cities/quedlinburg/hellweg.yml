@@ -4,8 +4,8 @@ latitude: 51.79241
 longitude: 11.17274
 postcode: "06484"
 city: Quedlinburg
-street: "Magdeburger Straße"
-housenumber: 15
-phone: "+49 3946 78 00 0"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://www.hellweg.de/"
+street: Magdeburger Straße
+housenumber: "15"
+phone: +49 3946 78 00 0
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://www.hellweg.de/

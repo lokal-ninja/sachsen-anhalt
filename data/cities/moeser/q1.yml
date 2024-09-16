@@ -1,11 +1,11 @@
 id: 1147759052
-type: way
+type: node
 latitude: 52.21536
 longitude: 11.79358
 postcode: "39291"
 city: Möser
-street: "Chaussee"
-housenumber: 29
+street: Chaussee
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

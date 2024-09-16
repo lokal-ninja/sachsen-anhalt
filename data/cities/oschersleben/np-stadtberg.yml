@@ -1,11 +1,11 @@
 id: 202558633
-type: way
+type: node
 latitude: 51.9927
 longitude: 11.30074
 postcode: "39387"
 city: Oschersleben
-street: "Stadtberg"
-housenumber: 21
+street: Stadtberg
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.np.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.np.de/

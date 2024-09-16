@@ -1,11 +1,11 @@
 id: 197758372
-type: way
+type: node
 latitude: 51.05898
 longitude: 12.07563
 postcode: "06712"
 city: Kretzschau
-street: "Zeitzer Straße"
-housenumber: 37
+street: Zeitzer Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

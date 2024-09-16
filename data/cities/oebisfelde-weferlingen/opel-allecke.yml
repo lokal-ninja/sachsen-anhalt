@@ -1,11 +1,11 @@
 id: 1080741638
-type: way
+type: node
 latitude: 52.4374
 longitude: 10.98633
 postcode: "39646"
 city: Oebisfelde-Weferlingen
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-11:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 963297086
-type: way
+type: node
 latitude: 52.02887
 longitude: 11.25055
 postcode: "39387"
 city: Oschersleben
-street: "Anderslebener Straße"
+street: Anderslebener Straße
 housenumber: 42J
 phone: ""
 opening_hours: ""
-website: "https://toom.de/m/oschersleben/"
+website: https://toom.de/m/oschersleben/

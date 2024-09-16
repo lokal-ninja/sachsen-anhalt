@@ -1,11 +1,11 @@
 id: 71409293
-type: way
+type: node
 latitude: 51.47485
 longitude: 11.82024
 postcode: "06198"
 city: Salzatal
-street: "Eisdorfer Straße"
-housenumber: 31
+street: Eisdorfer Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

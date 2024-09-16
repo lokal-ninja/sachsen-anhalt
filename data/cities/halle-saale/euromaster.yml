@@ -1,11 +1,11 @@
 id: 87341675
-type: way
+type: node
 latitude: 51.43127
 longitude: 11.97443
 postcode: "06132"
 city: Halle (Saale)
-street: "Broihanstraße"
-housenumber: 4
-phone: "+49 345 7708815"
-opening_hours: "Mo-Fr 08:00-12:00,12:45-18:00; Sa 09:00-13:00"
+street: Broihanstraße
+housenumber: "4"
+phone: +49 345 7708815
+opening_hours: Mo-Fr 08:00-12:00,12:45-18:00; Sa 09:00-13:00
 website: ""

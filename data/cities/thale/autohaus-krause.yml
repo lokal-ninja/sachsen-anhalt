@@ -1,11 +1,11 @@
 id: 234397592
-type: way
+type: node
 latitude: 51.75533
 longitude: 11.03771
 postcode: "06502"
 city: Thale
-street: "Kahlenbergstraße"
-housenumber: 38
-phone: "+49 3947 2445"
+street: Kahlenbergstraße
+housenumber: "38"
+phone: +49 3947 2445
 opening_hours: ""
-website: "http://www.autokrause-thale.de/"
+website: http://www.autokrause-thale.de/

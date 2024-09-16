@@ -1,11 +1,11 @@
 id: 172625922
-type: way
+type: node
 latitude: 51.45756
 longitude: 12.00632
 postcode: "06112"
 city: Halle (Saale)
-street: "Dieselstraße"
-housenumber: 19
+street: Dieselstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

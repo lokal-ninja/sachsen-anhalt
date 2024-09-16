@@ -4,8 +4,8 @@ latitude: 51.81994
 longitude: 12.23408
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Daheimstraße"
-housenumber: 23
+street: Daheimstraße
+housenumber: "23"
 phone: "+49340203490"
-opening_hours: "Tu-Th 08:30-15:30"
-website: "http://www.sozialkaufhaus-dessau.de/"
+opening_hours: Tu-Th 08:30-15:30
+website: http://www.sozialkaufhaus-dessau.de/

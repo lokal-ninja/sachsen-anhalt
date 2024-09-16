@@ -1,6 +1,6 @@
 ---
 title: Radegast
 url: /radegast/
-latitude: 51.656
-longitude: 12.096
+latitude: 51.657
+longitude: 12.093
 ---

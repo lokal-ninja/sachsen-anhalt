@@ -1,11 +1,11 @@
 id: 753043589
-type: way
+type: node
 latitude: 51.51707
 longitude: 11.95805
 postcode: "06118"
 city: Halle (Saale)
-street: "Trothaer Straße"
-housenumber: 62
+street: Trothaer Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

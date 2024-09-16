@@ -1,11 +1,11 @@
 id: 366161424
-type: way
+type: node
 latitude: 51.58363
 longitude: 11.50303
 postcode: "06308"
 city: Klostermansfeld
-street: "Auf der Spitze"
-housenumber: 2
+street: Auf der Spitze
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

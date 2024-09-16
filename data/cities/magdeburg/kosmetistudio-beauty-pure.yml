@@ -4,8 +4,8 @@ latitude: 52.12999
 longitude: 11.60327
 postcode: "39110"
 city: Magdeburg
-street: "Große Diesdorfer Straße"
-housenumber: 47
+street: Große Diesdorfer Straße
+housenumber: "47"
 phone: ""
-opening_hours: "nur nach Vereinbarung"
+opening_hours: '"nur nach Vereinbarung"'
 website: ""

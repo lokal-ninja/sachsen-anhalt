@@ -1,11 +1,11 @@
 id: 56867291
-type: way
+type: node
 latitude: 51.49746
 longitude: 11.98654
 postcode: "06114"
 city: Halle (Saale)
-street: "Äußere Hordorfer Straße"
-housenumber: 4
+street: Äußere Hordorfer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

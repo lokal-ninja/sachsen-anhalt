@@ -1,11 +1,11 @@
 id: 372513173
-type: way
+type: node
 latitude: 51.81809
 longitude: 12.17447
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Ernst-Zindel-Straße"
-housenumber: 5
-phone: "+49 340 55150"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00"
-website: "https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/dessau-rosslau"
+street: Ernst-Zindel-Straße
+housenumber: "5"
+phone: +49 340 55150
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00
+website: https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/dessau-rosslau

@@ -1,11 +1,11 @@
 id: 244410767
-type: way
+type: node
 latitude: 51.73898
 longitude: 11.15049
 postcode: "06485"
 city: Quedlinburg
-street: "Auf den Steinen"
-housenumber: 1
+street: Auf den Steinen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

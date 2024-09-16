@@ -1,11 +1,11 @@
 id: 354111853
-type: way
+type: node
 latitude: 51.62592
 longitude: 12.32558
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Bismarckstraße"
-housenumber: 63
+street: Bismarckstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

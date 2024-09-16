@@ -1,11 +1,11 @@
 id: 93776518
-type: way
+type: node
 latitude: 52.15831
 longitude: 11.65679
 postcode: "39124"
 city: Magdeburg
-street: "Rothenseer Straße"
-housenumber: 77
+street: Rothenseer Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

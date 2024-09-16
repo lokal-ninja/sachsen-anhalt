@@ -1,11 +1,11 @@
 id: 111625679
-type: way
+type: node
 latitude: 52.08012
 longitude: 11.58126
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 14
+street: Werner-von-Siemens-Ring
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.chevrolet-voigt.de/"
+website: http://www.chevrolet-voigt.de/

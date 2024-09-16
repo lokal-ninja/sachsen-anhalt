@@ -1,11 +1,11 @@
 id: 301188972
-type: way
+type: node
 latitude: 51.50965
 longitude: 12.05127
 postcode: "06188"
 city: Landsberg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 290147650
-type: way
+type: node
 latitude: 52.31237
 longitude: 11.35342
 postcode: "39345"
 city: Bülstringen
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

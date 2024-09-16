@@ -4,8 +4,8 @@ latitude: 52.26448
 longitude: 11.86263
 postcode: "39288"
 city: Burg
-street: "Einsteinstraße"
-housenumber: 2
+street: Einsteinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 08:00-18:00; Tu,Fr 08:00-13:00; We,Th 08:00-17:00"
+opening_hours: Mo 08:00-18:00; Tu,Fr 08:00-13:00; We,Th 08:00-17:00
 website: ""

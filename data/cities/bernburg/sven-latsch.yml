@@ -4,8 +4,8 @@ latitude: 51.78604
 longitude: 11.74374
 postcode: "06406"
 city: Bernburg
-street: "Hallesche Straße"
-housenumber: 109
-phone: "+49 3471 624880"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:00; Su 06:30-10"
-website: "https://www.baeckerei-latsch.de/"
+street: Hallesche Straße
+housenumber: "109"
+phone: +49 3471 624880
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-11:00; Su 06:30-10
+website: https://www.baeckerei-latsch.de/

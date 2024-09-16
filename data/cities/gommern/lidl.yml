@@ -1,11 +1,11 @@
 id: 240181031
-type: way
+type: node
 latitude: 52.07761
 longitude: 11.82144
 postcode: "39245"
 city: Gommern
-street: "Magdeburger Straße"
-housenumber: 21
+street: Magdeburger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

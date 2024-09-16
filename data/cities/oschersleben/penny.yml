@@ -1,11 +1,11 @@
 id: 91889832
-type: way
+type: node
 latitude: 52.04367
 longitude: 11.16583
 postcode: ""
 city: Oschersleben
-street: "Wulferstedter Weg"
-housenumber: 5
+street: Wulferstedter Weg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

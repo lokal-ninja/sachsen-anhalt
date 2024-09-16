@@ -1,11 +1,11 @@
 id: 1122225869
-type: way
+type: node
 latitude: 51.28251
 longitude: 11.87488
 postcode: "06242"
 city: Braunsbedra
-street: "Am Stadion"
-housenumber: 2
+street: Am Stadion
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

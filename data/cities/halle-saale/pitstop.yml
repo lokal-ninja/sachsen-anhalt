@@ -1,11 +1,11 @@
 id: 94692620
-type: way
+type: node
 latitude: 51.47435
 longitude: 11.96112
 postcode: "06110"
 city: Halle (Saale)
-street: "Glauchaer Straße"
-housenumber: 37
+street: Glauchaer Straße
+housenumber: "37"
 phone: ""
-opening_hours: "PH off; Mo-Fr 08:00-17:00"
+opening_hours: PH off; Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397058995
-type: way
+type: node
 latitude: 52.08163
 longitude: 11.58301
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 18
+street: Werner-von-Siemens-Ring
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.wuerth.de/web/de/awkg/niederlassungen/nldetail_5249.php"
+website: https://www.wuerth.de/web/de/awkg/niederlassungen/nldetail_5249.php

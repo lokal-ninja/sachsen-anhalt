@@ -1,11 +1,11 @@
 id: 571823276
-type: way
+type: node
 latitude: 51.53133
 longitude: 11.93943
 postcode: "06193"
 city: Petersberg
-street: "Magdeburger Chaussee"
-housenumber: 
+street: Magdeburger Chaussee
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

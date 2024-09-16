@@ -1,11 +1,11 @@
 id: 207314504
-type: way
+type: node
 latitude: 51.96157
 longitude: 11.44463
 postcode: "39435"
 city: Egeln
-street: "Magdeburger Chaussee"
-housenumber: 45
-phone: "+49 39268 2267"
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 06:30-22:00"
-website: "https://www.hem-tankstelle.de/partner/HEM/Egeln/Magdeburger-Chaussee-45"
+street: Magdeburger Chaussee
+housenumber: "45"
+phone: +49 39268 2267
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 06:30-22:00
+website: https://www.hem-tankstelle.de/partner/HEM/Egeln/Magdeburger-Chaussee-45

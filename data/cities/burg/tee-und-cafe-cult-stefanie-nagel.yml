@@ -4,8 +4,8 @@ latitude: 52.27106
 longitude: 11.85338
 postcode: "39288"
 city: Burg
-street: "Schartauer Straße"
-housenumber: 12
-phone: "+49 3921 726872"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.der-tee-laden.eu/"
+street: Schartauer Straße
+housenumber: "12"
+phone: +49 3921 726872
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.der-tee-laden.eu/

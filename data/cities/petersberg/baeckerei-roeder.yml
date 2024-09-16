@@ -4,8 +4,9 @@ latitude: 51.58906
 longitude: 12.00118
 postcode: "06193"
 city: Petersberg
-street: "Christian-Reuter-Platz"
-housenumber: 5
+street: Christian-Reuter-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Tu 06:00-12:00,15:00-18:00; We 06:00-12:00; Th 06:00-12:00,15:00-18:00; Fr 06:00-12:00"
+opening_hours: Mo-Tu 06:00-12:00,15:00-18:00; We 06:00-12:00; Th 06:00-12:00,15:00-18:00;
+    Fr 06:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1027205043
-type: way
+type: node
 latitude: 52.2058
 longitude: 11.55717
 postcode: "39179"
 city: Barleben
-street: "Kleiner Mausesteig"
-housenumber: 
+street: Kleiner Mausesteig
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30; Su,Sa,PH off"
+opening_hours: Mo-Fr 08:00-16:30; Su,Sa,PH off
 website: ""

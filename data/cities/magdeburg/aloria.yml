@@ -4,8 +4,8 @@ latitude: 52.13149
 longitude: 11.63251
 postcode: "39104"
 city: Magdeburg
-street: "Otto-von-Guericke-Straße"
-housenumber: 104
-phone: "+49 391 6222379"
-opening_hours: "Mo-Sa 12:00-18:00"
-website: "https://www.aloria.de"
+street: Otto-von-Guericke-Straße
+housenumber: "104"
+phone: +49 391 6222379
+opening_hours: Mo-Sa 12:00-18:00
+website: https://www.aloria.de

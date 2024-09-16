@@ -4,8 +4,8 @@ latitude: 52.11814
 longitude: 11.61998
 postcode: "39112"
 city: Magdeburg
-street: "Halberstädter Straße"
-housenumber: 3
-phone: "+49 391 55583484"
-opening_hours: "Mo-Fr 12:00-19:00,Sa 11:00-15:00"
-website: "http://shop.soultunes.de/"
+street: Halberstädter Straße
+housenumber: "3"
+phone: +49 391 55583484
+opening_hours: Mo-Fr 12:00-19:00,Sa 11:00-15:00
+website: http://shop.soultunes.de/

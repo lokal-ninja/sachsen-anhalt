@@ -1,11 +1,11 @@
 id: 166408457
-type: way
+type: node
 latitude: 51.4641
 longitude: 11.29285
 postcode: "06526"
 city: Sangerhausen
-street: "Karl-Liebknecht-Straße"
+street: Karl-Liebknecht-Straße
 housenumber: 29a
-phone: "+49 3464 270792"
+phone: +49 3464 270792
 opening_hours: ""
-website: "https://www.rewe.de"
+website: https://www.rewe.de

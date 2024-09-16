@@ -1,11 +1,11 @@
 id: 172681304
-type: way
+type: node
 latitude: 51.76678
 longitude: 10.65422
 postcode: "38879"
 city: Wernigerode
-street: "Brockenstraße"
-housenumber: 30
+street: Brockenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

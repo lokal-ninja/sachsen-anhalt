@@ -1,11 +1,11 @@
 id: 118340911
-type: way
+type: node
 latitude: 51.87656
 longitude: 12.6618
 postcode: "06886"
 city: Wittenberg
-street: "Straße der Befreiung"
-housenumber: 102
+street: Straße der Befreiung
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

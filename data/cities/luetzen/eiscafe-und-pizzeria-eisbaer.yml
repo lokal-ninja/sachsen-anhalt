@@ -4,8 +4,8 @@ latitude: 51.25455
 longitude: 12.14082
 postcode: "06686"
 city: Lützen
-street: "Schloßstraße"
-housenumber: 17
-phone: "+49 34444 22393"
-opening_hours: "Mo,Tu off; We-Su,PH 13:00-20:00"
-website: "https://www.eiscafeeisbaer.de/"
+street: Schloßstraße
+housenumber: "17"
+phone: +49 34444 22393
+opening_hours: Mo,Tu off; We-Su,PH 13:00-20:00
+website: https://www.eiscafeeisbaer.de/

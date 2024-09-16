@@ -1,11 +1,11 @@
 id: 577635313
-type: way
+type: node
 latitude: 51.68358
 longitude: 12.27274
 postcode: "06766"
 city: Bitterfeld-Wolfen
-street: "Steinfurther Straße"
-housenumber: 39
-phone: "+49 3494 / 383 031"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://auto-stan.de/"
+street: Steinfurther Straße
+housenumber: "39"
+phone: +49 3494 / 383 031
+opening_hours: Mo-Sa 09:00-18:00
+website: https://auto-stan.de/

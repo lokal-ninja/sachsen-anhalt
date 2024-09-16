@@ -1,11 +1,11 @@
 id: 31960076
-type: way
+type: node
 latitude: 51.47969
 longitude: 11.91705
 postcode: "06122"
 city: Halle (Saale)
-street: "Neustädter Passage"
+street: Neustädter Passage
 housenumber: 17d
 phone: ""
 opening_hours: ""
-website: "https://www.neustadtcentrum.de/"
+website: https://www.neustadtcentrum.de/

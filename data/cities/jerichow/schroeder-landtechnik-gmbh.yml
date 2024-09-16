@@ -1,11 +1,11 @@
 id: 1219068925
-type: way
+type: node
 latitude: 52.51968
 longitude: 12.09247
 postcode: "39319"
 city: Jerichow
-street: "Friedensstraße"
-housenumber: 6
+street: Friedensstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

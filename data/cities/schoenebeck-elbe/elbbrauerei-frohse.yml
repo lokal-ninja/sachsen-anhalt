@@ -1,11 +1,11 @@
 id: 518920248
-type: way
+type: node
 latitude: 52.03358
 longitude: 11.71543
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Kleiner Steinklump"
-housenumber: 18
-phone: "+49 176 70353844"
-opening_hours: "Th-Fr 16:30-18:30; Sa 10:00-14:00"
+street: Kleiner Steinklump
+housenumber: "18"
+phone: +49 176 70353844
+opening_hours: Th-Fr 16:30-18:30; Sa 10:00-14:00
 website: ""

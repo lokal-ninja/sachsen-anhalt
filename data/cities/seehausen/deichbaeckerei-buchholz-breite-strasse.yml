@@ -1,11 +1,11 @@
 id: 263934624
-type: way
+type: node
 latitude: 52.93984
 longitude: 11.78683
 postcode: "39615"
 city: Seehausen
-street: "Breite Straße"
-housenumber: 1
+street: Breite Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

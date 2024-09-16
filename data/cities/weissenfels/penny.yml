@@ -1,11 +1,11 @@
 id: 228296265
-type: way
+type: node
 latitude: 51.20479
 longitude: 11.96803
 postcode: "06667"
 city: Weißenfels
-street: "Merseburger Straße"
-housenumber: 5
+street: Merseburger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

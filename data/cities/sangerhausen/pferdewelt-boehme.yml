@@ -4,8 +4,8 @@ latitude: 51.48617
 longitude: 11.30898
 postcode: "06526"
 city: Sangerhausen
-street: "Kupferhütte"
-housenumber: 10
-phone: "+49 172 3669786"
-opening_hours: "Tu, Th 13:00-18:00"
+street: Kupferhütte
+housenumber: "10"
+phone: +49 172 3669786
+opening_hours: Tu, Th 13:00-18:00
 website: ""

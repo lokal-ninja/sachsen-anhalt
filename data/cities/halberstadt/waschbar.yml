@@ -4,8 +4,8 @@ latitude: 51.88039
 longitude: 11.0556
 postcode: "38820"
 city: Halberstadt
-street: "Klusstraße"
-housenumber: 38
-phone: "+49 170 1 25 35 49"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.waschbar-ilsenburg.de/"
+street: Klusstraße
+housenumber: "38"
+phone: +49 170 1 25 35 49
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.waschbar-ilsenburg.de/

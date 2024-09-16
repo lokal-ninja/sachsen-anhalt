@@ -1,11 +1,11 @@
 id: 1082330143
-type: way
+type: node
 latitude: 52.27775
 longitude: 11.63977
 postcode: "39326"
 city: Wolmirstedt
-street: "Waldweg"
-housenumber: 3
+street: Waldweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

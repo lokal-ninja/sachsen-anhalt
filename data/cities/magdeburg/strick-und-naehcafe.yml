@@ -4,8 +4,8 @@ latitude: 52.13522
 longitude: 11.63879
 postcode: "39104"
 city: Magdeburg
-street: "Breiter Weg"
-housenumber: 32
+street: Breiter Weg
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

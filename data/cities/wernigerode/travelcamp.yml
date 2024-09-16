@@ -1,11 +1,11 @@
 id: 85730297
-type: way
+type: node
 latitude: 51.83389
 longitude: 10.78616
 postcode: "38855"
 city: Wernigerode
-street: "Breite Straße"
-housenumber: 18
-phone: "+49 3943 267681"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.travelcamp.de/"
+street: Breite Straße
+housenumber: "18"
+phone: +49 3943 267681
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.travelcamp.de/

@@ -1,11 +1,14 @@
 id: 391635060
-type: way
+type: node
 latitude: 51.87075
 longitude: 12.67403
 postcode: "06886"
 city: Wittenberg
-street: "Triftstraße"
-housenumber: 76
-phone: "03491 411560"
-opening_hours: "Wochentage Öffnungszeiten Samstag  09:00 - 12:30 Sonntag  Geschlossen Montag  07:30 - 12:30 13:00 - 18:00 Dienstag  07:30 - 12:30 13:00 - 18:00 Mittwoch  07:30 - 12:30 13:00 - 18:00 Donnerstag  07:30 - 12:30 13:00 - 18:00 Freitag  07:30 - 12:30 13:00 - 16"
+street: Triftstraße
+housenumber: "76"
+phone: 03491 411560
+opening_hours: Wochentage Öffnungszeiten Samstag  09:00 - 12:30 Sonntag  Geschlossen
+    Montag  07:30 - 12:30 13:00 - 18:00 Dienstag  07:30 - 12:30 13:00 - 18:00 Mittwoch  07:30
+    - 12:30 13:00 - 18:00 Donnerstag  07:30 - 12:30 13:00 - 18:00 Freitag  07:30 -
+    12:30 13:00 - 16
 website: ""

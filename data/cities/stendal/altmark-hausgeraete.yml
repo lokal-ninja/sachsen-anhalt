@@ -1,11 +1,11 @@
 id: 95671822
-type: way
+type: node
 latitude: 52.60451
 longitude: 11.83664
 postcode: "39576"
 city: Stendal
-street: "Scharnhorststraße"
-housenumber: 80
+street: Scharnhorststraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

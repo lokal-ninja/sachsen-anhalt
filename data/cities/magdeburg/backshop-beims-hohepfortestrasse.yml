@@ -4,8 +4,8 @@ latitude: 52.14414
 longitude: 11.64785
 postcode: "39106"
 city: Magdeburg
-street: "Hohepfortestraße"
-housenumber: 55
-phone: "+49 391 5556321"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-11:00; Su 07:30-10:30"
-website: "https://backshop-beims.de"
+street: Hohepfortestraße
+housenumber: "55"
+phone: +49 391 5556321
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-11:00; Su 07:30-10:30
+website: https://backshop-beims.de

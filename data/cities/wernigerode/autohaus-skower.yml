@@ -1,11 +1,11 @@
 id: 96751271
-type: way
+type: node
 latitude: 51.8529
 longitude: 10.78762
 postcode: "38855"
 city: Wernigerode
-street: "Dornbergsweg"
-housenumber: 45
+street: Dornbergsweg
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

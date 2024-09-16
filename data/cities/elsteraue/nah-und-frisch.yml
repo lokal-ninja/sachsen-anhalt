@@ -1,11 +1,11 @@
 id: 109753588
-type: way
+type: node
 latitude: 51.10265
 longitude: 12.18041
 postcode: "06729"
 city: Elsteraue
-street: "Zeitzer Straße"
-housenumber: 143
+street: Zeitzer Straße
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off
 website: ""

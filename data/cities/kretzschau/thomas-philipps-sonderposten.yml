@@ -1,11 +1,11 @@
 id: 1080761793
-type: way
+type: node
 latitude: 51.05569
 longitude: 12.10092
 postcode: "06712"
 city: Kretzschau
-street: "Leipziger Straße"
-housenumber: 16
+street: Leipziger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa09:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa09:00-16:00; Su,PH off
 website: ""

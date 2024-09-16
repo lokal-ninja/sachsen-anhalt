@@ -4,8 +4,8 @@ latitude: 52.12375
 longitude: 11.60704
 postcode: "39108"
 city: Magdeburg
-street: "Liebknechtstraße"
-housenumber: 56
-phone: "+49 391 40092 0"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-14:00"
-website: "https://www.imocarwash.com/de/autowaschstrassen/sachsen-anhalt/magdeburg-2"
+street: Liebknechtstraße
+housenumber: "56"
+phone: +49 391 40092 0
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-14:00
+website: https://www.imocarwash.com/de/autowaschstrassen/sachsen-anhalt/magdeburg-2

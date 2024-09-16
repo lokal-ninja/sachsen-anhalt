@@ -4,8 +4,8 @@ latitude: 52.16508
 longitude: 11.66707
 postcode: "39126"
 city: Magdeburg
-street: "Saalestraße"
-housenumber: 44
-phone: "+49 391 509840"
+street: Saalestraße
+housenumber: "44"
+phone: +49 391 509840
 opening_hours: ""
-website: "https://www.sporkenbach.de"
+website: https://www.sporkenbach.de

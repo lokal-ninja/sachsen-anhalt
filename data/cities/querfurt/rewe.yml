@@ -1,11 +1,11 @@
 id: 1106745638
-type: way
+type: node
 latitude: 51.38329
 longitude: 11.59837
 postcode: "06268"
 city: Querfurt
-street: "Eislebener Straße"
+street: Eislebener Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
+website: https://www.rewe.de/

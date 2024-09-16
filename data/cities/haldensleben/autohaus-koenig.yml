@@ -1,11 +1,11 @@
 id: 194817550
-type: way
+type: node
 latitude: 52.27866
 longitude: 11.43355
 postcode: "39340"
 city: Haldensleben
-street: "Johann-Gottlob-Nathusius-Straße"
-housenumber: 33
+street: Johann-Gottlob-Nathusius-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

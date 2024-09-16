@@ -1,11 +1,11 @@
 id: 945605830
-type: way
+type: node
 latitude: 52.1309
 longitude: 11.59457
 postcode: "39110"
 city: Magdeburg
-street: "Große Diesdorfer Straße"
-housenumber: 64
+street: Große Diesdorfer Straße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

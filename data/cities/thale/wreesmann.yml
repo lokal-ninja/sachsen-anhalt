@@ -1,11 +1,11 @@
 id: 237232063
-type: way
+type: node
 latitude: 51.74727
 longitude: 11.03775
 postcode: "06502"
 city: Thale
-street: "Obersteigerweg"
-housenumber: 18
+street: Obersteigerweg
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.aktionshaus-wreesmann.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.aktionshaus-wreesmann.de/

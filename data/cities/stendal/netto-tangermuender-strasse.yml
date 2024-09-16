@@ -1,11 +1,11 @@
 id: 381032360
-type: way
+type: node
 latitude: 52.59835
 longitude: 11.86543
 postcode: "39576"
 city: Stendal
-street: "Tangermünder Straße"
-housenumber: 1
+street: Tangermünder Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; PH off"
-website: "https://www.netto.de/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; PH off
+website: https://www.netto.de/

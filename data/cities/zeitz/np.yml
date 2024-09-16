@@ -4,8 +4,8 @@ latitude: 51.06416
 longitude: 12.12783
 postcode: "06712"
 city: Zeitz
-street: "Weißenfelser Straße"
-housenumber: 26
-phone: "+49 3441 725544"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.np.de/"
+street: Weißenfelser Straße
+housenumber: "26"
+phone: +49 3441 725544
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.np.de/

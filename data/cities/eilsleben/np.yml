@@ -1,11 +1,11 @@
 id: 91384372
-type: way
+type: node
 latitude: 52.14756
 longitude: 11.21114
 postcode: "39365"
 city: Eilsleben
-street: "Wilhelmstraße"
-housenumber: 2
+street: Wilhelmstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.np.de/"
+website: https://www.np.de/

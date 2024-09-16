@@ -1,11 +1,11 @@
 id: 201928769
-type: way
+type: node
 latitude: 51.6575
 longitude: 11.49324
 postcode: "06333"
 city: Hettstedt
-street: "Am Kirschweg"
-housenumber: 1
+street: Am Kirschweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

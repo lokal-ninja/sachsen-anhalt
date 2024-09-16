@@ -1,11 +1,11 @@
 id: 41176660
-type: way
+type: node
 latitude: 51.88737
 longitude: 12.40561
 postcode: "06869"
 city: Coswig (Anhalt)
-street: "Fichtenbreite"
-housenumber: 4
+street: Fichtenbreite
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

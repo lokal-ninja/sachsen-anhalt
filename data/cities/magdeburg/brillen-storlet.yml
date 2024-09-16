@@ -4,8 +4,8 @@ latitude: 52.08326
 longitude: 11.58181
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 1
+street: Werner-von-Siemens-Ring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://brillenstorlet.de/store_magdeburg"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://brillenstorlet.de/store_magdeburg

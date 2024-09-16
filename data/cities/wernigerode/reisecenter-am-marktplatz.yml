@@ -1,11 +1,11 @@
 id: 101371654
-type: way
+type: node
 latitude: 51.83284
 longitude: 10.78465
 postcode: "38855"
 city: Wernigerode
-street: "Marktstraße"
-housenumber: 
+street: Marktstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

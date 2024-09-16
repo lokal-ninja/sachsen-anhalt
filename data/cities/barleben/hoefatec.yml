@@ -1,11 +1,11 @@
 id: 1028526611
-type: way
+type: node
 latitude: 52.19313
 longitude: 11.62151
 postcode: "39179"
 city: Barleben
-street: "Lindenallee"
-housenumber: 4
+street: Lindenallee
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 29398546
-type: way
+type: node
 latitude: 52.03016
 longitude: 11.22925
 postcode: "39387"
 city: Oschersleben
-street: "Lüneburger Straße"
-housenumber: 1
+street: Lüneburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

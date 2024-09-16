@@ -1,11 +1,11 @@
 id: 596916840
-type: way
+type: node
 latitude: 52.51211
 longitude: 11.74275
 postcode: "39517"
 city: Tangerhütte
-street: "Am Hopfendamm"
-housenumber: 1
+street: Am Hopfendamm
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa, Su, PH 06:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa, Su, PH 06:00-22:00
 website: ""

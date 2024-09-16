@@ -1,11 +1,11 @@
 id: 213897855
-type: way
+type: node
 latitude: 51.76694
 longitude: 12.63309
 postcode: "06901"
 city: Kemberg
-street: "Leipziger Straße"
-housenumber: 86
+street: Leipziger Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

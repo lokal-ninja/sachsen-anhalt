@@ -1,11 +1,11 @@
 id: 88038991
-type: way
+type: node
 latitude: 52.14097
 longitude: 11.10596
 postcode: "39393"
 city: Völpke
-street: "Friedensstraße"
-housenumber: 1
-phone: "+49 39402 9610"
+street: Friedensstraße
+housenumber: "1"
+phone: +49 39402 9610
 opening_hours: ""
 website: ""

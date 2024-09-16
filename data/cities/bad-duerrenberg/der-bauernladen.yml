@@ -4,8 +4,9 @@ latitude: 51.30762
 longitude: 12.07064
 postcode: "06231"
 city: Bad Dürrenberg
-street: "Siedlungsstraße"
-housenumber: 
+street: Siedlungsstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; We 08:00-11:30,13:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We 08:00-11:30,13:00-18:00; Sa 08:00-12:00;
+    Su,PH off
 website: ""

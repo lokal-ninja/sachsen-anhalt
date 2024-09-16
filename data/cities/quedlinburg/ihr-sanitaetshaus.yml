@@ -4,8 +4,8 @@ latitude: 51.78723
 longitude: 11.14432
 postcode: "06484"
 city: Quedlinburg
-street: "Heiligegeiststraße"
-housenumber: 23
+street: Heiligegeiststraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.sanitaetshaus-quedlinburg.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.sanitaetshaus-quedlinburg.de/

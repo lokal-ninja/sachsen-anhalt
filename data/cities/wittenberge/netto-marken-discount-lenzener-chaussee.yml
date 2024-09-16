@@ -1,11 +1,11 @@
 id: 232388283
-type: way
+type: node
 latitude: 53.00055
 longitude: 11.73145
 postcode: "19322"
 city: Wittenberge
-street: "Lenzener Chaussee"
-housenumber: 64
+street: Lenzener Chaussee
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

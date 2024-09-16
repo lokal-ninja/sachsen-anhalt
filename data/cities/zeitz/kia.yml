@@ -1,11 +1,11 @@
 id: 304005644
-type: way
+type: node
 latitude: 51.05977
 longitude: 12.13243
 postcode: "06712"
 city: Zeitz
-street: "Donaliesstraße"
-housenumber: 20
+street: Donaliesstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

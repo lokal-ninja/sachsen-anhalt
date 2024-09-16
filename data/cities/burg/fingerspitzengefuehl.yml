@@ -4,8 +4,8 @@ latitude: 52.27028
 longitude: 11.8591
 postcode: "39288"
 city: Burg
-street: "Markt"
-housenumber: 31
+street: Markt
+housenumber: "31"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

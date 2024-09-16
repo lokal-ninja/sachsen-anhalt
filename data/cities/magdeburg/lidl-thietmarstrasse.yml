@@ -1,11 +1,11 @@
 id: 94777291
-type: way
+type: node
 latitude: 52.15689
 longitude: 11.62675
 postcode: "39128"
 city: Magdeburg
-street: "Thietmarstraße"
-housenumber: 17
+street: Thietmarstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00, Sa 07:00-20:00, Su off; PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Fr 07:00-21:00, Sa 07:00-20:00, Su off; PH off
+website: https://www.lidl.de/

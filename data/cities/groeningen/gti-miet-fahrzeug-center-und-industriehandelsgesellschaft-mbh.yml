@@ -1,11 +1,11 @@
 id: 174766119
-type: way
+type: node
 latitude: 51.93954
 longitude: 11.23284
 postcode: "39397"
 city: Gröningen
-street: "Magdeburger Straße"
-housenumber: 54
+street: Magdeburger Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

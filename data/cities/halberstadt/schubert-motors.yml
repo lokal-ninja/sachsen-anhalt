@@ -1,11 +1,11 @@
 id: 238750711
-type: way
+type: node
 latitude: 51.87936
 longitude: 11.07683
 postcode: "38820"
 city: Halberstadt
-street: "Im Sülzeteiche"
-housenumber: 1
-phone: "+49 3941 5990"
+street: Im Sülzeteiche
+housenumber: "1"
+phone: +49 3941 5990
 opening_hours: ""
-website: "https://www.schubert-motors.de/"
+website: https://www.schubert-motors.de/

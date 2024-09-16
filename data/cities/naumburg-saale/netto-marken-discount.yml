@@ -4,8 +4,8 @@ latitude: 51.1509
 longitude: 11.82141
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Rosa-Luxemburg-Straße"
-housenumber: 24
-phone: "+49 3445 750103"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+street: Rosa-Luxemburg-Straße
+housenumber: "24"
+phone: +49 3445 750103
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

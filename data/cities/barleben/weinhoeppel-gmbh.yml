@@ -1,11 +1,11 @@
 id: 39011503
-type: way
+type: node
 latitude: 52.1918
 longitude: 11.59621
 postcode: "39179"
 city: Barleben
-street: "Otto-von-Guericke-Allee"
-housenumber: 11
+street: Otto-von-Guericke-Allee
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-15:00"
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-15:00
 website: ""

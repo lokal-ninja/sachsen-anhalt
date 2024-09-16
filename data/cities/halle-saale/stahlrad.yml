@@ -4,8 +4,8 @@ latitude: 51.50475
 longitude: 11.95946
 postcode: "06114"
 city: Halle (Saale)
-street: "Wittekindstraße"
-housenumber: 1
-phone: "+49 345 6846850"
-opening_hours: "Mo-Fr 15:00-18:00"
+street: Wittekindstraße
+housenumber: "1"
+phone: +49 345 6846850
+opening_hours: Mo-Fr 15:00-18:00
 website: ""

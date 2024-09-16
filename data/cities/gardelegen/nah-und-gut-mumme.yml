@@ -1,11 +1,11 @@
 id: 103451894
-type: way
+type: node
 latitude: 52.48523
 longitude: 11.21525
 postcode: "39649"
 city: Gardelegen
-street: "Wilhelmstraße"
-housenumber: 63
+street: Wilhelmstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

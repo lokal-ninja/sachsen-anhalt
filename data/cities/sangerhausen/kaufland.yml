@@ -1,11 +1,11 @@
 id: 328045624
-type: way
+type: node
 latitude: 51.47073
 longitude: 11.29381
 postcode: "06526"
 city: Sangerhausen
-street: "Schützenplatz"
-housenumber: 2
+street: Schützenplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:00; Sa 06:30-20:00"
+opening_hours: Mo-Fr 06:30-22:00; Sa 06:30-20:00
 website: ""

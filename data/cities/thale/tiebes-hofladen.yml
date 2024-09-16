@@ -1,11 +1,11 @@
 id: 237771544
-type: way
+type: node
 latitude: 51.80465
 longitude: 11.05479
 postcode: "06502"
 city: Thale
-street: "Hinter dem Amt"
-housenumber: 40
-phone: "+49 3946 6432"
-opening_hours: "Tu, Fr 08:30-12:00; We-Fr 15:00-18:00; Sa 07:30-11:00"
-website: "https://tiebes-hofladen.de/"
+street: Hinter dem Amt
+housenumber: "40"
+phone: +49 3946 6432
+opening_hours: Tu, Fr 08:30-12:00; We-Fr 15:00-18:00; Sa 07:30-11:00
+website: https://tiebes-hofladen.de/

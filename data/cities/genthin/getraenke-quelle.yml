@@ -1,11 +1,11 @@
 id: 105782148
-type: way
+type: node
 latitude: 52.40842
 longitude: 12.16177
 postcode: "39307"
 city: Genthin
-street: "Jahnstraße"
-housenumber: 6
+street: Jahnstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
 website: ""

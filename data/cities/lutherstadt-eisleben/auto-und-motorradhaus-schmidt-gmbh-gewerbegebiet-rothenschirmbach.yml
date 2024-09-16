@@ -1,11 +1,11 @@
 id: 388529598
-type: way
+type: node
 latitude: 51.45124
 longitude: 11.54358
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Gewerbegebiet Rothenschirmbach"
-housenumber: 27
-phone: "+49 34776 6110"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.kia-schmidt-eisleben.de/"
+street: Gewerbegebiet Rothenschirmbach
+housenumber: "27"
+phone: +49 34776 6110
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off
+website: https://www.kia-schmidt-eisleben.de/

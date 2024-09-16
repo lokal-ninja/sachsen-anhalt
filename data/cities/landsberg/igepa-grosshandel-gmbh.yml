@@ -1,11 +1,11 @@
 id: 158628787
-type: way
+type: node
 latitude: 51.47388
 longitude: 12.09469
 postcode: "06188"
 city: Landsberg
-street: "Igepa-Ring"
-housenumber: 
+street: Igepa-Ring
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

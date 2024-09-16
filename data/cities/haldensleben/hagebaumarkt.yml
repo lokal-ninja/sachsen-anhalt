@@ -1,11 +1,11 @@
 id: 1036873146
-type: way
+type: node
 latitude: 52.28445
 longitude: 11.43207
 postcode: "39340"
 city: Haldensleben
-street: "Friedrich-Schmelzer-Straße"
-housenumber: 4
+street: Friedrich-Schmelzer-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
 website: ""

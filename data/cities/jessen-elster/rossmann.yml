@@ -1,11 +1,11 @@
 id: 490943050
-type: way
+type: node
 latitude: 51.79368
 longitude: 12.96978
 postcode: "06917"
 city: Jessen (Elster)
-street: "Rosa-Luxemburg-Straße"
-housenumber: 70
+street: Rosa-Luxemburg-Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

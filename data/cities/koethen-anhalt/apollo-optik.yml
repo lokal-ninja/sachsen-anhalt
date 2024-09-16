@@ -4,8 +4,8 @@ latitude: 51.75121
 longitude: 11.97605
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Holzmarkt"
-housenumber: 12
-phone: "+49 3496 210300"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:30"
-website: "https://www.apollo.de/"
+street: Holzmarkt
+housenumber: "12"
+phone: +49 3496 210300
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:30
+website: https://www.apollo.de/

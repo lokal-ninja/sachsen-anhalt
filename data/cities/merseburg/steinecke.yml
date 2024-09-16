@@ -4,8 +4,8 @@ latitude: 51.35545
 longitude: 11.9977
 postcode: "06217"
 city: Merseburg
-street: "Gotthardstraße"
-housenumber: 5
-phone: "+49 3461 824994"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-17:00"
-website: "https://www.steinecke.info/index.php"
+street: Gotthardstraße
+housenumber: "5"
+phone: +49 3461 824994
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-17:00
+website: https://www.steinecke.info/index.php

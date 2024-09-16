@@ -1,11 +1,11 @@
 id: 354124576
-type: way
+type: node
 latitude: 51.78424
 longitude: 11.14248
 postcode: "06484"
 city: Quedlinburg
-street: "Neuer Weg"
-housenumber: 22
+street: Neuer Weg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-16:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-16:00; Sa 09:00-12:00; Su,PH off
 website: ""

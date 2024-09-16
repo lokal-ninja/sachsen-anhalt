@@ -1,11 +1,11 @@
 id: 536399508
-type: way
+type: node
 latitude: 51.04034
 longitude: 12.15107
 postcode: "06712"
 city: Zeitz
-street: "Käthe-Niederkirchner-Straße"
-housenumber: 58
-phone: "+49 3441 226306"
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:00-16:00"
-website: "https://www.huster-getraenke.de/"
+street: Käthe-Niederkirchner-Straße
+housenumber: "58"
+phone: +49 3441 226306
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:00-16:00
+website: https://www.huster-getraenke.de/

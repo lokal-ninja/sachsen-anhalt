@@ -1,11 +1,11 @@
 id: 183291979
-type: way
+type: node
 latitude: 51.47893
 longitude: 12.05326
 postcode: "06116"
 city: Halle (Saale)
-street: "Delitzscher Straße"
-housenumber: 293
+street: Delitzscher Straße
+housenumber: "293"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 570217973
-type: way
+type: node
 latitude: 51.76073
 longitude: 11.44964
 postcode: "06449"
 city: Aschersleben
-street: "Magdeburger Straße"
-housenumber: 32
+street: Magdeburger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

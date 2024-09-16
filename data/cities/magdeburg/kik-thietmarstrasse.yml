@@ -4,8 +4,8 @@ latitude: 52.15837
 longitude: 11.6241
 postcode: "39128"
 city: Magdeburg
-street: "Thietmarstraße"
-housenumber: 18
+street: Thietmarstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00; Su,PH off"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00; Su,PH off
+website: https://www.kik.de/

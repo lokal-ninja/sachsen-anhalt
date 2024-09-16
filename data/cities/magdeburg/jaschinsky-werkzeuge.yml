@@ -1,11 +1,11 @@
 id: 131666028
-type: way
+type: node
 latitude: 52.08006
 longitude: 11.62629
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 16
+street: Carnotstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "www.jaschinsky-werkzeuge.de"
+website: www.jaschinsky-werkzeuge.de

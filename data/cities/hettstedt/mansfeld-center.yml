@@ -1,11 +1,11 @@
 id: 110537226
-type: way
+type: node
 latitude: 51.65492
 longitude: 11.48646
 postcode: "06333"
 city: Hettstedt
-street: "Kämmritzer Weg"
-housenumber: 20
+street: Kämmritzer Weg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

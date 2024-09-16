@@ -1,11 +1,11 @@
 id: 841149746
-type: way
+type: node
 latitude: 52.40918
 longitude: 12.15051
 postcode: "39307"
 city: Genthin
-street: "Bergzower Straße"
-housenumber: 6
+street: Bergzower Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 427389192
-type: way
+type: node
 latitude: 52.16091
 longitude: 11.60616
 postcode: "39128"
 city: Magdeburg
-street: "Olvenstedter Graseweg"
-housenumber: 37
-phone: "+49 391 5441351 10"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://florapark-center.de/"
+street: Olvenstedter Graseweg
+housenumber: "37"
+phone: +49 391 5441351 10
+opening_hours: Mo-Sa 09:30-20:00
+website: https://florapark-center.de/

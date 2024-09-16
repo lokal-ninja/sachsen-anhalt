@@ -4,8 +4,8 @@ latitude: 51.75518
 longitude: 11.45687
 postcode: "06449"
 city: Aschersleben
-street: "Taubenstraße"
-housenumber: 8
+street: Taubenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00 || by appointment"
+opening_hours: Mo-Fr 09:00-18:00 || "by appointment"
 website: ""

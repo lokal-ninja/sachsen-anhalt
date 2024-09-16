@@ -1,11 +1,11 @@
 id: 120940487
-type: way
+type: node
 latitude: 51.49949
 longitude: 11.9619
 postcode: "06114"
 city: Halle (Saale)
-street: "Rosenstraße"
-housenumber: 8
+street: Rosenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo 08:00-14:00; Tu-Th 08:00-15:00; Fr 08:00-18:00"
+opening_hours: Mo 08:00-14:00; Tu-Th 08:00-15:00; Fr 08:00-18:00
 website: ""

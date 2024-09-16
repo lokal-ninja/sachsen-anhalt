@@ -4,8 +4,9 @@ latitude: 51.80618
 longitude: 12.1485
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Justus-von-Liebig-Straße"
-housenumber: 12
+street: Justus-von-Liebig-Straße
+housenumber: "12"
 phone: "+49340517458"
-opening_hours: "Mo, Tu, Th 09:00-12:00, 14:00-18:00; We 14:00-18:00; Fr 09:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo, Tu, Th 09:00-12:00, 14:00-18:00; We 14:00-18:00; Fr 09:00-18:00;
+    Sa 08:00-13:00
 website: ""

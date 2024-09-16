@@ -1,11 +1,11 @@
 id: 33074485
-type: way
+type: node
 latitude: 51.48811
 longitude: 12.00383
 postcode: "06112"
 city: Halle (Saale)
-street: "Grenzstraße"
-housenumber: 43
+street: Grenzstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

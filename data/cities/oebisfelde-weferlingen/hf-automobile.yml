@@ -1,11 +1,11 @@
 id: 1080819075
-type: way
+type: node
 latitude: 52.43072
 longitude: 10.9865
 postcode: "39646"
 city: Oebisfelde-Weferlingen
-street: "Lindenstraße"
-housenumber: 39
+street: Lindenstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

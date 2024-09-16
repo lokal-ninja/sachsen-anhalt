@@ -4,8 +4,8 @@ latitude: 51.75539
 longitude: 12.00186
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Merziener Straße"
-housenumber: 20
+street: Merziener Straße
+housenumber: "20"
 phone: "+493496415166"
-opening_hours: "Mo - Sa 09:00 - 20:00"
-website: "https://www.marini-koethen.de/"
+opening_hours: Mo - Sa 09:00 - 20:00
+website: https://www.marini-koethen.de/

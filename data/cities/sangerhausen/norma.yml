@@ -1,11 +1,11 @@
 id: 166429528
-type: way
+type: node
 latitude: 51.47156
 longitude: 11.30264
 postcode: "06526"
 city: Sangerhausen
-street: "Alte Promenade"
-housenumber: 32
+street: Alte Promenade
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 180589596
-type: way
+type: node
 latitude: 52.13403
 longitude: 11.75871
 postcode: "39175"
 city: Biederitz
-street: "Thälmannstraße"
-housenumber: 2
+street: Thälmannstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-14:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-14:00
 website: ""

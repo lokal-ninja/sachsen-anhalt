@@ -1,11 +1,12 @@
 id: 185773551
-type: way
+type: node
 latitude: 51.84411
 longitude: 10.78165
 postcode: "38855"
 city: Wernigerode
-street: "Am Schreiberteich"
-housenumber: 6
+street: Am Schreiberteich
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su closed"
-website: "https://www.action.com/de-de/laden/wernigerode-am-schreiberteich/"
+opening_hours: Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr
+    09:00-20:00; Sa 09:00-20:00; Su closed
+website: https://www.action.com/de-de/laden/wernigerode-am-schreiberteich/

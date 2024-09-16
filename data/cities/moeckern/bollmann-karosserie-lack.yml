@@ -1,11 +1,11 @@
 id: 1124255790
-type: way
+type: node
 latitude: 52.15688
 longitude: 11.94731
 postcode: "39291"
 city: Möckern
-street: "Rutenweg"
-housenumber: 15
+street: Rutenweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

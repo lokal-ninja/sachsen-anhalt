@@ -4,8 +4,8 @@ latitude: 51.52425
 longitude: 11.53861
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Fritz-Wenk-Straße"
-housenumber: 35
-phone: "+49 3475 603159"
-opening_hours: "Tu-Fr 06:00-17:00; Sa 06:00-10:00; Mo,Su off"
-website: "http://www.die-etwas-andere-torte.de/"
+street: Fritz-Wenk-Straße
+housenumber: "35"
+phone: +49 3475 603159
+opening_hours: Tu-Fr 06:00-17:00; Sa 06:00-10:00; Mo,Su off
+website: http://www.die-etwas-andere-torte.de/

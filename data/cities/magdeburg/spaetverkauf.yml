@@ -4,8 +4,8 @@ latitude: 52.13696
 longitude: 11.61207
 postcode: "39108"
 city: Magdeburg
-street: "Wielandstraße"
-housenumber: 11
+street: Wielandstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Tu,Th 15:00-22:00; Fr 15:00-23:00; Sa 10:00-23:00; Su 10:00-22:00"
+opening_hours: Mo-Tu,Th 15:00-22:00; Fr 15:00-23:00; Sa 10:00-23:00; Su 10:00-22:00
 website: ""

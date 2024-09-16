@@ -1,11 +1,11 @@
 id: 151376437
-type: way
+type: node
 latitude: 51.48055
 longitude: 11.90972
 postcode: "06126"
 city: Halle (Saale)
-street: "Nietlebener Straße"
-housenumber: 3
+street: Nietlebener Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

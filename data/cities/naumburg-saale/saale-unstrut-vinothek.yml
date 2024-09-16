@@ -4,8 +4,9 @@ latitude: 51.15379
 longitude: 11.80556
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Steinweg"
-housenumber: 19
+street: Steinweg
+housenumber: "19"
 phone: ""
-opening_hours: "Nov-Mar: Tu-Fr 14:00-18:00, Sa 11:00-15:00; Apr-Oct: Mo-Th 11:00-18:00, Fr-Sa 11:00-22:00, Su 11:00-16:00 || Nach Vereinbarung"
+opening_hours: 'Nov-Mar: Tu-Fr 14:00-18:00, Sa 11:00-15:00; Apr-Oct: Mo-Th 11:00-18:00,
+    Fr-Sa 11:00-22:00, Su 11:00-16:00 || "Nach Vereinbarung"'
 website: ""

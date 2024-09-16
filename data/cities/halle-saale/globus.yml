@@ -1,11 +1,11 @@
 id: 158185399
-type: way
+type: node
 latitude: 51.45769
 longitude: 12.01323
 postcode: "06116"
 city: Halle (Saale)
-street: "Deutsche Grube"
-housenumber: 3
+street: Deutsche Grube
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

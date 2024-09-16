@@ -1,11 +1,11 @@
 id: 201747949
-type: way
+type: node
 latitude: 52.76908
 longitude: 11.75486
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Schilddorf"
-housenumber: 12
-phone: "+49 3937 29200"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH,Su off"
-website: "https://bs-landtechnik.de/"
+street: Schilddorf
+housenumber: "12"
+phone: +49 3937 29200
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH,Su off
+website: https://bs-landtechnik.de/

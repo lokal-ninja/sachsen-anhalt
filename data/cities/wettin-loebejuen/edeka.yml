@@ -1,11 +1,11 @@
 id: 118367901
-type: way
+type: node
 latitude: 51.63799
 longitude: 11.89862
 postcode: "06193"
 city: Wettin-Löbejün
-street: "Am Stadtgut"
-housenumber: 2
+street: Am Stadtgut
+housenumber: "2"
 phone: "+4934568479"
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

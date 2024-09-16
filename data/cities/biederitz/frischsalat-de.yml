@@ -4,8 +4,8 @@ latitude: 52.14369
 longitude: 11.72727
 postcode: "39175"
 city: Biederitz
-street: "Biederitzer Straße"
-housenumber: 2
+street: Biederitzer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Fr 10:00-17:00"
-website: "https://www.frischsalat.de"
+opening_hours: Fr 10:00-17:00
+website: https://www.frischsalat.de

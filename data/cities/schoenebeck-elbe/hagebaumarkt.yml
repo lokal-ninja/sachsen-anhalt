@@ -1,11 +1,11 @@
 id: 39911840
-type: way
+type: node
 latitude: 52.02761
 longitude: 11.70799
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Am Stremsgraben"
-housenumber: 3
+street: Am Stremsgraben
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

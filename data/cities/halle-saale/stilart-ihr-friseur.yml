@@ -4,8 +4,8 @@ latitude: 51.46952
 longitude: 11.97955
 postcode: "06110"
 city: Halle (Saale)
-street: "Turmstraße"
-housenumber: 35
-phone: "+49 3 45 4 72 17 77"
-opening_hours: "Tu-Fr 09:00-17:00"
+street: Turmstraße
+housenumber: "35"
+phone: +49 3 45 4 72 17 77
+opening_hours: Tu-Fr 09:00-17:00
 website: ""

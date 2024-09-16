@@ -1,11 +1,11 @@
 id: 204630359
-type: way
+type: node
 latitude: 51.68424
 longitude: 12.29147
 postcode: "06800"
 city: Raguhn-Jeßnitz
-street: "Vor dem Halleschen Tor"
-housenumber: 36
+street: Vor dem Halleschen Tor
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

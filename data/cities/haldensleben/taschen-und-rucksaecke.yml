@@ -4,8 +4,8 @@ latitude: 52.28965
 longitude: 11.40881
 postcode: "39340"
 city: Haldensleben
-street: "Hagenstraße"
-housenumber: 31
+street: Hagenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:00"
-website: "https://www.ichmagtaschen.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:00
+website: https://www.ichmagtaschen.de/

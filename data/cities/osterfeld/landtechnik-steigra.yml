@@ -1,11 +1,11 @@
 id: 1055761908
-type: way
+type: node
 latitude: 51.08551
 longitude: 11.93914
 postcode: "06721"
 city: Osterfeld
-street: "Am Weinberge"
-housenumber: 1
+street: Am Weinberge
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

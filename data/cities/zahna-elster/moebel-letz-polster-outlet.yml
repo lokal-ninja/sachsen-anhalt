@@ -1,11 +1,11 @@
 id: 345910054
-type: way
+type: node
 latitude: 51.83103
 longitude: 12.80958
 postcode: "06895"
 city: Zahna-Elster
-street: "Wartenburger Straße"
-housenumber: 2
+street: Wartenburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://moebel-letz.de"
+website: https://moebel-letz.de

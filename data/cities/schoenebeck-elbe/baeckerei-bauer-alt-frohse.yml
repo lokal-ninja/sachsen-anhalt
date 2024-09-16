@@ -4,8 +4,9 @@ latitude: 52.03295
 longitude: 11.7147
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Alt Frohse"
-housenumber: 42
+street: Alt Frohse
+housenumber: "42"
 phone: ""
-opening_hours: "Mo,We 06:30-10:00; Tu 06:30-10:00,14:00-17:00; Th 06:40-10:00,14:00-17:00; Fr 06:30-11:00,14:00-17:00; Sa 06:30-09:30"
+opening_hours: Mo,We 06:30-10:00; Tu 06:30-10:00,14:00-17:00; Th 06:40-10:00,14:00-17:00;
+    Fr 06:30-11:00,14:00-17:00; Sa 06:30-09:30
 website: ""

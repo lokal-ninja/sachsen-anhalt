@@ -4,8 +4,8 @@ latitude: 51.49252
 longitude: 11.96621
 postcode: "06108"
 city: Halle (Saale)
-street: "Bernburger Straße"
-housenumber: 27
+street: Bernburger Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 13:00-18:00"
-website: "https://www.juhu-halle.de/"
+opening_hours: Mo-Fr 13:00-18:00
+website: https://www.juhu-halle.de/

@@ -4,8 +4,8 @@ latitude: 51.78626
 longitude: 11.14949
 postcode: "06484"
 city: Quedlinburg
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 3946 707180"
-opening_hours: "Mo-Fr 09:00-18:00; Sa open Nach Vereinbarung; PH off"
-website: "https://www.hoergeraete-eger.de/"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 3946 707180
+opening_hours: Mo-Fr 09:00-18:00; Sa open "Nach Vereinbarung"; PH off
+website: https://www.hoergeraete-eger.de/

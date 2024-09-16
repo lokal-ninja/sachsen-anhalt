@@ -1,11 +1,11 @@
 id: 209982267
-type: way
+type: node
 latitude: 51.76932
 longitude: 10.90314
 postcode: "38889"
 city: Blankenburg
-street: "Alte Bahnhofstraße"
-housenumber: 11
+street: Alte Bahnhofstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

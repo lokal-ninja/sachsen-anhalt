@@ -1,11 +1,11 @@
 id: 140810613
-type: way
+type: node
 latitude: 52.78775
 longitude: 11.75374
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Breite Straße"
-housenumber: 6
-phone: "+49 3937 82330"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-11:30; PH,Su off"
+street: Breite Straße
+housenumber: "6"
+phone: +49 3937 82330
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-11:30; PH,Su off
 website: ""

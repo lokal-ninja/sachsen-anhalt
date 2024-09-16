@@ -1,11 +1,11 @@
 id: 1202305915
-type: way
+type: node
 latitude: 52.3729
 longitude: 12.12026
 postcode: "39307"
 city: Genthin
-street: "Dorfstraße"
-housenumber: 8
+street: Dorfstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

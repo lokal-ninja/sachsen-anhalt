@@ -1,11 +1,11 @@
 id: 71292619
-type: way
+type: node
 latitude: 51.45156
 longitude: 11.79698
 postcode: "06179"
 city: Teutschenthal
-street: "Poststraße"
-housenumber: 1
-phone: "+49 34601 50500"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-19:00; Su,PH off"
+street: Poststraße
+housenumber: "1"
+phone: +49 34601 50500
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-19:00; Su,PH off
 website: ""

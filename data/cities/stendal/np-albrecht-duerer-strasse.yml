@@ -1,11 +1,11 @@
 id: 109241553
-type: way
+type: node
 latitude: 52.5972
 longitude: 11.82886
 postcode: "39576"
 city: Stendal
-street: "Albrecht-Dürer-Straße"
-housenumber: 96
+street: Albrecht-Dürer-Straße
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.50007
 longitude: 11.95768
 postcode: "06114"
 city: Halle (Saale)
-street: "Advokatenweg"
-housenumber: 20
+street: Advokatenweg
+housenumber: "20"
 phone: "+4934552517312"
-opening_hours: "Häufig unterwegs, telefonisch erreichbar"
-website: "https://achtsame-bestattungen.de/"
+opening_hours: '"Häufig unterwegs, telefonisch erreichbar"'
+website: https://achtsame-bestattungen.de/

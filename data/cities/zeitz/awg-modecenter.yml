@@ -4,8 +4,8 @@ latitude: 51.03693
 longitude: 12.12883
 postcode: "06712"
 city: Zeitz
-street: "Schwarzer Weg"
-housenumber: 40
-phone: "+49 3441 225896"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.awg-mode.de/"
+street: Schwarzer Weg
+housenumber: "40"
+phone: +49 3441 225896
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.awg-mode.de/

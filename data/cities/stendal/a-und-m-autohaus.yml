@@ -1,11 +1,11 @@
 id: 91290527
-type: way
+type: node
 latitude: 52.60867
 longitude: 11.84251
 postcode: "39576"
 city: Stendal
-street: "Clausewitzstraße"
-housenumber: 2
+street: Clausewitzstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-12:00
 website: ""

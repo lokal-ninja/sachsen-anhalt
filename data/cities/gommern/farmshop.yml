@@ -4,8 +4,9 @@ latitude: 52.14036
 longitude: 11.83885
 postcode: "39291"
 city: Gommern
-street: "Am Bahnhof"
+street: Am Bahnhof
 housenumber: 10A
 phone: ""
-opening_hours: "Mo-Su off; Mar 1-Nov 9: We-Fr 14:00-18:00; Mar 1-Nov 9: Sa,Su 12:00-18:00; Mar 1-Nov 9 PH 12:00-17:00; Nov 10 - Dec 31: Sa, Su 12:00-17:00"
+opening_hours: 'Mo-Su off; Mar 1-Nov 9: We-Fr 14:00-18:00; Mar 1-Nov 9: Sa,Su 12:00-18:00;
+    Mar 1-Nov 9 PH 12:00-17:00; Nov 10 - Dec 31: Sa, Su 12:00-17:00'
 website: ""

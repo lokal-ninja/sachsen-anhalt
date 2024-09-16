@@ -4,8 +4,8 @@ latitude: 51.75266
 longitude: 12.00496
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Merziener Straße"
-housenumber: 86
+street: Merziener Straße
+housenumber: "86"
 phone: "+493496700790"
-opening_hours: "Mo - Fr 09:30 - 18:30, Sa 09:30 - 16:00"
-website: "https://www.moebelmit.de/filiale-koethen.html"
+opening_hours: Mo - Fr 09:30 - 18:30, Sa 09:30 - 16:00
+website: https://www.moebelmit.de/filiale-koethen.html

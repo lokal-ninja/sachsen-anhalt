@@ -1,11 +1,11 @@
 id: 111625706
-type: way
+type: node
 latitude: 52.0815
 longitude: 11.57812
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 6
+street: Werner-von-Siemens-Ring
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.hkl-baumaschinen.de/Mieten/Magdeburg-Center"
+website: https://www.hkl-baumaschinen.de/Mieten/Magdeburg-Center

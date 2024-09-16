@@ -4,8 +4,8 @@ latitude: 51.8984
 longitude: 11.05242
 postcode: "38820"
 city: Halberstadt
-street: "Woort"
-housenumber: 3
-phone: "+49 3941 600088"
+street: Woort
+housenumber: "3"
+phone: +49 3941 600088
 opening_hours: ""
-website: "https://www.bg-hbs.de"
+website: https://www.bg-hbs.de

@@ -4,8 +4,8 @@ latitude: 52.12366
 longitude: 11.60828
 postcode: "39108"
 city: Magdeburg
-street: "Liebknechtstraße"
-housenumber: 52
+street: Liebknechtstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "http://torucomputer.eu"
+website: http://torucomputer.eu

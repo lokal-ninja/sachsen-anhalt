@@ -1,11 +1,11 @@
 id: 41681595
-type: way
+type: node
 latitude: 51.88155
 longitude: 11.07364
 postcode: "38820"
 city: Halberstadt
-street: "Im Sülzeteiche"
-housenumber: 3
-phone: "+49 3941 5795"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/halberstadt"
+street: Im Sülzeteiche
+housenumber: "3"
+phone: +49 3941 5795
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/halberstadt

@@ -1,11 +1,11 @@
 id: 1028372090
-type: way
+type: node
 latitude: 52.19336
 longitude: 11.60369
 postcode: "39179"
 city: Barleben
-street: "An der Sülze"
-housenumber: 13
+street: An der Sülze
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Th 07:00-15:30; Fr 07:00-15:00"
-website: "https://ahlborn-unimog.de/"
+opening_hours: Mo-Th 07:00-15:30; Fr 07:00-15:00
+website: https://ahlborn-unimog.de/

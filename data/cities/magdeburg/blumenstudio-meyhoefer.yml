@@ -1,11 +1,11 @@
 id: 191229076
-type: way
+type: node
 latitude: 52.08803
 longitude: 11.62073
 postcode: "39118"
 city: Magdeburg
-street: "Neptunweg"
-housenumber: 1
+street: Neptunweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 09:00-12:00
 website: ""

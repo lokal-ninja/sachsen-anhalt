@@ -4,8 +4,8 @@ latitude: 51.49308
 longitude: 11.96625
 postcode: "06108"
 city: Halle (Saale)
-street: "Bernburger Straße"
-housenumber: 25
-phone: "+49 345 2909 727"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://www.fahrradies-halle.de/"
+street: Bernburger Straße
+housenumber: "25"
+phone: +49 345 2909 727
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: https://www.fahrradies-halle.de/

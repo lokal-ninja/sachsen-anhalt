@@ -4,8 +4,8 @@ latitude: 52.12594
 longitude: 11.61225
 postcode: "39108"
 city: Magdeburg
-street: "Arndtstraße"
-housenumber: 17
+street: Arndtstraße
+housenumber: "17"
 phone: "+4939155992939"
-opening_hours: "Sa 10:00-12:00; Tu-Fr 10:00-17:00; Su,Mo,PH off"
-website: "https://www.froehliche-rabauken.de/"
+opening_hours: Sa 10:00-12:00; Tu-Fr 10:00-17:00; Su,Mo,PH off
+website: https://www.froehliche-rabauken.de/

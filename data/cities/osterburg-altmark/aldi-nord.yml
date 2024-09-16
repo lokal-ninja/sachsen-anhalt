@@ -1,11 +1,11 @@
 id: 28309898
-type: way
+type: node
 latitude: 52.77521
 longitude: 11.75502
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Stendaler Chaussee"
-housenumber: 35
+street: Stendaler Chaussee
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

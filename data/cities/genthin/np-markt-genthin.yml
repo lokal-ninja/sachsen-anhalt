@@ -1,11 +1,11 @@
 id: 105782153
-type: way
+type: node
 latitude: 52.40198
 longitude: 12.16322
 postcode: "39307"
 city: Genthin
-street: "Uhlandstraße"
-housenumber: 1
+street: Uhlandstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

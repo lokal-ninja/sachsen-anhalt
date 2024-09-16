@@ -1,11 +1,11 @@
 id: 191581399
-type: way
+type: node
 latitude: 52.17436
 longitude: 11.48693
 postcode: "39326"
 city: Hohe Börde
-street: "Wanzleber Straße"
-housenumber: 1
+street: Wanzleber Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

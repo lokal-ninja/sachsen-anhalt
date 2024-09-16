@@ -1,11 +1,11 @@
 id: 168480999
-type: way
+type: node
 latitude: 51.5237
 longitude: 11.55718
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Hallesche Straße"
-housenumber: 77
-phone: "+49 3475 71170"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off"
+street: Hallesche Straße
+housenumber: "77"
+phone: +49 3475 71170
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off
 website: ""

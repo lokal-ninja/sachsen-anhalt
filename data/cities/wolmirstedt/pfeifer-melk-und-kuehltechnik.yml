@@ -1,11 +1,11 @@
 id: 1085197540
-type: way
+type: node
 latitude: 52.2553
 longitude: 11.64283
 postcode: "39326"
 city: Wolmirstedt
-street: "Handwerkerring"
-housenumber: 12
+street: Handwerkerring
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

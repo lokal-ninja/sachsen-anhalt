@@ -1,11 +1,11 @@
 id: 184142783
-type: way
+type: node
 latitude: 51.46724
 longitude: 11.26683
 postcode: "06526"
 city: Sangerhausen
-street: "Grabenweg"
-housenumber: 4
-phone: "+49 3464 58130"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://autohaus.toyota.de/dit-goettingen/standorte/sangerhausen-mansfeld-suedharz/"
+street: Grabenweg
+housenumber: "4"
+phone: +49 3464 58130
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://autohaus.toyota.de/dit-goettingen/standorte/sangerhausen-mansfeld-suedharz/

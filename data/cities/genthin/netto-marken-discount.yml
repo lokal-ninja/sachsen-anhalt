@@ -1,11 +1,11 @@
 id: 209206958
-type: way
+type: node
 latitude: 52.40828
 longitude: 12.16312
 postcode: "39307"
 city: Genthin
-street: "Geschwister-Scholl-Straße"
-housenumber: 34
+street: Geschwister-Scholl-Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

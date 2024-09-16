@@ -1,11 +1,11 @@
 id: 223244096
-type: way
+type: node
 latitude: 51.88919
 longitude: 12.66481
 postcode: "06886"
 city: Wittenberg
-street: "Berliner Chaussee"
-housenumber: 75
+street: Berliner Chaussee
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

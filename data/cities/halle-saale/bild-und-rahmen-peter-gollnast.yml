@@ -4,8 +4,8 @@ latitude: 51.48488
 longitude: 11.97041
 postcode: "06108"
 city: Halle (Saale)
-street: "Barfüßerstraße"
-housenumber: 17
+street: Barfüßerstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 10:00-17:00"
-website: "https://www.einrahmung-halle.de/"
+opening_hours: Mo-Th 10:00-17:00
+website: https://www.einrahmung-halle.de/

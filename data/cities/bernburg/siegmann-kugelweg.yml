@@ -4,8 +4,8 @@ latitude: 51.79518
 longitude: 11.73947
 postcode: "06406"
 city: Bernburg
-street: "Kugelweg"
-housenumber: 28
-phone: "+49 3471 623118"
-opening_hours: "Mo 05:30-12:00; Te-Fr 05:30-17:00; Sa 05:30-11:00"
+street: Kugelweg
+housenumber: "28"
+phone: +49 3471 623118
+opening_hours: Mo 05:30-12:00; Te-Fr 05:30-17:00; Sa 05:30-11:00
 website: ""

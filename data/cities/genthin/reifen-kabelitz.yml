@@ -1,11 +1,11 @@
 id: 1205767030
-type: way
+type: node
 latitude: 52.40775
 longitude: 12.15176
 postcode: "39307"
 city: Genthin
-street: "Straße der Opfer des Faschismus"
-housenumber: 16
+street: Straße der Opfer des Faschismus
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

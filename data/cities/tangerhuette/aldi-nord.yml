@@ -1,11 +1,11 @@
 id: 193933783
-type: way
+type: node
 latitude: 52.43028
 longitude: 11.79683
 postcode: "39517"
 city: Tangerhütte
-street: "Straße der Jugend"
-housenumber: 17
+street: Straße der Jugend
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/tangerhuette/strasse-der-jugend-19.html"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/tangerhuette/strasse-der-jugend-19.html

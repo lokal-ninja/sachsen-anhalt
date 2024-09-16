@@ -1,11 +1,11 @@
 id: 260656827
-type: way
+type: node
 latitude: 51.78575
 longitude: 12.9548
 postcode: "06917"
 city: Jessen (Elster)
-street: "Hospitalplatz"
-housenumber: 10
+street: Hospitalplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/jessen-elster.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/jessen-elster.html

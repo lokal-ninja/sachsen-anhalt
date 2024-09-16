@@ -4,8 +4,8 @@ latitude: 52.75228
 longitude: 10.87099
 postcode: "29413"
 city: Diesdorf
-street: "Bergstraße"
-housenumber: 5
-phone: "+49 3902 574"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Bergstraße
+housenumber: "5"
+phone: +49 3902 574
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

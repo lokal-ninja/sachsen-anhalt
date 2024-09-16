@@ -4,8 +4,8 @@ latitude: 51.47355
 longitude: 11.29941
 postcode: "06526"
 city: Sangerhausen
-street: "Kornmarkt"
-housenumber: 6
-phone: "+49 3464 2773320"
-opening_hours: "Mo-Fr 11:00-18:00; Sa-Su 12:00-18:00"
+street: Kornmarkt
+housenumber: "6"
+phone: +49 3464 2773320
+opening_hours: Mo-Fr 11:00-18:00; Sa-Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1090855086
-type: way
+type: node
 latitude: 52.13725
 longitude: 11.7338
 postcode: "39175"
 city: Biederitz
-street: "Berliner Straße"
-housenumber: 3
+street: Berliner Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

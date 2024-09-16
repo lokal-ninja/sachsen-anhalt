@@ -1,11 +1,11 @@
 id: 558772779
-type: way
+type: node
 latitude: 51.68885
 longitude: 12.24571
 postcode: "06766"
 city: Bitterfeld-Wolfen
-street: "Wittener Straße"
-housenumber: 28
+street: Wittener Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

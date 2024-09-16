@@ -1,11 +1,11 @@
 id: 88078494
-type: way
+type: node
 latitude: 52.51625
 longitude: 11.40063
 postcode: "39638"
 city: Gardelegen
-street: "Buschhorstweg"
-housenumber: 7
+street: Buschhorstweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

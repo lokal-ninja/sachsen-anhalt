@@ -1,11 +1,11 @@
 id: 98940368
-type: way
+type: node
 latitude: 52.14066
 longitude: 11.61711
 postcode: "39108"
 city: Magdeburg
-street: "Albert-Vater-Straße"
-housenumber: 70
-phone: "+49 391 255700"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:30"
-website: "https://www.pvautomotive.de/"
+street: Albert-Vater-Straße
+housenumber: "70"
+phone: +49 391 255700
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:30
+website: https://www.pvautomotive.de/

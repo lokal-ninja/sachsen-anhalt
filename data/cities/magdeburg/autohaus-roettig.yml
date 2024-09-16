@@ -1,11 +1,11 @@
 id: 48296297
-type: way
+type: node
 latitude: 52.16717
 longitude: 11.6629
 postcode: "39126"
 city: Magdeburg
-street: "Havelstraße"
-housenumber: 18
+street: Havelstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

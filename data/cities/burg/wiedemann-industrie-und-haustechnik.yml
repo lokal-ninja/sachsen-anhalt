@@ -1,11 +1,11 @@
 id: 1177227849
-type: way
+type: node
 latitude: 52.25044
 longitude: 11.88656
 postcode: "39288"
 city: Burg
-street: "Pappelweg"
-housenumber: 1
+street: Pappelweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

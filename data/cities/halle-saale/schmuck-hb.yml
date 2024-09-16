@@ -4,8 +4,8 @@ latitude: 51.49005
 longitude: 11.96591
 postcode: "06108"
 city: Halle (Saale)
-street: "Geiststraße"
-housenumber: 45
-phone: "+49 345 1354834"
-opening_hours: "Mo-Fr 10:30-17:00"
-website: "http://www.schmuckhb.de/der-laden"
+street: Geiststraße
+housenumber: "45"
+phone: +49 345 1354834
+opening_hours: Mo-Fr 10:30-17:00
+website: http://www.schmuckhb.de/der-laden

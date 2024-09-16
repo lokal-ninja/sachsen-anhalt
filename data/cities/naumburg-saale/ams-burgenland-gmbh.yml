@@ -1,11 +1,11 @@
 id: 150937140
-type: way
+type: node
 latitude: 51.14427
 longitude: 11.83143
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Wilhelm-Franke-Straße"
-housenumber: 
+street: Wilhelm-Franke-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.opel-ams-burgenland-naumburg.de"
+website: https://www.opel-ams-burgenland-naumburg.de

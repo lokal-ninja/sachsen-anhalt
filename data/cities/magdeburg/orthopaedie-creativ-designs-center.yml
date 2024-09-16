@@ -4,8 +4,9 @@ latitude: 52.17109
 longitude: 11.62971
 postcode: "39126"
 city: Magdeburg
-street: "Dr.-Grosz-Straße"
-housenumber: 7
-phone: "+49 391 28033629"
-opening_hours: "Mo-Tu 08:00-18:00, We 08:00-17:00, Th 08:00-18:00, Fr 08:00-16:00, Sa-Su off; PH off"
-website: "https://www.mot-gmbh.de/standorte/"
+street: Dr.-Grosz-Straße
+housenumber: "7"
+phone: +49 391 28033629
+opening_hours: Mo-Tu 08:00-18:00, We 08:00-17:00, Th 08:00-18:00, Fr 08:00-16:00,
+    Sa-Su off; PH off
+website: https://www.mot-gmbh.de/standorte/

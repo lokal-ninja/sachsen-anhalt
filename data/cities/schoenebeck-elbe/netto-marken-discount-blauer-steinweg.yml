@@ -1,11 +1,11 @@
 id: 343084356
-type: way
+type: node
 latitude: 52.00698
 longitude: 11.71488
 postcode: "39218"
 city: Schönebeck (Elbe)
-street: "Blauer Steinweg"
-housenumber: 4
+street: Blauer Steinweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

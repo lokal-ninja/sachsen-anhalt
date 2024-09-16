@@ -1,11 +1,11 @@
 id: 499634751
-type: way
+type: node
 latitude: 52.85149
 longitude: 11.15237
 postcode: "29410"
 city: Salzwedel
-street: "Burgstraße"
-housenumber: 43
+street: Burgstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 208287240
-type: way
+type: node
 latitude: 51.66667
 longitude: 10.72095
 postcode: "38877"
 city: Oberharz am Brocken
-street: "Unterstadt"
-housenumber: 31
+street: Unterstadt
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

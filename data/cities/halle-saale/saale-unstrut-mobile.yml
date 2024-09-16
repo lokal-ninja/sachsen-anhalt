@@ -1,11 +1,11 @@
 id: 87326269
-type: way
+type: node
 latitude: 51.48919
 longitude: 11.94098
 postcode: "06122"
 city: Halle (Saale)
-street: "Blücherstraße"
-housenumber: 7
+street: Blücherstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

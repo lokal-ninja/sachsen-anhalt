@@ -4,8 +4,9 @@ latitude: 51.25939
 longitude: 11.85018
 postcode: "06632"
 city: Mücheln OT Gröst
-street: "Mittelstraße"
-housenumber: 2
-phone: "+49 3463323147"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00; We 09:00-12:00; Sa 08:30-11:30; Mo,Su,PH off"
-website: "https://www.landwirt-falko-werner.de/"
+street: Mittelstraße
+housenumber: "2"
+phone: +49 3463323147
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:00; We 09:00-12:00; Sa 08:30-11:30; Mo,Su,PH
+    off
+website: https://www.landwirt-falko-werner.de/

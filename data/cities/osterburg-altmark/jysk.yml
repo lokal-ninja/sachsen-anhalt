@@ -1,11 +1,11 @@
 id: 28429618
-type: way
+type: node
 latitude: 52.78204
 longitude: 11.74615
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Melkerstraße"
-housenumber: 49
-phone: "+49 3937 2929690"
-opening_hours: "Mo-Sa 09:30-18:00"
+street: Melkerstraße
+housenumber: "49"
+phone: +49 3937 2929690
+opening_hours: Mo-Sa 09:30-18:00
 website: ""

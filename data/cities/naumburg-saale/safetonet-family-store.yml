@@ -4,8 +4,8 @@ latitude: 51.15281
 longitude: 11.80852
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Engelgasse"
-housenumber: 1
-phone: "+49 3445 710852"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:00; Mo,Su,Ph off"
+street: Engelgasse
+housenumber: "1"
+phone: +49 3445 710852
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-12:00; Mo,Su,Ph off
 website: ""

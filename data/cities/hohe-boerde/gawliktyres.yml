@@ -1,11 +1,11 @@
 id: 222357393
-type: way
+type: node
 latitude: 52.13498
 longitude: 11.51323
 postcode: "39167"
 city: Hohe Börde
-street: "Am Stadtberg"
-housenumber: 2
+street: Am Stadtberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

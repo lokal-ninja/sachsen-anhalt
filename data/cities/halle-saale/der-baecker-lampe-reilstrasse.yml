@@ -4,8 +4,8 @@ latitude: 51.49675
 longitude: 11.96608
 postcode: "06114"
 city: Halle (Saale)
-street: "Reilstraße"
-housenumber: 9
+street: Reilstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-11:00"
-website: "https://www.baecker-lampe.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-11:00
+website: https://www.baecker-lampe.de/

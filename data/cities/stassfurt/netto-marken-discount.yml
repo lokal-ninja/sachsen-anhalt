@@ -1,11 +1,11 @@
 id: 1037106680
-type: way
+type: node
 latitude: 51.85968
 longitude: 11.57526
 postcode: "39418"
 city: Staßfurt
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

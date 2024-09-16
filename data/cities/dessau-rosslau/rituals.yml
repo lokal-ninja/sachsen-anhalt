@@ -4,8 +4,8 @@ latitude: 51.83425
 longitude: 12.24474
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+4934052101225"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.rituals.com/de-de/store-detail?store=Dessau-Rathaus-Galerie"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.rituals.com/de-de/store-detail?store=Dessau-Rathaus-Galerie

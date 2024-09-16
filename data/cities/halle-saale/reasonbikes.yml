@@ -1,11 +1,11 @@
 id: 122747233
-type: way
+type: node
 latitude: 51.4845
 longitude: 11.97466
 postcode: "06108"
 city: Halle (Saale)
-street: "Wilhelm-Külz-Straße"
-housenumber: 6
+street: Wilhelm-Külz-Straße
+housenumber: "6"
 phone: "+491633782810"
-opening_hours: "Mo, We, Fr 11:00-16:00"
-website: "https://www.reasonbikes.de/"
+opening_hours: Mo, We, Fr 11:00-16:00
+website: https://www.reasonbikes.de/

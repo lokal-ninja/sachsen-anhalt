@@ -1,11 +1,11 @@
 id: 333612353
-type: way
+type: node
 latitude: 51.73527
 longitude: 11.16759
 postcode: "06493"
 city: Ballenstedt
-street: "Kleine Wasserstraße"
-housenumber: 1
+street: Kleine Wasserstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 06:30-18:00, Sa 06:00-11:00"
+opening_hours: Tu-Fr 06:30-18:00, Sa 06:00-11:00
 website: ""

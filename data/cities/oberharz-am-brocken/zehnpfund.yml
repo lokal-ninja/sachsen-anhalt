@@ -1,11 +1,11 @@
 id: 408667674
-type: way
+type: node
 latitude: 51.66476
 longitude: 10.88478
 postcode: "38899"
 city: Oberharz am Brocken
-street: "Lange Straße"
-housenumber: 11
+street: Lange Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

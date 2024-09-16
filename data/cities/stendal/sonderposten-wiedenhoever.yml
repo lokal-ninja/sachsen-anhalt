@@ -1,11 +1,11 @@
 id: 86325092
-type: way
+type: node
 latitude: 52.55712
 longitude: 11.81206
 postcode: "39576"
 city: Stendal
-street: "Gohrer Chausseestraße"
-housenumber: 7
+street: Gohrer Chausseestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

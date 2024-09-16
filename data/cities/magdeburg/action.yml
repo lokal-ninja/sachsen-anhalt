@@ -4,8 +4,8 @@ latitude: 52.17379
 longitude: 11.62865
 postcode: "39126"
 city: Magdeburg
-street: "Ziolkowskistraße"
-housenumber: 11
-phone: "+49 211 30146100"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/magdeburg-nord/"
+street: Ziolkowskistraße
+housenumber: "11"
+phone: +49 211 30146100
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/magdeburg-nord/

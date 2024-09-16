@@ -4,8 +4,8 @@ latitude: 52.13229
 longitude: 11.6348
 postcode: "39104"
 city: Magdeburg
-street: "Große Münzstraße"
-housenumber: 6
+street: Große Münzstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 13:00-18:00; Fr 10:00-16:00"
-website: "https://www.nold-objekteinrichter.de/"
+opening_hours: Mo-Th 13:00-18:00; Fr 10:00-16:00
+website: https://www.nold-objekteinrichter.de/

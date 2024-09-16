@@ -1,11 +1,11 @@
 id: 87952316
-type: way
+type: node
 latitude: 51.50057
 longitude: 11.93375
 postcode: "06120"
 city: Halle (Saale)
-street: "Heideallee"
-housenumber: 2
+street: Heideallee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 441958398
-type: way
+type: node
 latitude: 51.85929
 longitude: 10.70525
 postcode: "38871"
 city: Ilsenburg
-street: "Gewerbegebiet am Thie"
-housenumber: 7
+street: Gewerbegebiet am Thie
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

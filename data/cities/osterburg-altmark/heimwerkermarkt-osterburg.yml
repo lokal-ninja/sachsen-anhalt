@@ -1,11 +1,11 @@
 id: 257613454
-type: way
+type: node
 latitude: 52.78674
 longitude: 11.75405
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Stendaler Straße"
-housenumber: 8
-phone: "+49 3937 895898"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH,Su off"
+street: Stendaler Straße
+housenumber: "8"
+phone: +49 3937 895898
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 194456193
-type: way
+type: node
 latitude: 51.47048
 longitude: 11.89388
 postcode: "06126"
 city: Halle (Saale)
-street: "Zscherbener Landstraße"
-housenumber: 3
+street: Zscherbener Landstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

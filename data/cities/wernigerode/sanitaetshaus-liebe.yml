@@ -4,8 +4,8 @@ latitude: 51.83204
 longitude: 10.78119
 postcode: "38855"
 city: Wernigerode
-street: "Westernstraße"
-housenumber: 37
-phone: "+49 3943 9212-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.sanitaetshaus-liebe.de/"
+street: Westernstraße
+housenumber: "37"
+phone: +49 3943 9212-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.sanitaetshaus-liebe.de/

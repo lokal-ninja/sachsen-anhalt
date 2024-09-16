@@ -1,11 +1,11 @@
 id: 312812322
-type: way
+type: node
 latitude: 52.54705
 longitude: 11.97201
 postcode: "39590"
 city: Tangermünde
-street: "Kirschallee"
+street: Kirschallee
 housenumber: 1E
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/tangermuende/kirschallee-1-e/5004"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/tangermuende/kirschallee-1-e/5004

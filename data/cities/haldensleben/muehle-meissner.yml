@@ -1,11 +1,11 @@
 id: 42314995
-type: way
+type: node
 latitude: 52.25888
 longitude: 11.42718
 postcode: "39340"
 city: Haldensleben
-street: "Neuhaldensleber Straße"
-housenumber: 76
+street: Neuhaldensleber Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Tu, Th, Fr 10:00-13:00, 14:00-17:00; Sa 09:00-12:00"
+opening_hours: Tu, Th, Fr 10:00-13:00, 14:00-17:00; Sa 09:00-12:00
 website: ""

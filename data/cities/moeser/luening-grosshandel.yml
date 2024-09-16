@@ -1,11 +1,11 @@
 id: 239924018
-type: way
+type: node
 latitude: 52.21449
 longitude: 11.74325
 postcode: "39291"
 city: Möser
-street: "Külzauer Weg"
-housenumber: 4
+street: Külzauer Weg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

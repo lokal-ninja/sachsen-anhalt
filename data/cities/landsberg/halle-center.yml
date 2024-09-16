@@ -1,11 +1,11 @@
 id: 34964595
-type: way
+type: node
 latitude: 51.51226
 longitude: 12.05143
 postcode: "06188"
 city: Landsberg
-street: "Saarbrücker Straße"
-housenumber: 1
+street: Saarbrücker Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.hallecenter.de/"
+website: https://www.hallecenter.de/

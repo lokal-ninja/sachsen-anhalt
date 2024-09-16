@@ -1,11 +1,11 @@
 id: 481043693
-type: way
+type: node
 latitude: 52.4337
 longitude: 11.7925
 postcode: "39517"
 city: Tangerhütte
-street: "Neustädter Ring"
-housenumber: 78
+street: Neustädter Ring
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

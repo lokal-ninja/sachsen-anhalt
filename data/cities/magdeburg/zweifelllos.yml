@@ -4,8 +4,8 @@ latitude: 52.13417
 longitude: 11.60894
 postcode: "39108"
 city: Magdeburg
-street: "Immermannstraße"
-housenumber: 6
+street: Immermannstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-We 09:00-15:00; Th,Fr 12:00-18:00; Sa nach Vereinbarung; PH off"
+opening_hours: Mo-We 09:00-15:00; Th,Fr 12:00-18:00; Sa "nach Vereinbarung"; PH off
 website: ""

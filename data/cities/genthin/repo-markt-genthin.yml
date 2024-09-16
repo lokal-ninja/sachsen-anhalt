@@ -1,11 +1,11 @@
 id: 1192228479
-type: way
+type: node
 latitude: 52.41677
 longitude: 12.15767
 postcode: "39307"
 city: Genthin
-street: "Am Legefeld"
-housenumber: 5
+street: Am Legefeld
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
 website: ""

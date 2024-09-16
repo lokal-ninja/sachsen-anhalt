@@ -4,8 +4,8 @@ latitude: 51.47371
 longitude: 11.96888
 postcode: "06110"
 city: Halle (Saale)
-street: "Torstraße"
-housenumber: 1
+street: Torstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
+opening_hours: Mo-Sa 09:00-19:00; Su off
 website: ""

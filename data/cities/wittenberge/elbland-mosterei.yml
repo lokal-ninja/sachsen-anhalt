@@ -1,11 +1,11 @@
 id: 306080005
-type: way
+type: node
 latitude: 53.0028
 longitude: 11.75527
 postcode: "19322"
 city: Wittenberge
-street: "Perleberger Straße"
-housenumber: 34
-phone: "+49 3877 5676430"
+street: Perleberger Straße
+housenumber: "34"
+phone: +49 3877 5676430
 opening_hours: ""
-website: "https://apfel-saft.de/"
+website: https://apfel-saft.de/

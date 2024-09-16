@@ -1,11 +1,11 @@
 id: 31481171
-type: way
+type: node
 latitude: 51.34591
 longitude: 12.17365
 postcode: "06237"
 city: Leuna
-street: "Nova Eventis"
-housenumber: 1
-phone: "+49 34638 6633 0"
-opening_hours: "Mo-Th,Sa 10:00-20:00; Fr 10:00-21:00"
-website: "http://www.zweirad-stadler.com/"
+street: Nova Eventis
+housenumber: "1"
+phone: +49 34638 6633 0
+opening_hours: Mo-Th,Sa 10:00-20:00; Fr 10:00-21:00
+website: http://www.zweirad-stadler.com/

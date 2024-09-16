@@ -1,11 +1,11 @@
 id: 310559655
-type: way
+type: node
 latitude: 52.11462
 longitude: 11.61259
 postcode: "39112"
 city: Magdeburg
-street: "Halberstädter Straße"
-housenumber: 41
+street: Halberstädter Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

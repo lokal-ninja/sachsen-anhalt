@@ -4,8 +4,8 @@ latitude: 51.81959
 longitude: 12.30297
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Am Eichengarten"
-housenumber: 2
+street: Am Eichengarten
+housenumber: "2"
 phone: "+493402160957"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.klier.de"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.klier.de

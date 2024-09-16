@@ -1,11 +1,11 @@
 id: 151790219
-type: way
+type: node
 latitude: 52.08797
 longitude: 11.56179
 postcode: "39116"
 city: Magdeburg
-street: "Wanzleber Chaussee"
-housenumber: 18
+street: Wanzleber Chaussee
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-rogge.de/"
+website: https://www.autohaus-rogge.de/

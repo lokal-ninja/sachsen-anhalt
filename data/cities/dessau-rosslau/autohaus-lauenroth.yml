@@ -4,8 +4,8 @@ latitude: 51.81184
 longitude: 12.21714
 postcode: "06847"
 city: Dessau-Roßlau
-street: "Zunftstraße"
-housenumber: 3
-phone: "+49 340 54039-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.honda-dessau.de/"
+street: Zunftstraße
+housenumber: "3"
+phone: +49 340 54039-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.honda-dessau.de/

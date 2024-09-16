@@ -1,11 +1,11 @@
 id: 292400430
-type: way
+type: node
 latitude: 51.96088
 longitude: 11.87709
 postcode: "39249"
 city: Barby
-street: "Calbenser Straße"
-housenumber: 1
+street: Calbenser Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

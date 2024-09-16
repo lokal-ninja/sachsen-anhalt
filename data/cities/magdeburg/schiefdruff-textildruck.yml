@@ -4,8 +4,8 @@ latitude: 52.11811
 longitude: 11.62
 postcode: "39112"
 city: Magdeburg
-street: "Halberstädter Straße"
-housenumber: 3
+street: Halberstädter Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00,Sa 11:00-15:00"
-website: "https://www.instagram.com/schiefdruff/"
+opening_hours: Mo-Fr 12:00-19:00,Sa 11:00-15:00
+website: https://www.instagram.com/schiefdruff/

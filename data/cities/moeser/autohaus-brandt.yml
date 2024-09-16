@@ -1,11 +1,11 @@
 id: 1146759604
-type: way
+type: node
 latitude: 52.18165
 longitude: 11.78214
 postcode: "39175"
 city: Möser
-street: "Lostauer Straße"
-housenumber: 3
+street: Lostauer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

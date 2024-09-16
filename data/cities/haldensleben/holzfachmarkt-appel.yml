@@ -1,11 +1,11 @@
 id: 431433314
-type: way
+type: node
 latitude: 52.2765
 longitude: 11.44081
 postcode: "39340"
 city: Haldensleben
-street: "Dammühlenweg"
-housenumber: 55
+street: Dammühlenweg
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:00
 website: ""

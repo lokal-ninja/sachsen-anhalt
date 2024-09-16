@@ -1,11 +1,11 @@
 id: 49527975
-type: way
+type: node
 latitude: 52.12366
 longitude: 11.6127
 postcode: "39108"
 city: Magdeburg
-street: "Liebknechtstraße"
-housenumber: 31
-phone: "+49 391 50 65 80"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "https://www.monsator-magdeburg.de/"
+street: Liebknechtstraße
+housenumber: "31"
+phone: +49 391 50 65 80
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: https://www.monsator-magdeburg.de/

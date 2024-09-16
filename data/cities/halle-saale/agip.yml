@@ -1,11 +1,11 @@
 id: 46160955
-type: way
+type: node
 latitude: 51.44426
 longitude: 11.97181
 postcode: "06132"
 city: Halle (Saale)
-street: "Freyburger Straße"
-housenumber: 17
+street: Freyburger Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

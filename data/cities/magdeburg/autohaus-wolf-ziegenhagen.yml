@@ -1,11 +1,11 @@
 id: 131666038
-type: way
+type: node
 latitude: 52.07976
 longitude: 11.62603
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 14
+street: Carnotstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.autohausziegenhagen.de/"
+website: https://www.autohausziegenhagen.de/

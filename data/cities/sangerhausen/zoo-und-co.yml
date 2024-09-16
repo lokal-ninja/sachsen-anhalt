@@ -4,8 +4,8 @@ latitude: 51.46862
 longitude: 11.27504
 postcode: "06526"
 city: Sangerhausen
-street: "Riethweg"
-housenumber: 18
-phone: "+49 3464 674250"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.zooundco-sangerhausen.de/"
+street: Riethweg
+housenumber: "18"
+phone: +49 3464 674250
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.zooundco-sangerhausen.de/

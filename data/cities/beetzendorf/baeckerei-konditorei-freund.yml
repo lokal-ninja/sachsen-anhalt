@@ -1,11 +1,11 @@
 id: 87863132
-type: way
+type: node
 latitude: 52.70189
 longitude: 11.09103
 postcode: "38489"
 city: Beetzendorf
-street: "Lindenstraße"
-housenumber: 12
+street: Lindenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

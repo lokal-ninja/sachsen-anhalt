@@ -4,8 +4,8 @@ latitude: 51.89558
 longitude: 11.03541
 postcode: "38820"
 city: Halberstadt
-street: "Rabahne"
-housenumber: 16
-phone: "+49 3941 569897"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-16:00; Su,PH off"
-website: "https://www.backhaus-siemer.de/"
+street: Rabahne
+housenumber: "16"
+phone: +49 3941 569897
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-16:00; Su,PH off
+website: https://www.backhaus-siemer.de/

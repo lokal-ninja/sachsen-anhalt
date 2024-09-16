@@ -1,11 +1,11 @@
 id: 1205489348
-type: way
+type: node
 latitude: 51.61344
 longitude: 12.30768
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Brehnaer Straße"
+street: Brehnaer Straße
 housenumber: 34g
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

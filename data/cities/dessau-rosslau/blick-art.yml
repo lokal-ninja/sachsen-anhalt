@@ -1,11 +1,11 @@
 id: 52878534
-type: way
+type: node
 latitude: 51.8324
 longitude: 12.24494
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Wallstraße"
-housenumber: 26
+street: Wallstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 352875918
-type: way
+type: node
 latitude: 51.62377
 longitude: 12.3994
 postcode: "06774"
 city: Muldestausee
-street: "Alt-Pouch"
-housenumber: 3
+street: Alt-Pouch
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

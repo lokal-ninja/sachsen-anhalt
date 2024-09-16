@@ -4,8 +4,8 @@ latitude: 51.51222
 longitude: 11.87671
 postcode: "06120"
 city: Halle (Saale)
-street: "Salzmünder Straße"
-housenumber: 93
-phone: "+49 345 5511564"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00"
-website: "https://www.reifen-walthart.de/"
+street: Salzmünder Straße
+housenumber: "93"
+phone: +49 345 5511564
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00
+website: https://www.reifen-walthart.de/

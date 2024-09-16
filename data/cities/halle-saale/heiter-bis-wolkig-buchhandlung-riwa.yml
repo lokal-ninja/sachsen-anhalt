@@ -4,8 +4,8 @@ latitude: 51.4964
 longitude: 11.96432
 postcode: "06114"
 city: Halle (Saale)
-street: "Richard-Wagner-Straße"
-housenumber: 7
-phone: "+49 345 13256525"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://heiterebuecher.de"
+street: Richard-Wagner-Straße
+housenumber: "7"
+phone: +49 345 13256525
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://heiterebuecher.de

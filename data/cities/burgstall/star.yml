@@ -1,11 +1,11 @@
 id: 640962214
-type: way
+type: node
 latitude: 52.41525
 longitude: 11.62574
 postcode: "39517"
 city: Burgstall
-street: "Lindenstraße"
-housenumber: 15
-phone: "+49 39364 91397"
+street: Lindenstraße
+housenumber: "15"
+phone: +49 39364 91397
 opening_hours: ""
 website: ""

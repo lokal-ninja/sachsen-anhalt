@@ -1,11 +1,11 @@
 id: 896592053
-type: way
+type: node
 latitude: 51.84551
 longitude: 12.74435
 postcode: "06895"
 city: Zahna-Elster
-street: "Zur Elbe"
-housenumber: 3
+street: Zur Elbe
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

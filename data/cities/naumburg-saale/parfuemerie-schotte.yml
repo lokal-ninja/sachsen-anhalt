@@ -4,8 +4,8 @@ latitude: 51.15305
 longitude: 11.80929
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Markt"
-housenumber: 17
-phone: "+49 3445 202428"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.schotte-naumburg.de/"
+street: Markt
+housenumber: "17"
+phone: +49 3445 202428
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.schotte-naumburg.de/

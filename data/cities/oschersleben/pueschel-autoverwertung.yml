@@ -1,11 +1,11 @@
 id: 298983380
-type: way
+type: node
 latitude: 52.02923
 longitude: 11.23861
 postcode: "39387"
 city: Oschersleben
-street: "Triftstraße"
+street: Triftstraße
 housenumber: 2H
-phone: "+49 3949 512671"
+phone: +49 3949 512671
 opening_hours: ""
-website: "http://autoverwertung-pueschel.de/"
+website: http://autoverwertung-pueschel.de/

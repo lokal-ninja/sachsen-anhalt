@@ -1,11 +1,11 @@
 id: 303846029
-type: way
+type: node
 latitude: 51.76693
 longitude: 11.48273
 postcode: "06449"
 city: Aschersleben
-street: "Güstener Straße"
+street: Güstener Straße
 housenumber: 19c
-phone: "+49 3473 92730"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 3473 92730
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

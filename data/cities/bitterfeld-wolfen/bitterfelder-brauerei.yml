@@ -4,8 +4,8 @@ latitude: 51.62558
 longitude: 12.31414
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Hinter dem Bahnhof"
-housenumber: 5
+street: Hinter dem Bahnhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,15:00-17:00"
-website: "www.bitterfelder-bier.de"
+opening_hours: Mo-Fr 09:00-12:00,15:00-17:00
+website: www.bitterfelder-bier.de

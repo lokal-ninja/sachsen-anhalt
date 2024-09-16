@@ -1,11 +1,11 @@
 id: 613121644
-type: way
+type: node
 latitude: 52.85274
 longitude: 11.1821
 postcode: "29410"
 city: Salzwedel
-street: "An der Ritzer Brücke"
-housenumber: 1
+street: An der Ritzer Brücke
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

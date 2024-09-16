@@ -4,8 +4,8 @@ latitude: 52.20206
 longitude: 11.6193
 postcode: "39179"
 city: Barleben
-street: "Breiteweg"
-housenumber: 52
-phone: "+49 39203 561385"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.schaefers-brot.de/"
+street: Breiteweg
+housenumber: "52"
+phone: +49 39203 561385
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.schaefers-brot.de/

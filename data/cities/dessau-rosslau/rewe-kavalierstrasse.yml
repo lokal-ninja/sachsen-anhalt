@@ -4,8 +4,8 @@ latitude: 51.83376
 longitude: 12.24445
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+493402106280"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.rewe.de"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.rewe.de

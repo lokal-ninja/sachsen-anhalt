@@ -1,11 +1,11 @@
 id: 88523113
-type: way
+type: node
 latitude: 52.61714
 longitude: 11.85917
 postcode: "39576"
 city: Stendal
-street: "Preußenstraße"
-housenumber: 56
+street: Preußenstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

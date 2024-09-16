@@ -1,11 +1,11 @@
 id: 589694448
-type: way
+type: node
 latitude: 51.47953
 longitude: 11.3158
 postcode: "06526"
 city: Sangerhausen
-street: "Oststraße"
-housenumber: 2
+street: Oststraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/sangerhausen/oststrasse-02/3181365"
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/sangerhausen/oststrasse-02/3181365

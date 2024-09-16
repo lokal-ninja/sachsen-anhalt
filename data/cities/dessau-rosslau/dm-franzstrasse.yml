@@ -4,8 +4,8 @@ latitude: 51.82468
 longitude: 12.24317
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Franzstraße"
-housenumber: 159
+street: Franzstraße
+housenumber: "159"
 phone: "+4934051980805"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2566/dessau-rosslau/franzstrasse-159"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2566/dessau-rosslau/franzstrasse-159

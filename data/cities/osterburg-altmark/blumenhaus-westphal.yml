@@ -1,11 +1,11 @@
 id: 257755897
-type: way
+type: node
 latitude: 52.79138
 longitude: 11.75765
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Gartenstraße"
-housenumber: 22
-phone: "+49 3937 81696"
-opening_hours: "Mo-Fr 09:00-17:30"
+street: Gartenstraße
+housenumber: "22"
+phone: +49 3937 81696
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.90683
 longitude: 11.03833
 postcode: "38820"
 city: Halberstadt
-street: "Siedlungsstraße"
-housenumber: 4
+street: Siedlungsstraße
+housenumber: "4"
 phone: "+493941625021"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.dg-carservice.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.dg-carservice.de

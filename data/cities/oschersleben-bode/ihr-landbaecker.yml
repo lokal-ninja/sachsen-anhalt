@@ -4,8 +4,8 @@ latitude: 52.02679
 longitude: 11.22626
 postcode: "39387"
 city: Oschersleben (Bode)
-street: "Hornhäuser Straße"
-housenumber: 1
-phone: "+49 1520 901 0096"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:30; Su 07:00-10:00"
+street: Hornhäuser Straße
+housenumber: "1"
+phone: +49 1520 901 0096
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-11:30; Su 07:00-10:00
 website: ""

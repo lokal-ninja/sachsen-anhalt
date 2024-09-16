@@ -1,11 +1,11 @@
 id: 1081251345
-type: way
+type: node
 latitude: 52.44105
 longitude: 10.98008
 postcode: "39646"
 city: Oebisfelde-Weferlingen
-street: "Breitenroder Straße"
-housenumber: 1
+street: Breitenroder Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

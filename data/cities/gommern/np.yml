@@ -1,11 +1,11 @@
 id: 542467958
-type: way
+type: node
 latitude: 52.07341
 longitude: 11.82745
 postcode: "39245"
 city: Gommern
-street: "Martin-Schwantes-Straße"
-housenumber: 23
+street: Martin-Schwantes-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

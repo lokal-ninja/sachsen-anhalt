@@ -4,8 +4,8 @@ latitude: 51.47305
 longitude: 11.2977
 postcode: "06526"
 city: Sangerhausen
-street: "Markt"
-housenumber: 18
-phone: "+49 163 3836126"
-opening_hours: "; o-Fr 10:00-18:00; Sa, Su, PH OFF"
+street: Markt
+housenumber: "18"
+phone: +49 163 3836126
+opening_hours: ; o-Fr 10:00-18:00; Sa, Su, PH OFF
 website: ""

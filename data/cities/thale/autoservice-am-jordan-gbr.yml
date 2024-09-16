@@ -1,11 +1,11 @@
 id: 231242103
-type: way
+type: node
 latitude: 51.77183
 longitude: 11.05402
 postcode: "06502"
 city: Thale
-street: "Jordanstraße"
-housenumber: 43
+street: Jordanstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
 website: ""

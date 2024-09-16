@@ -4,8 +4,8 @@ latitude: 51.48432
 longitude: 11.96564
 postcode: "06108"
 city: Halle (Saale)
-street: "Domplatz"
-housenumber: 6
-phone: "+49 345 2082265"
-opening_hours: "Tu-Fr 09:00-13:00, 15:00-18:00"
-website: "https://ries-geigenbau.de/"
+street: Domplatz
+housenumber: "6"
+phone: +49 345 2082265
+opening_hours: Tu-Fr 09:00-13:00, 15:00-18:00
+website: https://ries-geigenbau.de/

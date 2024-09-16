@@ -1,11 +1,11 @@
 id: 39689131
-type: way
+type: node
 latitude: 51.50111
 longitude: 11.99381
 postcode: "06118"
 city: Halle (Saale)
-street: "Mühlrain"
-housenumber: 16
+street: Mühlrain
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
 website: ""

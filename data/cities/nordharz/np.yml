@@ -1,11 +1,11 @@
 id: 189916016
-type: way
+type: node
 latitude: 51.90231
 longitude: 10.6633
 postcode: "38871"
 city: Nordharz
-street: "Wasserstraße"
-housenumber: 4
+street: Wasserstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

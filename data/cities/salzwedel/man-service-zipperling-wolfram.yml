@@ -1,11 +1,11 @@
 id: 450566579
-type: way
+type: node
 latitude: 52.8264
 longitude: 11.12828
 postcode: "29410"
 city: Salzwedel
-street: "Ziethnitzer Höfe"
-housenumber: 7
+street: Ziethnitzer Höfe
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 30599247
-type: way
+type: node
 latitude: 52.16969
 longitude: 11.63258
 postcode: "39126"
 city: Magdeburg
-street: "Neustädter Platz"
-housenumber: 11
+street: Neustädter Platz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

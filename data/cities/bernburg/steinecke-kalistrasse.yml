@@ -1,11 +1,11 @@
 id: 235422991
-type: way
+type: node
 latitude: 51.77751
 longitude: 11.7472
 postcode: "06406"
 city: Bernburg
-street: "Kalistraße"
-housenumber: 1
-phone: "+49 3471 623616"
-opening_hours: "Mo-Sa 05:00-15:00"
-website: "https://www.steinecke.info/kontakt"
+street: Kalistraße
+housenumber: "1"
+phone: +49 3471 623616
+opening_hours: Mo-Sa 05:00-15:00
+website: https://www.steinecke.info/kontakt

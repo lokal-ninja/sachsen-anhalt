@@ -4,8 +4,8 @@ latitude: 51.81562
 longitude: 12.24138
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Heidestraße"
-housenumber: 102
+street: Heidestraße
+housenumber: "102"
 phone: "+493408508100"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
-website: "https://www.fahrradland-dornfeld.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00
+website: https://www.fahrradland-dornfeld.com/

@@ -1,11 +1,11 @@
 id: 293344661
-type: way
+type: node
 latitude: 51.45338
 longitude: 11.54365
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Gewerbegebiet Rothenschirmbach"
-housenumber: 23
-phone: "+49 34776 917591"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-16:00; Su,PH off"
-website: "https://landmarkt-rothenschirmbach.de/"
+street: Gewerbegebiet Rothenschirmbach
+housenumber: "23"
+phone: +49 34776 917591
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-16:00; Su,PH off
+website: https://landmarkt-rothenschirmbach.de/

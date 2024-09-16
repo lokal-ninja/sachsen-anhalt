@@ -1,11 +1,11 @@
 id: 158198341
-type: way
+type: node
 latitude: 51.45678
 longitude: 12.0168
 postcode: "06116"
 city: Halle (Saale)
-street: "Deutsche Grube"
-housenumber: 
+street: Deutsche Grube
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00; PH off"
-website: "https://frostkauf.de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00; PH off
+website: https://frostkauf.de/

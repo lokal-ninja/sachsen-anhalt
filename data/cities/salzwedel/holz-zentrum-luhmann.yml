@@ -1,11 +1,11 @@
 id: 588177732
-type: way
+type: node
 latitude: 52.82688
 longitude: 11.20165
 postcode: "29410"
 city: Salzwedel
-street: "Fuchsberger Straße"
-housenumber: 6
+street: Fuchsberger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

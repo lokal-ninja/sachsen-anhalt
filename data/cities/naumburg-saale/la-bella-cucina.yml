@@ -4,8 +4,9 @@ latitude: 51.14933
 longitude: 11.81906
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Weißenfelser Straße"
+street: Weißenfelser Straße
 housenumber: 31-33
-phone: "+49 3445 770005"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-13:00; Mo,Su,Ph off || Außerhalb der Öffnungszeiten nach Vereinbarung"
+phone: +49 3445 770005
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-13:00; Mo,Su,Ph off || "Außerhalb der Öffnungszeiten
+    nach Vereinbarung"
 website: ""

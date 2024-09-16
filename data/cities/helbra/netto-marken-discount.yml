@@ -1,11 +1,11 @@
 id: 1009898939
-type: way
+type: node
 latitude: 51.54898
 longitude: 11.48776
 postcode: "06311"
 city: Helbra
-street: "Mittelstraße"
-housenumber: 11
+street: Mittelstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

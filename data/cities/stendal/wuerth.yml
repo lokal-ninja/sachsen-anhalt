@@ -1,11 +1,11 @@
 id: 89357154
-type: way
+type: node
 latitude: 52.59261
 longitude: 11.86928
 postcode: "39576"
 city: Stendal
-street: "Heerener Straße"
-housenumber: 15
+street: Heerener Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.4018
 longitude: 12.33221
 postcode: "14789"
 city: Bensdorf
-street: "Gutsstraße"
-housenumber: 1
-phone: "+49 33839 61686"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-16:00"
-website: "https://herrenhoelzer.de/"
+street: Gutsstraße
+housenumber: "1"
+phone: +49 33839 61686
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-16:00
+website: https://herrenhoelzer.de/

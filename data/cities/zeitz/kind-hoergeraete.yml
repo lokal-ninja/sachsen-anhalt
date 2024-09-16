@@ -4,8 +4,8 @@ latitude: 51.0502
 longitude: 12.13738
 postcode: "06712"
 city: Zeitz
-street: "Wendische Straße"
-housenumber: 5
+street: Wendische Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa,Su,PH off
 website: ""

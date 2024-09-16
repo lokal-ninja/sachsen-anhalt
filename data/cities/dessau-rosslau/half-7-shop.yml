@@ -4,8 +4,8 @@ latitude: 51.83794
 longitude: 12.24229
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Johannisstraße"
-housenumber: 15
+street: Johannisstraße
+housenumber: "15"
 phone: "+493408828873"
-opening_hours: "Mo-We, Fr 11:00-18:30; Th 11:00-20:00; Sa 11:00-18:00"
-website: "http://www.hateyou.biz/"
+opening_hours: Mo-We, Fr 11:00-18:30; Th 11:00-20:00; Sa 11:00-18:00
+website: http://www.hateyou.biz/

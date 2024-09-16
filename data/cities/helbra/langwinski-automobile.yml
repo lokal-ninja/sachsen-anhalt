@@ -1,11 +1,11 @@
 id: 236888403
-type: way
+type: node
 latitude: 51.55475
 longitude: 11.50263
 postcode: "06311"
 city: Helbra
-street: "Christian-Ottiliae-Straße"
-housenumber: 9
-phone: "+49 34772 21860"
+street: Christian-Ottiliae-Straße
+housenumber: "9"
+phone: +49 34772 21860
 opening_hours: ""
 website: ""

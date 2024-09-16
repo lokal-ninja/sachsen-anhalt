@@ -4,8 +4,8 @@ latitude: 52.13412
 longitude: 11.63844
 postcode: "39104"
 city: Magdeburg
-street: "Breiter Weg"
-housenumber: 29
-phone: "+49 391 99035552"
-opening_hours: "Tu-Fr 10:00-16:00, Sa 10:00-13:00, Su, Mo off; PH off"
-website: "https://www.antiquariat-peter-sodann-magdeburg.de/"
+street: Breiter Weg
+housenumber: "29"
+phone: +49 391 99035552
+opening_hours: Tu-Fr 10:00-16:00, Sa 10:00-13:00, Su, Mo off; PH off
+website: https://www.antiquariat-peter-sodann-magdeburg.de/

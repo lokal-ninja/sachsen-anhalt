@@ -1,11 +1,11 @@
 id: 1200015187
-type: way
+type: node
 latitude: 52.24687
 longitude: 12.2506
 postcode: "39291"
 city: Genthin
-street: "Schopsdorfer Heidestraße"
-housenumber: 3
+street: Schopsdorfer Heidestraße
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

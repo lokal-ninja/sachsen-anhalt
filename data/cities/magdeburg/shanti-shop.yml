@@ -4,8 +4,8 @@ latitude: 52.1315
 longitude: 11.63393
 postcode: "39104"
 city: Magdeburg
-street: "Ernst-Reuter-Allee"
-housenumber: 24
+street: Ernst-Reuter-Allee
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-18:00; PH off"
-website: "https://shantishop-md.de/"
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-18:00; PH off
+website: https://shantishop-md.de/

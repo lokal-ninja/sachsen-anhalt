@@ -1,11 +1,11 @@
 id: 381308349
-type: way
+type: node
 latitude: 52.56156
 longitude: 11.94415
 postcode: "39590"
 city: Tangermünde
-street: "Siedlung"
-housenumber: 4
+street: Siedlung
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

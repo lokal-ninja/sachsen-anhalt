@@ -1,11 +1,11 @@
 id: 300992251
-type: way
+type: node
 latitude: 52.66116
 longitude: 11.54744
 postcode: "39629"
 city: Bismark (Altmark)
-street: "Döllnitzer Straße"
+street: Döllnitzer Straße
 housenumber: 7a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/bismark/doellnitzer-strasse-7-a.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/bismark/doellnitzer-strasse-7-a.html

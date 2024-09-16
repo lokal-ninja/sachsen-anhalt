@@ -1,11 +1,11 @@
 id: 164080963
-type: way
+type: node
 latitude: 52.62342
 longitude: 11.07643
 postcode: "38486"
 city: Klötze
-street: "Neuferchauer Weg"
-housenumber: 7
+street: Neuferchauer Weg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-12:00
 website: ""

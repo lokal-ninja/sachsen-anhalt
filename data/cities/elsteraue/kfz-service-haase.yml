@@ -4,8 +4,8 @@ latitude: 51.05915
 longitude: 12.22069
 postcode: "06729"
 city: Elsteraue
-street: "Birkenweg"
-housenumber: 11
+street: Birkenweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-17:00; Tu,Th 08:00-18:00; Sa,Su,PH off"
+opening_hours: Mo,We,Fr 08:00-17:00; Tu,Th 08:00-18:00; Sa,Su,PH off
 website: ""

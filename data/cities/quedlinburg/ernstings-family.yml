@@ -4,8 +4,8 @@ latitude: 51.78929
 longitude: 11.15968
 postcode: "06484"
 city: Quedlinburg
-street: "Badeborner Weg"
-housenumber: 2
-phone: "+49 2546 9899998"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.ernstings-family.de"
+street: Badeborner Weg
+housenumber: "2"
+phone: +49 2546 9899998
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su,PH off
+website: https://www.ernstings-family.de

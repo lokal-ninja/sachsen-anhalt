@@ -1,11 +1,11 @@
 id: 1052602425
-type: way
+type: node
 latitude: 52.35895
 longitude: 11.73364
 postcode: "39326"
 city: Angern
-street: "Chausseestraße"
-housenumber: 6
-phone: "+49 39363 352"
+street: Chausseestraße
+housenumber: "6"
+phone: +49 39363 352
 opening_hours: ""
 website: ""

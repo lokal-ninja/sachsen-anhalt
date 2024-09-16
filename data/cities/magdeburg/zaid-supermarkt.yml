@@ -4,8 +4,8 @@ latitude: 52.12005
 longitude: 11.62963
 postcode: "39104"
 city: Magdeburg
-street: "Liebigstraße"
-housenumber: 5
+street: Liebigstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

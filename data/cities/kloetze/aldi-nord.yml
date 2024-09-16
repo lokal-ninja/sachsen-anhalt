@@ -1,11 +1,11 @@
 id: 136070164
-type: way
+type: node
 latitude: 52.62908
 longitude: 11.15666
 postcode: "38486"
 city: Klötze
-street: "Poppauer Straße"
-housenumber: 2
+street: Poppauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/kloetze/poppauerstr-1.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen-anhalt/kloetze/poppauerstr-1.html

@@ -1,11 +1,11 @@
 id: 90694456
-type: way
+type: node
 latitude: 51.13883
 longitude: 11.72104
 postcode: "06628"
 city: Naumburg (Saale)
-street: "Naumburger Straße"
-housenumber: 15
+street: Naumburger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

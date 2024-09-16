@@ -1,11 +1,11 @@
 id: 943373504
-type: way
+type: node
 latitude: 51.73982
 longitude: 11.14897
 postcode: "06485"
 city: Quedlinburg
-street: "Auf den Steinen"
-housenumber: 22
-phone: "+49 39485 65 90"
+street: Auf den Steinen
+housenumber: "22"
+phone: +49 39485 65 90
 opening_hours: ""
-website: "https://www.skoda-jahnsmueller.de/"
+website: https://www.skoda-jahnsmueller.de/

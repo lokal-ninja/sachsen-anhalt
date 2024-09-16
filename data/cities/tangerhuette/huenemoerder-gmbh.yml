@@ -1,11 +1,11 @@
 id: 548214469
-type: way
+type: node
 latitude: 52.51358
 longitude: 11.74214
 postcode: "39517"
 city: Tangerhütte
-street: "Das Weizenland"
-housenumber: 2
+street: Das Weizenland
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

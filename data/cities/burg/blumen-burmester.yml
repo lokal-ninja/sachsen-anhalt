@@ -1,11 +1,11 @@
 id: 303931802
-type: way
+type: node
 latitude: 52.2737
 longitude: 11.86848
 postcode: "39288"
 city: Burg
-street: "Berliner Straße"
-housenumber: 24
-phone: "+49 3921 3910"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 09:30-11:30"
-website: "https://www.blumen-burmester.de/"
+street: Berliner Straße
+housenumber: "24"
+phone: +49 3921 3910
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 09:30-11:30
+website: https://www.blumen-burmester.de/

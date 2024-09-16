@@ -1,11 +1,11 @@
 id: 124098399
-type: way
+type: node
 latitude: 51.97107
 longitude: 11.65033
 postcode: "39221"
 city: Bördeland
-street: "Brausewinkel"
-housenumber: 6
+street: Brausewinkel
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

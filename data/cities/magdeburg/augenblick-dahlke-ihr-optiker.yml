@@ -4,8 +4,8 @@ latitude: 52.12127
 longitude: 11.63026
 postcode: "39104"
 city: Magdeburg
-street: "Leibnizstraße"
-housenumber: 17
-phone: "+49 391 544 68 93"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.augenblick-ihr-optiker.de/"
+street: Leibnizstraße
+housenumber: "17"
+phone: +49 391 544 68 93
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.augenblick-ihr-optiker.de/

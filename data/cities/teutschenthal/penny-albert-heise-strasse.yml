@@ -1,11 +1,11 @@
 id: 104207105
-type: way
+type: node
 latitude: 51.45478
 longitude: 11.81767
 postcode: "06179"
 city: Teutschenthal
-street: "Albert-Heise-Straße"
-housenumber: 
+street: Albert-Heise-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

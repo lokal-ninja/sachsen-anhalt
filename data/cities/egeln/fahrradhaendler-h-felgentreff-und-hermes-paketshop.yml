@@ -1,11 +1,11 @@
 id: 212712689
-type: way
+type: node
 latitude: 51.94446
 longitude: 11.43152
 postcode: ""
 city: Egeln
-street: "Breiteweg"
-housenumber: 44
-phone: "+49 39268 2430"
+street: Breiteweg
+housenumber: "44"
+phone: +49 39268 2430
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 242088544
-type: way
+type: node
 latitude: 51.73642
 longitude: 11.15087
 postcode: "06485"
 city: Quedlinburg
-street: "Quedlinburger Straße"
-housenumber: 25
+street: Quedlinburger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

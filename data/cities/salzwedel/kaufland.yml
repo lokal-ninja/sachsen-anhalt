@@ -1,11 +1,11 @@
 id: 87612932
-type: way
+type: node
 latitude: 52.85713
 longitude: 11.15157
 postcode: "29410"
 city: Salzwedel
-street: "Karl-Marx-Straße"
-housenumber: 13
+street: Karl-Marx-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off
 website: ""

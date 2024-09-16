@@ -4,8 +4,8 @@ latitude: 52.13391
 longitude: 11.61661
 postcode: "39108"
 city: Magdeburg
-street: "Goethestraße"
-housenumber: 3
-phone: "+49 391 7314718"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://hairfashion-md.de/"
+street: Goethestraße
+housenumber: "3"
+phone: +49 391 7314718
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://hairfashion-md.de/

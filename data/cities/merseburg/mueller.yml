@@ -4,8 +4,8 @@ latitude: 51.35487
 longitude: 11.99663
 postcode: "06217"
 city: Merseburg
-street: "Gotthardstraße"
-housenumber: 20
+street: Gotthardstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "www.mueller.de"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: www.mueller.de

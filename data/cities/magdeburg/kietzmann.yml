@@ -4,8 +4,8 @@ latitude: 52.12104
 longitude: 11.62972
 postcode: "39104"
 city: Magdeburg
-street: "Einsteinstraße"
-housenumber: 12
+street: Einsteinstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "http://www.kietzmann-magdeburg.de/"
+opening_hours: Mo-Fr 12:00-18:00
+website: http://www.kietzmann-magdeburg.de/

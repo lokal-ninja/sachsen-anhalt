@@ -1,11 +1,11 @@
 id: 232178980
-type: way
+type: node
 latitude: 51.38205
 longitude: 11.6144
 postcode: "06268"
 city: Querfurt
-street: "Merseburger Straße"
-housenumber: 87
+street: Merseburger Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa 06:30-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Fr 06:30-21:00; Sa 06:30-20:00
+website: https://www.netto-online.de

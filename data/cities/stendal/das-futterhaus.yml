@@ -4,8 +4,8 @@ latitude: 52.58361
 longitude: 11.87521
 postcode: "39576"
 city: Stendal
-street: "Industriestraße"
-housenumber: 16
-phone: "+49 3931 718353"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://www.futterhaus.de/service/filialen/stendal/"
+street: Industriestraße
+housenumber: "16"
+phone: +49 3931 718353
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off
+website: https://www.futterhaus.de/service/filialen/stendal/

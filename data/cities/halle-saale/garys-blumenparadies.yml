@@ -1,11 +1,11 @@
 id: 183181195
-type: way
+type: node
 latitude: 51.42422
 longitude: 11.99589
 postcode: "06132"
 city: Halle (Saale)
-street: "Gärtnerstraße"
-housenumber: 11
+street: Gärtnerstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 840326688
-type: way
+type: node
 latitude: 51.45771
 longitude: 11.97976
 postcode: "06110"
 city: Halle (Saale)
-street: "Frau-von-Selmnitz-Straße"
-housenumber: 4
+street: Frau-von-Selmnitz-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
 website: ""

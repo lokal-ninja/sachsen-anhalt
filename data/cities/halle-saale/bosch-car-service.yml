@@ -1,11 +1,11 @@
 id: 611920738
-type: way
+type: node
 latitude: 51.49625
 longitude: 12.00978
 postcode: "06116"
 city: Halle (Saale)
-street: "Berliner Straße"
-housenumber: 61
+street: Berliner Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

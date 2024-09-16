@@ -1,11 +1,11 @@
 id: 134365555
-type: way
+type: node
 latitude: 51.4844
 longitude: 11.96932
 postcode: "06108"
 city: Halle (Saale)
-street: "Große Ulrichstraße"
-housenumber: 3
+street: Große Ulrichstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

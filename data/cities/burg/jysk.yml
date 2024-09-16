@@ -1,11 +1,11 @@
 id: 199245170
-type: way
+type: node
 latitude: 52.25683
 longitude: 11.84587
 postcode: "39288"
 city: Burg
-street: "Zibbeklebener Straße"
-housenumber: 6
+street: Zibbeklebener Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-18:00; Su, PH off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-18:00; Su, PH off
 website: ""

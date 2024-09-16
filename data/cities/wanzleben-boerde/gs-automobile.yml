@@ -1,11 +1,11 @@
 id: 98896208
-type: way
+type: node
 latitude: 52.07332
 longitude: 11.37595
 postcode: "39164"
 city: Wanzleben-Börde
-street: "Gewerbegebiet Hofbreite"
-housenumber: 8
+street: Gewerbegebiet Hofbreite
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

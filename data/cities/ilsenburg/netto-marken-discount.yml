@@ -1,11 +1,11 @@
 id: 137245135
-type: way
+type: node
 latitude: 51.87044
 longitude: 10.67495
 postcode: "38871"
 city: Ilsenburg
-street: "Mahrholzberg"
-housenumber: 1
+street: Mahrholzberg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

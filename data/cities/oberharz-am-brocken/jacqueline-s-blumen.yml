@@ -1,11 +1,11 @@
 id: 208278462
-type: way
+type: node
 latitude: 51.66709
 longitude: 10.71828
 postcode: "38877"
 city: Oberharz am Brocken
-street: "Teichdamm"
-housenumber: 8
+street: Teichdamm
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

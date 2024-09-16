@@ -4,8 +4,8 @@ latitude: 51.80445
 longitude: 11.7231
 postcode: "06406"
 city: Bernburg
-street: "Ilberstedter Straße"
-housenumber: 2
-phone: "+49 3471 352380"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-11:00; Su 06:00-10:00"
-website: "https://www.baeckerei-latsch.de/"
+street: Ilberstedter Straße
+housenumber: "2"
+phone: +49 3471 352380
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-11:00; Su 06:00-10:00
+website: https://www.baeckerei-latsch.de/

@@ -1,11 +1,11 @@
 id: 32744244
-type: way
+type: node
 latitude: 52.62657
 longitude: 11.16244
 postcode: "38486"
 city: Klötze
-street: "Salzwedeler Straße"
-housenumber: 4
+street: Salzwedeler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

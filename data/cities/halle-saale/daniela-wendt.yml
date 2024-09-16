@@ -4,8 +4,8 @@ latitude: 51.49273
 longitude: 11.97511
 postcode: "06114"
 city: Halle (Saale)
-street: "Goethestraße"
-housenumber: 8
-phone: "+49 345 2090263"
-opening_hours: "Mo,Tu,Fr 10:00-18:00; We 10:00-16:00"
-website: "https://www.daniela-wendt.de/"
+street: Goethestraße
+housenumber: "8"
+phone: +49 345 2090263
+opening_hours: Mo,Tu,Fr 10:00-18:00; We 10:00-16:00
+website: https://www.daniela-wendt.de/

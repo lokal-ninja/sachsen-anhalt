@@ -1,11 +1,11 @@
 id: 352876562
-type: way
+type: node
 latitude: 51.63005
 longitude: 12.39045
 postcode: "06774"
 city: Muldestausee
-street: "Poucher Hauptstraße"
-housenumber: 105
+street: Poucher Hauptstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://poucherfaltboot.de/"
+website: https://poucherfaltboot.de/

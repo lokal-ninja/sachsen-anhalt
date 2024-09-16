@@ -1,11 +1,11 @@
 id: 255039360
-type: way
+type: node
 latitude: 52.16333
 longitude: 11.60847
 postcode: "39128"
 city: Magdeburg
-street: "Silberbergweg"
-housenumber: 3
-phone: "+49 391 79293250"
+street: Silberbergweg
+housenumber: "3"
+phone: +49 391 79293250
 opening_hours: ""
-website: "https://www.nigari.de/"
+website: https://www.nigari.de/

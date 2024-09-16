@@ -1,11 +1,11 @@
 id: 202077170
-type: way
+type: node
 latitude: 51.7727
 longitude: 10.80136
 postcode: "38875"
 city: Oberharz am Brocken
-street: "Bruchstraße"
-housenumber: 12
+street: Bruchstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; We,Sa-Su off"
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; We,Sa-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 128177174
-type: way
+type: node
 latitude: 52.61427
 longitude: 12.0011
 postcode: "39590"
 city: Tangermünde
-street: "Storkauer Dorfstraße"
-housenumber: 1
+street: Storkauer Dorfstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

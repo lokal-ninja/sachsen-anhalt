@@ -4,8 +4,8 @@ latitude: 52.12927
 longitude: 11.60512
 postcode: "39110"
 city: Magdeburg
-street: "Westring"
-housenumber: 4
+street: Westring
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr nach Vereinbarung;Sa 11:00-17:00"
+opening_hours: Mo-Fr "nach Vereinbarung";Sa 11:00-17:00
 website: ""

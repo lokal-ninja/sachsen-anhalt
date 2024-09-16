@@ -1,11 +1,11 @@
 id: 1105930271
-type: way
+type: node
 latitude: 51.45851
 longitude: 11.01915
 postcode: "06536"
 city: Berga
-street: "Buchenweg"
-housenumber: 7
+street: Buchenweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

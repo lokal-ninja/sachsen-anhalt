@@ -1,11 +1,11 @@
 id: 1028372081
-type: way
+type: node
 latitude: 52.19424
 longitude: 11.60372
 postcode: "39179"
 city: Barleben
-street: "An der Sülze"
-housenumber: 6
+street: An der Sülze
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

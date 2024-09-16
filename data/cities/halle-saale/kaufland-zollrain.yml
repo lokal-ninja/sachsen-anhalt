@@ -1,11 +1,11 @@
 id: 138122848
-type: way
+type: node
 latitude: 51.47231
 longitude: 11.92532
 postcode: "06124"
 city: Halle (Saale)
-street: "Zollrain"
-housenumber: 9
+street: Zollrain
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

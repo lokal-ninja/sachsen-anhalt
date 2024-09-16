@@ -4,8 +4,8 @@ latitude: 51.48219
 longitude: 11.96992
 postcode: "06108"
 city: Halle (Saale)
-street: "Marktplatz"
-housenumber: 3
-phone: "+49 345 29370"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-19:00"
-website: "https://www.thalia.de/shop/home/thalia-filialen/showDetails/901/"
+street: Marktplatz
+housenumber: "3"
+phone: +49 345 29370
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-19:00
+website: https://www.thalia.de/shop/home/thalia-filialen/showDetails/901/

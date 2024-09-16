@@ -1,11 +1,11 @@
 id: 427825145
-type: way
+type: node
 latitude: 52.09005
 longitude: 11.55658
 postcode: "39116"
 city: Magdeburg
-street: "Walnußweg"
-housenumber: 5
+street: Walnußweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
 website: ""

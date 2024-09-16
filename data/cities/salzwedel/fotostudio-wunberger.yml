@@ -4,8 +4,8 @@ latitude: 52.85058
 longitude: 11.15119
 postcode: "29410"
 city: Salzwedel
-street: "Holzmarktstraße"
-housenumber: 8
+street: Holzmarktstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00 || Fr, Sa, Mo mit Voranmeldung"
-website: "https://www.fotostudio-wunberger.de/"
+opening_hours: Tu-Fr 10:00-18:00 || "Fr, Sa, Mo mit Voranmeldung"
+website: https://www.fotostudio-wunberger.de/

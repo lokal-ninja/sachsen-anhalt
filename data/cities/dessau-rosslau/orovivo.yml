@@ -4,8 +4,8 @@ latitude: 51.83392
 longitude: 12.24349
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+4934066149596"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.orovivo.de/de_DE/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.orovivo.de/de_DE/

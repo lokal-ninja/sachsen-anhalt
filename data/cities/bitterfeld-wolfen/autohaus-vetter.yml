@@ -1,11 +1,11 @@
 id: 92351634
-type: way
+type: node
 latitude: 51.62663
 longitude: 12.33681
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Wittenberger Straße"
-housenumber: 22
-phone: "+493493 30580"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 08:00-15:00"
-website: "https://www.vetter.mercedes-benz.de/"
+street: Wittenberger Straße
+housenumber: "22"
+phone: +493493 30580
+opening_hours: Mo-Fr 06:00-20:00; Sa 08:00-15:00
+website: https://www.vetter.mercedes-benz.de/

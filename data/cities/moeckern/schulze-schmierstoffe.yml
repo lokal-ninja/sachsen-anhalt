@@ -1,11 +1,11 @@
 id: 1134356593
-type: way
+type: node
 latitude: 52.11185
 longitude: 12.10823
 postcode: "39279"
 city: Möckern
-street: "Am Ziemnitzgraben"
-housenumber: 1
+street: Am Ziemnitzgraben
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 185773443
-type: way
+type: node
 latitude: 51.8432
 longitude: 10.78078
 postcode: "38855"
 city: Wernigerode
-street: "Am Schreiberteich"
-housenumber: 3
-phone: "+49 3943 55090"
-opening_hours: "Mo-Fr 07:00-22:00, Sa 07:00-20:00"
-website: "https://www.kaufland.de/?cid=F3183B02C1200K01000W01030000D1000E1000F1000G1000H1000"
+street: Am Schreiberteich
+housenumber: "3"
+phone: +49 3943 55090
+opening_hours: Mo-Fr 07:00-22:00, Sa 07:00-20:00
+website: https://www.kaufland.de/?cid=F3183B02C1200K01000W01030000D1000E1000F1000G1000H1000

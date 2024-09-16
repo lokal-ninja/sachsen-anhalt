@@ -1,11 +1,11 @@
 id: 60370697
-type: way
+type: node
 latitude: 51.49313
 longitude: 11.93204
 postcode: "06120"
 city: Halle (Saale)
-street: "Blücherstraße"
-housenumber: 36
+street: Blücherstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

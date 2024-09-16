@@ -1,11 +1,11 @@
 id: 29052199
-type: way
+type: node
 latitude: 51.69023
 longitude: 12.74512
 postcode: "06905"
 city: Bad Schmiedeberg
-street: "Torgauer Straße"
-housenumber: 57
+street: Torgauer Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 8:00-12:00"
-website: "https://www.rhg.de/bau-garten-bad-schmiedeberg"
+opening_hours: Mo-Fr 08:00-18:00; Sa 8:00-12:00
+website: https://www.rhg.de/bau-garten-bad-schmiedeberg

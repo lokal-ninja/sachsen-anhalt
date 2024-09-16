@@ -1,11 +1,11 @@
 id: 207219127
-type: way
+type: node
 latitude: 51.66808
 longitude: 10.72284
 postcode: "38877"
 city: Oberharz am Brocken
-street: "Bergstraße"
-housenumber: 6
+street: Bergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

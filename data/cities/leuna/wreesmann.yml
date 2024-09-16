@@ -1,11 +1,11 @@
 id: 199739041
-type: way
+type: node
 latitude: 51.33218
 longitude: 12.00077
 postcode: "06237"
 city: Leuna
-street: "Friedrich-Ebert-Straße"
-housenumber: 116
+street: Friedrich-Ebert-Straße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

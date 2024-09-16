@@ -4,8 +4,8 @@ latitude: 52.15296
 longitude: 11.62954
 postcode: "39124"
 city: Magdeburg
-street: "Siedlerweg"
-housenumber: 9
+street: Siedlerweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://rentas.de/rentas-service-center/in/39124-magdeburg-nord/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://rentas.de/rentas-service-center/in/39124-magdeburg-nord/

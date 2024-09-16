@@ -1,11 +1,11 @@
 id: 201587986
-type: way
+type: node
 latitude: 51.76921
 longitude: 10.80835
 postcode: "38875"
 city: Oberharz am Brocken
-street: "Mühlental"
-housenumber: 4
+street: Mühlental
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

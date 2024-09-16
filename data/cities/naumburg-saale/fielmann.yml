@@ -4,8 +4,8 @@ latitude: 51.15301
 longitude: 11.80958
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Markt"
-housenumber: 15
-phone: "+49 3445 208970"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.fielmann.de/niederlassungen/naumburg/06618-markt-15/"
+street: Markt
+housenumber: "15"
+phone: +49 3445 208970
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.fielmann.de/niederlassungen/naumburg/06618-markt-15/

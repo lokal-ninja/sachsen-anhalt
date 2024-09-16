@@ -4,8 +4,8 @@ latitude: 51.4868
 longitude: 11.9667
 postcode: "06108"
 city: Halle (Saale)
-street: "Große Ulrichstraße"
-housenumber: 30
+street: Große Ulrichstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.oetzi-halle.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.oetzi-halle.de/

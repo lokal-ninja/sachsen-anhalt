@@ -1,11 +1,11 @@
 id: 428691611
-type: way
+type: node
 latitude: 51.5914
 longitude: 11.13709
 postcode: "06493"
 city: Harzgerode
-street: "Oberdorf"
-housenumber: 178
+street: Oberdorf
+housenumber: "178"
 phone: ""
-opening_hours: "Mo 15:00-18:00; Tu-Fr 08:00-13:00,15:00-18:00; Sa 08:00-11:00"
+opening_hours: Mo 15:00-18:00; Tu-Fr 08:00-13:00,15:00-18:00; Sa 08:00-11:00
 website: ""

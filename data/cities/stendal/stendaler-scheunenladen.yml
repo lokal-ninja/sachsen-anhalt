@@ -1,11 +1,11 @@
 id: 350210290
-type: way
+type: node
 latitude: 52.62081
 longitude: 11.84599
 postcode: "39576"
 city: Stendal
-street: "Osterburger Straße"
-housenumber: 63
+street: Osterburger Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

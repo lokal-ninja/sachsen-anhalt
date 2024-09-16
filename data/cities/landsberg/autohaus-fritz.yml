@@ -1,11 +1,11 @@
 id: 338925613
-type: way
+type: node
 latitude: 51.55232
 longitude: 12.02564
 postcode: "06188"
 city: Landsberg
-street: "Dessauer Straße"
+street: Dessauer Straße
 housenumber: 12a
-phone: "+49 34604 3480"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
+phone: +49 34604 3480
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
 website: ""

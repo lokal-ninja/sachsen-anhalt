@@ -4,8 +4,8 @@ latitude: 51.834
 longitude: 12.24408
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 49
+street: Kavalierstraße
+housenumber: "49"
 phone: "+4934085075083"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.eyesandmore.de/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.eyesandmore.de/

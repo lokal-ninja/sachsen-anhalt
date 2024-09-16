@@ -1,11 +1,11 @@
 id: 597668795
-type: way
+type: node
 latitude: 51.88091
 longitude: 12.90211
 postcode: "06917"
 city: Jessen (Elster)
-street: "Seydaer Markt"
-housenumber: 13
+street: Seydaer Markt
+housenumber: "13"
 phone: "+493538742285"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-11:00; PH off"
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-11:00; PH off
 website: ""

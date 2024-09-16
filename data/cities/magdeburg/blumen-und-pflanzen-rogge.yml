@@ -1,11 +1,11 @@
 id: 151790236
-type: way
+type: node
 latitude: 52.08741
 longitude: 11.56113
 postcode: "39116"
 city: Magdeburg
-street: "Wanzleber Chaussee"
-housenumber: 20
+street: Wanzleber Chaussee
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.blumenladen-magdeburg.de/"
+website: https://www.blumenladen-magdeburg.de/

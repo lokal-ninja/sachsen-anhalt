@@ -1,11 +1,11 @@
 id: 300525434
-type: way
+type: node
 latitude: 52.03286
 longitude: 11.26194
 postcode: "39387"
 city: Oschersleben
-street: "Am neuen Teich"
-housenumber: 2
+street: Am neuen Teich
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.18951
 longitude: 11.67664
 postcode: "39126"
 city: Magdeburg
-street: "Am Zweigkanal"
-housenumber: 9
-phone: "+49 391 5441930"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.lrp-autorecycling-magdeburg.de/"
+street: Am Zweigkanal
+housenumber: "9"
+phone: +49 391 5441930
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.lrp-autorecycling-magdeburg.de/

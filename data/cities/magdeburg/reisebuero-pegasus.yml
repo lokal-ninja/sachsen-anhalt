@@ -4,8 +4,9 @@ latitude: 52.10213
 longitude: 11.62081
 postcode: "39120"
 city: Magdeburg
-street: "Leipziger Straße"
+street: Leipziger Straße
 housenumber: 45d
-phone: "+49 391 6230444"
-opening_hours: "Mo-Th 10:00-13:00,14:00-17:30, Fr 10:00-13:00,14:00-16:00; Sa,Su,PH off"
-website: "https://www.rb-pegasus.de/"
+phone: +49 391 6230444
+opening_hours: Mo-Th 10:00-13:00,14:00-17:30, Fr 10:00-13:00,14:00-16:00; Sa,Su,PH
+    off
+website: https://www.rb-pegasus.de/

@@ -1,11 +1,11 @@
 id: 47587388
-type: way
+type: node
 latitude: 51.45058
 longitude: 11.9599
 postcode: "06128"
 city: Halle (Saale)
-street: "Amsterdamer Straße"
-housenumber: 1
+street: Amsterdamer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

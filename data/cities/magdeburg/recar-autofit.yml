@@ -1,11 +1,11 @@
 id: 182460680
-type: way
+type: node
 latitude: 52.17441
 longitude: 11.66057
 postcode: "39126"
 city: Magdeburg
-street: "Windmühlenstraße"
-housenumber: 52
-phone: "+49 391 500803"
+street: Windmühlenstraße
+housenumber: "52"
+phone: +49 391 500803
 opening_hours: ""
 website: ""

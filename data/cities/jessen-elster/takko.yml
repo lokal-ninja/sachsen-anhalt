@@ -1,11 +1,11 @@
 id: 259990288
-type: way
+type: node
 latitude: 51.79095
 longitude: 12.95755
 postcode: "06917"
 city: Jessen (Elster)
-street: "Baderhag"
-housenumber: 1
-phone: "+49 3537 200184"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.takko-fashion.com/de_de/takko-fashion.html"
+street: Baderhag
+housenumber: "1"
+phone: +49 3537 200184
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.takko-fashion.com/de_de/takko-fashion.html

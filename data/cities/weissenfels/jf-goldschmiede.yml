@@ -4,8 +4,8 @@ latitude: 51.2009
 longitude: 11.97295
 postcode: "06667"
 city: Weißenfels
-street: "Markt"
-housenumber: 10
+street: Markt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.goldschmiede-fischer.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.goldschmiede-fischer.de/

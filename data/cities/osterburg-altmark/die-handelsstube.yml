@@ -1,11 +1,11 @@
 id: 202628409
-type: way
+type: node
 latitude: 52.77598
 longitude: 11.76566
 postcode: "39606"
 city: Osterburg (Altmark)
-street: "Düsedauer Straße"
+street: Düsedauer Straße
 housenumber: 20b
-phone: "+49 1512 1227722"
-opening_hours: "Mo-Tu, Th-Fr 10:00-17:00"
+phone: +49 1512 1227722
+opening_hours: Mo-Tu, Th-Fr 10:00-17:00
 website: ""

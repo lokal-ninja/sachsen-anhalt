@@ -1,11 +1,11 @@
 id: 66265241
-type: way
+type: node
 latitude: 51.78495
 longitude: 10.9663
 postcode: "38889"
 city: Blankenburg (Harz)
-street: "Hasselfelder Straße"
-housenumber: 13
+street: Hasselfelder Straße
+housenumber: "13"
 phone: "+493944367979"
 opening_hours: ""
-website: "http://automax-blankenburg.de"
+website: http://automax-blankenburg.de

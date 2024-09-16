@@ -1,11 +1,11 @@
 id: 182505089
-type: way
+type: node
 latitude: 51.51263
 longitude: 11.56993
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "An der Zolltafel"
-housenumber: 2
+street: An der Zolltafel
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

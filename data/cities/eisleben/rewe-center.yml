@@ -1,11 +1,11 @@
 id: 151884101
-type: way
+type: node
 latitude: 51.51296
 longitude: 11.57624
 postcode: "06295"
 city: Eisleben
-street: "Herner Straße"
-housenumber: 7
+street: Herner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off
 website: ""

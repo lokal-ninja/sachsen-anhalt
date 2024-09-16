@@ -1,11 +1,11 @@
 id: 1036678915
-type: way
+type: node
 latitude: 52.27923
 longitude: 11.44801
 postcode: "39340"
 city: Haldensleben
-street: "Jakob-Uffrecht-Straße"
-housenumber: 6
+street: Jakob-Uffrecht-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

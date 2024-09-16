@@ -1,11 +1,11 @@
 id: 377034684
-type: way
+type: node
 latitude: 51.66605
 longitude: 12.25898
 postcode: "06766"
 city: Bitterfeld-Wolfen
-street: "Krondorfer Straße"
-housenumber: 125
+street: Krondorfer Straße
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 189508885
-type: way
+type: node
 latitude: 51.28849
 longitude: 11.90236
 postcode: "06242"
 city: Braunsbedra
-street: "Merseburger Straße"
-housenumber: 163
+street: Merseburger Straße
+housenumber: "163"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

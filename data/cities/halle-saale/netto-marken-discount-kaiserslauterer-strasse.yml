@@ -1,11 +1,11 @@
 id: 1195339941
-type: way
+type: node
 latitude: 51.44124
 longitude: 11.94722
 postcode: "06128"
 city: Halle (Saale)
-street: "Kaiserslauterer Straße"
-housenumber: 74
+street: Kaiserslauterer Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

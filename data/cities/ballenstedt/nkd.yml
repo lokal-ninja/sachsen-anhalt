@@ -1,11 +1,11 @@
 id: 686360026
-type: way
+type: node
 latitude: 51.72059
 longitude: 11.23427
 postcode: "06493"
 city: Ballenstedt
-street: "Anhaltiner Platz"
-housenumber: 6
+street: Anhaltiner Platz
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

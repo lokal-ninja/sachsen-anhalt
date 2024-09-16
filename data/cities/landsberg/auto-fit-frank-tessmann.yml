@@ -1,11 +1,11 @@
 id: 242570907
-type: way
+type: node
 latitude: 51.53101
 longitude: 12.15668
 postcode: "06188"
 city: Landsberg
-street: "Köthener Straße"
-housenumber: 8
+street: Köthener Straße
+housenumber: "8"
 phone: "+493460222967"
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

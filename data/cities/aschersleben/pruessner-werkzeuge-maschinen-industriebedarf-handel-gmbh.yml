@@ -1,11 +1,11 @@
 id: 309945130
-type: way
+type: node
 latitude: 51.77296
 longitude: 11.48912
 postcode: ""
 city: Aschersleben
-street: "Siemensstraße"
-housenumber: 9
+street: Siemensstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 236386496
-type: way
+type: node
 latitude: 52.54351
 longitude: 11.97828
 postcode: "39590"
 city: Tangermünde
-street: "Amt"
-housenumber: 1
+street: Amt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

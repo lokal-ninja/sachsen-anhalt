@@ -4,8 +4,8 @@ latitude: 51.83227
 longitude: 12.24237
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kavalierstraße"
-housenumber: 70
+street: Kavalierstraße
+housenumber: "70"
 phone: "+493402203305"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-13:00"
-website: "http://www.modeexpress-online.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-13:00
+website: http://www.modeexpress-online.de/

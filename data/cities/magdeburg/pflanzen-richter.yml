@@ -1,11 +1,11 @@
 id: 111639740
-type: way
+type: node
 latitude: 52.059
 longitude: 11.67956
 postcode: "39122"
 city: Magdeburg
-street: "Schönebecker Chaussee"
-housenumber: 7
+street: Schönebecker Chaussee
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.15061
 longitude: 11.58731
 postcode: "39130"
 city: Magdeburg
-street: "Olvenstedter Scheid"
-housenumber: 52
-phone: "+49 391 7271082"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00"
-website: "https://www.baeckerei-otto.de/"
+street: Olvenstedter Scheid
+housenumber: "52"
+phone: +49 391 7271082
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-16:00
+website: https://www.baeckerei-otto.de/

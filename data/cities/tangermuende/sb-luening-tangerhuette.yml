@@ -1,11 +1,11 @@
 id: 102697529
-type: way
+type: node
 latitude: 52.54887
 longitude: 11.96621
 postcode: "39590"
 city: Tangermünde
-street: "Kirschallee"
-housenumber: 11
+street: Kirschallee
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

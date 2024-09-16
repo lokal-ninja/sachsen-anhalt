@@ -4,8 +4,8 @@ latitude: 52.12345
 longitude: 11.61293
 postcode: "39108"
 city: Magdeburg
-street: "Liebknechtstraße"
-housenumber: 29
-phone: "+49 391 5419056"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-13:00"
-website: "https://www.taeves-radladen.de/"
+street: Liebknechtstraße
+housenumber: "29"
+phone: +49 391 5419056
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-13:00
+website: https://www.taeves-radladen.de/

@@ -1,11 +1,11 @@
 id: 100158372
-type: way
+type: node
 latitude: 51.83346
 longitude: 10.78307
 postcode: "38855"
 city: Wernigerode
-street: "Westernstraße"
-housenumber: 16
+street: Westernstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:00"
+opening_hours: Mo-Sa 07:00-12:00
 website: ""

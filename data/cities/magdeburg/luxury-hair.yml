@@ -4,8 +4,8 @@ latitude: 52.12828
 longitude: 11.61297
 postcode: "39108"
 city: Magdeburg
-street: "Schenkendorfstraße"
-housenumber: 9
+street: Schenkendorfstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; Mo 09:00-15:00; We 09:00-16:00; Sa 09:00-13:00"
+opening_hours: Tu,Th,Fr 09:00-18:00; Mo 09:00-15:00; We 09:00-16:00; Sa 09:00-13:00
 website: ""

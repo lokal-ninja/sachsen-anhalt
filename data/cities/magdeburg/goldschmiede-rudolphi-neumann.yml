@@ -4,8 +4,8 @@ latitude: 52.13133
 longitude: 11.63885
 postcode: "39104"
 city: Magdeburg
-street: "Alter Markt"
-housenumber: 5
+street: Alter Markt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,We,Fr 11:00-16:00; Tu,Th 11:00-18:00; PH off"
+opening_hours: Mo,We,Fr 11:00-16:00; Tu,Th 11:00-18:00; PH off
 website: ""

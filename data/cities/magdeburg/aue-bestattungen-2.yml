@@ -5,7 +5,7 @@ longitude: 11.61984
 postcode: "39112"
 city: Magdeburg
 street: ""
-housenumber: 35
-phone: "+49 391 6345007"
-opening_hours: "Mo-Fr 09:00-17:00; Sa,Su,PH off"
-website: "https://www.aue-bestattungen.de/"
+housenumber: "35"
+phone: +49 391 6345007
+opening_hours: Mo-Fr 09:00-17:00; Sa,Su,PH off
+website: https://www.aue-bestattungen.de/

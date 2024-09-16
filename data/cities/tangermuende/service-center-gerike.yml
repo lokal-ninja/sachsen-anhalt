@@ -4,8 +4,8 @@ latitude: 52.53985
 longitude: 11.96728
 postcode: "39590"
 city: Tangermünde
-street: "Stendaler Straße"
-housenumber: 45
+street: Stendaler Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Apr-Oct Tu-Fr 09:00-12:00, 13:00-18:00; Apr-Oct: Sa 09:00-12:00, 13:00-16:00"
+opening_hours: 'Apr-Oct Tu-Fr 09:00-12:00, 13:00-18:00; Apr-Oct: Sa 09:00-12:00, 13:00-16:00'
 website: ""

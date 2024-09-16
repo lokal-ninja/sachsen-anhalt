@@ -1,11 +1,11 @@
 id: 248715765
-type: way
+type: node
 latitude: 51.83992
 longitude: 12.24452
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Albrechtsplatz"
-housenumber: 11
+street: Albrechtsplatz
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

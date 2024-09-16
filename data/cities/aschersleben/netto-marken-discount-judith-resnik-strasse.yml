@@ -1,11 +1,11 @@
 id: 997936757
-type: way
+type: node
 latitude: 51.76495
 longitude: 11.47243
 postcode: "06449"
 city: Aschersleben
-street: "Judith-Resnik-Straße"
-housenumber: 1
+street: Judith-Resnik-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

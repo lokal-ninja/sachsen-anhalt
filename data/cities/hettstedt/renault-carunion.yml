@@ -1,11 +1,11 @@
 id: 113423335
-type: way
+type: node
 latitude: 51.65636
 longitude: 11.48114
 postcode: "06333"
 city: Hettstedt
-street: "Kämmeritzer Weg"
-housenumber: 7
+street: Kämmeritzer Weg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.carunion.de/hettstedt"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.carunion.de/hettstedt

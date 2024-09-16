@@ -1,11 +1,11 @@
 id: 240128400
-type: way
+type: node
 latitude: 51.67662
 longitude: 11.77095
 postcode: "06420"
 city: Könnern
-street: "Bernburger Straße"
-housenumber: 18
+street: Bernburger Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/konnern/bernburger-strasse-18/3182355"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/konnern/bernburger-strasse-18/3182355

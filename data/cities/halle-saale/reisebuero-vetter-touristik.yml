@@ -4,8 +4,8 @@ latitude: 51.48461
 longitude: 11.96918
 postcode: "06108"
 city: Halle (Saale)
-street: "Große Ulrichstraße"
-housenumber: 9
-phone: "+49 345 6869400"
-opening_hours: "Mo-Fr 10:00-14:00"
-website: "https://vetter-touristik.de/reisebuero/15"
+street: Große Ulrichstraße
+housenumber: "9"
+phone: +49 345 6869400
+opening_hours: Mo-Fr 10:00-14:00
+website: https://vetter-touristik.de/reisebuero/15

@@ -4,8 +4,8 @@ latitude: 52.60525
 longitude: 11.85988
 postcode: "39576"
 city: Stendal
-street: "Markt"
-housenumber: 1
-phone: "+49 3931 410056"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.kaffeekult-frank.de/"
+street: Markt
+housenumber: "1"
+phone: +49 3931 410056
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.kaffeekult-frank.de/

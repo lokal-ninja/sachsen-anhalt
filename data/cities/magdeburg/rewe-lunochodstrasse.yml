@@ -1,11 +1,11 @@
 id: 813171576
-type: way
+type: node
 latitude: 52.09181
 longitude: 11.61082
 postcode: "39118"
 city: Magdeburg
-street: "Lunochodstraße"
-housenumber: 109
+street: Lunochodstraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 975288202
-type: way
+type: node
 latitude: 52.05386
 longitude: 11.45036
 postcode: "39164"
 city: Wanzleben-Börde
-street: "Vor dem Hohen Tor"
-housenumber: 29
+street: Vor dem Hohen Tor
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

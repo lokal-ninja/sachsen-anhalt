@@ -1,11 +1,11 @@
 id: 245493658
-type: way
+type: node
 latitude: 51.90183
 longitude: 11.76588
 postcode: "39240"
 city: Calbe (Saale)
-street: "Feldstraße"
-housenumber: 26
+street: Feldstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

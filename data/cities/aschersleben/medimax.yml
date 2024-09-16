@@ -1,11 +1,11 @@
 id: 115704981
-type: way
+type: node
 latitude: 51.75906
 longitude: 11.45766
 postcode: "06449"
 city: Aschersleben
-street: "Seegraben"
-housenumber: 5
+street: Seegraben
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

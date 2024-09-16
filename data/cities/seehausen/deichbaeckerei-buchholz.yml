@@ -1,11 +1,11 @@
 id: 181625557
-type: way
+type: node
 latitude: 52.88894
 longitude: 11.75273
 postcode: "39615"
 city: Seehausen
-street: "Große Brüderstraße"
-housenumber: 24
+street: Große Brüderstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

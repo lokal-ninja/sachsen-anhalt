@@ -1,11 +1,11 @@
 id: 138956554
-type: way
+type: node
 latitude: 51.4811
 longitude: 11.97441
 postcode: "06108"
 city: Halle (Saale)
-street: "Leipziger Straße"
-housenumber: 17
-phone: "+49 345 44592330"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+street: Leipziger Straße
+housenumber: "17"
+phone: +49 345 44592330
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

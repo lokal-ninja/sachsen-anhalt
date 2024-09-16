@@ -1,11 +1,11 @@
 id: 91290520
-type: way
+type: node
 latitude: 52.60921
 longitude: 11.84261
 postcode: "39576"
 city: Stendal
-street: "Gneisenaustraße"
-housenumber: 4
+street: Gneisenaustraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

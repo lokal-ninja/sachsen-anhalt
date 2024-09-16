@@ -1,11 +1,11 @@
 id: 160503420
-type: way
+type: node
 latitude: 51.74137
 longitude: 12.42782
 postcode: "06773"
 city: Gräfenhainichen
-street: "Jüdenberger Hauptstraße"
-housenumber: 40
-phone: "+49 34953 3160"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://autohaus-huensche.skoda-auto.de/"
+street: Jüdenberger Hauptstraße
+housenumber: "40"
+phone: +49 34953 3160
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://autohaus-huensche.skoda-auto.de/

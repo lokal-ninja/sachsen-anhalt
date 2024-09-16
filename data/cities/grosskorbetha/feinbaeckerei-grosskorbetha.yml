@@ -1,11 +1,11 @@
 id: 450475667
-type: way
+type: node
 latitude: 51.25858
 longitude: 12.03081
 postcode: "06688"
 city: Großkorbetha
-street: "Alte Weißenfelser Straße"
-housenumber: 7
+street: Alte Weißenfelser Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mi-Sa 7:00-18:00"
+opening_hours: Mi-Sa 7:00-18:00
 website: ""

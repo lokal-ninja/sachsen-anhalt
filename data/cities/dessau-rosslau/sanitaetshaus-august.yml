@@ -1,11 +1,11 @@
 id: 1303800176
-type: way
+type: node
 latitude: 51.836
 longitude: 12.2398
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Antoinettenstraße"
-housenumber: 9
+street: Antoinettenstraße
+housenumber: "9"
 phone: "+49340214330"
-opening_hours: "Mo-We, Fr 08:00-17:00; Th 08:00-18:00"
-website: "https://www.sanitaetshaus-august.de/"
+opening_hours: Mo-We, Fr 08:00-17:00; Th 08:00-18:00
+website: https://www.sanitaetshaus-august.de/

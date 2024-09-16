@@ -1,11 +1,11 @@
 id: 41681602
-type: way
+type: node
 latitude: 51.8815
 longitude: 11.07121
 postcode: "38820"
 city: Halberstadt
-street: "Quedlinburger Straße"
-housenumber: 14
+street: Quedlinburger Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

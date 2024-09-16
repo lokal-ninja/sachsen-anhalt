@@ -1,11 +1,11 @@
 id: 34926302
-type: way
+type: node
 latitude: 52.21265
 longitude: 11.79249
 postcode: "39291"
 city: Möser
-street: "Krokusweg"
-housenumber: 13
+street: Krokusweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

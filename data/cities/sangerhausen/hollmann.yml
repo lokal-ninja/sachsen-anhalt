@@ -4,8 +4,8 @@ latitude: 51.47483
 longitude: 11.30465
 postcode: "06526"
 city: Sangerhausen
-street: "Riestedter Straße"
-housenumber: 19
-phone: "+49 3464 573598"
-opening_hours: "Mo-Th 05:30-16:00; Fr 05:30-15:00; Sa 06:00-12:00"
+street: Riestedter Straße
+housenumber: "19"
+phone: +49 3464 573598
+opening_hours: Mo-Th 05:30-16:00; Fr 05:30-15:00; Sa 06:00-12:00
 website: ""

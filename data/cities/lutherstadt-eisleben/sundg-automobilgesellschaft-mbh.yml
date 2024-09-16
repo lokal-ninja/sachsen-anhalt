@@ -1,11 +1,11 @@
 id: 463237804
-type: way
+type: node
 latitude: 51.50642
 longitude: 11.59092
 postcode: "06295"
 city: Lutherstadt Eisleben
-street: "Am Strohügel"
-housenumber: 2
+street: Am Strohügel
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.sug.de/"
+website: https://www.sug.de/

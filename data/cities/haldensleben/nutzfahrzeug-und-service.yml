@@ -1,11 +1,11 @@
 id: 120175476
-type: way
+type: node
 latitude: 52.28359
 longitude: 11.41977
 postcode: "39340"
 city: Haldensleben
-street: "Köhlerstraße"
-housenumber: 13
+street: Köhlerstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

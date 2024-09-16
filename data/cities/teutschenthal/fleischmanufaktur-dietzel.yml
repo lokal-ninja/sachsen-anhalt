@@ -1,11 +1,11 @@
 id: 322085712
-type: way
+type: node
 latitude: 51.47247
 longitude: 11.8808
 postcode: "06179"
 city: Teutschenthal
-street: "Am Bruchfeld"
-housenumber: 4
+street: Am Bruchfeld
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

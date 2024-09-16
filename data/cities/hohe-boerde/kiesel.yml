@@ -1,11 +1,11 @@
 id: 1018624777
-type: way
+type: node
 latitude: 52.16481
 longitude: 11.49072
 postcode: "39167"
 city: Hohe Börde
-street: "Gewerbestraße"
-housenumber: 4
+street: Gewerbestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

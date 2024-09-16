@@ -1,11 +1,11 @@
 id: 114449317
-type: way
+type: node
 latitude: 51.74678
 longitude: 11.94687
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Langenfelder Straße"
-housenumber: 19
-phone: "+49 3496 508080"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://take-auto.de"
+street: Langenfelder Straße
+housenumber: "19"
+phone: +49 3496 508080
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://take-auto.de

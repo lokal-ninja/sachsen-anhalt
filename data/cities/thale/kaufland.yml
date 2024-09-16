@@ -1,11 +1,11 @@
 id: 153213500
-type: way
+type: node
 latitude: 51.75706
 longitude: 11.04096
 postcode: "06502"
 city: Thale
-street: "Blankenburger Straße"
-housenumber: 37
+street: Blankenburger Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-We 07:00-20:00; Th-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-We 07:00-20:00; Th-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

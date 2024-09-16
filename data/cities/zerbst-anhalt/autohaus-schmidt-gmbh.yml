@@ -1,11 +1,11 @@
 id: 132124927
-type: way
+type: node
 latitude: 51.95803
 longitude: 12.09935
 postcode: "39261"
 city: Zerbst/Anhalt
-street: "Coswiger Straße"
-housenumber: 19
+street: Coswiger Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

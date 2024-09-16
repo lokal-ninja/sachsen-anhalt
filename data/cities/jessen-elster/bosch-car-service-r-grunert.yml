@@ -1,11 +1,11 @@
 id: 259990271
-type: way
+type: node
 latitude: 51.79169
 longitude: 12.95376
 postcode: "06917"
 city: Jessen (Elster)
-street: "Rehainer Straße"
+street: Rehainer Straße
 housenumber: 1c
-phone: "+49 3537 203700"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:30-13:00"
-website: "http://www.gsautomobile.de"
+phone: +49 3537 203700
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:30-13:00
+website: http://www.gsautomobile.de

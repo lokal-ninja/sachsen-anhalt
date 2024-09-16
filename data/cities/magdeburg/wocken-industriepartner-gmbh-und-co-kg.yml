@@ -1,11 +1,11 @@
 id: 92220822
-type: way
+type: node
 latitude: 52.20967
 longitude: 11.66955
 postcode: "39126"
 city: Magdeburg
-street: "Glindenberger Weg"
-housenumber: 1
-phone: "+49 391 505670"
-opening_hours: "Mo-Fr 07:15-16:30"
-website: "https://www.wocken.com/niederlassung-magdeburg"
+street: Glindenberger Weg
+housenumber: "1"
+phone: +49 391 505670
+opening_hours: Mo-Fr 07:15-16:30
+website: https://www.wocken.com/niederlassung-magdeburg

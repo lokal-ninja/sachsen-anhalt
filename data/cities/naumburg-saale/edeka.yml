@@ -1,11 +1,11 @@
 id: 124325593
-type: way
+type: node
 latitude: 51.14792
 longitude: 11.80084
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Jenaer Straße"
-housenumber: 17
+street: Jenaer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

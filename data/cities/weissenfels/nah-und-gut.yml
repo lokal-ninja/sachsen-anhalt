@@ -1,11 +1,11 @@
 id: 305980025
-type: way
+type: node
 latitude: 51.18986
 longitude: 11.96447
 postcode: "06667"
 city: Weißenfels
-street: "Südring"
-housenumber: 131
+street: Südring
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

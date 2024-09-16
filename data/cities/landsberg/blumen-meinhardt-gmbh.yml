@@ -4,8 +4,8 @@ latitude: 51.54862
 longitude: 12.09082
 postcode: "06188"
 city: Landsberg
-street: "Wendenring"
-housenumber: 8
-phone: "+49 34604 - 20303"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.blumen-meinhardt.com/"
+street: Wendenring
+housenumber: "8"
+phone: +49 34604 - 20303
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.blumen-meinhardt.com/

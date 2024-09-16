@@ -4,8 +4,9 @@ latitude: 51.84102
 longitude: 12.24539
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Kurt-Weill-Straße"
-housenumber: 2
-phone: "+49 340 2303534"
-opening_hours: "Mo-Th 10:00-12:00,12:30-17:00; Fr 10:00-12:00,12:30-15:00; PH,Sa,Su off"
+street: Kurt-Weill-Straße
+housenumber: "2"
+phone: +49 340 2303534
+opening_hours: Mo-Th 10:00-12:00,12:30-17:00; Fr 10:00-12:00,12:30-15:00; PH,Sa,Su
+    off
 website: ""

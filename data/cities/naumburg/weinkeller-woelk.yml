@@ -4,8 +4,8 @@ latitude: 51.15685
 longitude: 11.80693
 postcode: "06618"
 city: Naumburg
-street: "Windmühlenstraße"
-housenumber: 36
+street: Windmühlenstraße
+housenumber: "36"
 phone: ""
-opening_hours: "nach telefonischer Vereinbarung"
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

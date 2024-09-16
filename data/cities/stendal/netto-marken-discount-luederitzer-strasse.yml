@@ -1,11 +1,11 @@
 id: 183475490
-type: way
+type: node
 latitude: 52.59353
 longitude: 11.85446
 postcode: "39576"
 city: Stendal
-street: "Lüderitzer Straße"
-housenumber: 25
+street: Lüderitzer Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

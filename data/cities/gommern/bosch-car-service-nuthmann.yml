@@ -1,11 +1,11 @@
 id: 1097815471
-type: way
+type: node
 latitude: 52.07997
 longitude: 11.81154
 postcode: "39245"
 city: Gommern
-street: "Im Gewerbepark"
-housenumber: 3
+street: Im Gewerbepark
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
 website: ""

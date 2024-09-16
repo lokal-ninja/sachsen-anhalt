@@ -1,11 +1,11 @@
 id: 111625712
-type: way
+type: node
 latitude: 52.07938
 longitude: 11.58062
 postcode: "39116"
 city: Magdeburg
-street: "Werner-von-Siemens-Ring"
-housenumber: 12
-phone: "+49 391 635700"
-opening_hours: "Mo-Th 06:30-16:30, Fr 06:30-14:00; Sa 07:00-11:00"
+street: Werner-von-Siemens-Ring
+housenumber: "12"
+phone: +49 391 635700
+opening_hours: Mo-Th 06:30-16:30, Fr 06:30-14:00; Sa 07:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 231113410
-type: way
+type: node
 latitude: 51.74962
 longitude: 11.08477
 postcode: "06502"
 city: Thale
-street: "Geschwister-Scholl-Straße"
-housenumber: 16
+street: Geschwister-Scholl-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

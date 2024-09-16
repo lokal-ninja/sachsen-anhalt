@@ -1,11 +1,11 @@
 id: 28630190
-type: way
+type: node
 latitude: 51.80389
 longitude: 12.41263
 postcode: "06785"
 city: Oranienbaum-Wörlitz
-street: "Wittenberger Straße"
-housenumber: 27
+street: Wittenberger Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.netto-online.de

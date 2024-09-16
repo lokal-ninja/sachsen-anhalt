@@ -1,11 +1,11 @@
 id: 1237256666
-type: way
+type: node
 latitude: 52.13046
 longitude: 11.62803
 postcode: "39104"
 city: Magdeburg
-street: "Bahnhofstraße"
-housenumber: 68
+street: Bahnhofstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 04:30-22:00; Sa, Su 06:00-21:00"
+opening_hours: Mo-Fr 04:30-22:00; Sa, Su 06:00-21:00
 website: ""

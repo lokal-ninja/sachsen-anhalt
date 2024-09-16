@@ -4,8 +4,8 @@ latitude: 51.15279
 longitude: 11.81047
 postcode: "06618"
 city: Naumburg (Saale)
-street: "Markt"
-housenumber: 10
-phone: "+49 3445 202009"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,Ph off"
-website: "https://www.sternenbaeck.de/"
+street: Markt
+housenumber: "10"
+phone: +49 3445 202009
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,Ph off
+website: https://www.sternenbaeck.de/

@@ -1,11 +1,11 @@
 id: 256538465
-type: way
+type: node
 latitude: 52.88785
 longitude: 11.75262
 postcode: "39615"
 city: Seehausen
-street: "Lindenstraße"
-housenumber: 1
+street: Lindenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

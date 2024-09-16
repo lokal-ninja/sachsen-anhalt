@@ -1,11 +1,11 @@
 id: 781345886
-type: way
+type: node
 latitude: 52.11473
 longitude: 12.07285
 postcode: "39279"
 city: Möckern
-street: "Münchentor"
-housenumber: 3
+street: Münchentor
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa,Su 13:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00; Sa,Su 13:00-17:00
 website: ""

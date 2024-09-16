@@ -4,8 +4,8 @@ latitude: 51.8381
 longitude: 12.24224
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Johannisstraße"
-housenumber: 15
+street: Johannisstraße
+housenumber: "15"
 phone: "+493402206502"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-18:00"
-website: "https://www.kuechen-design-dessau.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-18:00
+website: https://www.kuechen-design-dessau.de/

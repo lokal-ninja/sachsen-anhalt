@@ -4,8 +4,8 @@ latitude: 51.83548
 longitude: 12.22144
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Kühnauer Straße"
-housenumber: 69
-phone: "+49 340 5412210"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.buch-hein.de/"
+street: Kühnauer Straße
+housenumber: "69"
+phone: +49 340 5412210
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.buch-hein.de/

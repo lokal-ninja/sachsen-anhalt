@@ -4,8 +4,8 @@ latitude: 51.89537
 longitude: 11.05264
 postcode: "38820"
 city: Halberstadt
-street: "Fischmarkt"
-housenumber: 1
+street: Fischmarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-16:00; Su 07:00-10:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-16:00; Su 07:00-10:00
 website: ""

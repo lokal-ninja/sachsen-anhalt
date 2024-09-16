@@ -4,8 +4,8 @@ latitude: 52.1315
 longitude: 11.63409
 postcode: "39104"
 city: Magdeburg
-street: "Ernst-Reuter-Allee"
-housenumber: 20
+street: Ernst-Reuter-Allee
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa,Su 12:00-18:00"
-website: "https://www.mademoiselle-cupcake.de/"
+opening_hours: Tu-Fr 11:00-18:00; Sa,Su 12:00-18:00
+website: https://www.mademoiselle-cupcake.de/

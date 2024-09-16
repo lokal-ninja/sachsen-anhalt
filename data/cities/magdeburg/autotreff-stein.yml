@@ -4,8 +4,8 @@ latitude: 52.08053
 longitude: 11.62515
 postcode: "39120"
 city: Magdeburg
-street: "Carnotstraße"
-housenumber: 23
+street: Carnotstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://www.autotreff-stein.de/"
+website: http://www.autotreff-stein.de/

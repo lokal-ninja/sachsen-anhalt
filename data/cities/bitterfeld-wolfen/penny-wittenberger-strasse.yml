@@ -1,11 +1,11 @@
 id: 346932333
-type: way
+type: node
 latitude: 51.62914
 longitude: 12.33504
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Wittenberger Straße"
-housenumber: 3
+street: Wittenberger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.penny.de/

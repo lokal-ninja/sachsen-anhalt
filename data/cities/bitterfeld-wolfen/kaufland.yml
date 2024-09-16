@@ -1,11 +1,11 @@
 id: 28232427
-type: way
+type: node
 latitude: 51.618
 longitude: 12.31939
 postcode: "06749"
 city: Bitterfeld-Wolfen
-street: "Bismarckstraße"
-housenumber: 39
-phone: "+49 3493 3030"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off"
-website: "https://www.kaufland.de/"
+street: Bismarckstraße
+housenumber: "39"
+phone: +49 3493 3030
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off
+website: https://www.kaufland.de/

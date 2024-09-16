@@ -1,11 +1,11 @@
 id: 1170365331
-type: way
+type: node
 latitude: 52.27212
 longitude: 11.83992
 postcode: "39288"
 city: Burg
-street: "Friedenstraße"
-housenumber: 49
+street: Friedenstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

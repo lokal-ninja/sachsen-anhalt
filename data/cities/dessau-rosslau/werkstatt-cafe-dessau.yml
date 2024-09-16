@@ -1,11 +1,11 @@
 id: 248684499
-type: way
+type: node
 latitude: 51.83903
 longitude: 12.2445
 postcode: "06844"
 city: Dessau-Roßlau
-street: "Ferdinand-von-Schill-Straße"
-housenumber: 3
+street: Ferdinand-von-Schill-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 16:00-19:00"
-website: "http://www.werkstattcafé-dessau.de"
+opening_hours: Mo-Fr 16:00-19:00
+website: http://www.werkstattcafé-dessau.de

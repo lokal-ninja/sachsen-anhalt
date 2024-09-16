@@ -4,8 +4,8 @@ latitude: 51.8404
 longitude: 12.22637
 postcode: "06846"
 city: Dessau-Roßlau
-street: "Gropiusallee"
-housenumber: 50
-phone: "+49 340 66122944"
-opening_hours: "Mo, Tu, Th 09:00-12:00,13:00-18:00; We, Fr 09:00-13:00"
-website: "https://www.der-hoergeraeteladen.de/"
+street: Gropiusallee
+housenumber: "50"
+phone: +49 340 66122944
+opening_hours: Mo, Tu, Th 09:00-12:00,13:00-18:00; We, Fr 09:00-13:00
+website: https://www.der-hoergeraeteladen.de/

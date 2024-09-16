@@ -1,11 +1,11 @@
 id: 98819253
-type: way
+type: node
 latitude: 52.17625
 longitude: 11.74901
 postcode: "39175"
 city: Biederitz
-street: "Breiter Weg"
-housenumber: 23
+street: Breiter Weg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

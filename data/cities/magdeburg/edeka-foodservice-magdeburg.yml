@@ -1,11 +1,11 @@
 id: 423204039
-type: way
+type: node
 latitude: 52.19636
 longitude: 11.6704
 postcode: "39126"
 city: Magdeburg
-street: "Ihleburger Straße"
-housenumber: 6
+street: Ihleburger Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH off
 website: ""

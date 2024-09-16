@@ -1,11 +1,11 @@
 id: 711254589
-type: way
+type: node
 latitude: 51.64607
 longitude: 11.05425
 postcode: "06493"
 city: Harzgerode
-street: "Harzgeröder Straße"
-housenumber: 122
+street: Harzgeröder Straße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-16:30; Sa 08:00-12:00
 website: ""

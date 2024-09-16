@@ -4,8 +4,8 @@ latitude: 51.82021
 longitude: 12.30213
 postcode: "06842"
 city: Dessau-Roßlau
-street: "Am Eichengarten"
-housenumber: 2
+street: Am Eichengarten
+housenumber: "2"
 phone: "+49340218420"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "https://jysk.de/filialen/dessau/am-eichengarten"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: https://jysk.de/filialen/dessau/am-eichengarten

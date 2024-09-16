@@ -4,8 +4,8 @@ latitude: 52.1261
 longitude: 11.61258
 postcode: "39108"
 city: Magdeburg
-street: "Arndtstraße"
-housenumber: 38
-phone: "+49 391 55 80 85 79"
-opening_hours: "Mo-Tu 09:00-18:00, We 12:00-20:00, Th-Fr 09:00-18:00"
-website: "http://www.mirabelle-magdeburg.de"
+street: Arndtstraße
+housenumber: "38"
+phone: +49 391 55 80 85 79
+opening_hours: Mo-Tu 09:00-18:00, We 12:00-20:00, Th-Fr 09:00-18:00
+website: http://www.mirabelle-magdeburg.de

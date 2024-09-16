@@ -1,11 +1,11 @@
 id: 880797674
-type: way
+type: node
 latitude: 52.13051
 longitude: 11.63128
 postcode: "39104"
 city: Magdeburg
-street: "Otto-von-Guericke-Straße"
-housenumber: 11
+street: Otto-von-Guericke-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

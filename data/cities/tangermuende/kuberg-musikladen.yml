@@ -4,8 +4,8 @@ latitude: 52.5385
 longitude: 11.96726
 postcode: "39590"
 city: Tangermünde
-street: "Magdeburger Straße"
-housenumber: 70
-phone: "+49 39322 2808"
-opening_hours: "Mo-Fr 10:00-12:00,15:00-18:00; Sa 10:00-12:00"
-website: "https://musikladen-kuberg.de/"
+street: Magdeburger Straße
+housenumber: "70"
+phone: +49 39322 2808
+opening_hours: Mo-Fr 10:00-12:00,15:00-18:00; Sa 10:00-12:00
+website: https://musikladen-kuberg.de/

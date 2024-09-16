@@ -1,11 +1,11 @@
 id: 671617259
-type: way
+type: node
 latitude: 52.70866
 longitude: 11.20346
 postcode: "38486"
 city: Apenburg-Winterfeld
-street: "Vorderstraße"
-housenumber: 31
-phone: "+49 39001 255"
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00"
+street: Vorderstraße
+housenumber: "31"
+phone: +49 39001 255
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00
 website: ""

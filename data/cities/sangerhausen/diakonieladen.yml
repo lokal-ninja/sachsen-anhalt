@@ -5,7 +5,7 @@ longitude: 11.30239
 postcode: "06526"
 city: Sangerhausen
 street: ""
-housenumber: 4
-phone: "+49 3464 260705"
-opening_hours: "Mo 12:00-17:00; Tu-Fr 10:00-15:00"
-website: "https://www.abi-sangerhausen.de/m/verzeichnis/visitenkarte.php?mandat=7874"
+housenumber: "4"
+phone: +49 3464 260705
+opening_hours: Mo 12:00-17:00; Tu-Fr 10:00-15:00
+website: https://www.abi-sangerhausen.de/m/verzeichnis/visitenkarte.php?mandat=7874

@@ -1,11 +1,11 @@
 id: 1058400061
-type: way
+type: node
 latitude: 51.76458
 longitude: 11.98619
 postcode: "06366"
 city: Köthen (Anhalt)
-street: "Dessauer Straße"
-housenumber: 104
-phone: "+49 3496 218730"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
+street: Dessauer Straße
+housenumber: "104"
+phone: +49 3496 218730
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

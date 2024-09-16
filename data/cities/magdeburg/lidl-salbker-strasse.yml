@@ -1,11 +1,11 @@
 id: 306261367
-type: way
+type: node
 latitude: 52.0979
 longitude: 11.62094
 postcode: "39120"
 city: Magdeburg
-street: "Salbker Straße"
-housenumber: 2
+street: Salbker Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

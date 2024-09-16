@@ -1,11 +1,11 @@
 id: 140834648
-type: way
+type: node
 latitude: 52.08312
 longitude: 11.59285
 postcode: "39118"
 city: Magdeburg
-street: "Am Busch"
-housenumber: 10
+street: Am Busch
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://autoland.de/"
+website: https://autoland.de/

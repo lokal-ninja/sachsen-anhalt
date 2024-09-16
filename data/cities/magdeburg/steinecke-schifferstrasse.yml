@@ -4,8 +4,8 @@ latitude: 52.14259
 longitude: 11.65263
 postcode: "39106"
 city: Magdeburg
-street: "Schifferstraße"
-housenumber: 22
+street: Schifferstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-18:00; Su 07:00-10:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-18:00; Su 07:00-10:00
 website: ""

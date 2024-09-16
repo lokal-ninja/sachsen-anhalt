@@ -4,8 +4,8 @@ latitude: 51.46862
 longitude: 11.27459
 postcode: "06526"
 city: Sangerhausen
-street: "Riethweg"
-housenumber: 14
-phone: "+49 3464 5442610"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://stores.deichmann.com/de-de/de/sachsen-anhalt/sangerhausen/riethweg-14"
+street: Riethweg
+housenumber: "14"
+phone: +49 3464 5442610
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://stores.deichmann.com/de-de/de/sachsen-anhalt/sangerhausen/riethweg-14

@@ -4,8 +4,8 @@ latitude: 52.13497
 longitude: 11.61771
 postcode: "39108"
 city: Magdeburg
-street: "Olvenstedter Straße"
-housenumber: 15
+street: Olvenstedter Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.cactusnet.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.cactusnet.de/

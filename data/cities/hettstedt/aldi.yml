@@ -1,11 +1,11 @@
 id: 195215558
-type: way
+type: node
 latitude: 51.65587
 longitude: 11.49205
 postcode: "06333"
 city: Hettstedt
-street: "Über der Heckerlingsbreite"
-housenumber: 19
+street: Über der Heckerlingsbreite
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

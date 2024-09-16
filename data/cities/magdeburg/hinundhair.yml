@@ -4,8 +4,8 @@ latitude: 52.12631
 longitude: 11.60896
 postcode: "39108"
 city: Magdeburg
-street: "Schellheimerplatz"
-housenumber: 9
-phone: "+49 391 7274865"
-opening_hours: "Sa 09:00-14:00; Tu,Th,Fr 11:00-19:00; We 09:00-16:00"
-website: "http://www.friseurmagdeburghinundhair.de/"
+street: Schellheimerplatz
+housenumber: "9"
+phone: +49 391 7274865
+opening_hours: Sa 09:00-14:00; Tu,Th,Fr 11:00-19:00; We 09:00-16:00
+website: http://www.friseurmagdeburghinundhair.de/

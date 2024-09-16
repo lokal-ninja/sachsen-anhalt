@@ -1,11 +1,11 @@
 id: 640979653
-type: way
+type: node
 latitude: 52.16574
 longitude: 11.48197
 postcode: "39167"
 city: Hohe Börde
-street: "Niederndodeleber Straße"
-housenumber: 2
+street: Niederndodeleber Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

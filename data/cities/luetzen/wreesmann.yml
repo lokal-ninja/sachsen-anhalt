@@ -1,11 +1,11 @@
 id: 39353090
-type: way
+type: node
 latitude: 51.26273
 longitude: 12.14658
 postcode: "06686"
 city: Lützen
-street: "Gustav-Adolf-Straße"
+street: Gustav-Adolf-Straße
 housenumber: 31A
-phone: "+49 34444 428626"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.aktionshaus-wreesmann.de/"
+phone: +49 34444 428626
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.aktionshaus-wreesmann.de/

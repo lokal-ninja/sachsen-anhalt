@@ -1,11 +1,11 @@
 id: 152346033
-type: way
+type: node
 latitude: 51.48576
 longitude: 11.9148
 postcode: "06122"
 city: Halle (Saale)
-street: "Hallesche Straße"
-housenumber: 15
+street: Hallesche Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://autoland.de/"
+website: https://autoland.de/

@@ -4,8 +4,8 @@ latitude: 52.13691
 longitude: 11.63954
 postcode: "39104"
 city: Magdeburg
-street: "Breiter Weg"
-housenumber: 40
+street: Breiter Weg
+housenumber: "40"
 phone: "+493912523402"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "https://reisebuero-am-opernhaus.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: https://reisebuero-am-opernhaus.de

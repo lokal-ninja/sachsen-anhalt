@@ -1,11 +1,11 @@
 id: 292653086
-type: way
+type: node
 latitude: 51.60181
 longitude: 12.30785
 postcode: "06808"
 city: Bitterfeld-Wolfen
-street: "Glück-Auf-Straße"
-housenumber: 26
+street: Glück-Auf-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

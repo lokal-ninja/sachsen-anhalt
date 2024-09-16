@@ -4,8 +4,8 @@ latitude: 52.10962
 longitude: 11.62214
 postcode: "39112"
 city: Magdeburg
-street: "Raiffeisenstraße"
-housenumber: 28
+street: Raiffeisenstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 11:00-20:00; Sa 09:00-14:00"
+opening_hours: Tu,We 09:00-18:00; Th,Fr 11:00-20:00; Sa 09:00-14:00
 website: ""

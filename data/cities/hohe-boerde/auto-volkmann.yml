@@ -1,11 +1,11 @@
 id: 150135979
-type: way
+type: node
 latitude: 52.16492
 longitude: 11.48421
 postcode: "39167"
 city: Hohe Börde
-street: "Helmstedter Straße"
-housenumber: 1
+street: Helmstedter Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

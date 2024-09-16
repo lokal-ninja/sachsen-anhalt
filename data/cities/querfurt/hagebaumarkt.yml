@@ -1,11 +1,11 @@
 id: 150445288
-type: way
+type: node
 latitude: 51.39148
 longitude: 11.60916
 postcode: "06268"
 city: Querfurt
-street: "Döcklitzer Tor"
-housenumber: 42
-phone: "+49 34771 27001"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "http://www.hagebaumarkt-querfurt.de"
+street: Döcklitzer Tor
+housenumber: "42"
+phone: +49 34771 27001
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
+website: http://www.hagebaumarkt-querfurt.de

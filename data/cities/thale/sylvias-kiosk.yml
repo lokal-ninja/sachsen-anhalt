@@ -1,11 +1,11 @@
 id: 230851293
-type: way
+type: node
 latitude: 51.73175
 longitude: 11.08567
 postcode: "06502"
 city: Thale
-street: "Stecklenberger Wurmtal"
+street: Stecklenberger Wurmtal
 housenumber: 31a
-phone: "+49 160 2376451"
-opening_hours: "Mo 17:00-19:30; Tu-Fr 8:00-10:00,16:30-19:30; Sa 08:00-12:30; Su 10:00-12:30"
+phone: +49 160 2376451
+opening_hours: Mo 17:00-19:30; Tu-Fr 8:00-10:00,16:30-19:30; Sa 08:00-12:30; Su 10:00-12:30
 website: ""

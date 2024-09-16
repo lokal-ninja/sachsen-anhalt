@@ -1,11 +1,11 @@
 id: 1204685636
-type: way
+type: node
 latitude: 52.08046
 longitude: 11.63721
 postcode: "39120"
 city: Magdeburg
-street: "Gustav-Ricker-Straße"
-housenumber: 61
+street: Gustav-Ricker-Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/marktsuche/magdeburg.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/marktsuche/magdeburg.jsp

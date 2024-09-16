@@ -1,11 +1,11 @@
 id: 436297591
-type: way
+type: node
 latitude: 51.28631
 longitude: 11.58962
 postcode: "06642"
 city: Nebra (Unstrut)
-street: "Erlenweg"
-housenumber: 3
+street: Erlenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 227398354
-type: way
+type: node
 latitude: 51.90406
 longitude: 11.03926
 postcode: "38820"
 city: Halberstadt
-street: "Wolfsburger Straße"
-housenumber: 1
+street: Wolfsburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

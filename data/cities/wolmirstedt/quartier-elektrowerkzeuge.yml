@@ -4,8 +4,8 @@ latitude: 52.23749
 longitude: 11.61996
 postcode: "39326"
 city: Wolmirstedt
-street: "Magdeburger Straße"
-housenumber: 8
-phone: "+49 039201 22614"
-opening_hours: "Mo-Th 09:00-12:00, 13:00-18:00; Fr 09:00-12:00, 13:00-16:00"
-website: "https://elektrowerkzeuge-wms.de/"
+street: Magdeburger Straße
+housenumber: "8"
+phone: +49 039201 22614
+opening_hours: Mo-Th 09:00-12:00, 13:00-18:00; Fr 09:00-12:00, 13:00-16:00
+website: https://elektrowerkzeuge-wms.de/

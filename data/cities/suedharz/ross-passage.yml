@@ -1,11 +1,11 @@
 id: 220141743
-type: way
+type: node
 latitude: 51.4628
 longitude: 11.07096
 postcode: "06536"
 city: Südharz
-street: "Hallesche Straße"
-housenumber: 69
+street: Hallesche Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "http://www.rosspassage.de"
+website: http://www.rosspassage.de

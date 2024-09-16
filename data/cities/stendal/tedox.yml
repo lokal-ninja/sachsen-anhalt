@@ -1,11 +1,11 @@
 id: 381206380
-type: way
+type: node
 latitude: 52.61003
 longitude: 11.84061
 postcode: "39576"
 city: Stendal
-street: "Gneisenaustraße"
+street: Gneisenaustraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"
-website: "https://tedox.de/"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00
+website: https://tedox.de/

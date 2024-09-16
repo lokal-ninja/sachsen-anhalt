@@ -1,11 +1,11 @@
 id: 272968113
-type: way
+type: node
 latitude: 52.31134
 longitude: 11.0571
 postcode: "39356"
 city: Oebisfelde-Weferlingen
-street: "An der Burg"
-housenumber: 4
+street: An der Burg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 07:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00, Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 391368495
-type: way
+type: node
 latitude: 52.15657
 longitude: 11.6267
 postcode: "39128"
 city: Magdeburg
-street: "Thietmarstraße"
-housenumber: 17
-phone: "+49 391 2544425"
-opening_hours: "Mo-Th 08:00-18:00, Fr 08:00-16:30, Sa,Su off; PH off"
-website: "https://exakt-autoglas-magdeburg.de/"
+street: Thietmarstraße
+housenumber: "17"
+phone: +49 391 2544425
+opening_hours: Mo-Th 08:00-18:00, Fr 08:00-16:30, Sa,Su off; PH off
+website: https://exakt-autoglas-magdeburg.de/

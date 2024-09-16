@@ -1,11 +1,12 @@
 id: 243930159
-type: way
+type: node
 latitude: 51.53768
 longitude: 12.15631
 postcode: "06188"
 city: Landsberg
-street: "Zörbiger Straße"
-housenumber: 8
-phone: "+49 34602 302-0"
-opening_hours: "Nov-Mar Mo-Th 07:00-17:00; Nov-Mar Fr 07:00-16:00; Apr-Oct Mo-Th 06:00-17:00; Apr-Oct Fr 06:00-16:30"
-website: "http://www.melle.de"
+street: Zörbiger Straße
+housenumber: "8"
+phone: +49 34602 302-0
+opening_hours: Nov-Mar Mo-Th 07:00-17:00; Nov-Mar Fr 07:00-16:00; Apr-Oct Mo-Th 06:00-17:00;
+    Apr-Oct Fr 06:00-16:30
+website: http://www.melle.de

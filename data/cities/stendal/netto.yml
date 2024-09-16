@@ -1,11 +1,11 @@
 id: 93273418
-type: way
+type: node
 latitude: 52.60227
 longitude: 11.84765
 postcode: "39576"
 city: Stendal
-street: "Stadtseeallee"
-housenumber: 31
+street: Stadtseeallee
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto.de/
