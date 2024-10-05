@@ -1,6 +1,6 @@
 ---
 title: Dessau-Roßlau
 url: /dessau-rosslau/
-latitude: 51.835
-longitude: 12.228
+latitude: 51.822
+longitude: 12.219
 ---

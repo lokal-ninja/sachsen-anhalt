@@ -1,5 +1,5 @@
 ---
 title: "Nice Grow e.K."
 url: /magdeburg/nice-grow-e-k/
-shop: Landwirtschaftlich
+shop: Garten-Center
 ---
