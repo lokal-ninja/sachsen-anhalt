@@ -1,6 +1,6 @@
 ---
 title: Ditfurt
 url: /ditfurt/
-latitude: 51.834
-longitude: 11.196
+latitude: 51.821
+longitude: 11.217
 ---

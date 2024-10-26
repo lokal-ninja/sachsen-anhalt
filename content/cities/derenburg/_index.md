@@ -1,6 +1,6 @@
 ---
 title: Derenburg
 url: /derenburg/
-latitude: 51.87
-longitude: 10.912
+latitude: 51.868
+longitude: 10.903
 ---
