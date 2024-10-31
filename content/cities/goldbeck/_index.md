@@ -1,6 +1,6 @@
 ---
 title: Goldbeck
 url: /goldbeck/
-latitude: 52.713
-longitude: 11.866
+latitude: 52.716
+longitude: 11.864
 ---
