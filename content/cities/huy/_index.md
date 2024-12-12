@@ -1,6 +1,6 @@
 ---
 title: Huy
 url: /huy/
-latitude: 52.013
-longitude: 11.032
+latitude: 51.979
+longitude: 10.981
 ---
