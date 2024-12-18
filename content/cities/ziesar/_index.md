@@ -1,6 +1,6 @@
 ---
 title: Ziesar
 url: /ziesar/
-latitude: 52.269
-longitude: 12.283
+latitude: 52.252
+longitude: 12.264
 ---

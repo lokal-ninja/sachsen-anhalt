@@ -1,6 +1,6 @@
 ---
 title: Möckern
 url: /moeckern/
-latitude: 52.141
-longitude: 11.953
+latitude: 52.155
+longitude: 11.949
 ---

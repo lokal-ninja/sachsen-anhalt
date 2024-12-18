@@ -1,6 +1,6 @@
 ---
 title: Bismark (Altmark)
 url: /bismark-altmark/
-latitude: 52.658
-longitude: 11.549
+latitude: 52.623
+longitude: 11.774
 ---
