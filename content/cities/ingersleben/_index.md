@@ -1,6 +1,6 @@
 ---
 title: Ingersleben
 url: /ingersleben/
-latitude: 52.209
-longitude: 11.133
+latitude: 52.216
+longitude: 11.142
 ---
