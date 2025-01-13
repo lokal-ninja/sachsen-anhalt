@@ -1,6 +1,6 @@
 ---
 title: Zehrental
 url: /zehrental/
-latitude: 52.902
-longitude: 11.653
+latitude: 52.931
+longitude: 11.612
 ---

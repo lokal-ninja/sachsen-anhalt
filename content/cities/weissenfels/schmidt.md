@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /weissenfels/schmidt/
-shop: Kleidung
+shop: Lebensmittel
 ---
