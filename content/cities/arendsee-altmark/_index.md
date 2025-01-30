@@ -1,6 +1,6 @@
 ---
 title: Arendsee (Altmark)
 url: /arendsee-altmark/
-latitude: 52.871
-longitude: 11.617
+latitude: 52.883
+longitude: 11.502
 ---

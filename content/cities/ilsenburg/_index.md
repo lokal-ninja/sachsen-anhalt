@@ -1,6 +1,6 @@
 ---
 title: Ilsenburg
 url: /ilsenburg/
-latitude: 51.867
-longitude: 10.688
+latitude: 51.851
+longitude: 10.737
 ---
