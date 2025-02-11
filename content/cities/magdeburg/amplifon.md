@@ -1,5 +1,5 @@
 ---
-title: "amplifon"
+title: "Amplifon"
 url: /magdeburg/amplifon/
 shop: Hörgeräte
 ---

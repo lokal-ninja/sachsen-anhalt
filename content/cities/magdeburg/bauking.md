@@ -1,5 +1,5 @@
 ---
-title: "Bauking"
+title: "BAUKING"
 url: /magdeburg/bauking/
-shop: Baustoffe
+shop: Baumarkt
 ---
