@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Düsedau"
-url: /colbitz/baeckerei-duesedau-lindenstrasse/
+url: /colbitz/baeckerei-duesedau-marktplatz/
 shop: Bäckerei
 ---
