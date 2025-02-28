@@ -1,6 +1,6 @@
 ---
 title: Hettstedt
 url: /hettstedt/
-latitude: 51.641
-longitude: 11.486
+latitude: 51.637
+longitude: 11.511
 ---

@@ -2,5 +2,5 @@
 title: Thale
 url: /thale/
 latitude: 51.749
-longitude: 11.051
+longitude: 11.048
 ---
