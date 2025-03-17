@@ -7,5 +7,5 @@ city: Burg
 street: Schartauer Straße
 housenumber: "13"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Fr 08:30-16:00; We,Th 08:30-17:00
 website: ""
