@@ -1,6 +1,6 @@
 ---
 title: Kalbe (Milde)
 url: /kalbe-milde/
-latitude: 52.755
-longitude: 11.503
+latitude: 52.669
+longitude: 11.279
 ---
