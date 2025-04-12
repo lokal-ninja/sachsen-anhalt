@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /magdeburg/kaufland-zum-handelshof/
+url: /magdeburg/kaufland-zur-viehboerse/
 shop: Supermarkt
 ---
