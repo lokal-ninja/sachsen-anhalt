@@ -1,6 +1,6 @@
 ---
 title: Hecklingen
 url: /hecklingen/
-latitude: 51.889
-longitude: 11.447
+latitude: 51.847
+longitude: 11.533
 ---
