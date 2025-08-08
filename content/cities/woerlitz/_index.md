@@ -1,6 +1,6 @@
 ---
 title: Wörlitz
 url: /woerlitz/
-latitude: 51.842
-longitude: 12.422
+latitude: 51.843
+longitude: 12.419
 ---

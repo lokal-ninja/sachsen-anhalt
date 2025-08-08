@@ -1,6 +1,6 @@
 ---
 title: Arnstein
 url: /arnstein/
-latitude: 51.677
-longitude: 11.568
+latitude: 51.659
+longitude: 11.355
 ---
