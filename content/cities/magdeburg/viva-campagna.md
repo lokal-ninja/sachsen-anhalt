@@ -1,5 +1,5 @@
 ---
 title: "Viva Campagna"
 url: /magdeburg/viva-campagna/
-shop: Möbel
+shop: Raumausstattung
 ---
