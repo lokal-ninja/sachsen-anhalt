@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /stendal/np-preussenstrasse/
+url: /stendal/np-moltkestrasse/
 shop: Supermarkt
 ---
