@@ -1,5 +1,5 @@
 ---
 title: "LKW-Werkstatt"
 url: /halle-saale/lkw-werkstatt/
-shop: Autowerkstatt
+shop: Allgemein
 ---
