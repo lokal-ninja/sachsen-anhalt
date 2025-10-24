@@ -1,6 +1,6 @@
 ---
 title: Zerbst/Anhalt
 url: /zerbst-anhalt/
-latitude: 51.953
-longitude: 12.103
+latitude: 51.965
+longitude: 12.092
 ---
