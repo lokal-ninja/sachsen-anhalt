@@ -7,6 +7,6 @@ city: Barleben
 street: Lange Straße
 housenumber: "9"
 phone: ""
-opening_hours: Tu,We 08:00-13:00,15:00-18:00; Th,Fr 08:00-18:00; Sa 07:00-10:00; Mo,Su,PH
-    off
-website: ""
+opening_hours: Tu 08:00-13:00,15:00-18:00; We 08:00-13:00; Th,Fr 08:00-17:00; Sa 07:00-10:00;
+    Mo,Su,PH off
+website: https://baeckerei-moehring.de/
