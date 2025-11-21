@@ -1,6 +1,6 @@
 ---
 title: Magdeburg
 url: /magdeburg/
-latitude: 52.084
-longitude: 11.599
+latitude: 52.154
+longitude: 11.638
 ---

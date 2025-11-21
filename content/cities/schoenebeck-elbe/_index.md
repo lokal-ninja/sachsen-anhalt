@@ -1,6 +1,6 @@
 ---
 title: Schönebeck (Elbe)
 url: /schoenebeck-elbe/
-latitude: 52.015
-longitude: 11.718
+latitude: 51.997
+longitude: 11.725
 ---

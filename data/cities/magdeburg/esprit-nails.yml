@@ -7,5 +7,5 @@ city: Magdeburg
 street: Crucigerstraße
 housenumber: "24"
 phone: +49 391 5449675
-opening_hours: Mo-Fr 08:30-19:00
+opening_hours: Mo-Fr 08:00-19:00; Sa,Su,PH off
 website: ""
