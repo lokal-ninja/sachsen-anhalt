@@ -1,5 +1,0 @@
----
-title: "Ihr Friseur Dessau GmbH"
-url: /dessau-rosslau/ihr-friseur-dessau-gmbh-kreuzbergstrasse/
-shop: Friseur
----

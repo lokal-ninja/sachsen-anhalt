@@ -1,5 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /bitterfeld-wolfen/edeka/
 shop: Supermarkt
 ---

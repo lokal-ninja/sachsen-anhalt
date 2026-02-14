@@ -1,6 +1,6 @@
 ---
 title: Mansfeld
 url: /mansfeld/
-latitude: 51.565
-longitude: 11.35
+latitude: 51.614
+longitude: 11.494
 ---
