@@ -1,6 +1,6 @@
 ---
 title: Osterfeld
 url: /osterfeld/
-latitude: 51.04
-longitude: 11.938
+latitude: 51.045
+longitude: 11.948
 ---
