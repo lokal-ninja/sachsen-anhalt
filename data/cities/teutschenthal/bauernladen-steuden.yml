@@ -7,5 +7,6 @@ city: Teutschenthal
 street: Neue Straße
 housenumber: "3"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We 08:30-12:30,13:00-15:00; Th 08:30-12:30,13:00-16:30; Fr 08:30-13:00;
+    Sa 08:30-10:00; Su,PH off
 website: ""
