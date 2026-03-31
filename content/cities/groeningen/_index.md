@@ -1,6 +1,6 @@
 ---
 title: Gröningen
 url: /groeningen/
-latitude: 51.977
-longitude: 11.177
+latitude: 51.941
+longitude: 11.222
 ---

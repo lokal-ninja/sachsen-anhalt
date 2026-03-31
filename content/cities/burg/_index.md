@@ -1,6 +1,6 @@
 ---
 title: Burg
 url: /burg/
-latitude: 52.271
-longitude: 11.851
+latitude: 52.258
+longitude: 11.844
 ---

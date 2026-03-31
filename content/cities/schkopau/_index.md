@@ -1,6 +1,6 @@
 ---
 title: Schkopau
 url: /schkopau/
-latitude: 51.423
-longitude: 11.935
+latitude: 51.414
+longitude: 11.946
 ---
