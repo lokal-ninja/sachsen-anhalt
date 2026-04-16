@@ -1,6 +1,6 @@
 ---
 title: Braunsbedra
 url: /braunsbedra/
-latitude: 51.292
-longitude: 11.941
+latitude: 51.291
+longitude: 11.935
 ---
