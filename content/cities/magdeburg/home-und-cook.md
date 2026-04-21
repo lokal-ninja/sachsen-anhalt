@@ -1,5 +1,5 @@
 ---
-title: "Home & cook"
+title: "Home & Cook"
 url: /magdeburg/home-und-cook/
-shop: Gebrauchtwaren
+shop: Küchen
 ---
