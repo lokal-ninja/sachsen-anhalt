@@ -1,5 +1,5 @@
 ---
-title: "pitstop"
+title: "Pitstop"
 url: /magdeburg/pitstop/
 shop: Autowerkstatt
 ---

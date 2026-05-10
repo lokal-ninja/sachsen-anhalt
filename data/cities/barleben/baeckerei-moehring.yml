@@ -1,12 +1,12 @@
 id: 1233371334
 type: node
-latitude: 52.20982
-longitude: 11.5634
+latitude: 52.20981
+longitude: 11.56343
 postcode: "39179"
 city: Barleben
 street: Lange Straße
 housenumber: "9"
 phone: ""
-opening_hours: Tu 08:00-13:00,15:00-18:00; We 08:00-13:00; Th,Fr 08:00-17:00; Sa 07:00-10:00;
+opening_hours: Tu 08:00-16:00; We 08:00-13:00; Th,Fr 08:00-17:00; Sa 07:00-10:00;
     Mo,Su,PH off
-website: https://baeckerei-moehring.de/
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Blankenburg (Harz)
 url: /blankenburg-harz/
-latitude: 51.807
-longitude: 10.94
+latitude: 51.79
+longitude: 10.957
 ---
