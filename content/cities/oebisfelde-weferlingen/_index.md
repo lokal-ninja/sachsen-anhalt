@@ -1,6 +1,6 @@
 ---
 title: Oebisfelde-Weferlingen
 url: /oebisfelde-weferlingen/
-latitude: 52.434
-longitude: 10.988
+latitude: 52.429
+longitude: 10.993
 ---
