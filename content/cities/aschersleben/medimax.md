@@ -1,5 +1,5 @@
 ---
-title: "MediMax"
+title: "Medimax"
 url: /aschersleben/medimax/
 shop: Elektronik
 ---

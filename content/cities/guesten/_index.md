@@ -1,6 +1,6 @@
 ---
 title: Güsten
 url: /guesten/
-latitude: 51.787
-longitude: 11.607
+latitude: 51.801
+longitude: 11.619
 ---
