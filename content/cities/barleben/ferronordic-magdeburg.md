@@ -1,5 +1,5 @@
 ---
 title: "Ferronordic Magdeburg"
 url: /barleben/ferronordic-magdeburg/
-shop: Allgemein
+shop: Autowerkstatt
 ---
