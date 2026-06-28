@@ -1,5 +1,5 @@
 ---
-title: "La Rosé"
+title: "La Rose"
 url: /genthin/la-rose/
 shop: Blumen
 ---

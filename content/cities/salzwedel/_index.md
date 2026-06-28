@@ -1,6 +1,6 @@
 ---
 title: Salzwedel
 url: /salzwedel/
-latitude: 52.844
-longitude: 11.169
+latitude: 52.852
+longitude: 11.165
 ---
