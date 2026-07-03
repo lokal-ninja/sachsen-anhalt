@@ -1,5 +1,5 @@
 ---
-title: "Avec"
+title: "avec"
 url: /wittenberge/avec/
-shop: Kiosk
+shop: Lebensmittel
 ---

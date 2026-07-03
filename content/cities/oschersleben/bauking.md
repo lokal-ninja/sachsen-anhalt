@@ -1,5 +1,5 @@
 ---
-title: "Bauking"
+title: "BAUKING"
 url: /oschersleben/bauking/
-shop: Baustoffe
+shop: Baumarkt
 ---
