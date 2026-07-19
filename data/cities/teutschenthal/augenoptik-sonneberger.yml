@@ -7,5 +7,6 @@ city: Teutschenthal
 street: Poststraße
 housenumber: "2"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr ß9:30-12:30,14:00-18:00; Sa 09:30-12:00; We,Su,PH off
+opening_hours: Mo 10:00-13:00; Tu,Fr 10:00-13:00,14:00-17:00; Th 10:00-13:00,14:00-18:00;
+    Sa 09:30-12:00; We,Su,PH off
 website: ""
