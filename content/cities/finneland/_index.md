@@ -1,6 +1,6 @@
 ---
 title: Finneland
 url: /finneland/
-latitude: 51.214
-longitude: 11.527
+latitude: 51.213
+longitude: 11.523
 ---
