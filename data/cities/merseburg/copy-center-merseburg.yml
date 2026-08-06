@@ -7,5 +7,6 @@ city: Merseburg
 street: Geusaer Straße
 housenumber: 81A
 phone: +49 3461506956
-opening_hours: Mo-We 09:00-15:00; Th 09:00-17:00; Fr 09:00-13:00
+opening_hours: Mo-Th 09:00-12:00, Th 12:30-17:00, Fr 09:00-13:00, Mo-We 12:30-15:00;
+    Sa,Su off
 website: https://www.copycenter-merseburg.com/
