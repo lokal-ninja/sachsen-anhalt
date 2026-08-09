@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /hettstedt/lidl-doktorsteg/
+url: /hettstedt/lidl-kaemmritzer-weg/
 shop: Supermarkt
 ---
