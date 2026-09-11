@@ -1,6 +1,6 @@
 ---
 title: Klietz
 url: /klietz/
-latitude: 52.667
-longitude: 12.07
+latitude: 52.665
+longitude: 12.066
 ---

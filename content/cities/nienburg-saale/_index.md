@@ -1,6 +1,6 @@
 ---
 title: Nienburg (Saale)
 url: /nienburg-saale/
-latitude: 51.838
-longitude: 11.761
+latitude: 51.837
+longitude: 11.767
 ---

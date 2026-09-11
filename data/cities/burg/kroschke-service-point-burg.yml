@@ -7,5 +7,6 @@ city: Burg
 street: In der Alten Kaserne
 housenumber: "8"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 08:30-12:00; Tu 08:30-12:00,13:00-16:00; We off; Th 08:30-12:00,13:00-17:00;
+    Fr 08:30-12:00; Sa off; Su off
 website: ""
