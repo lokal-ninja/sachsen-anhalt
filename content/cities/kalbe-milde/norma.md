@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /kalbe-milde/norma/
 shop: Supermarkt
 ---
