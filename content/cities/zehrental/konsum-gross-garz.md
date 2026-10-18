@@ -1,5 +1,5 @@
 ---
-title: "Konsum Groß Garz"
+title: "Konsum Groß-Garz"
 url: /zehrental/konsum-gross-garz/
-shop: Supermarkt
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
-title: "OLLI Autohandel"
+title: "Olli Autohandel"
 url: /magdeburg/olli-autohandel/
 shop: Autohaus
 ---
