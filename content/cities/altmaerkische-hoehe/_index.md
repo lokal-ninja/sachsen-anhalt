@@ -1,6 +1,6 @@
 ---
 title: Altmärkische Höhe
 url: /altmaerkische-hoehe/
-latitude: 52.826
-longitude: 11.6
+latitude: 52.788
+longitude: 11.539
 ---
