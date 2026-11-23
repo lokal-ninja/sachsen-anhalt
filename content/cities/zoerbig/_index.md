@@ -1,6 +1,6 @@
 ---
 title: Zörbig
 url: /zoerbig/
-latitude: 51.695
-longitude: 12.173
+latitude: 51.617
+longitude: 12.039
 ---
